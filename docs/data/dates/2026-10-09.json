@@ -7,7 +7,8 @@
     "published_at": "2026-10-09 18:16",
     "summary": "・山梨日日新聞社のホームページです。\n・山梨の主要、各地、経済、スポーツ、おくやみなどの最新ニュースをはじめ、全国のニュースもご覧いただけます。\n・統一地方選の開票速報や高校野球の速報も行います。",
     "summary_type": "auto",
-    "category": "建築・木材利用"
+    "category": "建築・木材利用",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -17,7 +18,15 @@
     "published_at": "2026-10-09 18:04",
     "summary": "・三菱地所（株）、高島（株）、MEC Industry（株）は8日、共同開発した国産木材のCLTパネルを活用した柱保護根巻「KiNEMAKI（キネマキ）」の販売を開始した。\n・物流施設等の鉄骨柱をフォークリフトなどの接触から保護するための柱脚部部材。",
     "summary_type": "auto",
-    "category": "林政・施策"
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "三菱地所など3社、国産CLT材使用の柱保護根巻き 施工期間短縮",
+        "url": "https://www.nikkei.com/article/DGXZQOMG00001_Z01C26A0000000/",
+        "source": "日本経済新聞",
+        "published_at": "2026-10-09 09:46"
+      }
+    ]
   },
   {
     "article_date": "2026-10-09",
@@ -27,7 +36,8 @@
     "published_at": "2026-10-09 16:00",
     "summary": "・製材・建築の丸大製材所（美作市朽木）は、岡山工業高（岡山市北区伊福町）の生徒が考案した多機能木製ベンチを改良し、製品化した。",
     "summary_type": "auto",
-    "category": "建築・木材利用"
+    "category": "建築・木材利用",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -37,7 +47,19 @@
     "published_at": "2026-10-09 16:00",
     "summary": "・æ¬æã¸ã¸ã£ã³ã。\n・è¨èªé¸æ。\n・Choose your language option。",
     "summary_type": "auto",
-    "category": "林政・施策"
+    "category": "林政・施策",
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-09",
+    "title": "市民税・県民税・森林環境税（住民税）に関する公示送達について",
+    "url": "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/juminzeika/25965.html",
+    "source": "八戸市",
+    "published_at": "2026-10-09 16:00",
+    "summary": "・ç¾å¨ã®ä½ç½®。\n・ã²ã¨ã»ç£æ¥­ã»æåãè¼ãåã®åµé é½å¸。\n・çµç¹ããæ¢ã。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -47,7 +69,8 @@
     "published_at": "2026-10-09 16:00",
     "summary": "・製材メーカーの院庄林業（津山市二宮）は、丸太を角材や板材に加工している久米工場（同市くめ）の生産ラインを刷新する。\n・製造能力や生産性を高...。",
     "summary_type": "auto",
-    "category": "流通・市場"
+    "category": "流通・市場",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -57,7 +80,8 @@
     "published_at": "2026-10-09 15:59",
     "summary": "・住友林業(株)【1911】のAI値動き解説をご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
     "summary_type": "auto",
-    "category": "流通・市場"
+    "category": "流通・市場",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -67,17 +91,8 @@
     "published_at": "2026-10-09 11:00",
     "summary": "・株式会社バイウィルのプレスリリース（2026年10月9日 11時00分）バイウィル、東城町森林組合・備福通信・中国銀行との「地域GX座談会」記事を公開。",
     "summary_type": "auto",
-    "category": "林政・施策"
-  },
-  {
-    "article_date": "2026-10-09",
-    "title": "三菱地所など3社、国産CLT材使用の柱保護根巻き 施工期間短縮",
-    "url": "https://www.nikkei.com/article/DGXZQOMG00001_Z01C26A0000000/",
-    "source": "日本経済新聞",
-    "published_at": "2026-10-09 09:46",
-    "summary": "・三菱地所、高島、MEC Industry（鹿児島県湧水町）の3社は、国産CLT材を活用した柱保護の根巻き「KiNEMAKI（キネマキ）」を共同開発したと発表した。\n・8日から販売を開始した。\n・キネマキは物流施設などの鉄骨柱をフォークリフトなどとの接触から保護する。",
-    "summary_type": "auto",
-    "category": "建築・木材利用"
+    "category": "林政・施策",
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -87,6 +102,7 @@
     "published_at": "2026-10-09 05:00",
     "summary": "・２０２８年３月をめどに富山市産材を使用して整備される富山森林…。",
     "summary_type": "auto",
-    "category": "スマート林業・技術"
+    "category": "スマート林業・技術",
+    "related_articles": []
   }
 ]

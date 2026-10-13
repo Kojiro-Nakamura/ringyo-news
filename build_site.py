@@ -7,6 +7,7 @@ from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Optional, Tuple, Any
 
+from difflib import SequenceMatcher
 import feedparser
 import requests
 from bs4 import BeautifulSoup
@@ -214,6 +215,67 @@ def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]
         "category": category
     }
 
+def clean_title_for_clustering(title: str) -> str:
+    """タイトルの記号やメディア表記を除去して比較用文字列を作成"""
+    t = re.sub(r'[\(（【\[].*?[\)）】\]]', '', title)
+    t = re.sub(r'\s*-\s*[^-]+$', '', t)
+    t = re.sub(r'\s*\|\s*[^|]+$', '', t)
+    t = re.sub(r'[「」『』【】（）()・…、。！？!?\s]', '', t)
+    return t
+
+def extract_title_keywords(title: str) -> set:
+    """タイトルから2文字以上の重要キーワードを抽出"""
+    words = set(re.findall(r'[\u4e00-\u9fa5]{2,}|[\u30a1-\u30f6]{2,}|[A-Za-z0-9]{2,}', title))
+    stopwords = {"ニュース", "詳細", "放送", "速報", "今日", "昨日", "全国", "日本", "株式会社", "有限会社"}
+    return words - stopwords
+
+def are_articles_same_topic(a1: dict, a2: dict) -> bool:
+    """2つの記事が同一の林業・木材産業トピックを報じているか判定"""
+    t1 = clean_title_for_clustering(a1.get('title', ''))
+    t2 = clean_title_for_clustering(a2.get('title', ''))
+    
+    if t1 and t2 and (t1 in t2 or t2 in t1):
+        return True
+        
+    ratio = SequenceMatcher(None, t1, t2).ratio()
+    if ratio >= 0.50:
+        return True
+        
+    kw1 = extract_title_keywords(a1.get('title', ''))
+    kw2 = extract_title_keywords(a2.get('title', ''))
+    common = kw1 & kw2
+    if len(common) >= 3:
+        return True
+        
+    return False
+
+def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """同じトピックの記事を1つの代表記事にまとめ、他を related_articles に格納"""
+    clusters: List[Dict[str, Any]] = []
+    for item in articles:
+        existing_related = item.pop("related_articles", [])
+        candidates = [item] + existing_related
+        
+        for cand in candidates:
+            matched = False
+            for group in clusters:
+                if are_articles_same_topic(group, cand):
+                    urls = {group.get("url")} | {r.get("url") for r in group.get("related_articles", [])}
+                    if cand.get("url") not in urls:
+                        group.setdefault("related_articles", []).append({
+                            "title": cand.get("title"),
+                            "url": cand.get("url"),
+                            "source": cand.get("source"),
+                            "published_at": cand.get("published_at")
+                        })
+                    matched = True
+                    break
+            if not matched:
+                cand["related_articles"] = []
+                clusters.append(cand)
+                
+    return clusters
+
 def build_static_site():
     print("=== 全国の林業・木材産業デイリーニュース 構築開始 ===")
     os.makedirs(DATES_DIR, exist_ok=True)
@@ -288,17 +350,21 @@ def build_static_site():
     all_articles_index = []
 
     for d in sorted(articles_by_date.keys(), reverse=True):
-        items = articles_by_date[d]
-        items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+        raw_items = articles_by_date[d]
+        raw_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+        # 同一トピックの記事をグルーピング
+        items = cluster_articles(raw_items)
         
         date_file = os.path.join(DATES_DIR, f"{d}.json")
         with open(date_file, "w", encoding="utf-8") as f:
             json.dump(items, f, ensure_ascii=False, indent=2)
             
-        total_articles += len(items)
+        # 記事総数（関連報道含む）
+        day_total = sum(1 + len(x.get("related_articles", [])) for x in items)
+        total_articles += day_total
         date_list.append({
             "article_date": d,
-            "count": len(items)
+            "count": len(items)  # 表示されるトピック数
         })
         
         for item in items:

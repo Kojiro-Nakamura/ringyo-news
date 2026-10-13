@@ -7,7 +7,8 @@
     "published_at": "2026-09-25 16:00",
     "summary": "・ãã¼ã¸ã®åé ­ã§ãã。\n・ãã®ãã¼ã¸ã®æ¬æã¸。\n・ã¡ãã¥ã¼。",
     "summary_type": "auto",
-    "category": "業界・一般"
+    "category": "業界・一般",
+    "related_articles": []
   },
   {
     "article_date": "2026-09-25",
@@ -17,7 +18,8 @@
     "published_at": "2026-09-25 16:00",
     "summary": "・株式会社プライムハウスのプレスリリース（2026年9月25日 16時12分）【東北初】ハイブリット構法CLT秋田、プライムハウスが販売開始。",
     "summary_type": "auto",
-    "category": "建築・木材利用"
+    "category": "建築・木材利用",
+    "related_articles": []
   },
   {
     "article_date": "2026-09-25",
@@ -27,6 +29,7 @@
     "published_at": "2026-09-25 16:00",
     "summary": "・東京都産業労働局の森林環境税及び森林環境譲与税について(森林計画・審議会・施策・統計・お知らせ)のページです。",
     "summary_type": "auto",
-    "category": "林政・施策"
+    "category": "林政・施策",
+    "related_articles": []
   }
 ]

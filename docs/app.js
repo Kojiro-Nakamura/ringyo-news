@@ -298,6 +298,51 @@ function renderArticleCard(a) {
         </ul>
       </div>
 
+      <!-- 関連報道（同一トピック）のアコーディオン -->
+      ${a.related_articles && a.related_articles.length > 0 ? `
+        <div class="pt-3 border-t border-slate-100">
+          <button 
+            type="button"
+            onclick="toggleRelated(this)" 
+            class="w-full flex items-center justify-between py-2 px-3.5 rounded-xl bg-emerald-50/70 hover:bg-emerald-100/80 border border-emerald-200/70 text-xs text-emerald-950 font-medium transition-all group"
+          >
+            <span class="flex items-center gap-2">
+              <span class="flex items-center justify-center w-5 h-5 rounded-md bg-emerald-200 text-emerald-800 text-[10px] font-bold font-en">
+                +${a.related_articles.length}
+              </span>
+              <span class="font-bold">他 ${a.related_articles.length} 社の同一トピック報道（${a.related_articles.map(r => escapeHtml(r.source)).slice(0, 3).join(', ')}${a.related_articles.length > 3 ? ' 等' : ''}）</span>
+            </span>
+            <span class="text-[11px] text-emerald-700 font-semibold flex items-center gap-1">
+              <span class="toggle-label">開く</span>
+              <i data-lucide="chevron-down" class="w-3.5 h-3.5 transition-transform duration-200 chevron-icon"></i>
+            </span>
+          </button>
+          <div class="related-articles-list hidden space-y-2 mt-2.5 pt-1 px-1">
+            ${a.related_articles.map(r => `
+              <a 
+                href="${escapeHtml(r.url)}" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="flex items-center justify-between p-2.5 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200/60 hover:border-emerald-200 transition-all text-xs group/item"
+              >
+                <div class="flex items-center gap-2 min-w-0 pr-2">
+                  <span class="px-2 py-0.5 rounded-md bg-white border border-slate-200 text-slate-700 text-[10px] font-semibold shrink-0">
+                    ${escapeHtml(r.source || '配信元')}
+                  </span>
+                  <span class="text-slate-700 group-hover/item:text-emerald-700 font-medium truncate">
+                    ${escapeHtml(r.title)}
+                  </span>
+                </div>
+                <span class="text-[11px] text-slate-400 group-hover/item:text-emerald-700 shrink-0 flex items-center gap-0.5 font-medium">
+                  <span>元記事</span>
+                  <i data-lucide="arrow-up-right" class="w-3 h-3"></i>
+                </span>
+              </a>
+            `).join('')}
+          </div>
+        </div>
+      ` : ''}
+
       <!-- 下部アクション: 元記事リンク -->
       <div class="flex items-center justify-between pt-1">
         <div class="text-[11px] text-slate-400">
@@ -317,6 +362,24 @@ function renderArticleCard(a) {
     </article>
   `;
 }
+
+// 関連報道アコーディオンの開閉
+window.toggleRelated = function(btn) {
+  const container = btn.nextElementSibling;
+  const chevron = btn.querySelector('.chevron-icon');
+  const label = btn.querySelector('.toggle-label');
+  const isHidden = container.classList.contains('hidden');
+  
+  if (isHidden) {
+    container.classList.remove('hidden');
+    chevron.classList.add('rotate-180');
+    label.textContent = '閉じる';
+  } else {
+    container.classList.add('hidden');
+    chevron.classList.remove('rotate-180');
+    label.textContent = '開く';
+  }
+};
 
 function formatDisplayDate(dateStr) {
   if (!dateStr) return '';
