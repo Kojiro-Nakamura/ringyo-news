@@ -274,9 +274,11 @@ function renderArticleCard(a) {
       </div>
 
       <!-- 記事タイトル -->
-      <h3 class="text-base sm:text-lg font-bold leading-snug cursor-pointer hover:underline decoration-emerald-500 underline-offset-4">
-        ${escapeHtml(a.title)}
-      </h3>
+      <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer" class="block group/title">
+        <h3 class="text-base sm:text-lg font-bold leading-snug group-hover/title:text-emerald-700 hover:underline decoration-emerald-500 underline-offset-4 transition-colors">
+          ${escapeHtml(a.title)}
+        </h3>
+      </a>
 
       <!-- 30秒要約ボックス -->
       <div class="summary-box p-4 rounded-xl space-y-2">
