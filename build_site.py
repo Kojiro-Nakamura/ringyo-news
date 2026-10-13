@@ -1,0 +1,326 @@
+import os
+import re
+import json
+import time
+import urllib.parse
+from datetime import datetime, timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import List, Dict, Optional, Tuple, Any
+
+import feedparser
+import requests
+from bs4 import BeautifulSoup
+
+JST = timezone(timedelta(hours=9))
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DOCS_DIR = os.path.join(BASE_DIR, "docs")
+DATA_DIR = os.path.join(DOCS_DIR, "data")
+DATES_DIR = os.path.join(DATA_DIR, "dates")
+
+# 林業・木材産業関連のキーワード（関連性の低いニュースを弾くフィルター）
+RINGYO_KEYWORDS = [
+    "林業", "木材", "製材", "林野庁", "森林", "森林組合", "国産材", 
+    "木造", "丸太", "原木", "CLT", "木質バイオマス", "スギ", "ヒノキ", 
+    "間伐", "植林", "造林", "森林環境税", "木育", "伐採", "合板", 
+    "林道", "林業機械", "スマート林業", "主伐", "皆伐", "再造林", 
+    "ウッドショック", "J-クレジット", "木づかい", "森林管理", "治山"
+]
+
+def is_ringyo_relevant(title: str, text: str) -> bool:
+    """林業・木材産業関連のニュースであるかを厳密に判定"""
+    combined = title + " " + text
+    return any(kw in combined for kw in RINGYO_KEYWORDS)
+
+def decode_google_news_url(google_rss_url: str) -> str:
+    """Google News RSSの暗号化URLから実際の記事URLを復元"""
+    try:
+        headers = {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+        }
+        resp = requests.get(google_rss_url, headers=headers, timeout=6)
+        resp.raise_for_status()
+
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        container = soup.select_one('c-wiz[data-p]')
+        if not container:
+            return google_rss_url
+        
+        data_p = container.get('data-p')
+        obj = json.loads(data_p.replace('%.@.', '["garturlreq",'))
+
+        payload = {
+            'f.req': json.dumps([[
+                ['Fbv4je', json.dumps(obj[:-6] + obj[-2:]), 'null', 'generic']
+            ]])
+        }
+        
+        api_url = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
+        api_headers = {
+            'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+            'user-agent': headers['user-agent']
+        }
+
+        response = requests.post(api_url, headers=api_headers, data=payload, timeout=6)
+        response.raise_for_status()
+
+        raw_text = response.text.replace(")]}'", "")
+        response_json = json.loads(raw_text)
+        
+        array_string = response_json[0][2]
+        article_url = json.loads(array_string)[1]
+        return article_url
+    except Exception:
+        return google_rss_url
+
+def fetch_article_content(url: str) -> Tuple[str, str]:
+    """元記事のメタディスクリプションと本文テキストを取得"""
+    headers = {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    }
+    try:
+        resp = requests.get(url, headers=headers, timeout=6)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        
+        meta_desc = soup.find('meta', attrs={'name': 'description'}) or soup.find('meta', attrs={'property': 'og:description'})
+        desc = meta_desc['content'].strip() if meta_desc and meta_desc.get('content') else ''
+        
+        for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
+            tag.decompose()
+            
+        paragraphs = []
+        for p in soup.find_all(['p', 'div']):
+            text = p.get_text().strip()
+            if len(text) > 25 and not any(bad in text for bad in ['JavaScript', 'クッキー', 'Cookie', '利用規約', '無断転載', '禁無断転載', '有料会員', 'ログイン']):
+                if text not in paragraphs:
+                    paragraphs.append(text)
+            if len(paragraphs) >= 5:
+                break
+                
+        body_text = "\n".join(paragraphs[:3])
+        return desc, body_text
+    except Exception:
+        return "", ""
+
+def classify_category(title: str, text: str) -> str:
+    """林業・木材産業のカテゴリ分類"""
+    combined = (title + " " + text).lower()
+    
+    categories = [
+        ("林政・施策", ["林野庁", "森林環境税", "補助金", "森林法", "計画", "施策", "審議会", "知事", "自治体", "交付金", "税"]),
+        ("建築・木材利用", ["木造", "clt", "中高層", "建築", "木質空間", "非住宅", "公共建築", "住宅", "建材", "内装", "木育"]),
+        ("流通・市場", ["木材価格", "原木", "丸太", "製材", "輸出", "輸入", "合板", "市況", "セリ", "共販", "市場", "企業", "新商品"]),
+        ("スマート林業・技術", ["ドローン", "機械", "高性能", "ict", "自動化", "スマート林業", "gps", "安全", "バイオマス", "技術", "研究", "開発"]),
+        ("森林管理・地域", ["間伐", "造林", "再造林", "植林", "森林組合", "治山", "j-クレジット", "カーボン", "間伐材", "花粉", "苗木", "獣害", "鹿"])
+    ]
+    
+    for cat_name, keywords in categories:
+        for kw in keywords:
+            if kw.lower() in combined:
+                return cat_name
+    return "業界・一般"
+
+def generate_summary_with_gemini(title: str, body: str, api_key: str) -> Optional[str]:
+    """Gemini APIによる要約生成（利用可能な場合）"""
+    try:
+        from google import genai
+        client = genai.Client(api_key=api_key)
+        prompt = f"""以下の林業・木材産業に関するニュース記事を、業界人が30秒で理解できるように「3つの要点」に要約してください。
+必ず以下のフォーマットで出力してください。挨拶や前置き、解説は一切不要です。
+
+【タイトル】{title}
+【内容】{body}
+
+出力形式：
+・（要点1：50字以内）
+・（要点2：50字以内）
+・（要点3：50字以内）"""
+
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt
+        )
+        if response and response.text:
+            return response.text.strip()
+    except Exception as e:
+        print(f"Gemini API Error: {e}")
+    return None
+
+def create_auto_summary(title: str, desc: str, body: str) -> str:
+    """自動要約生成（APIキーなし・完全無料）"""
+    base_text = desc if desc else body
+    if not base_text:
+        return f"・{title}"
+    clean = re.sub(r'【写真を見る】.*', '', base_text)
+    clean = re.sub(r'（.*放送）', '', clean)
+    clean = re.sub(r'https?://\S+', '', clean)
+    clean = clean.strip()
+    sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10]
+    if len(sentences) >= 2:
+        points = [f"・{s}。" for s in sentences[:3]]
+        return "\n".join(points)
+    elif sentences:
+        return f"・{sentences[0]}。"
+    else:
+        return f"・{clean[:120]}…"
+
+def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]]:
+    google_url = entry.get('link', '')
+    if not google_url:
+        return None
+    if hasattr(entry, 'published_parsed') and entry.published_parsed:
+        dt_utc = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+        dt_jst = dt_utc.astimezone(JST)
+        article_date = dt_jst.strftime('%Y-%m-%d')
+        published_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+    else:
+        now_jst = datetime.now(JST)
+        article_date = now_jst.strftime('%Y-%m-%d')
+        published_str = now_jst.strftime('%Y-%m-%d %H:%M')
+        
+    raw_title = entry.get('title', '').strip()
+    source = entry.get('source', {}).get('title', 'ニュース配信元')
+    clean_title = re.sub(r' - [^-]+$', '', raw_title)
+    
+    real_url = decode_google_news_url(google_url)
+    desc, body = fetch_article_content(real_url)
+    
+    if not is_ringyo_relevant(clean_title, desc + " " + body):
+        return None
+        
+    category = classify_category(clean_title, desc + " " + body)
+    
+    summary_type = 'auto'
+    summary_text = ""
+    if gemini_key:
+        ai_sum = generate_summary_with_gemini(clean_title, desc + "\n" + body, gemini_key)
+        if ai_sum:
+            summary_text = ai_sum
+            summary_type = 'ai'
+            
+    if not summary_text:
+        summary_text = create_auto_summary(clean_title, desc, body)
+        summary_type = 'auto'
+        
+    return {
+        "article_date": article_date,
+        "title": clean_title,
+        "url": real_url,
+        "source": source,
+        "published_at": published_str,
+        "summary": summary_text,
+        "summary_type": summary_type,
+        "category": category
+    }
+
+def build_static_site():
+    print("=== 全国の林業・木材産業デイリーニュース 構築開始 ===")
+    os.makedirs(DATES_DIR, exist_ok=True)
+    
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    
+    # 既存のdocs/data/dates/*.jsonがあればロード
+    articles_by_date = {}
+    if os.path.exists(DATES_DIR):
+        for fn in os.listdir(DATES_DIR):
+            if fn.endswith(".json"):
+                date_str = fn.replace(".json", "")
+                fpath = os.path.join(DATES_DIR, fn)
+                try:
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        existing = json.load(f)
+                        articles_by_date[date_str] = existing
+                except Exception as e:
+                    print(f"Error loading {fn}: {e}")
+
+    # Google Newsから全国の林業・木材産業ニュースを取得
+    queries = [
+        "林業",
+        "木材産業 OR 国産材",
+        "森林組合 OR 林野庁",
+        "製材 OR 木造建築 OR CLT",
+        "森林環境税 OR 再造林"
+    ]
+    seen_links = set()
+    raw_entries = []
+    
+    for q in queries:
+        encoded = urllib.parse.quote(q)
+        rss_url = f"https://news.google.com/rss/search?q={encoded}&hl=ja&gl=JP&ceid=JP:ja"
+        feed = feedparser.parse(rss_url)
+        for e in feed.entries[:20]:
+            link = e.get('link')
+            if link and link not in seen_links:
+                seen_links.add(link)
+                raw_entries.append(e)
+
+    print(f"Google Newsから {len(raw_entries)} 件の候補を取得。並列解析中...")
+    
+    new_articles = []
+    with ThreadPoolExecutor(max_workers=6) as executor:
+        futures = [executor.submit(process_single_entry, entry, gemini_key) for entry in raw_entries]
+        for f in as_completed(futures):
+            try:
+                res = f.result()
+                if res:
+                    new_articles.append(res)
+            except Exception as ex:
+                print(f"Entry error: {ex}")
+
+    # 日付ごとにマージ
+    new_added_count = 0
+    for a in new_articles:
+        d = a["article_date"]
+        if d not in articles_by_date:
+            articles_by_date[d] = []
+        # URL重複チェック
+        existing_urls = {item["url"] for item in articles_by_date[d]}
+        if a["url"] not in existing_urls:
+            articles_by_date[d].append(a)
+            new_added_count += 1
+
+    print(f"新着追加記事数: {new_added_count} 件")
+
+    # 各日付のJSONファイルを保存
+    date_list = []
+    total_articles = 0
+    all_articles_index = []
+
+    for d in sorted(articles_by_date.keys(), reverse=True):
+        items = articles_by_date[d]
+        items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+        
+        date_file = os.path.join(DATES_DIR, f"{d}.json")
+        with open(date_file, "w", encoding="utf-8") as f:
+            json.dump(items, f, ensure_ascii=False, indent=2)
+            
+        total_articles += len(items)
+        date_list.append({
+            "article_date": d,
+            "count": len(items)
+        })
+        
+        for item in items:
+            if len(all_articles_index) < 150:
+                all_articles_index.append(item)
+
+    # index.json を保存
+    index_data = {
+        "dates": date_list,
+        "stats": {
+            "total_articles": total_articles,
+            "total_days": len(date_list),
+            "last_updated": datetime.now(JST).isoformat()
+        }
+    }
+    with open(os.path.join(DATA_DIR, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(index_data, f, ensure_ascii=False, indent=2)
+
+    with open(os.path.join(DATA_DIR, "search_index.json"), "w", encoding="utf-8") as f:
+        json.dump(all_articles_index, f, ensure_ascii=False, indent=2)
+
+    print(f"=== 構築完了: 全 {total_articles} 件、{len(date_list)} 日分のアーカイブを生成 ===")
+
+if __name__ == "__main__":
+    build_static_site()

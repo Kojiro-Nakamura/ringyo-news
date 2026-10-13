@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <!-- 背景グラデーション（フォレストディープグリーン） -->
+    <linearGradient id="forestGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="40%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#064e3b" />
+    </linearGradient>
+    <!-- 木材・ウッドグラデーション -->
+    <linearGradient id="woodGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+    <!-- 微細なドロップシャドウ -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.3" flood-color="#022c22" />
+    </filter>
+  </defs>
+
+  <!-- アイコンベース（角丸スクワークル） -->
+  <rect x="4" y="6" width="56" height="54" rx="16" ry="16" fill="url(#forestGrad)" filter="url(#shadow)" />
+  
+  <!-- 微細なインナーハイライト -->
+  <rect x="5" y="7" width="54" height="26" rx="15" ry="15" fill="#ffffff" opacity="0.15" />
+
+  <!-- 木材・年輪アクセントチップ（右上） -->
+  <circle cx="48" cy="12" r="7" fill="url(#woodGrad)" />
+  <circle cx="48" cy="12" r="4.5" stroke="#78350f" stroke-width="0.8" fill="none" opacity="0.6" />
+  <circle cx="48" cy="12" r="2" stroke="#78350f" stroke-width="0.8" fill="none" opacity="0.6" />
+
+  <!-- 中央のモダンな「林」の文字 -->
+  <g fill="#ffffff" filter="drop-shadow(0px 1px 2px rgba(0,0,0,0.3))">
+    <text x="32" y="42" font-family="'Shippori Mincho', 'Noto Serif JP', serif" font-weight="800" font-size="30" text-anchor="middle" letter-spacing="-1">林</text>
+  </g>
+</svg>
