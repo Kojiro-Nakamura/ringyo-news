@@ -28,7 +28,7 @@ jobs:
       - name: 依存パッケージのインストール
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser requests beautifulsoup4 google-genai
+          pip install -r requirements.txt
 
       - name: 林業・木材産業ニュース収集＆静的サイトビルド
         env:
