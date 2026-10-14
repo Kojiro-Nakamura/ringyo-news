@@ -2,7 +2,7 @@
   "dates": [
     {
       "article_date": "2026-10-15",
-      "count": 53
+      "count": 54
     },
     {
       "article_date": "2026-10-14",
@@ -42,7 +42,7 @@
     },
     {
       "article_date": "2026-10-05",
-      "count": 4
+      "count": 5
     },
     {
       "article_date": "2026-10-04",
@@ -98,7 +98,7 @@
     },
     {
       "article_date": "2026-09-15",
-      "count": 3
+      "count": 4
     },
     {
       "article_date": "2026-09-10",
@@ -133,6 +133,10 @@
       "count": 1
     },
     {
+      "article_date": "2026-07-28",
+      "count": 1
+    },
+    {
       "article_date": "2026-07-24",
       "count": 2
     },
@@ -150,6 +154,10 @@
     },
     {
       "article_date": "2026-07-10",
+      "count": 1
+    },
+    {
+      "article_date": "2026-07-07",
       "count": 1
     },
     {
@@ -173,6 +181,10 @@
       "count": 3
     },
     {
+      "article_date": "2026-06-05",
+      "count": 1
+    },
+    {
       "article_date": "2026-06-04",
       "count": 1
     },
@@ -189,6 +201,10 @@
       "count": 1
     },
     {
+      "article_date": "2026-05-20",
+      "count": 1
+    },
+    {
       "article_date": "2026-05-19",
       "count": 1
     },
@@ -197,17 +213,45 @@
       "count": 1
     },
     {
+      "article_date": "2026-04-01",
+      "count": 1
+    },
+    {
       "article_date": "2026-03-18",
+      "count": 2
+    },
+    {
+      "article_date": "2026-02-12",
       "count": 1
     },
     {
       "article_date": "2026-01-29",
       "count": 1
+    },
+    {
+      "article_date": "2025-12-10",
+      "count": 1
+    },
+    {
+      "article_date": "2025-11-08",
+      "count": 1
+    },
+    {
+      "article_date": "2025-10-23",
+      "count": 1
+    },
+    {
+      "article_date": "2025-10-01",
+      "count": 1
+    },
+    {
+      "article_date": "2024-10-23",
+      "count": 1
     }
   ],
   "stats": {
-    "total_articles": 285,
-    "total_days": 51,
-    "last_updated": "2026-10-15T06:38:58.886611+09:00"
+    "total_articles": 301,
+    "total_days": 62,
+    "last_updated": "2026-10-15T08:34:09.348202+09:00"
   }
 }
