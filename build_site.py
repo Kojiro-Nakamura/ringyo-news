@@ -369,7 +369,11 @@ def guess_source_from_url(url: str, default: str = "WEB") -> str:
         'amazon.com': 'Amazon',
         'kobe-journal.com': '神戸ジャーナル',
         'dellows.jp': 'デローズニュース',
-        'j-times.jp': '上越タイムス'
+        'j-times.jp': '上越タイムス',
+        'rinseinews.com': '林政ニュース',
+        'forest-journal.jp': 'FOREST JOURNAL',
+        'jfpj.jp': '日刊木材新聞',
+        'cocolog-nifty.com': '田中淳夫 取材メモ'
     }
     for d, name in source_map.items():
         if d in domain:
@@ -494,6 +498,136 @@ def fetch_ringyou_blog_items(days_limit: int = 7) -> List[Dict[str, Any]]:
     print(f"林業ニュース(Blogspot) から {len(blog_items)} 件の記事候補を抽出しました。")
     return blog_items
 
+def fetch_rinsei_news_items() -> List[Dict[str, Any]]:
+    """林政ニュース（https://rinseinews.com/）から最新記事を取得"""
+    url = "https://rinseinews.com/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"林政ニュース から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        for a in soup.find_all('a', href=re.compile(r'/news/\d+')):
+            href = a['href']
+            if href in seen:
+                continue
+            seen.add(href)
+            title = re.sub(r'\s+', ' ', a.get_text()).strip()
+            m_date = re.search(r'(\d{4})[年\.](\d{1,2})[月\.](\d{1,2})', title)
+            if m_date:
+                entry_date = f'{int(m_date.group(1)):04d}-{int(m_date.group(2)):02d}-{int(m_date.group(3)):02d}'
+                title = re.sub(r'(\d{4}[年\.]\d{1,2}[月\.]\d{1,2}日?).*$', '', title).strip()
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+            if len(title) > 8:
+                items.append({
+                    'title': title,
+                    'url': href,
+                    'source': '林政ニュース',
+                    'article_date': entry_date,
+                    'published_at': f'{entry_date} 09:00'
+                })
+        print(f"林政ニュース から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Rinsei news fetch error: {e}")
+        return []
+
+def fetch_forest_journal_items() -> List[Dict[str, Any]]:
+    """FOREST JOURNAL（https://forest-journal.jp/）から最新記事を取得"""
+    feed_url = "https://forest-journal.jp/feed/"
+    print(f"FOREST JOURNAL からフィード取得中: {feed_url}")
+    try:
+        f = feedparser.parse(feed_url)
+        items = []
+        for e in f.entries[:15]:
+            href = e.link
+            title = e.title
+            if hasattr(e, 'published_parsed') and e.published_parsed:
+                dt_utc = datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
+                dt_jst = dt_utc.astimezone(JST)
+                entry_date = dt_jst.strftime('%Y-%m-%d')
+                pub_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+                pub_str = f'{entry_date} 08:00'
+            items.append({
+                'title': title,
+                'url': href,
+                'source': 'FOREST JOURNAL',
+                'article_date': entry_date,
+                'published_at': pub_str
+            })
+        print(f"FOREST JOURNAL から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Forest Journal fetch error: {e}")
+        return []
+
+def fetch_jfpj_news_items() -> List[Dict[str, Any]]:
+    """日刊木材新聞社（https://jfpj.jp/）から最新ニュースを取得"""
+    url = "https://jfpj.jp/"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"日刊木材新聞 から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        for a in soup.find_all('a', href=re.compile(r'/mokuzai_news/\d+')):
+            href = a['href']
+            if href in seen:
+                continue
+            seen.add(href)
+            title = a.get_text().strip()
+            if len(title) < 6:
+                continue
+            entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '日刊木材新聞',
+                'article_date': entry_date,
+                'published_at': f'{entry_date} 06:00'
+            })
+        print(f"日刊木材新聞 から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"JFPJ news fetch error: {e}")
+        return []
+
+def fetch_ikoma_blog_items() -> List[Dict[str, Any]]:
+    """森林ジャーナリスト 田中淳夫氏ブログ（http://ikoma.cocolog-nifty.com/）から最新記事を取得"""
+    feed_url = "http://ikoma.cocolog-nifty.com/moritoinaka/atom.xml"
+    print(f"田中淳夫氏ブログ からフィード取得中: {feed_url}")
+    try:
+        f = feedparser.parse(feed_url)
+        items = []
+        for e in f.entries[:15]:
+            href = e.link
+            title = e.title
+            if hasattr(e, 'published_parsed') and e.published_parsed:
+                dt_utc = datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
+                dt_jst = dt_utc.astimezone(JST)
+                entry_date = dt_jst.strftime('%Y-%m-%d')
+                pub_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+                pub_str = f'{entry_date} 12:00'
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '田中淳夫 取材メモ',
+                'article_date': entry_date,
+                'published_at': pub_str
+            })
+        print(f"田中淳夫氏ブログ から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Ikoma blog fetch error: {e}")
+        return []
+
 def clean_title_for_clustering(title: str) -> str:
     """タイトルの記号やメディア表記を除去して比較用文字列を作成"""
     t = re.sub(r'[\(（【\[].*?[\)）】\]]', '', title)
@@ -607,12 +741,18 @@ def build_static_site():
         except Exception as ex:
             print(f"Google RSS fetch error ({q}): {ex}")
 
-    # 2. 林業ニュース専門ブログ（ringyou-news.blogspot.com）から取得
-    blog_items = fetch_ringyou_blog_items(days_limit=7)
-    # 既に登録済みのURLはスキップして高速化
-    new_blog_items = [it for it in blog_items if it.get('url') not in known_urls]
+    # 2. 専門情報ソース（Blogspot, 林政ニュース, FOREST JOURNAL, 日刊木材新聞, 田中淳夫氏ブログ）から取得
+    specialized_items = []
+    specialized_items.extend(fetch_ringyou_blog_items(days_limit=7))
+    specialized_items.extend(fetch_rinsei_news_items())
+    specialized_items.extend(fetch_forest_journal_items())
+    specialized_items.extend(fetch_jfpj_news_items())
+    specialized_items.extend(fetch_ikoma_blog_items())
 
-    print(f"情報ソース取得完了: Google News {len(raw_google_entries)} 件, 林業ニュース(Blogspot) {len(new_blog_items)} 件（新規）")
+    # 既に登録済みのURLはスキップして高速化
+    new_specialized_items = [it for it in specialized_items if it.get('url') not in known_urls]
+
+    print(f"情報ソース取得完了: Google News {len(raw_google_entries)} 件, 専門メディア/ブログ {len(new_specialized_items)} 件（新規）")
     print("並列解析および要約生成を開始...")
     
     new_articles = []
@@ -621,15 +761,15 @@ def build_static_site():
         # Google News のタスク
         for entry in raw_google_entries:
             futures.append(executor.submit(process_single_entry, entry, gemini_key))
-        # Blogspot のタスク
-        for b_item in new_blog_items:
+        # 専門メディア/ブログ のタスク
+        for item in new_specialized_items:
             futures.append(executor.submit(
                 process_article_item,
-                b_item['url'],
-                b_item['title'],
-                b_item['source'],
-                b_item['article_date'],
-                b_item['published_at'],
+                item['url'],
+                item['title'],
+                item['source'],
+                item['article_date'],
+                item['published_at'],
                 gemini_key
             ))
 
