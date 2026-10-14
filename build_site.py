@@ -337,6 +337,77 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
     else:
         return f"・{title}"
 
+def guess_source_from_url(url: str, default: str = "WEB") -> str:
+    """URLドメインから報道メディア・企業名を推定"""
+    domain = urllib.parse.urlparse(url).netloc.lower()
+    source_map = {
+        'yahoo.co.jp': 'Yahoo!ニュース',
+        's-housing.jp': '新建ハウジング',
+        'jiji.com': '時事通信',
+        'prtimes.jp': 'PR TIMES',
+        'shinmai.co.jp': '信濃毎日新聞',
+        'agara.co.jp': '紀伊民報',
+        '373news.com': '南日本新聞',
+        'hokkaido-np.co.jp': '北海道新聞',
+        'kachimai.jp': '十勝毎日新聞',
+        'saga-s.co.jp': '佐賀新聞',
+        'sanin-chuo.jp': '山陰中央新報',
+        'sakigake.jp': '秋田魁新報',
+        'atpress.ne.jp': '@Press',
+        'chunichi.co.jp': '中日新聞',
+        'asahi.com': '朝日新聞',
+        'yomiuri.co.jp': '読売新聞',
+        'mainichi.jp': '毎日新聞',
+        'nikkei.com': '日本経済新聞',
+        'sankei.com': '産経新聞',
+        'kyodo.co.jp': '共同通信',
+        'kobe-np.co.jp': '神戸新聞',
+        'chugoku-np.co.jp': '中国新聞',
+        'kahoku.news': '河北新報',
+        'kushironews.jp': '釧路新聞',
+        'sfc.jp': '住友林業',
+        'amazon.com': 'Amazon',
+        'kobe-journal.com': '神戸ジャーナル',
+        'dellows.jp': 'デローズニュース',
+        'j-times.jp': '上越タイムス'
+    }
+    for d, name in source_map.items():
+        if d in domain:
+            return name
+    return domain.replace('www.', '') if domain else default
+
+def process_article_item(real_url: str, title: str, source: str, article_date: str, published_str: str, gemini_key: str) -> Optional[Dict[str, Any]]:
+    """単一記事の本文取得・要約・カテゴリ分類を実行"""
+    desc, body = fetch_article_content(real_url)
+    
+    if not is_ringyo_relevant(title, desc + " " + body):
+        return None
+        
+    category = classify_category(title, desc + " " + body)
+    
+    summary_type = 'auto'
+    summary_text = ""
+    if gemini_key:
+        ai_sum = generate_summary_with_gemini(title, desc + "\n" + body, gemini_key)
+        if ai_sum:
+            summary_text = ai_sum
+            summary_type = 'ai'
+            
+    if not summary_text:
+        summary_text = create_auto_summary(title, desc, body)
+        summary_type = 'auto'
+        
+    return {
+        "article_date": article_date,
+        "title": title,
+        "url": real_url,
+        "source": source,
+        "published_at": published_str,
+        "summary": summary_text,
+        "summary_type": summary_type,
+        "category": category
+    }
+
 def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]]:
     google_url = entry.get('link', '')
     if not google_url:
@@ -356,35 +427,72 @@ def process_single_entry(entry: Any, gemini_key: str) -> Optional[Dict[str, Any]
     clean_title = re.sub(r' - [^-]+$', '', raw_title)
     
     real_url = decode_google_news_url(google_url)
-    desc, body = fetch_article_content(real_url)
+    return process_article_item(real_url, clean_title, source, article_date, published_str, gemini_key)
+
+def fetch_ringyou_blog_items(days_limit: int = 7) -> List[Dict[str, Any]]:
+    """林業専門ブログ（https://ringyou-news.blogspot.com/）からキュレーションされた記事リストを取得"""
+    feed_url = 'https://ringyou-news.blogspot.com/feeds/posts/default'
+    print(f"林業ニュース(Blogspot) からフィード取得中: {feed_url}")
+    try:
+        feed = feedparser.parse(feed_url)
+    except Exception as e:
+        print(f"Blogspot feed error: {e}")
+        return []
     
-    if not is_ringyo_relevant(clean_title, desc + " " + body):
-        return None
-        
-    category = classify_category(clean_title, desc + " " + body)
+    blog_items = []
+    seen_urls = set()
     
-    summary_type = 'auto'
-    summary_text = ""
-    if gemini_key:
-        ai_sum = generate_summary_with_gemini(clean_title, desc + "\n" + body, gemini_key)
-        if ai_sum:
-            summary_text = ai_sum
-            summary_type = 'ai'
+    for entry in feed.entries[:days_limit]:
+        post_title = entry.title
+        m = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', post_title)
+        if m:
+            entry_date = f'{int(m.group(1)):04d}-{int(m.group(2)):02d}-{int(m.group(3)):02d}'
+        elif hasattr(entry, 'published_parsed') and entry.published_parsed:
+            dt_utc = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+            entry_date = dt_utc.astimezone(JST).strftime('%Y-%m-%d')
+        else:
+            entry_date = datetime.now(JST).strftime('%Y-%m-%d')
             
-    if not summary_text:
-        summary_text = create_auto_summary(clean_title, desc, body)
-        summary_type = 'auto'
+        html = entry.content[0].value if hasattr(entry, 'content') else entry.summary
+        soup = BeautifulSoup(html, 'html.parser')
         
-    return {
-        "article_date": article_date,
-        "title": clean_title,
-        "url": real_url,
-        "source": source,
-        "published_at": published_str,
-        "summary": summary_text,
-        "summary_type": summary_type,
-        "category": category
-    }
+        for a in soup.find_all('a'):
+            href = a.get('href', '').strip()
+            if not href or not href.startswith('http') or 'blogspot.com' in href:
+                continue
+            if href in seen_urls:
+                continue
+            seen_urls.add(href)
+                
+            title = ''
+            parent = a.parent
+            prev = parent.find_previous_sibling()
+            if prev:
+                t = prev.get_text().strip()
+                if t and not t.startswith('http'):
+                    title = t
+            if not title:
+                lt = a.get_text().strip()
+                if lt and not lt.startswith('http'):
+                    title = lt
+            if not title:
+                parent_text = parent.get_text().strip()
+                lines = [l.strip() for l in parent_text.splitlines() if l.strip() and not l.strip().startswith('http')]
+                if lines:
+                    title = lines[0]
+                    
+            if title and href:
+                source = guess_source_from_url(href, default="林業ニュース")
+                blog_items.append({
+                    'title': title,
+                    'url': href,
+                    'source': source,
+                    'article_date': entry_date,
+                    'published_at': f'{entry_date} 00:30'
+                })
+                
+    print(f"林業ニュース(Blogspot) から {len(blog_items)} 件の記事候補を抽出しました。")
+    return blog_items
 
 def clean_title_for_clustering(title: str) -> str:
     """タイトルの記号やメディア表記を除去して比較用文字列を作成"""
@@ -467,7 +575,15 @@ def build_static_site():
                 except Exception as e:
                     print(f"Error loading {fn}: {e}")
 
-    # Google Newsから全国の林業・木材産業ニュースを取得
+    # 既知のURLセットを作成
+    known_urls = set()
+    for d, items in articles_by_date.items():
+        for item in items:
+            known_urls.add(item.get("url"))
+            for r in item.get("related_articles", []):
+                known_urls.add(r.get("url"))
+
+    # 1. Google Newsから全国の林業・木材産業ニュースを取得
     queries = [
         "林業",
         "木材産業 OR 国産材",
@@ -476,23 +592,47 @@ def build_static_site():
         "森林環境税 OR 再造林"
     ]
     seen_links = set()
-    raw_entries = []
+    raw_google_entries = []
     
     for q in queries:
         encoded = urllib.parse.quote(q)
         rss_url = f"https://news.google.com/rss/search?q={encoded}&hl=ja&gl=JP&ceid=JP:ja"
-        feed = feedparser.parse(rss_url)
-        for e in feed.entries[:20]:
-            link = e.get('link')
-            if link and link not in seen_links:
-                seen_links.add(link)
-                raw_entries.append(e)
+        try:
+            feed = feedparser.parse(rss_url)
+            for e in feed.entries[:20]:
+                link = e.get('link')
+                if link and link not in seen_links:
+                    seen_links.add(link)
+                    raw_google_entries.append(e)
+        except Exception as ex:
+            print(f"Google RSS fetch error ({q}): {ex}")
 
-    print(f"Google Newsから {len(raw_entries)} 件の候補を取得。並列解析中...")
+    # 2. 林業ニュース専門ブログ（ringyou-news.blogspot.com）から取得
+    blog_items = fetch_ringyou_blog_items(days_limit=7)
+    # 既に登録済みのURLはスキップして高速化
+    new_blog_items = [it for it in blog_items if it.get('url') not in known_urls]
+
+    print(f"情報ソース取得完了: Google News {len(raw_google_entries)} 件, 林業ニュース(Blogspot) {len(new_blog_items)} 件（新規）")
+    print("並列解析および要約生成を開始...")
     
     new_articles = []
     with ThreadPoolExecutor(max_workers=6) as executor:
-        futures = [executor.submit(process_single_entry, entry, gemini_key) for entry in raw_entries]
+        futures = []
+        # Google News のタスク
+        for entry in raw_google_entries:
+            futures.append(executor.submit(process_single_entry, entry, gemini_key))
+        # Blogspot のタスク
+        for b_item in new_blog_items:
+            futures.append(executor.submit(
+                process_article_item,
+                b_item['url'],
+                b_item['title'],
+                b_item['source'],
+                b_item['article_date'],
+                b_item['published_at'],
+                gemini_key
+            ))
+
         for f in as_completed(futures):
             try:
                 res = f.result()
