@@ -128,9 +128,11 @@
           主要な情報収集ソース
         </div>
         <p class="text-[11px] text-slate-600 leading-relaxed">
-          Google News に加え、業界を代表する専門メディア・ブログから最新情報を毎日自動巡回収集し、日別蓄積しています。
+          Google News に加え、公的機関・研究機関および業界を代表する専門メディアから最新情報を毎日自動巡回収集し、日別蓄積しています。
         </p>
         <ul class="text-[11px] space-y-1 text-emerald-900 font-medium pt-1 border-t border-emerald-200/50">
+          <li>・<a href="https://www.rinya.maff.go.jp/j/press/" target="_blank" rel="noopener noreferrer" class="hover:underline text-emerald-800 hover:text-emerald-950 font-semibold">林野庁 プレスリリース</a></li>
+          <li>・<a href="https://www.ffpri.go.jp/ffpri.html" target="_blank" rel="noopener noreferrer" class="hover:underline text-emerald-800 hover:text-emerald-950 font-semibold">森林総合研究所 (FFPRI)</a></li>
           <li>・<a href="https://rinseinews.com/" target="_blank" rel="noopener noreferrer" class="hover:underline text-emerald-800 hover:text-emerald-950 font-semibold">林政ニュース</a> (日本林業調査会)</li>
           <li>・<a href="https://forest-journal.jp/" target="_blank" rel="noopener noreferrer" class="hover:underline text-emerald-800 hover:text-emerald-950 font-semibold">FOREST JOURNAL</a></li>
           <li>・<a href="https://jfpj.jp/" target="_blank" rel="noopener noreferrer" class="hover:underline text-emerald-800 hover:text-emerald-950 font-semibold">日刊木材新聞社</a></li>
@@ -159,6 +161,21 @@
           </button>
         </div>
 
+        <!-- 注目トピック・クイック絞り込みタグ -->
+        <div class="flex items-center gap-1.5 overflow-x-auto pb-0.5 text-[11px] no-scrollbar" id="topicTags">
+          <span class="text-slate-400 shrink-0 font-medium text-[10px] uppercase tracking-wider">注目テーマ:</span>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="林野庁">林野庁</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="木造">木造建築</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="CLT">CLT</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="国産材">国産材</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="森林環境">森林環境税</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="クレジット">J-クレジット</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="スマート林業">スマート林業</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="花粉">花粉症対策</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="バイオマス">バイオマス</button>
+          <button type="button" class="topic-tag px-2.5 py-1 rounded-lg bg-slate-100 hover:bg-emerald-100 hover:text-emerald-900 text-slate-600 transition-colors shrink-0 font-medium" data-topic="森林組合">森林組合</button>
+        </div>
+
         <!-- カテゴリフィルター -->
         <div class="flex items-center gap-1.5 overflow-x-auto pb-1 text-xs no-scrollbar" id="categoryFilter">
           <button data-category="all" class="cat-pill active px-3 py-1.5 rounded-lg font-medium transition-colors bg-slate-900 text-white">
@@ -185,7 +202,7 @@
         </div>
       </div>
 
-      <!-- 現在表示中の日付ヘッダー ＆ 前日・翌日クイックナビ -->
+      <!-- 現在表示中の日付ヘッダー ＆ 並び順・前日翌日ナビ -->
       <div class="flex flex-wrap items-center justify-between gap-2 px-1">
         <div class="flex items-baseline gap-2">
           <h2 id="currentDisplayDate" class="text-base sm:text-lg font-bold text-slate-900">
@@ -196,26 +213,38 @@
           </span>
         </div>
 
-        <!-- 前日・翌日ナビゲーションボタン -->
-        <div class="flex items-center gap-1.5" id="dateNavControls">
-          <button 
-            type="button" 
-            id="prevDateBtn" 
-            class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
-            title="前の日のニュースへ"
-          >
-            <i data-lucide="chevron-left" class="w-4 h-4 text-slate-400 group-hover:text-emerald-700 transition-colors"></i>
-            <span>前日</span>
-          </button>
-          <button 
-            type="button" 
-            id="nextDateBtn" 
-            class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
-            title="次の日のニュースへ"
-          >
-            <span>翌日</span>
-            <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 group-hover:text-emerald-700 transition-colors"></i>
-          </button>
+        <div class="flex items-center gap-2 flex-wrap">
+          <!-- 並び順切り替え（注目順 / 新着順） -->
+          <div class="inline-flex rounded-xl bg-slate-200/70 p-0.5 text-xs font-bold" id="sortModeToggle">
+            <button type="button" data-sort="featured" class="sort-btn active px-2.5 py-1 rounded-lg bg-white text-emerald-800 shadow-sm transition-all flex items-center gap-1">
+              <span>🔥 注目順</span>
+            </button>
+            <button type="button" data-sort="time" class="sort-btn px-2.5 py-1 rounded-lg text-slate-600 hover:text-slate-900 transition-all flex items-center gap-1">
+              <span>🕒 新着順</span>
+            </button>
+          </div>
+
+          <!-- 前日・翌日ナビゲーションボタン -->
+          <div class="flex items-center gap-1.5" id="dateNavControls">
+            <button 
+              type="button" 
+              id="prevDateBtn" 
+              class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+              title="前の日のニュースへ"
+            >
+              <i data-lucide="chevron-left" class="w-4 h-4 text-slate-400 group-hover:text-emerald-700 transition-colors"></i>
+              <span>前日</span>
+            </button>
+            <button 
+              type="button" 
+              id="nextDateBtn" 
+              class="flex items-center gap-1 px-3 py-1.5 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 active:scale-95 text-xs font-bold text-slate-700 shadow-sm transition-all disabled:opacity-30 disabled:pointer-events-none group"
+              title="次の日のニュースへ"
+            >
+              <span>翌日</span>
+              <i data-lucide="chevron-right" class="w-4 h-4 text-slate-400 group-hover:text-emerald-700 transition-colors"></i>
+            </button>
+          </div>
         </div>
       </div>
 
@@ -256,7 +285,7 @@
         <span>全国 林業・木材デイリーニュース 🌲 毎日自動更新の林業・森林・木材産業アーカイブ</span>
       </div>
       <div>
-        <span>ホスティング: GitHub Pages | 収集元: Google News / 林政ニュース / FOREST JOURNAL / 日刊木材新聞 / 林業ニュース / 田中淳夫ブログ</span>
+        <span>収集元: 林野庁 / 森林総研 / 林政ニュース / FOREST JOURNAL / 日刊木材新聞 / 林業ニュース / 田中淳夫ブログ / Google News</span>
       </div>
     </div>
   </footer>

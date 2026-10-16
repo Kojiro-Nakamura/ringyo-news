@@ -8,7 +8,9 @@
     "summary": "・ドンナイ省をはじめとする南部諸省は、農業や林業の副産物から高付加価値の炭素材料を開発する機会を有しており、循環型経済の促進と排出量の削減に貢献できる。\n・循環型経済の推進と排出量削減という観点から、農林副産物を高付加価値炭素材料に変換することは、ドンナイ省をはじめとする南部諸省における資源価値の向上とグリーン産業発展の機会創出に貢献する新たな道筋を切り開いています。\n・しかし、研究段階の技術を生産段階へと移行させるためには、適切な原材料、加工技術、そして市場ニーズを選定する必要があります。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -19,7 +21,9 @@
     "summary": "・北海道旭川市で4年間暴露したCLTと集成材の強度試験をしています。\n・試験体数が多く大変ですが、引き続き試験・データ整理を頑張っていきます。\n・We are conducting strength tests on CLT (Cross Laminated Timber) and GLT。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -84,8 +88,16 @@
         "url": "https://news.yahoo.co.jp/articles/152c4ec258fb661b459c3038947a308ea369e817",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-15 15:54"
+      },
+      {
+        "title": "【善光寺御開帳】本堂の前に建てられる「回向柱」の製材…原木は樹齢約250年のスギの木「感激！誇りに思う…」御開帳は2027年4月4日から77日間の予定、製材された柱は開幕の1週間前に奉納 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+        "url": "https://newsdig.tbs.co.jp/articles/sbc/3014758?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-15 20:36"
       }
-    ]
+    ],
+    "importance_score": 159,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-15",
@@ -96,7 +108,9 @@
     "summary": "・５月に松山市であった第７６回全国植樹祭の式典会場で天皇、皇后両陛下が座られた「お野立所（のだてしょ）」が、日本デザイン振興会が主催する２０２６年度グッドデザイン賞に輝いた。\n・県産材の直交集成板（ＣＬＴ）を活用した建築物で、矢野青山建築設計事務所（松山市）が設計を担当した。\n・矢野寿洋共同代表（４４）によると、高さ約１２メートルのお野立所は、丈夫でありながら、木の質感を前面に押し出したデザインが可能なＣＬＴの優位性をいかし、モチーフである石鎚山の形や、森林資源循環の理念を表現。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -114,7 +128,35 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-10-15 18:31"
       }
-    ]
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "【FISCO銘柄コメント】太平製作所---合板機械、木工機械メーカー(フィスコ)",
+    "url": "https://finance.yahoo.co.jp/news/detail/ee0f8f5104fabd0e4bd70f91892fded74f0249bb",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-10-15 18:03",
+    "summary": "・太平製作所<6342>合板機械、木工機械メーカー。\n・ナイフ研磨機、アコーディオンプレス等の合板機械が主力。\n・海外受注や高付加価値技術に注力し、セグメント別では合板機械と木工機械が増収増益。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "オギと原六郎と吉野林業",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/10/post-0df83d.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-10-15 17:25",
+    "summary": "・朝来市は、郷土出身の原六郎を顕彰しているが、その原と土倉家の関わりを語る。\n・そこで私も「原六郎と土倉庄三郎、そして吉野林業」と題して、吉野林業について語ることになった。\n・原六郎と土倉庄三郎の関係だけだと話は膨らまないので、吉野林業も抱き合わせる。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -122,10 +164,12 @@
     "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101509",
     "source": "都庁総合ホームページ",
     "published_at": "2026-10-15 17:17",
-    "summary": "・東京の林業関係への就業|10月",
+    "summary": "・東京の林業関係への就業|10月。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -143,7 +187,9 @@
         "source": "PR TIMES",
         "published_at": "2026-10-15 15:00"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -151,10 +197,12 @@
     "url": "https://www.city.numazu.shizuoka.jp/kurashi/zei_hoken/shizei/naiyo/genmen_menjo.htm",
     "source": "沼津市ホームページ",
     "published_at": "2026-10-15 16:41",
-    "summary": "・生活保護を受給されている方、災害その他やむを得ない事情に該当し、かつ市税等の納付が極めて困難な事情があると認められる方は、「沼津市税賦課徴収条例」及び「森林環境税及び森林環境譲与税に関する法律」等の規定により個人市民税・県民税が減免される場合があります。\n・なお、減免等を受ける場合は、資産状況・預貯金の調査や、生計を一にする親族の所得状況を考慮して審査するため、申請によって必ず適用されるものではありませんのでご留意ください。\n・個人市民税・県民税・森林環境税の納税が困難な方へ。",
+    "summary": "・生活保護を受給されている方、災害その他やむを得ない事情に該当し、かつ市税等の納付が極めて困難な事情があると認められる方は、「沼津市税賦課徴収条例」及び「森林環境税及び森林環境譲与税に関する法律」等の規定により個人市民税・県民税が減免される場合があります。\n・なお、減免等を受ける場合は、資産状況・預貯金の調査や、生計を一にする親族の所得状況を考慮して審査するため、申請によって必ず適用されるものではありませんのでご留意ください。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -165,7 +213,9 @@
     "summary": "・日本とアメリカ合衆国、カナダの政府や関係団体等が9月、2026年度「日米加建築専門家会合(BEC)」及び「日米加JAS技術委員会(JTC)」を東京都内で開催し、木造建築に関する建築基準の動向、木材利用の促進施策、技術開発・研究などについて意見を交わした。\n・日本からは国交省のほか、農林水産省、建築研究所、日本CLT協会、日本ツーバイフォー建築協会、森林総合研究所が参加。\n・会合では、住宅・建築物における木材利用の取り組みや、工場などで部材を製造する「木造オフサイトコンストラクション」の促進策、建築物のライフサイクルカーボン評価に関する政策を説明。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -176,7 +226,9 @@
     "summary": "・ラムドン省は、2030年までに、競争優位性のある産業を優先し、約4,748ヘクタールの集中原材料地域を見直し、開発し、完成させることを目指している。\n・「2026年から2030年までの農業、林業、水産業の原材料集中地域開発」プロジェクトの実施計画によると、ラムドン省は、近代的で持続可能な農業を発展させ、科学技術の応用とデジタル変革を促進し、国内市場と輸出市場の両方のニーズを満たすことを目指している。\n・これらのうち、高品質・スペシャルティコーヒーの栽培地域は2,000～2,200ヘクタール、ドリアンやアボカドなどの主要果物の栽培地域は約1,000～1,200ヘクタール、高品質茶の栽培地域は400～500ヘクタール、安全野菜およびハイテク加工野菜の栽培地域は450～500ヘクタールを占めている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -200,7 +252,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-15 13:10"
       }
-    ]
+    ],
+    "importance_score": 42,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-15",
@@ -208,7 +262,7 @@
     "url": "https://www.47news.jp/15083537.html",
     "source": "47NEWS",
     "published_at": "2026-10-15 11:00",
-    "summary": "・大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ",
+    "summary": "・大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ。",
     "summary_type": "auto",
     "category": "林政・施策",
     "related_articles": [
@@ -218,7 +272,9 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-15 08:02"
       }
-    ]
+    ],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -229,7 +285,9 @@
     "summary": "・日本マクドナルド（株）（東京都新宿区、トーマス・コウ代表取締役社長兼CEO）は、構造材に国産材を100％使用した「鎌倉常盤店」を神奈川県鎌倉市に建設した。\n・同社は、国内に約200木造店舗を持っているが、構造材をオール国産材にしたのは初めてとなる。\n・９月18日に開店した鎌倉常盤店は、木造軸組構造の平屋建てで、建築面積は347.59m2。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -240,7 +298,9 @@
     "summary": "・広葉樹の有効利用に取り組む新たな全国団体が来年（2027年）４月に発足する。\n・林野庁の有志職員でつくっている里山広葉樹プラットフォーム（鈴木清史チーム長）は、９月30日に農林水産省で２回目の設立準備協議会を開き、発起人企業とともに新団体の概要などを議論した。\n・新団体の名称は、「一般社団法人里山広葉樹利活用・再生機構」とし、通称は「SATOCO（さとこ）」とする。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -251,7 +311,9 @@
     "summary": "・福岡市と福岡県広域森林組合福岡西支店は、10月31日（土）と11月14日（土）に同市早良区石釜の市有林で「ふくおか森林教室～伐採見学～」を開催する。\n・森林・林業についての解説や玉切り体験なども行う。\n・森林ネットおおいた（大分県大分市）は、７月25日（土）午後１時から福岡県福岡市のコミュニティスペースdot.（ドット）で「林業就業支援講習　相談会（１日コース）」を開催する。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -262,7 +324,9 @@
     "summary": "・日本木材輸出振興協会（東京都千代田区、山田壽夫会長）は９月24日、日本産ヒノキのティンバーについて、米国製材規格委員会（ALSC）が７月17日付けで設計強度を認可したと発表した。\n・同協会はこれまでに、ヒノキとスギのツーバイフォー構造材（ディメンションランバー）及びスギのティンバーでＡＬＳＣの設計強度認可を取得している*1*2*3。\n・ヒノキのティンバーも認可されたことで、米国の住宅市場開拓に必要な日本産ツーバイフォー材のラインナップが揃ったことになる。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -273,7 +337,9 @@
     "summary": "・通算で４回目となる「こどもの森づくりフォーラム」（第78回全国植樹祭関連事業）が９月13日に高知県高知市の新来島高知重工ホール（高知県立県民文化ホール）で開催され、全国から約300人が参加した。\n・同フォーラムは、森林環境教育などに携わる保育所・幼稚園・認定こども園の関係者と、行政担当者、研究・専門家らが一堂に会して情報交換などを活発化する目的で2023年度に埼玉県で初めて実施され、2024年度に愛媛県、2025年度に奈良県で行われてきた。\n・今回のフォーラムは、林野庁、国土緑化推進機構、NPO法人子どもの森づくり推進ネットワーク、ニッセイ緑の財団、高知県、高知市、高知県森と緑の会で実行委員会を組織して開催した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -281,10 +347,12 @@
     "url": "https://jichitai.works/articles/3752",
     "source": "ジチタイワークスWEB",
     "published_at": "2026-10-15 09:00",
-    "summary": "・山間部では斜面の崩壊が相次ぎ、道路が寸断されて多くの集落が孤立。\n・県は、防災・環境面での森林施策を新たな課題とし、平成29年度より森林環境管理制度の検討をすることに。\n・友好提携を結ぶスイス・ベルン州を通じて、同国のフォレスター制度を参考とし、森林・林業の人材育成に踏み出した。",
+    "summary": "・山間部では斜面の崩壊が相次ぎ、道路が寸断されて多くの集落が孤立。\n・友好提携を結ぶスイス・ベルン州を通じて、同国のフォレスター制度を参考とし、森林・林業の人材育成に踏み出した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -295,7 +363,9 @@
     "summary": "・世界最大級のIT企業であるAmazon（アマゾンジャパン合同会社、ジャスパー・チャン社長）は10月14日、国土緑化推進機構と連携して、東京・大阪・名古屋の三大都市圏近郊にある20か所・合計100haの森林再生と生物多様性保全などに取り組むと発表した。\n・資金は同社が拠出し、同機構が活動団体に分配する。\n・現地での保全活動などは、地元住民などでつくる非営利団体が森林所有者と連携して進める。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -306,7 +376,9 @@
     "summary": "・住宅リフォーム・紛争処理支援センターは、「第43回住まいのリフォームコンクール」の表彰式を10 月５日に東京都文京区のすまい・るホールで開催した。\n・今回から日本住宅・木材技術センターが後援に加わって理事長賞を新設し、神奈川県鎌倉市の「鎌倉の格天井」が受賞した。\n・同コンクールは、住宅リフォームの普及促進等を目的に、同センターが1985年度から毎年度実施している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -314,10 +386,12 @@
     "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/10/15/news-32621/",
     "source": "みんなの広報宣伝部",
     "published_at": "2026-10-15 07:04",
-    "summary": "・【ゼロエネ建築】北九州GX推進コンソーシアム：エコワークス本社のZEB見学会開催、断熱・太陽光・木造建築の実例を共有",
+    "summary": "・【ゼロエネ建築】北九州GX推進コンソーシアム：エコワークス本社のZEB見学会開催、断熱・太陽光・木造建築の実例を共有。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -341,7 +415,9 @@
         "source": "M&A Online",
         "published_at": "2026-10-15 06:20"
       }
-    ]
+    ],
+    "importance_score": 30,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-15",
@@ -352,7 +428,9 @@
     "summary": "・越南福慶木業（越南福慶、ベトナム・イエンバイ省）は、造作用ＬＶＬ を生産する既存工場隣に第２工場の増設を完了し、12月末までに造作用ＬＶＬのＪＡＳ認証を取得する計画を明らかにした。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -363,7 +441,9 @@
     "summary": "・高島（東京都）は8日、三菱地所（同）、MEC Industry(鹿児島県姶良郡）と共同開発したCLTによる工場や倉庫内の柱保護根巻（ねまき）を発売した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -374,7 +454,9 @@
     "summary": "・カスタマーサービス（名古屋市）は2×４工法の住宅会社やコンポーネント会社向けの設計サポート件数が増えている。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -385,7 +467,9 @@
     "summary": "・イワフジ工業（岩手県奥州市）は1日、グラップルプロセッサ「GP－45V」に全旋回機能を加えた「GP－45Vグラップルプロセッサ全旋回仕様」の販売を開始した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -396,7 +480,9 @@
     "summary": "・日刊木材新聞社が調査した住宅会社の2025年度の木造住宅供給実績アンケートで、木造戸建て住宅供給１位は飯田グループホールディングスの３万6,211棟（前年度比５％減）、木造集合住宅供給１位は大東建託の３万2,923戸（同11.6％減）となっ。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -407,7 +493,9 @@
     "summary": "・DAIKEN（大阪市）は、和紙おもて（機械すき和紙）にインクジェット印刷を施し好みの絵柄を印刷できる「デザイン畳おもて」を初めて商品化した。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -418,7 +506,9 @@
     "summary": "・キーテック（東京都）は、構造用合板市況の維持のために減産を継続していく方針を固めた。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -429,7 +519,9 @@
     "summary": "・カインズ（埼玉県本庄市）は６日、木造住宅用建築副資材流通のソニテック（東京都）の買収を発表した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -440,7 +532,9 @@
     "summary": "・本紙は７～８月に国産材製材工場を対象にアンケート調査を実施した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -451,7 +545,9 @@
     "summary": "・松本システムエンジニアリング（福岡県粕屋郡）は、伐倒・集材・搬出・植栽などさまざまな作業ができる新たな高性能林業機械「ティラノロボ」を開発している。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -462,7 +558,9 @@
     "summary": "・日鉄興和不動産（東京都）は、2029年10月に開業を目指す「（仮称）木挽ビルホテル計画」（東京都中央区銀座）の新築工事が着工したことを発表した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -473,7 +571,9 @@
     "summary": "・日本繊維版工業会（東京都）は９月11日、ＭＤＦとパーティクルボード（ＰＢ)の２製品で業界製品ＥＰＤを取得した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -484,7 +584,9 @@
     "summary": "・テクノウッドワークス（TWW、栃木県鹿沼市）は、地元金融機関から木材関連企業の再建要請を受け、鹿沼木工（同）と同社子会社トチシュー（同）の事業を譲受した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -502,7 +604,9 @@
         "source": "日刊木材新聞",
         "published_at": "2026-10-15 06:00"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -513,7 +617,9 @@
     "summary": "・日新ホールディングス（島根県松江市）傘下の合板メーカー、日新（鳥取県境港市）は、合板と同様の製法で直交した単板層を含むブロックから間柱や野縁などの羽柄材製品を製造する専用の設備を導入し、９月中旬から生産を開始した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -531,7 +637,9 @@
         "source": "日刊木材新聞",
         "published_at": "2026-10-15 06:00"
       }
-    ]
+    ],
+    "importance_score": 24,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -542,7 +650,9 @@
     "summary": "・ハウステック（群馬県高崎市）は、木曽桧を用いた住宅設備「雅月（みやびつき）」をフラッグシップモデルとして訴求を強化している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -550,10 +660,12 @@
     "url": "https://jfpj.jp/mokuzai_news/45274",
     "source": "日刊木材新聞",
     "published_at": "2026-10-15 06:00",
-    "summary": "・日本木材輸入協会が集計した８月までの主要木質資材（丸太、製材、木質ボード、構造用集成材）の輸入量は前年同期比で10％減少したほか、木質ボード、構造用集成材を除く五大外材（米加、欧州、ニュージーランド・チリ、ロシア、南洋）は同16％減と、ほと。",
+    "summary": "・輸入協・１～８月輸入統計　輸入資材、需要減・円安コスト高で10％減",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -564,7 +676,9 @@
     "summary": "・岸田木材（富山県氷見市）は、８月末の大雨被害からの復旧を進めている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -575,7 +689,9 @@
     "summary": "・秋田プライウッド（秋田市）フロアー事業部は、同社合板工場で製造した国産針葉樹フロア台板を基材とするシートフロア「ネマーレ」の販売を徐々に伸ばしている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -586,7 +702,9 @@
     "summary": "・大手ハウスメーカー・ビルダーの８月の受注金額は、11社中７社と６割が前年同月比減になった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -597,7 +715,9 @@
     "summary": "・吉野石膏（東京都）は６月１日出荷分から、石膏ボードを含むすべての石膏関連製品とソーラトン製品を現行比20％値上げすると発表した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -608,7 +728,9 @@
     "summary": "・東京ボード工業（東京都）は２日、11月１日に佐倉工場のパーティクルボード製造ラインで発生したプレス出口部での火災について検証した結果、操業再開は2026年５月初旬を見込んでいることを明らかにした。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -619,7 +741,9 @@
     "summary": "・YKK（東京都）とYKKK AP（同）は９月29日、YKK APの複数の経営幹部による交際費等の不適切な経費処理の疑義に関する調査報告書の内容を公表した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -630,7 +754,9 @@
     "summary": "・旭化成建材（東京都）は2026年4月1日受注分から、フェノールフォーム断熱材「ネオマフォーム」「ネオマゼウス」の一部サイズの販売を終了する。\n・加えて、同社は同日出荷分から両製品を値上げする。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -641,7 +767,9 @@
     "summary": "・ＤＡＩＫＥＮ（大阪市）は、ＭＤＦ並びにダイライト、インシュレーションボード、畳おもての一部を値上げする。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -652,7 +780,9 @@
     "summary": "・日刊紙の主な記事、週刊誌「木材建材ウイクリー」の特集内容などの他、随時速報も掲載しています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -663,7 +793,9 @@
     "summary": "・国産針葉樹合板は、中東情勢の緊迫化に伴い、市場で資材調達を優先する動きが加速し、合板メーカーの値上げも浸透し始めた。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -674,7 +806,9 @@
     "summary": "・唯一の日刊専門紙として75年の実績を持つ日刊木材新聞社の公式サイト。\n・日刊紙の主な記事、週刊誌「木材建材ウイクリー」の特集内容などの他、随時速報も掲載しています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -685,7 +819,9 @@
     "summary": "・ホルムズ海峡が事実上の封鎖となって約１カ月が経過するなか、原油から精製されるナフサの価格上昇と供給不安の影響が広がっている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -703,7 +839,9 @@
         "source": "住友林業",
         "published_at": "2026-10-15 00:30"
       }
-    ]
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -714,7 +852,9 @@
     "summary": "・国土緑化推進機構と連携し、2億2,000万円を投資して合計100ヘクタールの再生を支援。\n・Amazonは本日、公益社団法人 国土緑化推進機構（NALAPO）と連携し、国内の森林再生、生物多様性の保全、地域コミュニティと自然との結びつきの強化に取り組む森林再生・生物多様性保全活動の支援を開始したことを発表しました。\n・本プロジェクトの実施のため、Amazonは「Right Now Climate Fund（ライトナウ・クライメイト・ファンド）」を通じて5年間で2億2,000万円を投資します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -725,7 +865,9 @@
     "summary": "・東京都などが主催する国産木材の展示商談会「WOODコレクション2026 Plus」（モクコレ、11・12月開催。\n・これによると、生成AIやデジタルツールによる仕事の効率化や処理量の増加が進む中、「安心して働ける雰囲気」や「心の落ち着き・リラックス感」が感じられるオフィスへのニーズが高まっているという。\n・勤務先のオフィスで働き、生成AIやデジタルツールを利用する男女400人にツール普及後の変化について尋ねたところ、6割強（63.8％）が以前より短時間で成果を求められたり、処理量が増えたりしたと答えた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -736,7 +878,9 @@
     "summary": "・国産材100％と木質耐火・耐震技術で、都市木造の普及可能性を提示。\n・株式会社サンケイビル（本社：東京都千代田区大手町、代表取締役社長：飯島 一暢）・株式会社熊谷組（本社：東京都新宿区津久戸町、代表取締役社長：上田 真）・住友林業株式会社（本社：東京都千代田区大手町、代表取締役社長：光吉 敏郎）は、3社が事業・設計・施工に携わった木造・鉄骨造ハイブリッド構造のオフィスビル「KiGi AKIHABARA」が、一般社団法人日本ウッドデザイン協会主催の「ウッドデザイン賞2026」を受賞したことをお知らせします。\n・「KiGi AKIHABARA」は、東京都千代田区東神田の限られた敷地に、鉄骨造の中央コアと木造フレームを組み合わせた地上9階建てのオフィスビルです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -747,7 +891,9 @@
     "summary": "・【士幌】士幌高校（峯田雅大校長）で８日、木育マイスター２人を講師に招いた森林環境講座が開かれた。\n・生徒らは木を使ったストラップ作りや木質ペレットについて学び、森林資源の活用について考えた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -758,7 +904,9 @@
     "summary": "・夜間の作業というイメージがある鉄道の点検・整備ですが、13日小海線で労働環境の改善につなげようとJRが日中の作業を公開しました。\n・富山県高岡市の創業54年・管工事業者が破産　負債総額1億2000万円　ピーク時の売上高は2億円超。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -769,7 +917,9 @@
     "summary": "・TOKYO MOKUNAVI（東京都）のプレスリリース（2026年10月14日 11時00分）映画をきっかけに、東京の森へ「木もれびシネマの森」を11月3日（火・祝）に開催！\n・東京の森林や林業、とうきょうの木の魅力を発信するTOKYO MOKUNAVIでは、2026年11月3日（火・祝）、東京都あきる野市の自然人村にて、「木もれびシネマの森～映画と森のクラフトフェスティバル～」を開催します。\n・映画上映をはじめ、東京の森についてのお話や森歩き、とうきょうの木を使ったワークショップ、ウクレレと歌の演奏、薪割りや焚き火体験など、自然の中で一日を楽しめるさまざまな企画を用意しています。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -780,7 +930,9 @@
     "summary": "・おととし（2024年）5月、県内最大規模の山林火災が発生した南陽市の秋葉山で14日、森林再生のための植樹が行われました。\n・植樹には、ボランティアで参加した市民や地元の小・中学生などあわせておよそ300。\n・南陽市の秋葉山では、おととし（2024年）5月、9日にわたる山林火災が発生しました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -788,10 +940,12 @@
     "url": "https://www.shinmai.co.jp/news/article/gf01db6r6odk0fh4r7appin0",
     "source": "信濃毎日新聞",
     "published_at": "2026-10-15 00:30",
-    "summary": "・飯島町民有志が、町内の荒れた竹林の整備や竹の活用を図るグループ「いいじま竹守衆（ちくもりしゅう）」を結成した。\n・竹を地域資源と位置付け、竹を材料とした製品を開発して収益化し、継続的に竹林整備の費用に充てる循環の仕組み作りを目指す。\n・整備技術の習得や製品開発を検討するため、。",
+    "summary": "・飯島町民有志が、町内の荒れた竹林の整備や竹の活用を図るグループ「いいじま竹守衆（ちくもりしゅう）」を結成した。\n・竹を地域資源と位置付け、竹を材料とした製品を開発して収益化し、継続的に竹林整備の費用に充てる循環の仕組み作りを目指す。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -802,7 +956,9 @@
     "summary": "・森林に新たな価値を　ＣＯ２吸収量を売買し収益化へ､和歌山･田辺市の林業会社。\n・「木を伐らない林業」　育林特化の「中川」が環境大臣表彰、和歌山・田辺市。\n・ドングリから森を　中学生が育てた苗木を熊野古道近くの山に植樹､和歌山･田辺市。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -813,7 +969,9 @@
     "summary": "・ワタミ株式会社は、持続可能な循環型社会およびネイチャーポジティブ（自然再興）の実現に向けた取り組みの一環として、愛知県瀬戸市の県有林「海上の森」で産出した間伐材を、自社が運営する居酒屋店舗「三代目鳥メ。\n・愛知県が管理する県有林の木材を、民間事業者が飲食店店舗内装で利活用する取り組みとしては愛知県初の事例となります。\n・同社は今回の店舗利活用を通じ、地域の森を育てる活動と木材の地産地消（地域循環）をつなぐモデルの確立を推進していく方針です。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -824,7 +982,9 @@
     "summary": "・10月13日午後、島根県浜田市で、伐採された樹木の運搬をしていた50代の男性作業員が意識不明の状態で倒れているのが見つかり、その後、搬送先の病院で死亡が確認されました。\n・13日午後2時半ごろ、浜田市金。\n・13日午後2時半ごろ、浜田市金城町波佐の山中で樹木の運搬作業をしていた広島県北広島町の会社員・宮本一郎さん（59）が意識不明の状態で倒れているのを同僚の作業員が発見しました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -835,7 +995,9 @@
     "summary": "・須磨区と垂水区にまたがる、自然豊かな「多井畑西地区」で、実践的に『里山再生を学べる体験会』が開催されます。\n・多井畑西地区里地里山再生・活動体験会。\n・2026年11月22日（日）・12月 26日（土）／2027年1月24日（日）・2月27日（土） 多井畑西地区交流広場。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -843,10 +1005,12 @@
     "url": "https://woman.excite.co.jp/article/lifestyle/rid_atpress_640613/",
     "source": "woman.excite.co.jp",
     "published_at": "2026-10-15 00:30",
-    "summary": "・HIGUCHI GROUP（本社：長崎県西彼杵郡時津町／代表：樋口 益次郎）は、2026年10月18日（日）に諫早市干拓の里で開催される「ながさき伐木チャンピオンシップ2026」に、真樹フォレスト株式会社に所属する入社1年目の社員2名（森田穂香、松本康宏）が出場することをお知らせいたします。\n・■ 自然に関わる仕事を目指し、未経験から林業へ。\n・今回出場するのは、森田穂香と松本康宏の2名です。",
+    "summary": "・HIGUCHI GROUP（本社：長崎県西彼杵郡時津町／代表：樋口 益次郎）は、2026年10月18日（日）に諫早市干拓の里で開催される「ながさき伐木チャンピオンシップ2026」に、真樹フォレスト株式会社に所属する入社1年目の社員2名（森田穂香、松本康宏）が出場することをお知らせいたします。\n・今回出場するのは、森田穂香と松本康宏の2名です。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -857,7 +1021,9 @@
     "summary": "・佐賀県産木材の普及を図る県木材協会の前田春実会長が13日、県庁を訪れ、5月に会長に就任したことを山口祥義知事に報告した。\n・林業や木材産業の現状に関して意見交換し、県産木材の活用促進の展望などを共有した。\n・協会は現在169社が加盟している。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -868,6 +1034,8 @@
     "summary": "・木を育てる現場の見学やスマート林業の調査体験などを通じて、地域林業への理解・関心を高める「地域の林業見学ツア。\n・上越市農林水産業振興協議会林業部会主催。\n・当日は、上越市役所木田第二庁舎を出発、妙高市内で頸南森林組合の説明、木を育てる現場を見学、道の駅あらいで昼食後、中郷区内でスマート林業体験を行い、市役所に戻る。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   }
 ]

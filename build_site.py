@@ -123,21 +123,31 @@ def is_noise_text(line: str) -> bool:
         return True
     return False
 
+def is_incomplete_sentence(s: str) -> bool:
+    """助詞や読点で途切れている不完全な文（例: '林野庁や' '対策を' 等）を検知"""
+    t = s.strip().rstrip('。！？!?')
+    if not t:
+        return True
+    if t.endswith(('…', '...', '..', '、', '，', '・', '「', '『', '（', '(')):
+        return True
+    if re.search(r'(?:から|など|ため|ほか|ついて|よると|対し|向け|伴い|おける|として|による|および|または|ともに|ついては|関して|[やとのをにへでがはも])$', t):
+        return True
+    return False
+
 def rescue_meta_desc(raw_desc: str) -> str:
     """末尾が…で切れているメタディスクリプションから、完全な文（「。」で終わる文）を救出"""
     if not raw_desc or is_garbled_text(raw_desc):
         return ''
     raw_desc = raw_desc.strip()
-    if not (raw_desc.endswith('…') or raw_desc.endswith('...') or raw_desc.endswith('..')):
-        return raw_desc
-    # 句点「。」で分割して完全な文だけを救出
     parts = re.split(r'。', raw_desc)
     valid_parts = []
-    for p in parts:
+    for idx, p in enumerate(parts):
         p = p.strip()
         if not p or p.endswith(('…', '...', '..')):
             continue
-        if len(p) >= 15 and not is_noise_text(p) and not is_garbled_text(p):
+        if idx == len(parts) - 1 and not raw_desc.endswith(('。', '！', '!', '？', '?')):
+            continue
+        if len(p) >= 15 and not is_noise_text(p) and not is_garbled_text(p) and not is_incomplete_sentence(p):
             valid_parts.append(p + '。')
     if valid_parts:
         return ''.join(valid_parts)
@@ -222,7 +232,7 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
             if len(text) > 20 and not is_noise_text(text) and not is_garbled_text(text):
                 if text not in paragraphs:
                     paragraphs.append(text)
-            if len(paragraphs) >= 6:
+            if len(paragraphs) >= 8:
                 break
 
         if len(paragraphs) < 3:
@@ -233,10 +243,10 @@ def fetch_article_content(url: str) -> Tuple[str, str]:
                 line_norm = clean_for_dedup(line)
                 if not any(SequenceMatcher(None, clean_for_dedup(p), line_norm).ratio() > 0.65 for p in paragraphs):
                     paragraphs.append(line)
-                if len(paragraphs) >= 8:
+                if len(paragraphs) >= 10:
                     break
                 
-        body_text = "\n".join(paragraphs[:6])
+        body_text = "\n".join(paragraphs[:8])
         return desc, body_text
     except Exception:
         return "", ""
@@ -246,11 +256,11 @@ def classify_category(title: str, text: str) -> str:
     combined = (title + " " + text).lower()
     
     categories = [
-        ("林政・施策", ["林野庁", "森林環境税", "補助金", "森林法", "計画", "施策", "審議会", "知事", "自治体", "交付金", "税"]),
-        ("建築・木材利用", ["木造", "clt", "中高層", "建築", "木質空間", "非住宅", "公共建築", "住宅", "建材", "内装", "木育"]),
-        ("流通・市場", ["木材価格", "原木", "丸太", "製材", "輸出", "輸入", "合板", "市況", "セリ", "共販", "市場", "企業", "新商品"]),
-        ("スマート林業・技術", ["ドローン", "機械", "高性能", "ict", "自動化", "スマート林業", "gps", "安全", "バイオマス", "技術", "研究", "開発"]),
-        ("森林管理・地域", ["間伐", "造林", "再造林", "植林", "森林組合", "治山", "j-クレジット", "カーボン", "間伐材", "花粉", "苗木", "獣害", "鹿"])
+        ("林政・施策", ["林野庁", "森林環境税", "森林環境譲与税", "補助金", "森林法", "計画", "施策", "審議会", "知事", "自治体", "交付金", "税", "白書", "予算"]),
+        ("建築・木材利用", ["木造", "clt", "中高層", "建築", "木質空間", "非住宅", "公共建築", "住宅", "建材", "内装", "木育", "家具", "集成材"]),
+        ("流通・市場", ["木材価格", "原木", "丸太", "製材", "輸出", "輸入", "合板", "市況", "セリ", "共販", "市場", "企業", "新商品", "工場", "プレカット"]),
+        ("スマート林業・技術", ["ドローン", "機械", "高性能", "ict", "自動化", "スマート林業", "gps", "安全", "バイオマス", "技術", "研究", "開発", "レーザー", "森林総研"]),
+        ("森林管理・地域", ["間伐", "造林", "再造林", "植林", "森林組合", "治山", "j-クレジット", "カーボン", "間伐材", "花粉", "苗木", "獣害", "鹿", "早生樹", "育樹祭"])
     ]
     
     for cat_name, keywords in categories:
@@ -285,9 +295,45 @@ def generate_summary_with_gemini(title: str, body: str, api_key: str) -> Optiona
         print(f"Gemini API Error: {e}")
     return None
 
+def score_sentence_importance(title: str, sentence: str, index: int) -> float:
+    """文の重要度スコアを算出（キーワード密度・数値ファクト・結論表現・位置ボーナス）"""
+    score = 0.0
+    t_tokens = extract_meaningful_tokens(title)
+    s_tokens = extract_meaningful_tokens(sentence)
+    overlap = len(t_tokens.intersection(s_tokens))
+    score += overlap * 3.0
+
+    # 数値データ・日付・単位（5W1H・林業統計の具体性）
+    facts = re.findall(r'\d+(?:年|月|日|時|分|人|名|件|円|万円|億円|%|％|歳|本|棟|km|m|ha|ヘクタール|m3|立方メートル|トン|t|倍|回|社)', sentence)
+    score += min(len(facts) * 2.5, 7.5)
+
+    # ニュースの核心アクション動詞
+    if re.search(r'(?:発表|決定|開始|開催|判明|完成|発売|開発|公開|策定|受賞|合意|オープン|開幕|設置|導入|再開|確認|贈呈|選出|実施|認定|採択|稼働)', sentence):
+        score += 3.5
+
+    # リード文（第1〜2文）ボーナス
+    if index == 0:
+        score += 4.0
+    elif index == 1:
+        score += 2.5
+    elif index == 2:
+        score += 1.0
+
+    # 適切な文字数ボーナス
+    if 25 <= len(sentence) <= 115:
+        score += 2.0
+    elif len(sentence) > 150:
+        score -= 2.0
+
+    # 挨拶・ブログ風定型文の減点
+    if re.search(r'(?:こんにちは|こんばんは|おはようございます|いかがでしたか|ご紹介します|お伝えします|今回は)', sentence):
+        score -= 8.0
+
+    return score
+
 def create_auto_summary(title: str, desc: str, body: str) -> str:
-    """自動要約生成（重複文・タイトル重複を徹底排除）"""
-    base_text = (desc + "\n" + body).strip() if (desc and body) else (desc if desc else body)
+    """重要度スコアリング搭載の自動要約エンジン（不完全文・重複・タイトル反復を徹底排除）"""
+    base_text = (body + "\n" + desc).strip() if (body and desc) else (body if body else desc)
     if not base_text or is_garbled_text(base_text):
         return f"・{title}"
     clean = re.sub(r'【写真を見る】.*', '', base_text)
@@ -296,33 +342,35 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
     clean = clean.strip()
 
     title_norm = clean_for_dedup(title)
-    raw_sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 10 and not is_garbled_text(s)]
+    raw_sentences = [s.strip() for s in re.split(r'。|\n', clean) if len(s.strip()) > 12 and not is_garbled_text(s)]
 
-    unique_sentences: List[str] = []
-    for s in raw_sentences:
-        # ノイズ文（日付、会員誘導、おすすめ記事、広告など）はスキップ
+    candidates: List[Tuple[int, float, str]] = []
+    accepted_norms: List[str] = []
+
+    for idx, s in enumerate(raw_sentences):
         if is_noise_text(s):
             continue
-        # タイトルとの関連性が全くない文（無関係な別記事や広告リンク）はスキップ
+        if is_incomplete_sentence(s):
+            continue
         if not is_relevant_to_title(title, s):
             continue
-        # 末尾が … や ... で切れている不完全な文はスキップ
-        if s.endswith('…') or s.endswith('...') or s.endswith('..'):
-            continue
         s_norm = clean_for_dedup(s)
-        if len(s_norm) < 10:
+        if len(s_norm) < 12:
             continue
-        # タイトルと類似（70%以上一致、またはタイトルの包含）する文をスキップ
         if SequenceMatcher(None, title_norm, s_norm).ratio() > 0.70:
             continue
         if s_norm in title_norm or (len(s_norm) < 60 and title_norm in s_norm):
             continue
-        # 既に選んだ要約文と類似（60%以上一致）する文をスキップ
-        if any(SequenceMatcher(None, clean_for_dedup(u), s_norm).ratio() > 0.60 for u in unique_sentences):
+        if any(SequenceMatcher(None, u_norm, s_norm).ratio() > 0.58 for u_norm in accepted_norms):
             continue
-        unique_sentences.append(s)
-        if len(unique_sentences) >= 3:
-            break
+
+        sc = score_sentence_importance(title, s, idx)
+        candidates.append((idx, sc, s))
+        accepted_norms.append(s_norm)
+
+    top_candidates = sorted(candidates, key=lambda x: x[1], reverse=True)[:3]
+    top_candidates.sort(key=lambda x: x[0])
+    selected_sentences = [x[2] for x in top_candidates]
 
     def finish_sentence(text: str) -> str:
         t = text.strip()
@@ -330,12 +378,27 @@ def create_auto_summary(title: str, desc: str, body: str) -> str:
             return t + '。'
         return t
 
-    if len(unique_sentences) >= 2:
-        return "\n".join(f"・{finish_sentence(s)}" for s in unique_sentences[:3])
-    elif len(unique_sentences) == 1:
-        return f"・{finish_sentence(unique_sentences[0])}"
+    if len(selected_sentences) >= 2:
+        return "\n".join(f"・{finish_sentence(s)}" for s in selected_sentences[:3])
+    elif len(selected_sentences) == 1:
+        return f"・{finish_sentence(selected_sentences[0])}"
     else:
         return f"・{title}"
+
+def sanitize_existing_summary(title: str, summary: str) -> str:
+    """既存データの要約に不完全な文が含まれていればクリーンアップ"""
+    if not summary:
+        return f"・{title}"
+    lines = [l.strip() for l in summary.splitlines() if l.strip()]
+    valid_lines = []
+    for l in lines:
+        core = l.lstrip('・• ').strip()
+        if is_incomplete_sentence(core):
+            continue
+        valid_lines.append(f"・{core if core.endswith(('。', '！', '!', '？', '?')) else core + '。'}")
+    if valid_lines:
+        return "\n".join(valid_lines)
+    return f"・{title}"
 
 def guess_source_from_url(url: str, default: str = "WEB") -> str:
     """URLドメインから報道メディア・企業名を推定"""
@@ -628,6 +691,82 @@ def fetch_ikoma_blog_items() -> List[Dict[str, Any]]:
         print(f"Ikoma blog fetch error: {e}")
         return []
 
+def fetch_rinya_press_items() -> List[Dict[str, Any]]:
+    """林野庁 プレスリリース（https://www.rinya.maff.go.jp/j/press/rss.xml）から最新報道発表を取得"""
+    feed_url = "https://www.rinya.maff.go.jp/j/press/rss.xml"
+    print(f"林野庁プレスリリース からフィード取得中: {feed_url}")
+    try:
+        f = feedparser.parse(feed_url)
+        items = []
+        for e in f.entries[:18]:
+            href = e.link
+            title = re.sub(r'\s+', ' ', e.title).strip()
+            if hasattr(e, 'published_parsed') and e.published_parsed:
+                dt_utc = datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
+                dt_jst = dt_utc.astimezone(JST)
+                entry_date = dt_jst.strftime('%Y-%m-%d')
+                pub_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+            elif hasattr(e, 'updated_parsed') and e.updated_parsed:
+                dt_utc = datetime(*e.updated_parsed[:6], tzinfo=timezone.utc)
+                dt_jst = dt_utc.astimezone(JST)
+                entry_date = dt_jst.strftime('%Y-%m-%d')
+                pub_str = dt_jst.strftime('%Y-%m-%d %H:%M')
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+                pub_str = f'{entry_date} 14:00'
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '林野庁 報道発表',
+                'article_date': entry_date,
+                'published_at': pub_str
+            })
+        print(f"林野庁プレスリリース から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"Rinya press fetch error: {e}")
+        return []
+
+def fetch_ffpri_press_items() -> List[Dict[str, Any]]:
+    """森林総合研究所（https://www.ffpri.go.jp/ffpri.html）から最新の研究成果・プレスリリースを取得"""
+    url = "https://www.ffpri.go.jp/ffpri.html"
+    headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    print(f"森林総合研究所 から記事取得中: {url}")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = r.apparent_encoding or 'utf-8'
+        soup = BeautifulSoup(r.text, 'html.parser')
+        items = []
+        seen = set()
+        for a in soup.find_all('a', href=re.compile(r'/press/\d{4}/')):
+            raw_href = a['href']
+            href = raw_href if raw_href.startswith('http') else "https://www.ffpri.go.jp" + raw_href
+            if href in seen:
+                continue
+            title = re.sub(r'\s+', ' ', a.get_text()).strip()
+            if len(title) < 8:
+                continue
+            seen.add(href)
+            m_date = re.search(r'/press/(\d{4})/(\d{4})(\d{2})(\d{2})', href)
+            if m_date:
+                entry_date = f"{m_date.group(2)}-{m_date.group(3)}-{m_date.group(4)}"
+            else:
+                entry_date = datetime.now(JST).strftime('%Y-%m-%d')
+            items.append({
+                'title': title,
+                'url': href,
+                'source': '森林総合研究所',
+                'article_date': entry_date,
+                'published_at': f"{entry_date} 10:00"
+            })
+            if len(items) >= 10:
+                break
+        print(f"森林総合研究所 から {len(items)} 件を取得しました。")
+        return items
+    except Exception as e:
+        print(f"FFPRI fetch error: {e}")
+        return []
+
 def clean_title_for_clustering(title: str) -> str:
     """タイトルの記号やメディア表記を除去して比較用文字列を作成"""
     t = re.sub(r'[\(（【\[].*?[\)）】\]]', '', title)
@@ -662,10 +801,41 @@ def are_articles_same_topic(a1: dict, a2: dict) -> bool:
         
     return False
 
+def compute_article_importance(item: Dict[str, Any]) -> int:
+    """記事の注目度・重要度スコアを算出（複数社報道・専門メディア・重要キーワード・要約充実度）"""
+    score = 0
+    related_cnt = len(item.get("related_articles", []))
+    score += related_cnt * 15
+
+    source = item.get("source", "")
+    if any(s in source for s in ["林野庁", "林政ニュース", "日刊木材新聞", "FOREST JOURNAL", "森林総合研究所", "田中淳夫", "新建ハウジング"]):
+        score += 6
+
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    combined = title + " " + summary
+
+    high_impact_kws = [
+        "林野庁", "森林環境税", "森林環境譲与税", "補助金", "予算", "白書", "法改正",
+        "CLT", "木造", "国産材", "J-クレジット", "スマート林業", "花粉", "再造林",
+        "原木", "製材", "合板", "バイオマス", "受賞", "初", "決定", "発表", "新技術", "開発"
+    ]
+    matched_impact = sum(1 for kw in high_impact_kws if kw.lower() in combined.lower())
+    score += min(matched_impact * 3, 15)
+
+    bullet_cnt = len([l for l in summary.splitlines() if l.strip().startswith('・')])
+    if bullet_cnt >= 3:
+        score += 6
+    elif bullet_cnt == 2:
+        score += 3
+
+    return score
+
 def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """同じトピックの記事を1つの代表記事にまとめ、他を related_articles に格納"""
+    """同じトピックの記事を1つの代表記事にまとめ、重要度スコアと注目フラグを付与"""
     clusters: List[Dict[str, Any]] = []
     for item in articles:
+        item["summary"] = sanitize_existing_summary(item.get("title", ""), item.get("summary", ""))
         existing_related = item.pop("related_articles", [])
         candidates = [item] + existing_related
         
@@ -686,7 +856,20 @@ def cluster_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             if not matched:
                 cand["related_articles"] = []
                 clusters.append(cand)
-                
+
+    for c in clusters:
+        c["importance_score"] = compute_article_importance(c)
+        c["is_featured"] = False
+
+    if clusters:
+        ranked = sorted(clusters, key=lambda x: (x.get("importance_score", 0), x.get("published_at", "")), reverse=True)
+        featured_limit = 3 if len(clusters) >= 6 else (2 if len(clusters) >= 3 else 1)
+        featured_count = 0
+        for r in ranked:
+            if r.get("importance_score", 0) >= 12 and featured_count < featured_limit:
+                r["is_featured"] = True
+                featured_count += 1
+
     return clusters
 
 def build_static_site():
@@ -717,13 +900,14 @@ def build_static_site():
             for r in item.get("related_articles", []):
                 known_urls.add(r.get("url"))
 
-    # 1. Google Newsから全国の林業・木材産業ニュースを取得
+    # 1. Google Newsから全国の林業・木材産業ニュースを取得（網羅クエリ拡充）
     queries = [
         "林業",
-        "木材産業 OR 国産材",
-        "森林組合 OR 林野庁",
-        "製材 OR 木造建築 OR CLT",
-        "森林環境税 OR 再造林"
+        "木材産業 OR 国産材 OR 原木市場",
+        "森林組合 OR 林野庁 OR 森林環境税",
+        "製材 OR 木造建築 OR CLT OR 合板",
+        "スマート林業 OR 高性能林業機械 OR 再造林",
+        "J-クレジット 森林 OR 木質バイオマス OR 花粉症対策 スギ"
     ]
     seen_links = set()
     raw_google_entries = []
@@ -741,27 +925,29 @@ def build_static_site():
         except Exception as ex:
             print(f"Google RSS fetch error ({q}): {ex}")
 
-    # 2. 専門情報ソース（Blogspot, 林政ニュース, FOREST JOURNAL, 日刊木材新聞, 田中淳夫氏ブログ）から取得
+    # 2. 専門情報ソース・公的機関（Blogspot, 林政ニュース, FOREST JOURNAL, 日刊木材新聞, 田中淳夫氏ブログ, 林野庁, 森林総研）から取得
     specialized_items = []
     specialized_items.extend(fetch_ringyou_blog_items(days_limit=7))
     specialized_items.extend(fetch_rinsei_news_items())
     specialized_items.extend(fetch_forest_journal_items())
     specialized_items.extend(fetch_jfpj_news_items())
     specialized_items.extend(fetch_ikoma_blog_items())
+    specialized_items.extend(fetch_rinya_press_items())
+    specialized_items.extend(fetch_ffpri_press_items())
 
     # 既に登録済みのURLはスキップして高速化
     new_specialized_items = [it for it in specialized_items if it.get('url') not in known_urls]
 
-    print(f"情報ソース取得完了: Google News {len(raw_google_entries)} 件, 専門メディア/ブログ {len(new_specialized_items)} 件（新規）")
-    print("並列解析および要約生成を開始...")
+    print(f"情報ソース取得完了: Google News {len(raw_google_entries)} 件, 専門メディア/公的機関 {len(new_specialized_items)} 件（新規）")
+    print("並列解析および高度要約生成を開始...")
     
     new_articles = []
-    with ThreadPoolExecutor(max_workers=6) as executor:
+    with ThreadPoolExecutor(max_workers=8) as executor:
         futures = []
         # Google News のタスク
         for entry in raw_google_entries:
             futures.append(executor.submit(process_single_entry, entry, gemini_key))
-        # 専門メディア/ブログ のタスク
+        # 専門メディア/公的機関 のタスク
         for item in new_specialized_items:
             futures.append(executor.submit(
                 process_article_item,

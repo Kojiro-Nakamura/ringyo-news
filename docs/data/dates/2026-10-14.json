@@ -8,7 +8,9 @@
     "summary": "・税制、特に付加価値税（VAT）の実施における不備は、木材産業の企業のキャッシュフロー、原材料の輸入、生産計画に影響を与えている。\n・10月14日にホーチミン市手工芸・木材加工協会（HAWA）がホーチミン市中小企業協会（HCMSME）と共同で開催したワークショップ「原木および半加工木材に対するVAT ― 実務上の障害と解決策」では、多くの企業が当局に対し、商品の分類基準の明確化、ガイドラインの標準化、障害の解消とコスト削減のための解決策の提供を求めた。\n・HAWAの会長であるフン・クオック・マン氏によると、木材および木材製品は、 農業部門に高い輸出価値をもたらす製品群の一つである。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -16,10 +18,12 @@
     "url": "https://newsdig.tbs.co.jp/articles/gallery/2959433",
     "source": "TBS NEWS DIG",
     "published_at": "2026-10-14 19:31",
-    "summary": "・国内初 大規模木造建築でありながら 環境省の省エネ基準ＺＥＢに適合 鳥取県米子市で構造見学会開催",
+    "summary": "・国内初 大規模木造建築でありながら 環境省の省エネ基準ＺＥＢに適合 鳥取県米子市で構造見学会開催。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -30,7 +34,9 @@
     "summary": "・ベトナム女性連合の設立96周年（1930年10月20日～2026年10月20日）と10月20日のベトナム女性の日を記念して、林業大学の学長は、大学のすべての女性職員、講師、従業員、学生、研修生、研究者に対し、祝辞、挨拶、感謝の意を表す書簡を送付します。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -38,10 +44,12 @@
     "url": "https://www.chunichi.co.jp/article/1325098",
     "source": "中日新聞Web",
     "published_at": "2026-10-14 18:00",
-    "summary": "・尾鷲市の中部電力尾鷲三田火力発電所跡地の利活用の柱として、地元経済界や市が力を入れてきた大型製材工場の誘致計画が、事実上白紙になった。\n・フリーランス記者の会見出席拒否問題、三重県が一転して出席認める方針に　弁明の機会を。\n・キタキタ！ヴィアティン三重がJFL参入後初の4連勝　破竹の勢いで順位も暫定6位へ。",
+    "summary": "・尾鷲市の中部電力尾鷲三田火力発電所跡地の利活用の柱として、地元経済界や市が力を入れてきた大型製材工場の誘致計画が、事実上白紙になった。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -52,7 +60,9 @@
     "summary": "・2026年9月16日（水）～18日（金）、林業イノベーションが集まる展示会「FORESTRISE 2026（第5回次世代森林産業展）」が、東京ビッグサイトで開催された。\n・出展したブースのなかから、晃洋設計測量の山林管理システム「山守くん」とパスコの輸配送管理システム「LogiSTAR Geospatial LINKS」を紹介する。\n・リポート➀➤誰でも使えるWeb-GISから立木の強度測定まで！ 森林の価値を高める次世代技術。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -70,7 +80,9 @@
         "source": "Newscast.jp",
         "published_at": "2026-10-14 15:15"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -94,7 +106,9 @@
         "source": "PR TIMES",
         "published_at": "2026-10-14 13:01"
       }
-    ]
+    ],
+    "importance_score": 45,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-14",
@@ -105,7 +119,9 @@
     "summary": "・今回の「ぐんま森林・林業イノベーション展示会」では、そうした取り組みをさらに具体的な事業化や実証へとつなげることを目指し、森林・林業分野の先進技術や新たなビジネスモデルが紹介されます。\n・群馬県の森林・林業に、新たな技術やビジネスの力を掛け合わせる「もりビズぐんま」。\n・2026年10月30日（金）、群馬県庁を会場に「ぐんま森林・林業イノベーション展示会」が開催されます。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -116,7 +132,9 @@
     "summary": "・北海道農政事務所ホームページ。\n・（株）中川建設は、北海道立総合研究機構林業試験場道北支場の錦織支場長から、中川町の森に自生する「モリイチゴ」の活用について助言を受けたことをきっかけに、関連会社の翔北農園で栽培を開始しました。\n・モリイチゴは一粒ごとに味わいが異なり、手のひらにのせてまとめて食べると、さまざまな風味が重なり合う奥深い味わいを楽しめます。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -124,10 +142,12 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261014de59067",
     "source": "NHKニュース",
     "published_at": "2026-10-14 12:10",
-    "summary": "・林野火災に備え消防が森林組合やドローン会社と協定 立山町",
+    "summary": "・林野火災に備え消防が森林組合やドローン会社と協定 立山町。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -138,7 +158,9 @@
     "summary": "・チェーンソーの世界的メーカーであるスチール（STIHL、本社＝ドイツ）の日本法人・（株）スチール（栃⽊県上三川町、中⼭健太郎・代表取締役、ブランド表記は「シュティール」）は、電動チェーンソーなどに用いるバッテリー（蓄電池）の新製品発表会を10月８日に東京都内で開催した。\n・披露した新型バッテリーの名称は、「ALLPRO（オールプロ）」。\n・チェーンソーの使用にあたっては、騒音・環境規制への対応や作業効率の向上、作業者の健康・安全への配慮などが求められており、低騒音・低振動のバッテリー製品に対する注目度が高まっている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -149,7 +171,9 @@
     "summary": "・NPO法人才の木は、10月24日（土）午後２時から高知県高知市のちより街テラス第２会議室で20周年記念トークカフェ「木材と街と人と～高知の木材事情～」を開催し、オンライン配信も行う。\n・（有）戸田商行代表取締役の戸田実知子氏と高知県林業振興・環境部木材産業振興課長の小野田勝氏が話題提供をした後、意見交換をする。\n・高知県（濱田省司知事）と東京都の品川区（森澤恭子区長）は、建築関係者らを対象にした木材の安定調達に関する初めての勉強会を１月23日に品川区中小企業センターで開催した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -160,7 +184,9 @@
     "summary": "・宮城県加美町で計画される風力発電事業に反対する住民団体「加美郡の風力発電を考えるネットワーク」などは7日、林野庁を訪れ、環境保全のため事業者に国有林を貸し付けないよう求める要望書を提出した。\n・要望書は、計画地に森林生態系の保全を図る国指定の「緑の回廊」が含まれ、ガンなど渡り鳥のルートになっていると指摘。\n・福島県会津若松市で計画される風力発電事業を危惧する「会津の自然と景観を守る会」の木村保幸会長も同様の要望書を提出。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -171,7 +197,9 @@
     "summary": "・農林水産省は、総務省、文部科学省、経済産業省、国土交通省、環境省と連携し、10月の「木材利用促進月間」に木材利用の普及啓発を集中的に展開する。\n・10月8日は「木材利用促進の日」と位置付け、「ウッド・チェンジ」を合言葉に、地方公共団体や産学と連携しながら木材利用への関心と理解を促す。\n・木材利用促進の日と月間は、2021年10月施行の「都市（まち）の木造化推進法」に基づき設定された。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -182,7 +210,9 @@
     "summary": "・日経クロステックでは建築・住宅・土木の分野における最新記事を紹介するニューズレター「建築・土木ウオッチ」を配信しています。\n・約2万8000カ所の溶接不良が見つかった建設中の阪神なんば線淀川橋梁。\n・架け替え完了が3年遅れの2034年度になることが明らかになりました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -193,7 +223,9 @@
     "summary": "・林業や製材などを手掛ける森庄銘木産業が、木の魅力を発信するショップをオープンしました。\n・森庄銘木産業は１９２７年に創業し、みがき丸太などの製造販売を行っています。\n・来年の１００周年を前に１０月、木で作った食器や小物などを一般の消費者に販売する「ＰＲＥＭＩＵＭ　ＷＯＯＤ　ＳＨＯＰ　ＭＯＲＩＴＯ)」を工場横の倉庫にオープンしました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -204,7 +236,9 @@
     "summary": "・県産木材を使って、ものづくりの楽しさを感じてもらおうと、酒田市の小学校で地元の建設業者による木工教室が開かれました。\n・この出前授業は、酒田飽海建設総合組合が毎年行っています。\n・13日は、職人の指導のもと、酒田市立松陵小学校の6年生22人が、県産のスギを使ってDVDラックづくりに挑戦しました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -215,7 +249,9 @@
     "summary": "・福井県あわら市の芦原温泉駅西口の「金津本陣にぎわい広場」に、１２月中旬オープンを目指して建設が進むマクドナルドの店舗見学会が１０月９日行われた。\n・約６割が県産材の木造平屋建てになる予定で、今は基礎や柱、はりが完成。\n・参加者は県産ヒノキの土台や構造などを見て回った。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -226,7 +262,9 @@
     "summary": "・［一般社団法人丹波森林LSC］森林体験×健康×働き方に、自然資本レポートを組み合わせた1泊2日のプログラム。\n・一般社団法人丹波森林LSC（兵庫県丹波地域）は、森林や地域資源と企業活動をつなぐ新たな取り組みとして、兵庫県丹波篠山市の「ユニトピアささやま」を舞台に開催される、企業向け森林体験型研修プログラムの第1回モニター会についてお知らせします。\n・Amazon、日本全国20 か所で森林再生と生物多様性保全活動に投資。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -237,7 +275,9 @@
     "summary": "・』」が10月17日、西田屋（伊那市手良）とその周辺の山で開催される。\n・（伊那経済新聞） かつて人の暮らしと共にあった山に再び手を入れ、昔。\n・焼肉店で「O157」による食中毒　上タン、上ロース、白センマイ刺し、冷麺を食べた30代男性と40代女性が腹痛や下痢など症状　特徴・症状・予防方法は　長野市。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -248,7 +288,9 @@
     "summary": "・島根県奥出雲町で１０日、小学校４年生以下の子どもと親に木の温かみを感じてもらおうと、ヒノキ材を使った人形作り教室があった。\n・楽しみながらキットを組み立て、オリジナルの木製ロボットを完成させた。\n・島根大の山下晃功名誉教授（８１）が学習用に考案した「ロボ木ー」（高さ２０センチ、幅８センチ）といわれる人形を作った。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-14",
@@ -259,6 +301,8 @@
     "summary": "・熊本県の天草地域の松が立ち枯れする被害がここ数年続いている。\n・関係機関は防止に力を入れているが、人が入れない急傾斜地などの「防除の空白地帯」での対策は容易でない。\n・熊本県はドローンを使った薬剤散布も検討。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]

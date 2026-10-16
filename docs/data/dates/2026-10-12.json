@@ -5,7 +5,7 @@
     "url": "https://tver.jp/episodes/epuzg0fjew",
     "source": "TVer",
     "published_at": "2026-10-12 18:58",
-    "summary": "・《林業のプロを育てよう！》林業大学校で体験型オープンキャンパス【高知】",
+    "summary": "・《林業のプロを育てよう！》林業大学校で体験型オープンキャンパス【高知】。",
     "summary_type": "auto",
     "category": "業界・一般",
     "related_articles": [
@@ -21,7 +21,9 @@
         "source": "日テレNEWS NNN",
         "published_at": "2026-10-12 17:56"
       }
-    ]
+    ],
+    "importance_score": 30,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -45,7 +47,9 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-12 18:50"
       }
-    ]
+    ],
+    "importance_score": 36,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -63,7 +67,9 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-12 17:55"
       }
-    ]
+    ],
+    "importance_score": 18,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -74,7 +80,9 @@
     "summary": "・（ドンナイ省）－10月12日、ドンナイ木材工芸協会（Dowa）は、「EUDR - サプライチェーンプロセスと衛星データ検証ガイドライン」に関する研修コースを開催し、企業が規制やコンプライアンス要件を更新し、欧州連合（EU）市場への輸出に必要な書類を準備できるよう支援した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -92,7 +100,9 @@
         "source": "47NEWS",
         "published_at": "2026-10-12 15:00"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -110,7 +120,9 @@
         "source": "毎日新聞",
         "published_at": "2026-10-12 09:22"
       }
-    ]
+    ],
+    "importance_score": 30,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-12",
@@ -121,7 +133,9 @@
     "summary": "・釧路市の釧路白樺幼稚園で、木に親しんでもらうワークショップが行われた。\n・年少から年長までの園児計19人が参加し、木材を切るなどして森の大切さを学んだ。\n・Google検索で北海道新聞デジタルを見つけやすく。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -132,7 +146,9 @@
     "summary": "・埼玉県は9日、秩父市の中津川県有林にある「県森林科学館」を2027年度末に廃止する方針を明らかにした。\n・将来コストの試算で修繕よりも廃止の方が安く済むことが判明し、廃止を決めた。\n・1994年に森林や林業に関する学習施設として建設され、展示室や木工工作室、つり橋などを常設。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-12",
@@ -143,6 +159,8 @@
     "summary": "・伊豆市修善寺のギャラリーショップ「gallery kanko（ギャラリー観光）」で、同市城の木工作家菊池奈美さん（60）が手がけた木製品を紹介する企画展が開かれている。\n・いずれも間伐材や風倒木を活用したという。\n・伐採作業やろくろで割木を削り出す制作風景を捉えた映像も上映している。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]

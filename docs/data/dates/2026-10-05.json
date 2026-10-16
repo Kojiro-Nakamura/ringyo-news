@@ -8,7 +8,9 @@
     "summary": "・大和ハウス工業は、木造戸建住宅の新商品「GRAN SESSION（グラン セッション）」を発売した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-05",
@@ -19,7 +21,9 @@
     "summary": "・スウェーデン北部の都市シェルレフテオーに建つ〈サラ・カルチャーセンター〉は、White Arkitekterが設計を手がけた、美術館や劇場、図書館、ホテルからなる大規模な複合文化施設です。\n・高さ75m・地上20階建てに及ぶ世界最高層クラスの「全面木造建築」であり、パッシブデザインと融合させることで、ライフサイクル全体での「カーボンネガティブ」の達成が見込まれています。\n・スウェーデンの自然保護区に建つねじれる展望タワー - コンピュテーショナル技術で実現する 2×4材と金属リングからなる〈ケルヴェン展望タワー〉。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-05",
@@ -30,7 +34,9 @@
     "summary": "・ジャングリア沖縄が大赤字のニュースが流れている。\n・私自身は行くこともないし行く予定もないが、当初は「沖縄のジャングルをリゾートにできるか」と興味を持っていた。\n・私の求める森林リゾートではない。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-05",
@@ -38,10 +44,25 @@
     "url": "https://news.yahoo.co.jp/articles/117597508fcf33ea1378351967fd3890ea30dafd",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-05 16:00",
-    "summary": "・簗（やな）和生農相は4日、石川県入りし、地震や豪雨で被災した輪島、珠洲、穴水3市町を視察した。\n・広範囲で山腹崩壊が発生し、海に流れ出た土砂がモズク漁に悪影響を及ぼしている輪島市深見地区の民有林について。\n・県の試算では既に国直轄化された民間所有の山地6地区を含め能登での治山事業は150億円超に達する見通しで、「民有林では異例の水準」になるという。",
+    "summary": "・簗（やな）和生農相は4日、石川県入りし、地震や豪雨で被災した輪島、珠洲、穴水3市町を視察した。\n・県の試算では既に国直轄化された民間所有の山地6地区を含め能登での治山事業は150億円超に達する見通しで、「民有林では異例の水準」になるという。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-05",
+    "title": "茨城県つくば市におけるロードキル（動物の交通事故死）データベースを公開",
+    "url": "https://www.ffpri.go.jp/press/2026/20261005/index.html",
+    "source": "森林総合研究所",
+    "published_at": "2026-10-05 10:00",
+    "summary": "・研究紹介 > トピックス > プレスリリース > プレスリリース 2026年 > 茨城県つくば市におけるロードキル（動物の交通事故死）データベースを公開 —市民の通報・自治体の回収・研究者の検証が明らかにした11年間1万1,464件の記録が示す実態—。\n・本研究成果は、2026年8月5日に国際学術誌「Scientific Data」及び世界的な生物多様性データベースである「GBIF」に公開されました。\n・本データセットの公開は、断片化が進む都市近郊林の保全デザインや、人間社会と隣接する森林の適切な維持管理において、これまで不足していた動物の空間利用実態を評価するための科学的な知見を提供するものです。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-05",
@@ -52,6 +73,8 @@
     "summary": "・市場規模、原産地規則の仕組み、地域内のサプライチェーンを結びつける能力といった利点を持つ地域包括的経済連携（RCEP）は、木材産業を含むベトナムの輸出産業にとって広大な市場空間を切り開いている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   }
 ]

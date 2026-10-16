@@ -15,7 +15,9 @@
         "source": "南日本新聞",
         "published_at": "2026-10-13 22:41"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-13",
@@ -26,7 +28,9 @@
     "summary": "・令和６年度から、森林の整備およびその促進に関する施策の財源として、森林環境税（国税）が課税されます。\n・森林環境税は個人市県民税均等割と合わせて徴収することとされており、その税収の全額が森林環境譲与税として都道府県・市町村へ譲与されます。\n・我が国の温室効果ガス排出削減目標の達成や、災害防止を図るための森林整備などに必要な地方財源を安定的に確保する観点から創設されました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -37,7 +41,9 @@
     "summary": "・林業に従事する青年の１日を追った内容をショートドラマ仕立てで制作しています。\n・「もし、新見市で林業をしていたら・・・」と映像を通して体験してみてください。\n・動画の後半には、実際に都市部から移動された２組のインタビューもありますので、ぜひ、林業従事者の生の声をお聞きください。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -55,7 +61,9 @@
         "source": "住宅新報",
         "published_at": "2026-10-13 16:00"
       }
-    ]
+    ],
+    "importance_score": 30,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-13",
@@ -66,7 +74,9 @@
     "summary": "・農林環境省は、森林法改正案を策定するための計画を発表した。\n・この計画では、2027年までに政策を最終決定し、2028年に法案を作成・提出するためのロードマップが示されている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -77,7 +87,9 @@
     "summary": "・【NHK】これまでの林業では、伐採後に現地に残しておくことが多かった枝の部分を細かく砕いて運び出し、再び木の苗を植えるときの手間がかからないようにしようと、霧島市で行われている実証事業が林業や行政の関係者に公開。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -101,7 +113,9 @@
         "source": "PR TIMES",
         "published_at": "2026-10-13 10:32"
       }
-    ]
+    ],
+    "importance_score": 36,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-13",
@@ -112,7 +126,9 @@
     "summary": "・住友林業(株)【1911】のAI値動き解説をご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -130,7 +146,9 @@
         "source": "FNNプライムオンライン",
         "published_at": "2026-10-13 15:40"
       }
-    ]
+    ],
+    "importance_score": 21,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -141,7 +159,9 @@
     "summary": "・佐賀県林業試験場（佐賀市大和町）は11月1日午前10時からと午後1時から、森林や林業などについて学ぶ体験イベント「小さな森の探検隊」を、試験場に隣接する平成子ども記念の森で開く。\n・参加する親子らを募集している。\n・締め切りは10月23日。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -152,7 +172,9 @@
     "summary": "・佐伯広域森林組合（大分県佐伯市）の代表理事組合長が９月30日付けで交代した（同日の理事会で決定）。\n・広域合併で同組合が発足したときから組合長をつとめてきた戸髙壽生氏が退任し、後任として代表理事専務の今山哲也氏が組合長に昇格した。\n・専務には、川村晃氏（元・大分県農林水産部審議官（林政担当））が就任した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -163,7 +185,9 @@
     "summary": "・林政ニュース 創刊31年目の林業専門メディア。\n・北海道移住促進協議会は、10⽉31⽇（⼟）に東京都千代田区の東京交通会館12階で開催する「北海道移住・交流フェア2026」に林業ブースを設ける。\n・「北海道で林業はじめませんか？」をテーマに、専⾨家や林業⼤学校の職員、道の職員らが相談に応じる。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -174,7 +198,9 @@
     "summary": "・兵庫県の神戸市（久元喜造市長）と東亜建設工業（株）（東京都新宿区、早川毅社長）及び森林文化協会（東京都中央区、小田桐則雄理事長）は、「自然共生サイト」の保全・再生に連携して取り組む協定を10月９日に締結した。\n・同市の北区山田町の小河山林と周辺棚田（181.8ha）は、2023年10月に環境省の「自然共生サイト」に認定され、2024年８月には、国連が管理するOECM（Other Effective area-based Conservation Measures）の国際データベースに日本で初めて登録され、大学や市民団体などとともに、希少な動植物の保全や里山資源の再生と持続的な利用を進めている。\n・協定を結んだ東亜建設工業は、同市へ毎年度80 万円、森林文化協会にも同じく20万円を寄付して、生物モニタリング調査や里地・里山の環境整備、広報活動などを支援する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -185,7 +211,9 @@
     "summary": "・ダイナミックマッププラットフォーム株式会社のプレスリリース（2026年10月13日 08時30分）ダイナミックマッププラットフォーム、道路計測で培った実世界データを都市林業へ　北米ウェビナーに登壇。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -196,7 +224,9 @@
     "summary": "・北諸県管内の林業従事者約100名を参集し、安全意識の向上や林業災害による死亡及び重篤な健康被害の減少を目指し、本大会を開催します。\n・労働災害の発生率が高い林業において、労働災害を防止し、安全な労働環境を確保することは特に重要な課題です。\n・このため、現場の従事者が災害時にとるべき行動や伝達事項、防災ヘリ等を活用した救助方法など、実際の災害を想定した訓練を行います。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -207,7 +237,9 @@
     "summary": "・日本にはげ山が増えつつある中、木を植えよう、森をつくろうという声は根強い。\n・森をつくることは防災にも生物多様性や炭素固定の観点からも重要だが、森づくりは簡単ではない。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -215,10 +247,12 @@
     "url": "https://news.yahoo.co.jp/articles/6e62f6efa54b1e0109bfdd4a657133767f43c431",
     "source": "Yahoo!ニュース",
     "published_at": "2026-10-13 00:30",
-    "summary": "・埼玉県ときがわ町にあった推定樹齢約500年の大木「姥樫（うばかし）」が今年5月に倒壊していたことが、町教育委員会への取材で分かった。\n・「ナラ枯れ」が原因で枯死したとみられる。\n・町の天然記念物で、地元では。",
+    "summary": "・埼玉県ときがわ町にあった推定樹齢約500年の大木「姥樫（うばかし）」が今年5月に倒壊していたことが、町教育委員会への取材で分かった。\n・「ナラ枯れ」が原因で枯死したとみられる。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -229,7 +263,9 @@
     "summary": "・テープカットをする相原社長（左から2人目）ら。\n・ガソリンスタンドを展開する相原興業（株）（相原孝光社長、小田原市扇町）が10月１日、環境配慮型のサービスステーション「セルフリーダー湘南Ｔｙｐｅ ＧｒｅｅｎＳＳ」（平塚市）をオープンした。\n・出光のＳＳ「アポロステーション」としては全国で30店弱、湘南地区では初。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -240,7 +276,9 @@
     "summary": "・釧路森林資源活用円卓会議はこのほど、釧路市内の木造建築物を見学するセミナーを開いた。\n・くしろ茜サーモン今季初水揚げ　副港海面養殖　浜に活気、１９日からフェアも【釧路市】2026年10月15日 木曜日。\n・物流業への理解深める　釧路運輸支局、大学生対象に施設見学会【釧路市】2026年10月11日 日曜日。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -251,7 +289,9 @@
     "summary": "・新潟県内のニュース情報をいち早くお届け。\n・現役、OBの産業記者、経済誌ライターらが独自で取材した県内企業、新鮮な話題、地域情報を発信。\n・新潟県内の経済ネタから新店舗、イベント、文化、スポーツまで扱います。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -262,7 +302,9 @@
     "summary": "・桜や桃などの樹木を食い荒らす特定外来生物「クビアカツヤカミキリ」の被害が、京都府内でも相次いで確認されている。\n・被害拡大防止には早期発見が重要とされ、府内で最多の被害木が確認された福知山市では、隣接す。\n・【写真】クビアカツヤカミキリの成虫＝京都府福知山市提供。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -273,7 +315,9 @@
     "summary": "・久万高原町で、毎年恒例の「久万林業まつり」が2026年10月17日・18日に開催されます。\n・今年で第54回を迎える「久万林業まつり」は、1971年から続く歴史あるおまつり。\n・林業の町・久万高原ならではの木に親しむ企画をはじめ、特産品の販売やステージイベントなど、子どもから大人まで楽しめる催しが予定されています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-13",
@@ -284,6 +328,8 @@
     "summary": "・この日にちなんで注目したいのが、「木育（もくいく）」と呼ばれる取り組みである。\n・木のおもちゃで遊ぶ子どもたち、保育士として木の魅力を届けるインストラクター、そして森林資源を次世代へつなごうとする研究者――鹿児島県内で静かに、しかし確実に広がる「木育」の現場を取材した。\n・鹿児島県は豊かな自然に恵まれた土地だ。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   }
 ]

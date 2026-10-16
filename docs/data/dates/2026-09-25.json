@@ -8,7 +8,9 @@
     "summary": "・PDF形式のファイルをご覧いただく場合には、Adobe社が提供するAdobe Readerが必要です。\n・Adobe Readerをお持ちでない方は、バナーのリンク先からダウンロードしてください。\n・Copyright © 2018 Hiroshima Prefecture. All rights reserved.。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-25",
@@ -19,7 +21,9 @@
     "summary": "・株式会社プライムハウスのプレスリリース（2026年9月25日 16時12分）【東北初】ハイブリット構法CLT秋田、プライムハウスが販売開始。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-25",
@@ -30,7 +34,9 @@
     "summary": "・東京都産業労働局の森林環境税及び森林環境譲与税について(森林計画・審議会・施策・統計・お知らせ)のページです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-25",
@@ -41,6 +47,21 @@
     "summary": "・諸岡の林業機械から、生産性22％向上を実現した林業専用フォワーダ「MST65F」をはじめ、グラップル搭載型フォワーダや自走式木材破砕機をピックアップ。\n・木材搬出から破砕まで、現場の効率化を支える4製品に注目だ。\n・フォワーダ「MST65F」。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-09-25",
+    "title": "ドローンが捉えた国内最大級の雪崩の堆積厚の分布",
+    "url": "https://www.ffpri.go.jp/press/2026/20260925/index.html",
+    "source": "森林総合研究所",
+    "published_at": "2026-09-25 10:00",
+    "summary": "・研究紹介 > トピックス > プレスリリース > プレスリリース 2026年 > ドローンが捉えた国内最大級の雪崩の堆積厚の分布 —巨大な雪崩の痕跡から、将来の雪崩災害に備える—。\n・国立研究開発法人森林研究・整備機構森林総合研究所、国立研究開発法人防災科学技術研究所、新潟大学災害・復興科学研究所の研究グループは、2021年1月10日に岐阜県で発生した大規模な雪崩を対象に、ドローン（小型無人航空機）による写真測量と現地での積雪調査を組み合わせ、雪崩の堆積層の厚さ（堆積厚）の分布と地形条件との関係から雪崩の堆積特性を解析しました。\n・具体的には、ドローン空撮による三次元測量から得られた雪面の標高値から無雪期の地面の標高値を差し引いて積雪深分布を求め、さらにこのデータに対して、現地で確認された雪崩の堆積層以外の雪の厚さを一律に差し引くことで、雪崩の堆積厚の空間分布を求めました。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": true
   }
 ]

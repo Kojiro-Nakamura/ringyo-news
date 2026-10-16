@@ -8,7 +8,9 @@
     "summary": "・▲ 今後のプロジェクト展開に意欲を見せる東川さん㊧と新沼さん。\n・ドングリを集め、２年間かけて育て、焼けた山に植え戻そう──。\n・大船渡市大規模林野火災からの森林再生に向け、市内の林業従事者と綾里地区在住の住民が「大船渡みんなの森守プロジェクト」を立ち上げた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -26,7 +28,9 @@
         "source": "山陽新聞",
         "published_at": "2026-10-11 04:54"
       }
-    ]
+    ],
+    "importance_score": 27,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-11",
@@ -34,10 +38,12 @@
     "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/10/post-4adfd5.html",
     "source": "田中淳夫 取材メモ",
     "published_at": "2026-10-11 16:51",
-    "summary": "・タクシードライバーと林業従事者",
+    "summary": "・タクシードライバーと林業従事者。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -48,7 +54,9 @@
     "summary": "・チェーンソーに関する研修が山口県防府市牟礼の県農林総合技術センターであった。\n・安全性や正確さ、スピードなどを競う「日本伐木チャンピオンシップ」で４度の優勝を果たした今井陽樹さん（４０）＝群馬県・ひのきや代表＝が安全に木を切るための技術を伝授した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -56,10 +64,12 @@
     "url": "https://www.sankei.com/pressrelease/prtimes/Y27ONGZKONLJBECMVI2RBWZWDY/",
     "source": "産経新聞",
     "published_at": "2026-10-11 00:30",
-    "summary": "・埼玉　～山の木が、暮らしの木材になるまで。～　休暇村奥武蔵、木を1本まるごと伐る体験や 原木市場のせり見学で「西川材」の林業を学ぶツアーを11月19日から1泊2日で実施",
+    "summary": "・埼玉　～山の木が、暮らしの木材になるまで。～　休暇村奥武蔵、木を1本まるごと伐る体験や 原木市場のせり見学で「西川材」の林業を学ぶツアーを11月19日から1泊2日で実施。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -70,7 +80,9 @@
     "summary": "・【幕別】企業の森林づくりへの理解を深めるバスツアーが、町内の「おびしんの森」で開かれた。\n・参加者は実際に森の中を歩き、植樹体験を通じて、森林保全の知識や活用方法を学んだ。\n・Google検索で北海道新聞デジタルを見つけやすく。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -81,7 +93,9 @@
     "summary": "・秋田県は、県土の70%以上を森林が占めています。\n・このうちの半分が、木材の生産などのために人が植えて手入れをする「人工林」です。\n・この人工林は、適切に伐採をして木の量を減らすなどの管理をしなければ、倒木。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -92,7 +106,9 @@
     "summary": "・特産のウメに特定外来生物「クビアカツヤカミキリ」の食害が出ている神奈川県小田原市で9日、被害木の伐採処理が初めて行われた。\n・切られた幹から幼虫2匹が見つかった。\n・【写真】伐採したウメの木の中からクビアカ。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -103,7 +119,9 @@
     "summary": "・場所：愛媛県森林組合連合会 木材流通センター 中野事業所会議室。\n・9:30〜 　久万広域森林組合見学。\n・（林業に携わるフォレストワーカーが運営する食堂で昼食・懇親会）。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-11",
@@ -111,9 +129,11 @@
     "url": "https://www.chunichi.co.jp/article/1323430?rct=fukui",
     "source": "中日新聞",
     "published_at": "2026-10-11 00:30",
-    "summary": "・県産材を活用して建設中のマクドナルド芦原温泉駅前店の構造を見学する人たち＝あわら市春宮1で。\n・※紙の新聞とは、中日新聞朝刊・北陸中日新聞朝刊・日刊県民福井です。\n・北陸３県（福井、石川、富山）の知事懇談会が１４日、永平寺町内で開かれた。",
+    "summary": "・※紙の新聞とは、中日新聞朝刊・北陸中日新聞朝刊・日刊県民福井です。\n・北陸３県（福井、石川、富山）の知事懇談会が１４日、永平寺町内で開かれた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   }
 ]

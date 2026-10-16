@@ -2,6 +2,7 @@
 
 let currentDate = null;
 let currentCategory = 'all';
+let currentSortMode = 'featured';
 let searchQuery = '';
 let availableDates = [];
 let dateArticlesCache = {};
@@ -65,6 +66,15 @@ function setupEventListeners() {
     searchInput.addEventListener('input', (e) => {
       searchQuery = e.target.value.trim();
       searchClearBtn.classList.toggle('hidden', searchQuery.length === 0);
+      document.querySelectorAll('.topic-tag').forEach(b => {
+        if (b.dataset.topic === searchQuery) {
+          b.classList.remove('bg-slate-100', 'text-slate-600');
+          b.classList.add('bg-emerald-600', 'text-white');
+        } else {
+          b.classList.remove('bg-emerald-600', 'text-white');
+          b.classList.add('bg-slate-100', 'text-slate-600');
+        }
+      });
       clearTimeout(searchTimeout);
       searchTimeout = setTimeout(() => {
         loadArticles();
@@ -75,6 +85,38 @@ function setupEventListeners() {
       searchInput.value = '';
       searchQuery = '';
       searchClearBtn.classList.add('hidden');
+      document.querySelectorAll('.topic-tag').forEach(b => {
+        b.classList.remove('bg-emerald-600', 'text-white');
+        b.classList.add('bg-slate-100', 'text-slate-600');
+      });
+      loadArticles();
+    });
+  }
+
+  // 注目テーマ・タグ選択
+  const topicTagsEl = document.getElementById('topicTags');
+  if (topicTagsEl) {
+    topicTagsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.topic-tag');
+      if (!btn) return;
+      const topic = btn.dataset.topic;
+      if (searchInput.value === topic) {
+        searchInput.value = '';
+        searchQuery = '';
+        searchClearBtn.classList.add('hidden');
+        btn.classList.remove('bg-emerald-600', 'text-white');
+        btn.classList.add('bg-slate-100', 'text-slate-600');
+      } else {
+        document.querySelectorAll('.topic-tag').forEach(b => {
+          b.classList.remove('bg-emerald-600', 'text-white');
+          b.classList.add('bg-slate-100', 'text-slate-600');
+        });
+        btn.classList.remove('bg-slate-100', 'text-slate-600');
+        btn.classList.add('bg-emerald-600', 'text-white');
+        searchInput.value = topic;
+        searchQuery = topic;
+        searchClearBtn.classList.remove('hidden');
+      }
       loadArticles();
     });
   }
@@ -92,6 +134,23 @@ function setupEventListeners() {
       btn.classList.add('bg-slate-900', 'text-white', 'active');
 
       currentCategory = btn.dataset.category;
+      loadArticles();
+    });
+  }
+
+  // 並び順切り替え（注目順 / 新着順）
+  const sortModeToggleEl = document.getElementById('sortModeToggle');
+  if (sortModeToggleEl) {
+    sortModeToggleEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.sort-btn');
+      if (!btn) return;
+      document.querySelectorAll('.sort-btn').forEach(b => {
+        b.classList.remove('bg-white', 'text-emerald-700', 'shadow-sm', 'active');
+        b.classList.add('text-slate-600');
+      });
+      btn.classList.remove('text-slate-600');
+      btn.classList.add('bg-white', 'text-emerald-700', 'shadow-sm', 'active');
+      currentSortMode = btn.dataset.sort;
       loadArticles();
     });
   }
@@ -230,7 +289,7 @@ async function loadArticles() {
       articles = dateArticlesCache[currentDate] || [];
     }
 
-    let filtered = articles;
+    let filtered = [...articles];
 
     if (currentCategory && currentCategory !== 'all') {
       filtered = filtered.filter(a => a.category === currentCategory);
@@ -243,6 +302,19 @@ async function loadArticles() {
         (a.summary && a.summary.toLowerCase().includes(q)) ||
         (a.source && a.source.toLowerCase().includes(q))
       );
+    }
+
+    // 並び替え処理（注目順 / 新着順）
+    if (currentSortMode === 'featured') {
+      filtered.sort((a, b) => {
+        const featDiff = (b.is_featured ? 1 : 0) - (a.is_featured ? 1 : 0);
+        if (featDiff !== 0) return featDiff;
+        const scoreDiff = (b.importance_score || 0) - (a.importance_score || 0);
+        if (scoreDiff !== 0) return scoreDiff;
+        return (b.published_at || '').localeCompare(a.published_at || '');
+      });
+    } else {
+      filtered.sort((a, b) => (b.published_at || '').localeCompare(a.published_at || ''));
     }
 
     currentDisplayDateEl.textContent = currentDate ? `${formatDisplayDate(currentDate)} のニュース` : '全期間検索結果';
@@ -356,13 +428,29 @@ function renderArticleCard(a) {
   `).join('');
 
   const isAi = a.summary_type === 'ai';
+  const isFeatured = Boolean(a.is_featured);
+  const relatedCount = Array.isArray(a.related_articles) ? a.related_articles.length : 0;
+
+  const cardBorderClass = isFeatured
+    ? 'border-emerald-300 ring-1 ring-emerald-200/70 bg-gradient-to-b from-emerald-50/25 to-white'
+    : 'border-slate-200/80 bg-white';
 
   return `
-    <article class="bg-white rounded-2xl border border-slate-200/80 p-5 shadow-sm hover:shadow-md transition-all space-y-4">
+    <article class="${cardBorderClass} rounded-2xl border p-5 shadow-sm hover:shadow-md transition-all space-y-4">
       
       <!-- 上部メタ情報 -->
       <div class="flex flex-wrap items-center justify-between gap-2 text-xs">
-        <div class="flex items-center gap-2">
+        <div class="flex flex-wrap items-center gap-1.5">
+          ${isFeatured ? `
+            <span class="px-2.5 py-0.5 rounded-full bg-gradient-to-r from-emerald-600 to-teal-600 text-white text-[11px] font-bold shadow-sm flex items-center gap-1">
+              🔥 注目ピックアップ
+            </span>
+          ` : ''}
+          ${relatedCount >= 1 ? `
+            <span class="px-2 py-0.5 rounded-full bg-teal-100 text-teal-800 border border-teal-300 text-[11px] font-bold">
+              📰 ${1 + relatedCount}社が報道
+            </span>
+          ` : ''}
           <span class="px-2.5 py-0.5 rounded-full border text-[11px] font-semibold ${catClass}">
             ${escapeHtml(a.category)}
           </span>

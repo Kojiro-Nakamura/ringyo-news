@@ -8,7 +8,9 @@
     "summary": "・VTV.vn - 木材輸出は好調な伸びを見せているものの、大型木材資源の不足により、高度な加工能力と企業の競争力が低下している。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-07-24",
@@ -19,6 +21,8 @@
     "summary": "・本県における地域森林計画対象民有林（森林法第5条で規定する森林）のうち、人工林の齢級別面積は図1のとおりです。\n・人工林の約89%を占めるスギ及びアカマツの標準伐期齢は、地域森林計画において35年生と定められていますが、約88%が標準伐期齢を越えており、本県の森林は本格的な利用期を迎えている一方、35年生以下の森林は全体の約12%と少なく、齢級が下がるほど減少傾向にあります。\n・30年後には、素材生産の中心となっている36～60年生の資源量は現在の12%まで減少することが推測されます。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": []
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   }
 ]
