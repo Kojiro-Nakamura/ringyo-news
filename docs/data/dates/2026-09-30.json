@@ -28,15 +28,22 @@
   {
     "article_date": "2026-09-30",
     "title": "マツ枯れ被害が深刻な山林を自然豊かな山に戻そう 林業関係者と地域住民が再造林の推進を目的に植樹祭 岩手・遠野市",
-    "url": "https://newsdig.tbs.co.jp/articles/-/2977137",
+    "url": "https://newsdig.tbs.co.jp/articles/ibc/2977137?display=1",
     "source": "TBS NEWS DIG",
-    "published_at": "2026-09-30 13:33",
-    "summary": "・マツ枯れ被害が深刻な岩手県遠野市の山林を自然豊かな山に戻そうと30日、林業関係者と地域住民が植樹を行いました。\n・植樹祭が行われたのは、花巻市に営業所を置くタケエイ林業が所有する遠野市宮守町内の山林です。",
+    "published_at": "2026-09-30 16:00",
+    "summary": "・マツ枯れ被害が深刻な岩手県遠野市の山林を自然豊かな山に戻そうと30日、林業関係者と地域住民が植樹を行いました。\n・植樹祭が行われたのは、花巻市に営業所を置くタケエイ林業が所有する遠野市宮守町内の山林です。\n・自然豊かな山づくりに取り組むこの会社では、2024年から県内各地で植林を行っていて、今回が3回目の開催です。",
     "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "category": "森林管理・地域",
+    "related_articles": [
+      {
+        "title": "マツ枯れ被害が深刻な山林を自然豊かな山に戻そう 林業関係者と地域住民が再造林の推進を目的に植樹祭 岩手・遠野市",
+        "url": "https://newsdig.tbs.co.jp/articles/-/2977137",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-09-30 13:33"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
   },
   {
     "article_date": "2026-09-30",
