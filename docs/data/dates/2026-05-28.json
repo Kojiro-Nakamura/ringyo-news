@@ -8,9 +8,9 @@
     "summary": "・〇 「森業」のトップランナーが集い、取組事例の紹介やパネルディスカッションなどを実施。\n・林野庁では、「森業（もりぎょう）」の振興に向けたキックオフとして、全国各地のトップランナーが集い、森と人、山村と都市をつなげる森業の可能性について議論・発信する「森業キックオフ・フォーラム」を開催いたします。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-05-28",
@@ -21,8 +21,8 @@
     "summary": "・「なぜ、毎年こんなに花粉が飛ぶのか？」。\n・日本の花粉問題は、自然現象ではなく、戦後の国策と土地所有の問題が80年越しに表面化した、人為的な社会問題なのだ。\n・植えられたスギ林はいま一斉に成熟期を迎え、もっとも多くの花粉を出す林齢へ到達している。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

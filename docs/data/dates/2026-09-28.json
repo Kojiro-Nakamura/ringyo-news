@@ -8,9 +8,9 @@
     "summary": "・ヒアブ・ジャパンの「LOGLIFT Z.105F」は、電気式ジョイスティックによる軽快な操作や可変ポンプを採用し、オペレーターの疲労軽減と車両への負担軽減を実現。\n・LOGLIFT Z.105Fは可変ポンプが標準装備となりオペレーターの操作に合わせて自動でポンプ流量を変化させる事ができる。\n・新開発のトップシートはLOGLIFTシリーズでモジュール化されておりコストダウンに貢献する。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-09-28",
@@ -21,8 +21,8 @@
     "summary": "・柔らかなヒノキの香り漂う。\n・愛媛県西条市にサイプレス・スナダヤが2018年に稼働させた東予インダストリアルパークは在る。\n・遠方に西日本最高峰石鎚山が臨む。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

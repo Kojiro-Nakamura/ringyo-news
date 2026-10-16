@@ -8,6 +8,8 @@
     "summary": "・《林業のプロを育てよう！》林業大学校で体験型オープンキャンパス【高知】。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 45,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "林業のプロを育てよう！》林業大学校で体験型オープンキャンパス【高知】（RKC高知放送",
@@ -20,10 +22,14 @@
         "url": "https://news.ntv.co.jp/n/rkc/category/society/rc5bad657b21dd495ca759d9e6ca5447db",
         "source": "日テレNEWS NNN",
         "published_at": "2026-10-12 17:56"
+      },
+      {
+        "title": "林業のプロを育てよう！》林業大学校で体験型オープンキャンパス【高知】（2026年10月12日掲載",
+        "url": "https://news.ntv.co.jp/category/society/rc5bad657b21dd495ca759d9e6ca5447db",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-10-12 17:56"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -34,6 +40,8 @@
     "summary": "・■本格的な職業体験で魅力体感 チェーンソーで伐採やツリークライミングも10月12日の3連休の最終日、さまざまな仕事を体験できるイベントが各地で開かれました。\n・静岡県富士市では、林業に関心を高めてもらお。\n・「改札を突破した人を捕まえている」JR沼津駅まで無賃乗車か無職の68歳男を逮捕=静岡・沼津市。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「足場の悪いところでやっているからすごい」キャンプ場で林業体験 チェーンソーでの伐採やツリークライミングに挑戦＝静岡・富士市",
@@ -47,9 +55,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-12 18:50"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -60,6 +66,8 @@
     "summary": "・循環型社会を目指す林業の取り組みと福祉が連携です。\n・間伐材を温泉施設の燃料にするため12日、山口県阿武町で障害者がまき割りをしました。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "循環型社会へ林業と福祉が連携 障害者がまき割り 間伐材活用し温泉施設燃料に 山口・阿武町",
@@ -67,9 +75,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-12 17:55"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -80,9 +86,9 @@
     "summary": "・（ドンナイ省）－10月12日、ドンナイ木材工芸協会（Dowa）は、「EUDR - サプライチェーンプロセスと衛星データ検証ガイドライン」に関する研修コースを開催し、企業が規制やコンプライアンス要件を更新し、欧州連合（EU）市場への輸出に必要な書類を準備できるよう支援した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -93,6 +99,8 @@
     "summary": "・2026年10月12日 15時0分 掲載。\n・秋田杉を原料として組み込んだ樹脂「タブウッド」を用いた超小型電気自動車「あきたもくまる」。\n・基礎研究などを通じ木材産業の発展を図ってきた秋田県立大木材高度加工研究所（木高研、能代市）が近年、成果が実社会で広く活用されることを目指す研究にも力を入れている。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "設立３０年・秋田県立大木高研 加工技術で木材産業転換 脱・資源依存へ研究に力",
@@ -100,9 +108,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-12 15:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -113,6 +119,8 @@
     "summary": "・2026-10-12 09:46。\n・震度7を36回含む計70回の繰り返し加振に耐えた木造で、耐震等級3のまま5.46mの大開口・柱のないリビングを実現。\n・秋田でCLT住宅を建てられるのはプライムハウスだけ。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "プレスリリース：東北初・秋田県内唯一の「CLTハイブリッド構法」モデルハウスが秋田市八橋に誕生。10月24日（土）・25日（日）グランドオープン（PR TIMES）",
@@ -120,9 +128,7 @@
         "source": "毎日新聞",
         "published_at": "2026-10-12 09:22"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-12",
@@ -133,9 +139,9 @@
     "summary": "・釧路市の釧路白樺幼稚園で、木に親しんでもらうワークショップが行われた。\n・年少から年長までの園児計19人が参加し、木材を切るなどして森の大切さを学んだ。\n・Google検索で北海道新聞デジタルを見つけやすく。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -146,9 +152,9 @@
     "summary": "・埼玉県は9日、秩父市の中津川県有林にある「県森林科学館」を2027年度末に廃止する方針を明らかにした。\n・将来コストの試算で修繕よりも廃止の方が安く済むことが判明し、廃止を決めた。\n・1994年に森林や林業に関する学習施設として建設され、展示室や木工工作室、つり橋などを常設。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-12",
@@ -159,8 +165,8 @@
     "summary": "・伊豆市修善寺のギャラリーショップ「gallery kanko（ギャラリー観光）」で、同市城の木工作家菊池奈美さん（60）が手がけた木製品を紹介する企画展が開かれている。\n・いずれも間伐材や風倒木を活用したという。\n・伐採作業やろくろで割木を削り出す制作風景を捉えた映像も上映している。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

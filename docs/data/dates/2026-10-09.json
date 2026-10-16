@@ -8,9 +8,9 @@
     "summary": "・山梨日日新聞社のホームページです。\n・山梨の主要、各地、経済、スポーツ、おくやみなどの最新ニュースをはじめ、全国のニュースもご覧いただけます。\n・統一地方選の開票速報や高校野球の速報も行います。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -21,6 +21,8 @@
     "summary": "・三菱地所（株）、高島（株）、MEC Industry（株）は8日、共同開発した国産木材のCLTパネルを活用した柱保護根巻「KiNEMAKI（キネマキ）」の販売を開始した。\n・物流施設等の鉄骨柱をフォークリフトなどの接触から保護するための柱脚部部材。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "三菱地所など3社、国産CLT材使用の柱保護根巻き 施工期間短縮",
@@ -34,9 +36,7 @@
         "source": "産経新聞",
         "published_at": "2026-10-09 00:30"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-09",
@@ -47,9 +47,9 @@
     "summary": "・製材・建築の丸大製材所（美作市朽木）は、岡山工業高（岡山市北区伊福町）の生徒が考案した多機能木製ベンチを改良し、製品化した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -60,9 +60,9 @@
     "summary": "・Choose your language option。\n・①　外国語ポータル （Multilingual Portal）。\n・このページでは、外国人向けの情報を次の言語で紹介しています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -73,9 +73,9 @@
     "summary": "・地方税法の改正に伴い、令和8年5月21日から市の定める掲示場への掲示に加え、本ページにも掲示いたします。\n・令和8年10月9日公示送達 (PDFファイル: 349.9KB)。\n・住所・居所が不明であったり、外国に出国しているなどの理由で納税通知書を納税義務者宛に送付することができない場合に、「掲示場への掲示」「ホームページへの掲載」をもって納税義務者に書類が届いたものとみなす手続きを「公示送達」といいます。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -86,9 +86,9 @@
     "summary": "・この記事は会員限定です。\n・登録すると続きをお読みいただけます。\n・2026年04月19日 16:07。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -99,9 +99,9 @@
     "summary": "・住友林業(株)【1911】のAI値動き解説をご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -112,9 +112,9 @@
     "summary": "・それは結構なことなのだが、いわゆる塗料で防腐しているのではなく、改質木材を使ったようだ。\n・これ、改質木材のうちの何を使ったのだろう。\n・メーカーによって名も違うし、改質の仕方も違う。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -125,9 +125,9 @@
     "summary": "・埼玉県飯能市に位置するリゾートホテル「休暇村奥武蔵」（所在地：埼玉県飯能市吾野72、総支配人：荒井泰博）では、地元の特産品である材木“西川材”と林業を知る体験ツアーを11月19日（木）から1泊2日で実施します。\n・ツアーでは、参加者自身で木をまるごと１本伐採する体験のほか、普段はなかなか見ることのできない木材の「せり」を見学します。\n・飯能市を中心とする地域では古くから林業が盛んで、この地域で生産される「西川材」は、美しい木目、香り、高い強度などが評価され、建築材や家具、木製品など幅広い用途に利用されてきました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -138,9 +138,9 @@
     "summary": "・株式会社武田林業のプレスリリース（2026年10月9日 12時58分）町の77%が森、林業は3,000人に1人の仕事。\n・内子町（農林振興課：愛媛県）は、2026年10月8日“木の日”に、林業マガジン『ヘイヘイ報（HEY HEY HOU）』創刊号を発行しました。\n・当社、株式会社武田林業は本マガジンの企画を担当しています。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -151,9 +151,9 @@
     "summary": "・株式会社バイウィルのプレスリリース（2026年10月9日 11時00分）バイウィル、東城町森林組合・備福通信・中国銀行との「地域GX座談会」記事を公開。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -164,9 +164,9 @@
     "summary": "・都市の木造・木質化に取り組んでいる「民間建築物等における木材利用促進に向けた協議会」（通称：ウッド・チェンジ協議会、会長＝隅修三・東京海上日動火災保険相談役）は、10月６日に９回目となる会合を農林水産省で開いた。\n・2021年９月に発足した同協議会の現時点の構成メンバーは、24の企業と23の団体及び研究機関と関係省庁。\n・昨年度（2025年度）までは、①木材環境整備、②情報発信、③低層小規模建築、④中規模ビル、⑤高層ビルの５つのグループを設けて、木造化の標準化モデルや参考事例集などを作成してきた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -177,9 +177,9 @@
     "summary": "・林野庁は、10月１日付けで人事異動を発令し、研究指導課の森林保護対策室に林野火災対策班を新設した。\n・森林利用課課長補佐・花粉発生源対策企画班担当（治山課課長補佐・保安林管理班担当）寺田智哉。\n・森林利用課課長補佐・緑化推進班担当（森林利用課森林ボランテア企画官）中村祐輔。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -190,9 +190,9 @@
     "summary": "・愛知県の東三河農林水産事務所は、11月６日（金）・７日（土）に豊川市のイオンモール豊川で「ウッドコレクション in 東三河 2026」を開催する。\n・東三河産木材を使った建材、家具、木工品などの展示・販売、木工ワークショップや木製エコキャップガチャ等の体験コンテンツなどを実施する。\n・昨年（2025年）秋の叙勲で旭日小綬章を受章した西垣洋一(ひろかず)氏（72歳）の功績を讃える記念祝賀会が２月24日に愛知県名古屋市のホテル「エスパシオ　ナゴヤキャッスル」で開催され、全国の関係者約。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -203,9 +203,9 @@
     "summary": "・国内最大の製材メーカーである中国木材（株）（広島県呉市、堀川保彦・代表取締役社長）は、９月29日付けで役員人事を行った。\n・取締役会長の堀川智子氏が相談役となり、取締役の石橋正浩氏が専務取締役に昇格した。\n・石橋氏は、1999年12月に同社に入り、西九州木材事業協同組合代表理事などをつとめてきている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -216,9 +216,9 @@
     "summary": "・続きを読むには会員登録とプランの申し込みが必要です。\n・人口水増し「白日の下に」　藤井富山市長、市民に誓い。\n・県内初の電子投票持ち越し　舟橋村。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -229,9 +229,9 @@
     "summary": "・1972年の創業以来、木を活かしたものづくりを続けている「空知単板工業株式会社」。\n・常にチャレンジを続けてきた同社で、今年、新しい自社ブランド「木々之重（ここのえ）」が誕生しました。\n・今回おじゃました「空知単板工業株式会社」もそんなものづくりの会社です。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -242,9 +242,9 @@
     "summary": "・１９５３年に創業し、手作りの機械による木材チップの製造から事業を始めた。\n・55年に中国チップ工業を設立し、67年に製材業へ参入。\n・77年からベイマツ製材を手掛け、80年には北米から原木の直接輸入を開始。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -255,9 +255,9 @@
     "summary": "・北海道・倶知安警察署は2026年10月7日、北海道留寿都村で作業事故が発生したと発表しました。\n・作業事故があったのは留寿都村の林道です。\n・7日午後2時前、同業者から「ブルドーザーが沢に転落している」と1。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -268,9 +268,9 @@
     "summary": "・青森県新郷村で8日午前、伐採作業をしていた60代の男性が木の下敷きになり、意識不明の重体となっています。\n・【西田俊明記者】「伐採していた木の上のほうが途中が裂け、作業員のほうに倒れてきたということです。\n・意識がない」と男性の同僚から119番通報がありました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -281,9 +281,9 @@
     "summary": "・秋田県の2027年度当初予算案の編成作業が始まりました。\n・県内産業の構築による経済の成長のほか、クマ被害対策など県民の安全確保などに重点的に取り組む方針です。\n・8日開かれた県の2027年度当初予算案編成の基本方針を決める会議には、鈴木知事や県の幹部職員が出席しました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -294,9 +294,9 @@
     "summary": "・鈴与商事株式会社（本社：静岡市、代表取締役社長：伊藤正彦、以下「鈴与商事」）は、２０２６年１０月８日、静岡県と「し。\n・本協定を通じて、リフォーム事業をはじめとする事業活動において県産材活用を推進し、地域林業の振興および脱炭素社会の実現に貢献してまいります。\n・静岡県は県土の約６割を森林が占めており、その大半は人工林（人の手で植えられた森林）です。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -307,9 +307,9 @@
     "summary": "・松本・安曇野・塩尻・木曽　信州の地域紙。\n・木曽青峰高校（木曽町）の森林環境科とインテリア科の２年生約50人が７日、県林業大学校（同）と県上松技術専門校（上松町）を訪れ、林業や木材加工の学びの現場に触れた。\n・地域の森林・木材産業を担う人材の育成と定着を目指した取り組みで、生徒たちは将来の進路について理解を深めた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -320,9 +320,9 @@
     "summary": "・［TOKYO MOKUNAVI（東京都）］東京都が運営するTOKYO MOKUNAVIは、東京の森林や林業、「とうきょうの木」の魅力を発信する情報拠点です。\n・2023年の開設から歩みを進めてきたTOKYO MOKUNAVIでは、このたび、東京の森を新たな視点で見つめる企画展「小河原いづみ 木り絵作品展　つながるいのち」と、東京の森をテーマにしたトークショー「森と向き合う、その先に広がる風景 ～写真が映す、東京の森のいま～」を開催いたします。\n・［TOKYO MOKUNAVI（東京都）］。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -333,9 +333,9 @@
     "summary": "・温浴施設「竜泉寺の湯」を運営するオークランド観光開発株式会社（本社：愛知県春日井市、代表取締役社長：松永哲明）は、湘南RESORT SPA 竜泉寺の湯（神奈川県茅ヶ崎市）にて、地域共創プロジェクト「SAUNACTION LAB」の一環として、2026年10月8日「木の日」より、神奈川県産の間伐材を活用した新たな温浴体験をスタートします。\n・今回の取り組みでは、神奈川県産スギの間伐材を使った館内什器の導入に加え、間伐材の木玉を湯船に浮かべる「木のお風呂」、神奈川県産ヒノキのアロマウォーターを使った「木の香りのロウリュ」を実施。\n・さらに、地域の素材や技術を活かしたサウナグッズの販売も行い、神奈川の森で育った木を、湘南で新たな温浴体験へとつなげます。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -346,9 +346,9 @@
     "summary": "・【読売新聞】　森林が市域の約９割を占める岐阜県郡上市は、子どもたちが木に触れて学び、古里の自然や文化を大切にする心を育む「木育」活動に力を入れている。\n・９月には拠点施設である「ぐじょう木遊館　森のくじら」が新たに開館した。\n・床面積が約６７０平方メートルある上、天井の高さも約１０メートルある広々とした空間だ。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -359,9 +359,9 @@
     "summary": "・来年4月に迫った善光寺の御開帳。\n・8日、長野市では回向柱となるスギの木が伐採されました。\n・来年4月から77日間の日程で開かれる善光寺の御開帳。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -372,9 +372,9 @@
     "summary": "・新潟市西蒲区にある角田山（標高481.7ｍ）で、無断で木が伐採される被害が相次いでいます。\n・角田山は、年間10万人が登山に訪れる人気の山です。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -385,9 +385,9 @@
     "summary": "・簗（やな）和生農相は4日、石川県入りし、地震や豪雨で被災した輪島、珠洲、穴水3市町を視察した。\n・県の試算では既に国直轄化された民間所有の山地6地区を含め能登での治山事業は150億円超に達する見通しで、「民有林では異例の水準」になるという。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -398,9 +398,9 @@
     "summary": "・去年3月、岡山県南部で起きた山林火災について、県は復旧事業を進めています。\n・木が無くなったことによる土砂崩れの危険がある場所で安全対策が完了したとして、整備された治山ダムなどがメディアに公開されました。\n・ドボン…「サルが子ネコをつかんで池に投げた」助けにいった男性はひっかかれて背中にけが　体長50センチの成獣か　現場は子どもも通る住宅街。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -411,9 +411,9 @@
     "summary": "・スギ活用の取り組みを消費者にアピールする。\n・QRコードを読み込むと、かまぼこ板における国産スギの活用状況などを紹介する特設ページを閲覧できる。\n・かまぼこ板の原材料は約9割を欧州やカナダなどからの輸入材が占める一方、国産スギの使用割合は約5%にとどまる。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -424,9 +424,9 @@
     "summary": "・森林資源を地域経済の成長に生かす方策を探るフォーラムが３０日、岡山市北区駅元町の岡山コンベンションセンターで開かれた。\n・岡山県産材の需要拡大策について語り合う登壇者。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -437,9 +437,9 @@
     "summary": "・林業を学ぶ高校生たちが8日、 高知県大豊町でドローンを活用した最新のスマート林業の実践講習に臨みました。\n・ドローン活用の実践講習を受けたのは、「森林の見える化」をテーマに卒業前の課題研究に取り組んでい。\n・生徒たちは大豊町森林組合の所有林で、研究のサポートを受けている高知市の建設コンサルタント「インフラマネジメント」の担当者からアドバイスを受けながら、ドローンのカメラで木の本数や高さ、直径などのデータを集めていました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -450,9 +450,9 @@
     "summary": "・「森林セラピー20周年記念イベント」が11月21日、日之影町役場町民ホールで開催される。\n・主催は日之影町と日之影町森林セラピー推進協議会。\n・（日向経済新聞）【写真】森林セラピーコースには線路跡を歩くコー。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -463,9 +463,9 @@
     "summary": "・豊かな自然に恵まれた鹿児島県。\n・中でも木材の生産量は２０２４年度のデータでは年間約１４１万立方メートルで、全国９位と、鹿児島の産業の大きな柱となっています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -476,9 +476,9 @@
     "summary": "・鹿児島県奄美大島の林業関係者で組織する大島地区林材協会（肥後充浩会長）など官民4団体の代表らは7日、島内の5市町村役場を訪問し、首長らに県産木材の利用促進を求めた。\n・要望は、「木材利用促進の日」（1。\n・地元産木材の利用は森林の適正な保全、林業・木材産業の発展にもつながるとして、①住民へのPR②建築物などへの利用③木造住宅の建設ーなどの推進を求める要望書を提出した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-09",
@@ -489,8 +489,8 @@
     "summary": "・大阪府河内長野市の岩湧山（標高897メートル）で、ナラ枯れによる倒木が広がっており、一部の登山道で通行止めが続いている。\n・市は倒れるおそれがある木の伐採や森林整備に充てようと、ふるさと納税制度を使ったガバメントクラウドファンディング（GCF）で寄付を募っている。\n・岩湧山は大阪平野や六甲山系を一望できる眺望が人気で、秋には山頂一帯に群生するススキが銀色に輝く絶景を見せる。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
