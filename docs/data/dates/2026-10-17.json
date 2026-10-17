@@ -8,6 +8,8 @@
     "summary": "・森林や林業の魅力を学べるイベントが、高知市で開かれました。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "森林や林業の魅力を体感できるイベント「もくもくエコランド2026」開催 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
@@ -15,9 +17,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-17 18:05"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-17",
@@ -28,8 +28,21 @@
     "summary": "・今回のガリバーは、創業から300年以上の歴史を誇り、「木」とともに歩み続けてきた「住友林業」。\n・かつて別子銅山の開発によって荒れてしまった山を再生すべく、年間200万本もの木を植える大規模な森林計画は、現在も東京ドームおよそ1,000個分に及ぶ広大な社有林を守り、「木を植え、育て、使って、また植える」という、持続可能な森の循環を大切に受け継いでいます。\n・再生可能な資源である「木」と共生する社会づくりをリードする住友林業。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "スタジオ・マルコ・ヴェムールンがオランダに手がけた、パビリオンから再利用したCLTや石灰と麻の外壁が生み出すバイオベースな博物館〈ミュージアムパークVONK〉",
+    "url": "https://mag.tecture.jp/culture/20261017-vonk/",
+    "source": "TECTURE MAG（テクチャーマガジン）",
+    "published_at": "2026-10-17 17:43",
+    "summary": "・CLT×プレファブ工法が生む次世代の木造集合住宅 - チェコにおける多層木造建築の先駆けとなる〈ズダル・ウッドハウジング〉。\n・オランダ・アイントホーフェンに誕生した〈ミュージアムパークVONK〉は、地域の歴史と未来を伝える新たな博物館です。\n・オランダの設計事務所スタジオ・マルコ・ヴェムールンが設計した建築であり、同事務所が以前手がけたプロジェクトから「収穫」し再利用されたCLTなどのバイオベース素材と持続可能な技術を建築全体に大規模に統合されています。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 12,
     "is_featured": false
   },
   {
@@ -41,9 +54,9 @@
     "summary": "・株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「航空機用合板の世界市場（2026年～2032年）、英文タイトル：Global Aviation Grade Plywood Market 2026-2032」調査資料を発表しました。\n・本資料には、航空機用合板の世界市場規模、市場動向、セグメント別予測（バスウッド、バーチ、その他）、関連企業の情報などが盛り込まれています。\n・本レポートで取り上げる主な質問世界の航空機用合板市場の今後10年間の見通しは？世界全体および地域別に、航空機用合板市場の成長を牽引している要因は何か？市場および地域別に、最も急速な成長が見込まれる技術はどれか？航空機用合板市場の機会は、エンド市場の規模によってどのように異なるか？航空機用合板は、材料別、用途別にどのように分類されるか？",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -54,9 +67,9 @@
     "summary": "・林業関係者がチェーンソーで木を切る技術を競う大会が木曽町の県林業大学校で開かれました。\n・チェーンソーの操作技術の向上を目的に開かれた。\n・傾けて置かれた丸太を水平に切る輪切り競技と狙った場所に木を倒す伐倒（ばっとう）競技でスピードや正確性を競いました。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
