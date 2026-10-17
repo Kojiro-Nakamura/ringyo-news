@@ -1,6 +1,59 @@
 [
   {
     "article_date": "2026-10-17",
+    "title": "久万高原で恒例「林業まつり」家族で木工体験楽しむ 18日まで",
+    "url": "https://www.ehime-np.co.jp/article/news202610170167",
+    "source": "愛媛新聞",
+    "published_at": "2026-10-17 16:00",
+    "summary": "・基幹産業の魅力を発信する恒例の「久万林業まつり」（実行委員会主催）が１７日、久万高原町菅生の久万公園などで始まった。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "農業、林業、水産業を専攻する学生のための、AI能力に関する提案フレームワーク。",
+    "url": "https://www.vietnam.vn/ja/de-xuat-khung-nang-luc-ai-cho-sinh-vien-nganh-nong-lam-nghiep-va-thuy-san",
+    "source": "Vietnam.vn",
+    "published_at": "2026-10-17 11:49",
+    "summary": "・VTV.vn - 教育訓練省は、大学に対し、学生向けのAI能力フレームワークを開発するよう要請した。\n・10月16日午後、フエ大学において、 教育訓練省（MOET）は「農業、林業、水産業における人工知能の応用」と題する科学会議を開催した。\n・農業、林業、水産業においては、この技術は病害虫の特定、収量予測、水資源の最適化、森林資源のモニタリング、養殖環境の追跡、サプライチェーン管理などに役立つ可能性があると述べた。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [
+      {
+        "title": "農業、林業、水産業におけるAIの応用。",
+        "url": "https://www.vietnam.vn/ja/ung-dung-ai-trong-khoi-nganh-nong-lam-nghiep-va-thuy-san",
+        "source": "Vietnam.vn",
+        "published_at": "2026-10-17 00:29"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "秋田市女性宅侵入・盗撮、元林野庁職員の被告「意図あった」 秋田地裁で第２回公判",
+    "url": "https://www.sakigake.jp/news/article/20261017AK0004/",
+    "source": "秋田魁新報電子版",
+    "published_at": "2026-10-17 09:33",
+    "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・秋田酒造社長・髙居翔さん　日本酒文化、世界に広める。\n・秋田市の女性宅に侵入して小型カメラを設置し盗撮したなどとして、性的姿態撮影処罰法違反などの罪に問われた、元林野庁職員の被告（３６）の第２回公判が１６日、秋田地裁（岡田龍太郎裁判官）で開かれた。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "秋田市女性宅侵入・盗撮、元林野庁職員の被告「意図あった」 秋田地裁で第２回公判",
+        "url": "https://www.47news.jp/15094788.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-17 09:33"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-17",
     "title": "作業能力最大10倍…松本システムエンジが開発、木を伐倒・搬出する自走ロボットの性能",
     "url": "https://newswitch.jp/p/50545",
     "source": "ニュースイッチ by 日刊工業新聞社",
@@ -8,9 +61,29 @@
     "summary": "・松本システムエンジニアリング（福岡県篠栗町、松本良三社長）は、林業向け自走ロボット（イメージ）を開発した。\n・１人の作業量に比べると、１日当たり８―１０倍の能力を見込む。\n・険しい山林での作業を想定し、画像処理エンジンや作業装置、クローラー式車体などすべて自社開発した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
+    "url": "https://www.chunichi.co.jp/article/1326446?rct=k_toyama",
+    "source": "中日新聞Web",
+    "published_at": "2026-10-17 05:05",
+    "summary": "・劇中の学生の武器、チェーンソーを手にする映画企画者の竹田拓也さん。\n・人口水増し問題で富山市が独自調査方針　市長「タイミングみて」。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [
+      {
+        "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
+        "url": "https://www.47news.jp/15095863.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-17 05:05"
+      }
+    ],
+    "importance_score": 18,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-17",
@@ -21,9 +94,9 @@
     "summary": "・日立製作所は10月14日、木造データセンターの販売を始めた。\n・「コンテナ型データセンターは、建屋型のデータセンターと比べて短期間で建設でき、需要に応じて段階的に設備を拡張できる」（日立製作所）といい、小型なため工場の空き地などにも設置可能で、大規模な電源の確保も不要だ。\n・あえて木造を使うことで、“見た目がオシャレ”以外の価値をどう引き出せるのか。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -34,9 +107,9 @@
     "summary": "・北海道　ＰＲＯＤＵＣＴ　ＨＩＳＴＯＲＹ／森林の工房　いさおか　『蝦夷杉の木工品』。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -47,9 +120,9 @@
     "summary": "・ユニインターネットラボは、国産サクラ材を使った女性向けの木製腕時計を2026年10月1日（木）に限定10個で販売を開始しました。\n・赤みのある明るい色合いと、一つひとつ異なる木目が特徴です。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -60,9 +133,9 @@
     "summary": "・16日午前4時ごろ、十和田奥瀬の十和田湖町木材高次加工協同組合の工場で火事がありました。\n・この火事で木造トタン張り平屋建て工場のおよそ460平方メートルが全焼し、隣接する木造トタン張り平屋建て事務所のおよそ50平方メートルと、上北森林組合所有の木造トタン張り平屋建て工場のおよそ160平方メートル、それに上北森林組合所有の木造トタン張り平屋建て倉庫のおよそ50平方メートルが全焼しました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -73,9 +146,9 @@
     "summary": "・環境や脱炭素について、展示や体験を通じて考える「南信州環境メッセ2026」が11月7日・8日、エス・バード（飯田市座光寺）で開かれる。\n・南信州環境メッセ実行委員会事務局を務める南信州地域振興局環境課の関口克郎さんと、同局林務課の井原由紀恵さんに聞いた。\n・関口さん： 昨年度まで別々に開催していた「暮らしの中の木製品市」と「南信州環境メッセ」を共同開催します。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -86,9 +159,9 @@
     "summary": "・特産の生シイタケがどのように作られているのか、生産現場に潜入です。\n・森林が面積の9割近くを占め、一級河川の荒川が流れる関川村で特産品を作ろうと、須貝圭介さんがシイタケに目を付けました。\n・■SHK社長 須貝圭介さん「関川村の豊かな自然をいかに利活用するかという中で生シイタケ、キノコ類に関してはまだ生産量が多くなかったので、この生シイタケを選びました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -99,9 +172,9 @@
     "summary": "・伊那市で相次いだ側溝に設置されている金属製のふた「グレーチング」の盗難について、隣接する駒ヶ根市でも9月から10月にかけて、88枚がなくなっていることがわかりました。\n・被害にあったのは市道や林道、合わせて10路線の38か所で、ほとんどが山間部の人通りの少ない地域で、両端のグレーチング数枚だけがなくなっていたということです。\n・駒ヶ根市に隣接している伊那市でも今年6月以降、31枚のグレーチングが盗難被害にあっています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -112,9 +185,9 @@
     "summary": "・ホンダモビリティランド株式会社（本社：三重県鈴鹿市）が運営するモビリティリゾートもてぎ（栃木県茂木町）は、林野庁が実施する森業アワードにおいて、準グランプリにあたる林野庁長官賞を受賞しました。\n・今回の受賞に加え、モビリティリゾートもてぎは林野庁の「グリーンパートナー」として登録されており、森林保全活動を起点とした地域活性化や次世代育成、持続可能な社会づくりへの取り組みが評価されています。\n・【森業アワード2026受賞者発表】プレスリリース。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -125,9 +198,9 @@
     "summary": "・自然との共生や防災を学び、環境に応じて対応する適応力を養ってもらおうと、奈良県立十津川高（十津川村）は来年度、「アウトドア科目」を設ける。\n・創立１６３年目を迎え、現在は１学年１クラス、全校生徒は５９人の小規模校だ。\n・また、山間部で暮らすために必要な知識を学び、チェーンソーの資格取得も目指す。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -138,9 +211,9 @@
     "summary": "・※紙の新聞とは、中日新聞朝刊・北陸中日新聞朝刊・日刊県民福井です。\n・県と日本マクドナルド（東京）は15日、県産木材の利用促進に向けた協定を結んだ。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -151,22 +224,9 @@
     "summary": "・木のおもちゃなどを製造販売する飛鳥工房（佐賀市諸富町）が手がける木製の大判の御朱印帳。\n・佐賀県産ヒノキの高級感とすがすがしい香りが魅力だ。\n・御朱印帳を手に神社を巡る人も増えているので、一緒に出かけてみては」とお薦めする。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-10-17",
-    "title": "農業、林業、水産業におけるAIの応用。",
-    "url": "https://www.vietnam.vn/ja/ung-dung-ai-trong-khoi-nganh-nong-lam-nghiep-va-thuy-san",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-17 00:29",
-    "summary": "・GD&TĐ - 10月16日午後、フエ大学において、教育訓練省主催の「農業、林業、水産業における人工知能の応用」に関する科学会議が開催されました。\n・これには、フエ大学農林大学の代表者による「農業、林業、水産業における人材育成へのAIの応用：機会と課題」というプレゼンテーションが含まれており、新たな状況における質の高い人材の需要について詳細な分析が行われました。\n・また、カントー大学の代表者による「 デジタル変革の文脈における農業、林業、水産業の学生のためのAI能力フレームワークの構築」というプレゼンテーションでは、学習者のデジタル能力とAI能力を評価するための実践的な基準が提案されました。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-16",
@@ -2142,64 +2202,5 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "有限会社篠原林業が地域貢献を実現！SDGs私募債「地域応援型」の引受けと寄贈活動",
-    "url": "https://voix.jp/money/business-loan/34111/",
-    "source": "ニュースメディアVOIX",
-    "published_at": "2026-10-13 17:04",
-    "summary": "・有限会社篠原林業が地域応援型私募債を発行し寄贈を実施 有限会社篠原林業が、地域社会への貢献を目的とした「ＳＤＧｓ私募債『地域応援型』」を発行し、当行がその引受けと財務代理人を務めた。\n・手数料の一部を使用し、三豊市立豊中小学 […]。\n・有限会社篠原林業が地域応援型私募債を発行し寄贈を実施。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 36,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "【地域社会貢献活動】ＳＤＧｓ私募債「地域応援型」の引受け（有限会社篠原林業）",
-        "url": "https://news.nicovideo.jp/watch/nw19872877?news_ref=top_newComments",
-        "source": "ニコニコニュース",
-        "published_at": "2026-10-13 15:30"
-      },
-      {
-        "title": "【地域社会貢献活動】ＳＤＧｓ私募債「地域応援型」の引受け（有限会社篠原林業）",
-        "url": "https://prtimes.jp/main/html/rd/p/000000242.000166651.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-13 10:32"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説",
-    "url": "https://finance.yahoo.co.jp/quote/1911.T/ai-topics",
-    "source": "Yahoo!ファイナンス",
-    "published_at": "2026-10-13 16:00",
-    "summary": "・住友林業(株)【1911】のAI値動き解説をご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "仙台市の木造建築工事業者が自己破産申請へ 従業員の退職や資材高騰で事業の継続断念 負債約８４００万円 (仙台放送)",
-    "url": "https://news.yahoo.co.jp/articles/880cf5cfc7f8ac371ccd3643c9be9ee744cfe31d/images/000",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-13 15:44",
-    "summary": "・仙台放送仙台市の木造建築工事業者が自己破産申請へ　従業員の退職や資材高騰で事業の継続断念　負債約８４００万円【関連リンク】気仙沼市の市街地でクマの目撃１０件以上　市役所近くにも出没　３連休の観光客も警戒〈宮城〉宮城・仙台の名物「笹かまぼこ」に暗雲　老舗メーカーが次々に破産　いったい何が？　“地元の食文化”だからこそ立たされる苦境6年連続で全路線が赤字　バス事業の深刻な現実　運転士不足で路線廃止も　専門家は「まちづくり」の課題も指摘施設は増え、人は減り、貯金は底をつく　インフラ整備が残した「次の世代への課題」【東日本大震災・復興検証42兆円のゆくえ】ドラレコが捉えたあわや大事故の瞬間　「死んだなと思った」　事故減少が期待された新・宮沢橋の開通がもたらした交差点の危険写真アクセスランキング1「お前、どうしちまったんだ」43歳・松本潤〝雰囲気がらり〟最新姿に「自然に年取る感じがいい」「無理に美容整形するよりいい」西スポWEB OTTO!2車が歩道に突っ込み男性死亡　運転手は無免許か　岐阜・美濃加茂市中京テレビＮＥＷＳ3ベルトを外して…むにゅっと背徳ショット連発！応接室でホテルで「乱れる」姿　さとみあい初デジタル写真集よろず～ニュース4「能登かき」シーズン到来　七尾西湾で出荷本格化　例年並み約千㌧の出荷見込む北國新聞社5岡村隆史（56）、印象ガラリな姿に「誰？」「だいぶんと痩せましたか」「これは気がつく自信ない」など驚きの声ABEMA TIMESあわせて読みたい記事水田に太陽光パネル４０００枚　国内最大級の「営農型太陽光発電」　美里町で初の稲刈りが行われる〈宮城〉仙台放送10/13(火)19:331:22国分町のガールズバーで無許可で風俗営業　当時１７歳の従業員に接客させる　経営者などの男２人に実刑判決仙台放送10/14(水)6:00視聴者のカメラが捉えた燃え盛る炎　仙台市内の住宅街で火事　住宅と車２台が全焼　７０代男性がけが仙台放送10/13(火)19:331:24生徒の引率予定が…酒酔い運転で逮捕　石巻市の中学校教師を送検「残っていたか分からない」〈宮城〉仙台放送10/13(火)19:331:08キッチンカー平日昼出店　おいしいものを手軽に　仙台・宮城野通河北新報10/9(金)16:17。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 21,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "仙台市の木造建築工事業者が自己破産申請へ 従業員の退職や資材高騰で事業の継続断念 負債約８４００万円",
-        "url": "https://www.fnn.jp/articles/-/1131789",
-        "source": "FNNプライムオンライン",
-        "published_at": "2026-10-13 15:40"
-      }
-    ]
   }
 ]
