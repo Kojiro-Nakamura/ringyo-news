@@ -1,6 +1,65 @@
 [
   {
     "article_date": "2026-10-17",
+    "title": "森林や林業の魅力を体感できるイベント「もくもくエコランド2026」開催（テレビ高知）",
+    "url": "https://news.yahoo.co.jp/articles/dfdbc1b22e4c0f0213f8df0a72185347f9e36058",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-17 18:06",
+    "summary": "・森林や林業の魅力を学べるイベントが、高知市で開かれました。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [
+      {
+        "title": "森林や林業の魅力を体感できるイベント「もくもくエコランド2026」開催 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
+        "url": "https://newsdig.tbs.co.jp/articles/kutv/3019485",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-17 18:05"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "高層ビルの木造化を実現する耐震耐火技術！無花粉スギや廃材燃料で持続可能な未来へ挑む 住友林業",
+    "url": "https://txbiz.tv-tokyo.co.jp/gulliver/vod/post_350272",
+    "source": "テレ東BIZ",
+    "published_at": "2026-10-17 18:00",
+    "summary": "・今回のガリバーは、創業から300年以上の歴史を誇り、「木」とともに歩み続けてきた「住友林業」。\n・かつて別子銅山の開発によって荒れてしまった山を再生すべく、年間200万本もの木を植える大規模な森林計画は、現在も東京ドームおよそ1,000個分に及ぶ広大な社有林を守り、「木を植え、育て、使って、また植える」という、持続可能な森の循環を大切に受け継いでいます。\n・再生可能な資源である「木」と共生する社会づくりをリードする住友林業。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "航空機用合板の世界市場（2026年～2032年）、市場規模（バスウッド、バーチ、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1049270",
+    "source": "アットプレス",
+    "published_at": "2026-10-17 17:30",
+    "summary": "・株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「航空機用合板の世界市場（2026年～2032年）、英文タイトル：Global Aviation Grade Plywood Market 2026-2032」調査資料を発表しました。\n・本資料には、航空機用合板の世界市場規模、市場動向、セグメント別予測（バスウッド、バーチ、その他）、関連企業の情報などが盛り込まれています。\n・本レポートで取り上げる主な質問世界の航空機用合板市場の今後10年間の見通しは？世界全体および地域別に、航空機用合板市場の成長を牽引している要因は何か？市場および地域別に、最も急速な成長が見込まれる技術はどれか？航空機用合板市場の機会は、エンド市場の規模によってどのように異なるか？航空機用合板は、材料別、用途別にどのように分類されるか？",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
+    "title": "チェーンソーの操作技術を競う 木曽町で大会 「輪切り」と「伐倒」でスピードと正確性【長野】（abn長野朝日放送）",
+    "url": "https://news.yahoo.co.jp/articles/acc24375a3a49ddde7d8a7386c28bb09023e4a76",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-17 17:13",
+    "summary": "・林業関係者がチェーンソーで木を切る技術を競う大会が木曽町の県林業大学校で開かれました。\n・チェーンソーの操作技術の向上を目的に開かれた。\n・傾けて置かれた丸太を水平に切る輪切り競技と狙った場所に木を倒す伐倒（ばっとう）競技でスピードや正確性を競いました。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-17",
     "title": "久万高原で恒例「林業まつり」家族で木工体験楽しむ 18日まで",
     "url": "https://www.ehime-np.co.jp/article/news202610170167",
     "source": "愛媛新聞",
@@ -8,9 +67,9 @@
     "summary": "・基幹産業の魅力を発信する恒例の「久万林業まつり」（実行委員会主催）が１７日、久万高原町菅生の久万公園などで始まった。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -21,6 +80,8 @@
     "summary": "・VTV.vn - 教育訓練省は、大学に対し、学生向けのAI能力フレームワークを開発するよう要請した。\n・10月16日午後、フエ大学において、 教育訓練省（MOET）は「農業、林業、水産業における人工知能の応用」と題する科学会議を開催した。\n・農業、林業、水産業においては、この技術は病害虫の特定、収量予測、水資源の最適化、森林資源のモニタリング、養殖環境の追跡、サプライチェーン管理などに役立つ可能性があると述べた。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "農業、林業、水産業におけるAIの応用。",
@@ -28,9 +89,7 @@
         "source": "Vietnam.vn",
         "published_at": "2026-10-17 00:29"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-17",
@@ -41,6 +100,8 @@
     "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・秋田酒造社長・髙居翔さん　日本酒文化、世界に広める。\n・秋田市の女性宅に侵入して小型カメラを設置し盗撮したなどとして、性的姿態撮影処罰法違反などの罪に問われた、元林野庁職員の被告（３６）の第２回公判が１６日、秋田地裁（岡田龍太郎裁判官）で開かれた。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "秋田市女性宅侵入・盗撮、元林野庁職員の被告「意図あった」 秋田地裁で第２回公判",
@@ -48,9 +109,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-17 09:33"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-17",
@@ -74,6 +133,8 @@
     "summary": "・劇中の学生の武器、チェーンソーを手にする映画企画者の竹田拓也さん。\n・人口水増し問題で富山市が独自調査方針　市長「タイミングみて」。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 18,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
@@ -81,9 +142,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-17 05:05"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-17",
@@ -753,6 +812,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-16",
+    "title": "岐阜　未来に残す有望株を探せ　中津川市・裏木曽古事の森で伊勢市から技師招き選木作業",
+    "url": "https://www.chunichi.co.jp/article/1325400?rct=gifu",
+    "source": "中日新聞",
+    "published_at": "2026-10-16 00:30",
+    "summary": "・岐阜県笠松町で倉庫火災、男性1人死亡　倉庫の所有者か。\n・17日午前11時ごろ、岐阜県笠松町米野の無職岩井茂彦さん（64）方の倉庫から出火。\n・16日午後8時55分ごろ、岐阜県郡上市高鷲町ひるがのの不動産会社「スローデザイン」から出火。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -2130,77 +2202,5 @@
         "published_at": "2026-10-13 22:41"
       }
     ]
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "令和６年度から森林環境税（国税）の課税が始まります",
-    "url": "https://www.city.niimi.okayama.jp/kurashi/kurashi_detail/index/29146",
-    "source": "新見市ホームページ",
-    "published_at": "2026-10-13 22:32",
-    "summary": "・令和６年度から、森林の整備およびその促進に関する施策の財源として、森林環境税（国税）が課税されます。\n・森林環境税は個人市県民税均等割と合わせて徴収することとされており、その税収の全額が森林環境譲与税として都道府県・市町村へ譲与されます。\n・我が国の温室効果ガス排出削減目標の達成や、災害防止を図るための森林整備などに必要な地方財源を安定的に確保する観点から創設されました。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "新見市林業PR動画「にいみで林業を極める かっこええが！」を公開しました",
-    "url": "https://www.city.niimi.okayama.jp/kurashi/kurashi_detail/index/15532",
-    "source": "新見市ホームページ",
-    "published_at": "2026-10-13 20:14",
-    "summary": "・林業に従事する青年の１日を追った内容をショートドラマ仕立てで制作しています。\n・「もし、新見市で林業をしていたら・・・」と映像を通して体験してみてください。\n・動画の後半には、実際に都市部から移動された２組のインタビューもありますので、ぜひ、林業従事者の生の声をお聞きください。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "三菱地所など3社が国産CLT材活用した物流施設などの柱保護根巻を共同開発、従来のコンクリ製品より製造期間大幅短縮見込む - LOGI-BIZ online",
-    "url": "https://online.logi-biz.com/151241/",
-    "source": "LOGI-BIZ online",
-    "published_at": "2026-10-13 20:00",
-    "summary": "・三菱地所、高島、MEC Industryの3社は10月8日、国産木材から製造するCLT（木の板の層を各層で互いに直交するように積層接着した大判パネル材）を活用した新たな柱保護根巻「KiNEMAKI」（キネマキ）を共同で開発、同日に発売したと発表した。\n・同製品は物流施設など建物の鉄骨柱に巻き付け、フォークリフトの接触などから守る。\n・三菱地所の物流施設「ロジクロス」シリーズとして2026年8月に竣工した大規模マルチテナント型物流施設「ロジクロス三郷」（埼玉県三郷市）で先行して採用した。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 30,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "三菱地所など、国産CLTを活用した柱保護根巻開発 物流施設向け",
-        "url": "https://www.jutaku-s.com/news/id/106173",
-        "source": "住宅新報",
-        "published_at": "2026-10-13 16:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "森林法改正案を作成中で、2028年に国会に提出される予定。",
-    "url": "https://www.vietnam.vn/ja/xay-dung-luat-lam-nghiep-thay-the-du-kien-trinh-quoc-hoi-nam-2028",
-    "source": "Vietnam.vn",
-    "published_at": "2026-10-13 18:01",
-    "summary": "・農林環境省は、森林法改正案を策定するための計画を発表した。\n・この計画では、2027年までに政策を最終決定し、2028年に法案を作成・提出するためのロードマップが示されている。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-13",
-    "title": "枝含めチップ化 造林コスト下げる実証事業を公開 鹿児島 霧島",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58674",
-    "source": "NHKニュース",
-    "published_at": "2026-10-13 17:36",
-    "summary": "・【NHK】これまでの林業では、伐採後に現地に残しておくことが多かった枝の部分を細かく砕いて運び出し、再び木の苗を植えるときの手間がかからないようにしようと、霧島市で行われている実証事業が林業や行政の関係者に公開。",
-    "summary_type": "auto",
-    "category": "森林管理・地域",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
   }
 ]
