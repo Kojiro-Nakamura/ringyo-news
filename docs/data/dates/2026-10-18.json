@@ -1,6 +1,26 @@
 [
   {
     "article_date": "2026-10-18",
+    "title": "三笠で林業体験 間伐やたき火に挑戦 森の役割学ぶ",
+    "url": "https://www.hokkaido-np.co.jp/article/1391939/",
+    "source": "北海道新聞デジタル",
+    "published_at": "2026-10-18 20:48",
+    "summary": "・【三笠】市内の森林で間伐やたき火を体験するイベント「森とつながろう！ミカサノ木こり体験ツアー」が18日、市美和の「みわの森」で開かれた。\n・市外から4人が参加し、森の役割や林業の仕事への理解を深めた。\n・ハイスクールパティシエロワイヤル　三笠高が最優秀、優秀同時受賞　3年連続。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [
+      {
+        "title": "三笠で林業体験　間伐やたき火に挑戦　森の役割学ぶ",
+        "url": "https://topics.smt.docomo.ne.jp/article/hokkaido/region/hokkaido-1391939",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-10-18 20:48"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-18",
     "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
     "url": "https://www.sakigake.jp/news/article/20261018AK0010/",
     "source": "秋田魁新報電子版",
@@ -8,6 +28,8 @@
     "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・バスケ成年男子、ＪＲ東日本秋田が３年ぶりＶ　青森国スポ。\n・林業現場の死亡災害防止に向け、秋田労働局（千葉裕子局長）と林業・木材製造業労働災害防止協会秋田県支部（小松佳和支部長）は、五城目町内川湯ノ又の民有林で合同パトロールを行った。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
@@ -15,9 +37,7 @@
         "source": "47NEWS",
         "published_at": "2026-10-18 16:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -28,9 +48,9 @@
     "summary": "・目指せ地域の外科医　１２月中学生対象に手術体験 （13時間前）。\n・松崎高は１６日、林業実習を町内で実施した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -41,9 +61,9 @@
     "summary": "・3代目社長の勝吉力斗さんは、生まれ育ったこの町が大好きだ。\n・高齢化が課題とされる林業界において、同社で働く職人たちの平均年齢はおよそ36歳と、かなり若い。\n・勝吉さんは社長としてこの若くエネルギッシュなチームを牽引し、大好きな地元の山で何十年も先の未来を見据えた林業に取り組んでいる。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
