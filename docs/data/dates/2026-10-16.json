@@ -118,6 +118,8 @@
     "summary": "・株価は10/9終値1,175.5円から10/16終値1,204円へ2.4％上昇。\n・住友林業の2026年12月期中間期は、Tri Pointe Homesグループの連結化により売上高が前年同期比17.5%増の1兆2,632億円と増収となりました。\n・住友林業(株)【1911】の株価、チャート、最新の関連ニュース、掲示板、みんなの評価などをご覧いただけます。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "住友林業(株)【1911】：掲示板",
@@ -125,9 +127,7 @@
         "source": "Yahoo!ファイナンス",
         "published_at": "2026-10-16 16:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-16",
@@ -174,6 +174,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-16",
+    "title": "【善光寺御開帳】本堂の前に建てられる「回向柱」の製材…原木は樹齢約250年のスギの木…御開帳は2027年4月4日から77日間の予定、製材された柱は開幕の1週間前に奉納（ＳＢＣ信越放送）",
+    "url": "https://news.yahoo.co.jp/articles/99e69410c775b52dd2722e8895dd48e9a35ccce2",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-16 13:07",
+    "summary": "・2027年開かれる長野市の善光寺御開帳で本堂の前に建てられる回向柱の製材が行われています。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-16",
