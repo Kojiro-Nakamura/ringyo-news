@@ -1,6 +1,52 @@
 [
   {
     "article_date": "2026-10-18",
+    "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
+    "url": "https://www.sakigake.jp/news/article/20261018AK0010/",
+    "source": "秋田魁新報電子版",
+    "published_at": "2026-10-18 16:00",
+    "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・バスケ成年男子、ＪＲ東日本秋田が３年ぶりＶ　青森国スポ。\n・林業現場の死亡災害防止に向け、秋田労働局（千葉裕子局長）と林業・木材製造業労働災害防止協会秋田県支部（小松佳和支部長）は、五城目町内川湯ノ又の民有林で合同パトロールを行った。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
+        "url": "https://www.47news.jp/15100054.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-18 16:00"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "松崎高１年生が西豆学で林業実習 林業体験で重機操作に悪戦苦闘",
+    "url": "https://digital.izu-np.co.jp/news/education/113741",
+    "source": "伊豆新聞デジタル",
+    "published_at": "2026-10-18 10:56",
+    "summary": "・目指せ地域の外科医　１２月中学生対象に手術体験 （13時間前）。\n・松崎高は１６日、林業実習を町内で実施した。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "山から始まるまちおこし～林業３代目社長奮闘記～",
+    "url": "https://rkb.jp/contents/202610/204907/",
+    "source": "RKB毎日放送",
+    "published_at": "2026-10-18 10:00",
+    "summary": "・3代目社長の勝吉力斗さんは、生まれ育ったこの町が大好きだ。\n・高齢化が課題とされる林業界において、同社で働く職人たちの平均年齢はおよそ36歳と、かなり若い。\n・勝吉さんは社長としてこの若くエネルギッシュなチームを牽引し、大好きな地元の山で何十年も先の未来を見据えた林業に取り組んでいる。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
     "title": "大工の技術をカフェ空間で体感、CLTと在来のハイブリッド採用",
     "url": "https://www.reform-online.jp/news/builder/69670.php",
     "source": "リフォーム産業新聞",
@@ -8,9 +54,9 @@
     "summary": "・茨城県常総市に、大工の技術を体感できるカフェ兼ショールーム「杢いち（もくいち）」がオープンした。\n・CLTと自社大工が培ってきた在来工法の技術を組み合わせたハイブリッド構造を採用するなど、熟練の職人技が随所に息づいている。\n・同施設の特徴は、大工の技術を体感できる空間づくりだ。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -21,9 +67,9 @@
     "summary": "・「森林所有者が価値見いだせる活動を」 秦野市森林組合が３０周年式典。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -34,9 +80,16 @@
     "summary": "・鳥取県産木材を使った木造建築の普及などを目指す「とっとり都市木造推進協議会」（谷野利宏会長）は１７日、米子市内でインドネシアの学識経験者らを招いたシンポジウムを開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 3,
-    "is_featured": false
+    "importance_score": 18,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "木造建築の知見を共有 日本とインドネシア研究者らが米子市でシンポ",
+        "url": "https://www.47news.jp/15099748.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-18 05:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -47,9 +100,9 @@
     "summary": "・松本システムエンジニアリング（福岡県篠栗町、松本良三社長）は、林業向け自走ロボットを開発した。\n・1人の作業量に比べると、1日当たり8―10倍の能力を見込む。\n・険しい山林での作業を想定し、画像処理エンジンや作業装置、クローラー式車体などすべて自社開発した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -60,9 +113,9 @@
     "summary": "・【ハイマネージャー株式会社】「バックオフィスDXPO福岡'26」に出展。\n・［株式会社山長商店］～2026年11月18日から20日、東京ビッグサイトで開催　紀州材の強みを生かした建築の新しい可能性を展示会場で体感～植林から製材、プレカットまでを一貫して手がける株式会社山長商店（本社：和歌山県田辺市、代表取締役会長：榎本長治）は、2026年11月18日（水）～20日（金）まで東京ビッグサイトで開催される「Japan Home Show & Building Show 2026」に出展します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -73,9 +126,9 @@
     "summary": "・スギやヒノキの積み木で遊ぶ子どもら（高知市帯屋町１丁目）。\n・スギやヒノキの積み木で遊ぶ子どもら（高知市帯屋町１丁目）　森林保全の大切さを楽しみながら学び、県産材への関心を高めてもらう「もくもくエコランド　森林環境学習フェア」が１７日、高知市の東洋電化中央公園で始まった。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -86,9 +139,9 @@
     "summary": "・県上伊那地域振興局などは16日、辰野町北大出の富士山グラウンド周辺の山林で上伊那郡市植樹祭を開いた。\n・カラマツの苗600本のほか、松くい虫（マツノザイセンチュウ）が侵入しても枯れにくい「抵抗性アカマツ」の苗20本を初めて植えた。\n・長野県くらし・話題南信辰野町松くい虫が侵入しても枯れにくい「抵抗性アカマツ」を植樹　辰野町の山林2026/10/17 10:02会員記事紙面ビューアーで見る　県上伊那地域振興局などは16日、辰野町北大出の富士山グラウンド周辺の山林で上伊那郡市植樹祭を開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -99,9 +152,9 @@
     "summary": "・北海道東部の足寄町の山中で10月16日、木を切る作業をしていた74歳の男性がショベルカーにひかれて死亡しました。\n・この事故で、足寄町に住む74歳の会社員の男性が病院に搬送されましたが、その後、死亡が確認されました。\n・警察によりますと、男性は1人で木を切る作業をしていて、ショベルカーを降りようとした際にレバーに引っかかったことでひかれ、自ら119番通報したということです。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -112,8 +165,8 @@
     "summary": "・秋田県では人工林の管理不足が課題となる中、五城目町で森林を観光や教育の資源として活用する取り組みが始まっている。\n・森の中の宿泊施設を拠点に、人やお金の流れを生み出しながら森林整備につなげようと挑戦する小原祥嵩さん。\n・【画像】秋田・五城目町にある一棟貸しのログハウス「awake」。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

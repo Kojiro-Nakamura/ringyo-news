@@ -1,6 +1,52 @@
 [
   {
     "article_date": "2026-10-18",
+    "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
+    "url": "https://www.sakigake.jp/news/article/20261018AK0010/",
+    "source": "秋田魁新報電子版",
+    "published_at": "2026-10-18 16:00",
+    "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・バスケ成年男子、ＪＲ東日本秋田が３年ぶりＶ　青森国スポ。\n・林業現場の死亡災害防止に向け、秋田労働局（千葉裕子局長）と林業・木材製造業労働災害防止協会秋田県支部（小松佳和支部長）は、五城目町内川湯ノ又の民有林で合同パトロールを行った。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "林業現場の死亡災害防止へ 秋田労働局など、五城目で合同パトロール",
+        "url": "https://www.47news.jp/15100054.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-18 16:00"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "松崎高１年生が西豆学で林業実習 林業体験で重機操作に悪戦苦闘",
+    "url": "https://digital.izu-np.co.jp/news/education/113741",
+    "source": "伊豆新聞デジタル",
+    "published_at": "2026-10-18 10:56",
+    "summary": "・目指せ地域の外科医　１２月中学生対象に手術体験 （13時間前）。\n・松崎高は１６日、林業実習を町内で実施した。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
+    "title": "山から始まるまちおこし～林業３代目社長奮闘記～",
+    "url": "https://rkb.jp/contents/202610/204907/",
+    "source": "RKB毎日放送",
+    "published_at": "2026-10-18 10:00",
+    "summary": "・3代目社長の勝吉力斗さんは、生まれ育ったこの町が大好きだ。\n・高齢化が課題とされる林業界において、同社で働く職人たちの平均年齢はおよそ36歳と、かなり若い。\n・勝吉さんは社長としてこの若くエネルギッシュなチームを牽引し、大好きな地元の山で何十年も先の未来を見据えた林業に取り組んでいる。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-18",
     "title": "大工の技術をカフェ空間で体感、CLTと在来のハイブリッド採用",
     "url": "https://www.reform-online.jp/news/builder/69670.php",
     "source": "リフォーム産業新聞",
@@ -8,9 +54,9 @@
     "summary": "・茨城県常総市に、大工の技術を体感できるカフェ兼ショールーム「杢いち（もくいち）」がオープンした。\n・CLTと自社大工が培ってきた在来工法の技術を組み合わせたハイブリッド構造を採用するなど、熟練の職人技が随所に息づいている。\n・同施設の特徴は、大工の技術を体感できる空間づくりだ。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -21,9 +67,9 @@
     "summary": "・「森林所有者が価値見いだせる活動を」 秦野市森林組合が３０周年式典。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -34,9 +80,16 @@
     "summary": "・鳥取県産木材を使った木造建築の普及などを目指す「とっとり都市木造推進協議会」（谷野利宏会長）は１７日、米子市内でインドネシアの学識経験者らを招いたシンポジウムを開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 3,
-    "is_featured": false
+    "importance_score": 18,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "木造建築の知見を共有 日本とインドネシア研究者らが米子市でシンポ",
+        "url": "https://www.47news.jp/15099748.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-18 05:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-18",
@@ -47,9 +100,9 @@
     "summary": "・松本システムエンジニアリング（福岡県篠栗町、松本良三社長）は、林業向け自走ロボットを開発した。\n・1人の作業量に比べると、1日当たり8―10倍の能力を見込む。\n・険しい山林での作業を想定し、画像処理エンジンや作業装置、クローラー式車体などすべて自社開発した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -60,9 +113,9 @@
     "summary": "・【ハイマネージャー株式会社】「バックオフィスDXPO福岡'26」に出展。\n・［株式会社山長商店］～2026年11月18日から20日、東京ビッグサイトで開催　紀州材の強みを生かした建築の新しい可能性を展示会場で体感～植林から製材、プレカットまでを一貫して手がける株式会社山長商店（本社：和歌山県田辺市、代表取締役会長：榎本長治）は、2026年11月18日（水）～20日（金）まで東京ビッグサイトで開催される「Japan Home Show & Building Show 2026」に出展します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -73,9 +126,9 @@
     "summary": "・スギやヒノキの積み木で遊ぶ子どもら（高知市帯屋町１丁目）。\n・スギやヒノキの積み木で遊ぶ子どもら（高知市帯屋町１丁目）　森林保全の大切さを楽しみながら学び、県産材への関心を高めてもらう「もくもくエコランド　森林環境学習フェア」が１７日、高知市の東洋電化中央公園で始まった。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -86,9 +139,9 @@
     "summary": "・県上伊那地域振興局などは16日、辰野町北大出の富士山グラウンド周辺の山林で上伊那郡市植樹祭を開いた。\n・カラマツの苗600本のほか、松くい虫（マツノザイセンチュウ）が侵入しても枯れにくい「抵抗性アカマツ」の苗20本を初めて植えた。\n・長野県くらし・話題南信辰野町松くい虫が侵入しても枯れにくい「抵抗性アカマツ」を植樹　辰野町の山林2026/10/17 10:02会員記事紙面ビューアーで見る　県上伊那地域振興局などは16日、辰野町北大出の富士山グラウンド周辺の山林で上伊那郡市植樹祭を開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -99,9 +152,9 @@
     "summary": "・北海道東部の足寄町の山中で10月16日、木を切る作業をしていた74歳の男性がショベルカーにひかれて死亡しました。\n・この事故で、足寄町に住む74歳の会社員の男性が病院に搬送されましたが、その後、死亡が確認されました。\n・警察によりますと、男性は1人で木を切る作業をしていて、ショベルカーを降りようとした際にレバーに引っかかったことでひかれ、自ら119番通報したということです。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-18",
@@ -112,9 +165,9 @@
     "summary": "・秋田県では人工林の管理不足が課題となる中、五城目町で森林を観光や教育の資源として活用する取り組みが始まっている。\n・森の中の宿泊施設を拠点に、人やお金の流れを生み出しながら森林整備につなげようと挑戦する小原祥嵩さん。\n・【画像】秋田・五城目町にある一棟貸しのログハウス「awake」。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -158,9 +211,9 @@
     "summary": "・CLT×プレファブ工法が生む次世代の木造集合住宅 - チェコにおける多層木造建築の先駆けとなる〈ズダル・ウッドハウジング〉。\n・オランダ・アイントホーフェンに誕生した〈ミュージアムパークVONK〉は、地域の歴史と未来を伝える新たな博物館です。\n・オランダの設計事務所スタジオ・マルコ・ヴェムールンが設計した建築であり、同事務所が以前手がけたプロジェクトから「収穫」し再利用されたCLTなどのバイオベース素材と持続可能な技術を建築全体に大規模に統合されています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -263,13 +316,19 @@
     "summary": "・劇中の学生の武器、チェーンソーを手にする映画企画者の竹田拓也さん。\n・人口水増し問題で富山市が独自調査方針　市長「タイミングみて」。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": true,
     "related_articles": [
       {
         "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
         "url": "https://www.47news.jp/15095863.html",
         "source": "47NEWS",
+        "published_at": "2026-10-17 05:05"
+      },
+      {
+        "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
+        "url": "https://www.chunichi.co.jp/article/1326446",
+        "source": "中日新聞Web",
         "published_at": "2026-10-17 05:05"
       }
     ]
@@ -513,6 +572,19 @@
         "published_at": "2026-10-16 15:00"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-16",
+    "title": "院庄林業が製材ライン刷新へ ２８年稼働、大口径の丸太に対応",
+    "url": "https://www.sanyonews.jp/article/1906780",
+    "source": "山陽新聞",
+    "published_at": "2026-10-16 16:00",
+    "summary": "・院庄林業久米工場にある製材ライン。\n・設備を刷新し、製造能力を高める。\n・製材メーカーの院庄林業（津山市二宮）は、丸太を角材や板材に加工している久米工場（同市くめ）の生産ラインを刷新する。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-16",
@@ -1179,6 +1251,19 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "木造建築【森文旭館】内子町・大正時代の映画館を守る屋根修理改修緊急プロジェクト",
+    "url": "https://camp-fire.jp/projects/966958/view",
+    "source": "CAMPFIRE (キャンプファイヤー)",
+    "published_at": "2026-10-15 16:00",
+    "summary": "・今回、地域の宝である弊社所有、国の登録有形文化財建造物にも指定されている大正時代の歴史的建造物、愛媛県内子町の木造建築【森文旭館】の保存という大きな挑戦に皆様のお力をお借りしたく、この緊急プロジェクトを立ち上げました。\n・木造建築【森文旭館】は大正時代に建築された元活動写真館で、現在は国の登録有形文化財建造物に指定されています。\n・木造建築【森文旭館】はおかげさまで2026年10月で築100周年を迎えますが、老朽化がかなり進んでおります。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-15",
@@ -2128,71 +2213,6 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "中川町の森の恵み「モリイチゴ」の取組について取材しました。：北海道農政事務所",
-    "url": "https://www.maff.go.jp/hokkaido/asahikawa/photorepo/gennba/moriitigo.html",
-    "source": "農林水産省",
-    "published_at": "2026-10-14 13:45",
-    "summary": "・北海道農政事務所ホームページ。\n・（株）中川建設は、北海道立総合研究機構林業試験場道北支場の錦織支場長から、中川町の森に自生する「モリイチゴ」の活用について助言を受けたことをきっかけに、関連会社の翔北農園で栽培を開始しました。\n・モリイチゴは一粒ごとに味わいが異なり、手のひらにのせてまとめて食べると、さまざまな風味が重なり合う奥深い味わいを楽しめます。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "林野火災に備え消防が森林組合やドローン会社と協定 立山町",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59067",
-    "source": "NHKニュース",
-    "published_at": "2026-10-14 12:10",
-    "summary": "・林野火災に備え消防が森林組合やドローン会社と協定 立山町。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "【新製品】電動チェーンソーの“泣き所”を克服する「ALLPRO」",
-    "url": "https://rinseinews.com/news/27820",
-    "source": "林政ニュース",
-    "published_at": "2026-10-14 09:00",
-    "summary": "・チェーンソーの世界的メーカーであるスチール（STIHL、本社＝ドイツ）の日本法人・（株）スチール（栃⽊県上三川町、中⼭健太郎・代表取締役、ブランド表記は「シュティール」）は、電動チェーンソーなどに用いるバッテリー（蓄電池）の新製品発表会を10月８日に東京都内で開催した。\n・披露した新型バッテリーの名称は、「ALLPRO（オールプロ）」。\n・チェーンソーの使用にあたっては、騒音・環境規制への対応や作業効率の向上、作業者の健康・安全への配慮などが求められており、低騒音・低振動のバッテリー製品に対する注目度が高まっている。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "10月24日にトークカフェ「木材と街と人と～高知の木材事情～」開催",
-    "url": "https://rinseinews.com/news/27754",
-    "source": "林政ニュース",
-    "published_at": "2026-10-14 09:00",
-    "summary": "・NPO法人才の木は、10月24日（土）午後２時から高知県高知市のちより街テラス第２会議室で20周年記念トークカフェ「木材と街と人と～高知の木材事情～」を開催し、オンライン配信も行う。\n・（有）戸田商行代表取締役の戸田実知子氏と高知県林業振興・環境部木材産業振興課長の小野田勝氏が話題提供をした後、意見交換をする。\n・高知県（濱田省司知事）と東京都の品川区（森澤恭子区長）は、建築関係者らを対象にした木材の安定調達に関する初めての勉強会を１月23日に品川区中小企業センターで開催した。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-14",
-    "title": "「国有林貸し付けないで」 宮城の風力発電反対の住民ら林野庁に要望（河北新報）",
-    "url": "https://news.yahoo.co.jp/articles/b574e7bd04acee02421ab02d7a7a44fb01b5a386",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-14 08:40",
-    "summary": "・宮城県加美町で計画される風力発電事業に反対する住民団体「加美郡の風力発電を考えるネットワーク」などは7日、林野庁を訪れ、環境保全のため事業者に国有林を貸し付けないよう求める要望書を提出した。\n・要望書は、計画地に森林生態系の保全を図る国指定の「緑の回廊」が含まれ、ガンなど渡り鳥のルートになっていると指摘。\n・福島県会津若松市で計画される風力発電事業を危惧する「会津の自然と景観を守る会」の木村保幸会長も同様の要望書を提出。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 9,
     "is_featured": false,
     "related_articles": []
   }

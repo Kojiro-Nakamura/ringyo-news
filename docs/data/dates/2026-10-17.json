@@ -41,9 +41,9 @@
     "summary": "・CLT×プレファブ工法が生む次世代の木造集合住宅 - チェコにおける多層木造建築の先駆けとなる〈ズダル・ウッドハウジング〉。\n・オランダ・アイントホーフェンに誕生した〈ミュージアムパークVONK〉は、地域の歴史と未来を伝える新たな博物館です。\n・オランダの設計事務所スタジオ・マルコ・ヴェムールンが設計した建築であり、同事務所が以前手がけたプロジェクトから「収穫」し再利用されたCLTなどのバイオベース素材と持続可能な技術を建築全体に大規模に統合されています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-17",
@@ -146,13 +146,19 @@
     "summary": "・劇中の学生の武器、チェーンソーを手にする映画企画者の竹田拓也さん。\n・人口水増し問題で富山市が独自調査方針　市長「タイミングみて」。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": true,
     "related_articles": [
       {
         "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
         "url": "https://www.47news.jp/15095863.html",
         "source": "47NEWS",
+        "published_at": "2026-10-17 05:05"
+      },
+      {
+        "title": "林業従事者の働き方を自虐映画に 白山市の企業と金城大、17・18日「金城祭」で上映",
+        "url": "https://www.chunichi.co.jp/article/1326446",
+        "source": "中日新聞Web",
         "published_at": "2026-10-17 05:05"
       }
     ]
