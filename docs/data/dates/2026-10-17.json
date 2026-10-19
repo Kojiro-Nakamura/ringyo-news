@@ -8,12 +8,18 @@
     "summary": "・森林や林業の魅力を学べるイベントが、高知市で開かれました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 15,
-    "is_featured": false,
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "森林や林業の魅力を体感できるイベント「もくもくエコランド2026」開催 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知",
         "url": "https://newsdig.tbs.co.jp/articles/kutv/3019485",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-17 18:05"
+      },
+      {
+        "title": "森林や林業の魅力を体感できるイベント「もくもくエコランド2026」開催",
+        "url": "https://newsdig.tbs.co.jp/articles/kutv/3019485?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-17 18:05"
       }
@@ -114,7 +120,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 24,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "秋田市女性宅侵入・盗撮、元林野庁職員の被告「意図あった」 秋田地裁で第２回公判",
