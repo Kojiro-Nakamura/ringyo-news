@@ -1,6 +1,39 @@
 [
   {
     "article_date": "2026-10-19",
+    "title": "森林環境譲与税の取り組み 自治体事例｜森林経営管理制度を活用した森林整備の促進、CO2吸収量に応じた支援、既存の庁内WebGISへの林地台帳機能の追加、スマート林業の推進",
+    "url": "https://www.jt-tsushin.jp/articles/case/shinrin-seibi-6",
+    "source": "自治体通信Online",
+    "published_at": "2026-10-19 18:59",
+    "summary": "・森林環境税および森林環境譲与税は、森林の有する公益的機能の維持増進の重要性に鑑み、市町村および都道府県が実施する森林の整備およびその促進に関する施策の財源に充てるため創設され、令和元年度に森林環境譲与税の譲与が開始されました。\n・そこで、林野庁がまとめた令和5年度の「森林環境譲与税の取組事例集（市町村・都道府県）」より、森林環境譲与税の取り組みについての自治体事例を抜粋して紹介します。\n・このため、災害時の倒木等被害の拡大防止等を目的に令和5年度において森林経営管理制度を活用した私有林の森林整備（切捨間伐）を実施しました。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-19",
+    "title": "高層ビルの木造化を実現する耐震耐火技術！無花粉スギや廃材燃料で持続可能な未来へ挑む 住友林業",
+    "url": "https://txbiz.tv-tokyo.co.jp/gulliver/vod/post_350272",
+    "source": "テレ東BIZ",
+    "published_at": "2026-10-19 17:21",
+    "summary": "・今回のガリバーは、創業から300年以上の歴史を誇り、「木」とともに歩み続けてきた「住友林業」。\n・かつて別子銅山の開発によって荒れてしまった山を再生すべく、年間200万本もの木を植える大規模な森林計画は、現在も東京ドームおよそ10,000個分に及ぶ広大な社有林を守り、「木を植え、育て、使って、また植える」という、持続可能な森の循環を大切に受け継いでいます。\n・再生可能な資源である「木」と共生する社会づくりをリードする住友林業。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "高層ビルの木造化を実現する耐震耐火技術！無花粉スギや廃材燃料で持続可能な未来へ挑む 住友林業",
+        "url": "https://tver.jp/episodes/epboh5l0vx",
+        "source": "tver.jp",
+        "published_at": "2026-10-19 00:30"
+      }
+    ],
+    "importance_score": 30,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-19",
     "title": "クロスラミネーテッドティンバー市場―2026年～2032年の世界市場予測",
     "url": "https://www.atpress.ne.jp/news/9103796",
     "source": "アットプレス",
@@ -8,9 +41,9 @@
     "summary": "・株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口 荘祐）は、市場調査レポート「クロスラミネーテッドティンバー市場―2026年～2032年の世界市場予測」（360iResearch LLP）の販売を10月19日より開始しました。\n・クロスラミネーテッドティンバー（CLT）市場は、2032年までにCAGR13.66％で46億4,000万米ドル規模に拡大すると予測されています。\n・主な市場の統計基準年2025\t18億9,000万米ドル推定年2026\t21億4,000万米ドル予測年2032\t46億4,000万米ドルCAGR（%）\t13.66%。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -21,9 +54,9 @@
     "summary": "・トラン・ティ・マイ・セン博士は20年以上にわたり、林業大学に尽力し、森林と持続可能な開発に関する研究を粘り強く追求するとともに、学生により多くの学習機会を提供するために、実践的な経験を教育に取り入れてきました。\n・トラン・ティ・マイ・セン博士にとって、林業における彼女の歩みは、長年の研究と教育だけでなく、現地視察によっても形作られてきた。\n・林業への情熱と志を胸に、彼女は学生時代から林業大学と関わりを持ち、2005年に教員としてのキャリアをスタートさせました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -34,9 +67,9 @@
     "summary": "・秋田市新築戸建て着工棟数No.1(※1)のプライムハウスは、CLT(直交集成板)を用いた「CLTハイブリッド構法」のモデルハウス「CLT AKITA 八橋モデルハウス」を10月24日(土)・25日(日)にグランドオープンする。\n・CLT住宅の取り扱いは東北地方で初めてであり、秋田県内でCLTハイブリッド構法の家を建てられるのは、秋田県総代理店であるプライムハウスのみとなる。\n・開発元による三次元大型振動台実験において、震度7を36回、震度6弱～6強を24回、震度6を5回、震度5強を5回の計70回加振した後も、CLTハイブリッドパネルに大きな損傷は見られなかった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -47,9 +80,9 @@
     "summary": "・設立から10年を経て、土地管理・農村開発研究所は、人材育成、科学研究、技術移転の分野で確固たる地位を築いてきた。\n・10月17日、ハノイにおいて、ベトナム林業大学土地管理・農村開発研究所は、創立10周年（2016年～2026年）を祝う式典を開催した。\n・林業大学の学長が、土地管理・農村開発研究所の建設と発展において優れた成果を上げた団体および個人に表彰状を授与した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -60,9 +93,9 @@
     "summary": "・ダイナミックマップ、道路計測で培った実世界データを都市林業に展開。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -73,9 +106,9 @@
     "summary": "・採択プロジェクトの一つである「ドローン・AIによる森林モニタリングシステム構築プロジェクト」について、愛知県内で実証実験を重ねながら、森林が持つ多面的機能の見える化に取り組んできました。\n・この度、プロジェクト採択者であるDeepForest Technologies(ディープフォレスト テクノロジーズ)株式会社と、連携パートナーである東邦ガス株式会社は、ドローン計測とAI解析を活用した「森林環境価値の見える化サービス」の提供を本日より開始しますのでお知らせします。\n・ドローン計測とAI解析を組み合わせることにより、樹木1本ごとの樹種・樹高・幹の太さなどを効率的に解析し、森林環境価値の見える化サービスを山林所有者（地方自治体、民間企業等）や林業事業者に提供します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -86,9 +119,9 @@
     "summary": "・林業・木材団体が知事へ要望 鹿児島県産材の利用促進を",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -99,16 +132,28 @@
     "summary": "・帝国データバンク富山支店によると、木造建築工事などのウィスタ（富山市町村、江村克也代表）は、富山地裁から破産手続き開始決定を受けた。\n・富山市などを営業エリアに新築やリフォーム工事を手掛けたが、工事を外注に依存していたことから外注費を中心に工事原価は高止まりし、債務超過に陥っていた。\n・【倒産】富山の木造住宅「ウィスタ」破産手続き開始　負債1億400万円　売上4.4億円から3500万円へ急減　帝国データバンク。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 57,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "富山の木造建築工事・ウィスタ 破産手続き開始決定 負債約1億400万円を見込む 工事を外注に依存 (北國新聞社)",
         "url": "https://news.yahoo.co.jp/articles/5c2db28f339e61516f0dea415d49c8eb47058b9d/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-19 11:06"
+      },
+      {
+        "title": "富山の木造建築工事・ウィスタ 破産手続き開始決定 負債約1億400万円を見込む 工事を外注に依存",
+        "url": "https://www.hokkoku.co.jp/articles/-/2263404",
+        "source": "北國新聞",
+        "published_at": "2026-10-19 11:00"
+      },
+      {
+        "title": "富山の木造建築工事・ウィスタ 破産手続き開始決定 負債約1億400万円を見込む 工事を外注に依存",
+        "url": "https://www.47news.jp/15103336.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-19 11:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-19",
@@ -119,9 +164,9 @@
     "summary": "・木材加工・輸出企業にとって、EUDRは単なる追加書類の要件ではなく、原材料の調達、生産管理、そして受注維持能力に直接的な影響を与える。\n・顧客が木材の原産地証明を伐採地まで遡って要求する場合、サプライチェーンのどこかに欠落があると、出荷全体に影響を及ぼす可能性がある。\n・EUDR（欧州木材規則）によれば、規制対象となる製品は、2020年12月31日以降、森林破壊と関連付けられていないこと、生産国の関連法規に従って生産されていること、および検証要件を満たしていることを証明しなければならない。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -132,9 +177,9 @@
     "summary": "・株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「合板製スチールサイドボックスの世界市場（2026年～2032年）、英文タイトル：Global Plywood Steel Side Box Market 2026-2032」調査資料を発表しました。\n・本資料には、合板製スチールサイドボックスの世界市場規模、市場動向、セグメント別予測（6ピース型、3ピース型、一体型）、関連企業の情報などが盛り込まれています。\n・2021年から2026年までの地域別および国/地域別の世界市場規模、年間販売数、年間収益が詳細に分析されています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -158,9 +203,9 @@
     "summary": "・「優良施設部門」では、特賞12点と優秀賞29点が入賞し、最優秀賞（内閣総理大臣賞）には、北海道札幌市の「日建設計　北海道オフィス」が選ばれた。\n・また、「国産材利用推進部門」では、特賞として６企業が入賞し、（株）シェルター（山形県）が最優秀賞（農林水産大臣賞）を受賞した。\n・（トップ画像＝「日建設計 北海道オフィス」の外観）。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -171,9 +216,9 @@
     "summary": "・27の工務店で組織している長崎すて木な家づくりの会（長崎県諫早市、石橋光成会長）は、木造住宅を建築した施主に環境貢献度を示した感謝状を贈呈する事業を始めた。\n・10月１日には、新たな取り組みのキックオフイベントを県庁内で行い、施主を代表するかたちで同会の石橋会長が県林業公社の原田幸勝理事長から感謝状を受け取った。\n・今後、会員工務店各社が施主に感謝状を贈呈し、環境に配慮した木造住宅づくりの輪を広げていくことにしている。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -184,9 +229,9 @@
     "summary": "・チェンソーを使える林業者や災害ボランティアが、地震などの被災地で住民救助などで活躍したことはあまり知られていない。\n・地域の林業者を防災人材の育成者とする新たな動きが始まっている。\n・チェンソーや小型重機を駆使して救助やがれき撤去などを担う技術系災害ボランティア全国ネットワーク「DRT-JAPAN」を主宰する黒澤さんは、これまで60を超える災害現場で活動。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -276,19 +321,6 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-19",
-    "title": "高層ビルの木造化を実現する耐震耐火技術！無花粉スギや廃材燃料で持続可能な未来へ挑む 住友林業",
-    "url": "https://tver.jp/episodes/epboh5l0vx",
-    "source": "tver.jp",
-    "published_at": "2026-10-19 00:30",
-    "summary": "・高層ビルの木造化を実現する耐震耐火技術！無花粉スギや廃材燃料で持続可能な未来へ挑む 住友林業。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   },
