@@ -41,9 +41,29 @@
     "summary": "・株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口 荘祐）は、市場調査レポート「クロスラミネーテッドティンバー市場―2026年～2032年の世界市場予測」（360iResearch LLP）の販売を10月19日より開始しました。\n・クロスラミネーテッドティンバー（CLT）市場は、2032年までにCAGR13.66％で46億4,000万米ドル規模に拡大すると予測されています。\n・主な市場の統計基準年2025\t18億9,000万米ドル推定年2026\t21億4,000万米ドル予測年2032\t46億4,000万米ドルCAGR（%）\t13.66%。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "クロスラミネーテッドティンバー市場―2026年～2032年の世界市場予測",
+        "url": "https://newscast.jp/smart/news/9103796",
+        "source": "Newscast.jp",
+        "published_at": "2026-10-19 16:08"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-19",
+    "title": "住友林業ホームテック、リフォーム事業の上期受注高12.1％増の413億円 完工高も増加",
+    "url": "https://www.reform-online.jp/news/housemaker/69698.php",
+    "source": "リフォーム産業新聞",
+    "published_at": "2026-10-19 15:37",
+    "summary": "・住友林業ホームテック（東京都千代田区）は2026年12月期の中間決算を発表し、リフォーム事業は増収減益だった。\n・リフォームの受注金額は412億9100万円で、前年同期比12.1％増となった。\n・この記事の関連キーワード :　中間決算　住友林業ホームテック　受注高　売上高。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "is_featured": false
   },
   {
     "article_date": "2026-10-19",
@@ -191,7 +211,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 24,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
