@@ -1,6 +1,91 @@
 [
   {
     "article_date": "2026-10-20",
+    "title": "【連載・肥後の水とみどりの愛護賞・教育機関の部】水俣高建築科「Wood Connect Project」（水俣市） 地元林業と連携、木工品製作",
+    "url": "https://kumanichi.com/articles/2048732",
+    "source": "熊本日日新聞社",
+    "published_at": "2026-10-20 20:53",
+    "summary": "・地下水保全や緑化推進に取り組む団体・個人を顕彰する「肥後の水とみどりの愛護賞」の2026年度受賞団体が決まった。\n・前身の「肥後の水資源愛護賞」から数えて40回目を迎える今回は、一般の部3団体、教育機関の部1団体、継続賞の部3団体を選定。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "東海エリアの森林管理を効率化！東邦ガスが自治体・森林組合向けに新サービスをスタート",
+    "url": "https://dxmagazine.jp/news/2659ko48/",
+    "source": "DXマガジン",
+    "published_at": "2026-10-20 20:25",
+    "summary": "・東邦ガス株式会社は、ドローン計測とAI解析を活用した「森林環境価値の見える化サービス」を2026年10月19日に提供開始しました。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "東邦ガス、ドローンとAIで森林のCO2吸収量解析　新興と自治体に提案",
+        "url": "https://www.nikkei.com/article/DGXZQOFD1960Y0Z11C26A0000000/",
+        "source": "日本経済新聞",
+        "published_at": "2026-10-20 00:30"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "原木市場を拡張 多摩木材センター協同組合",
+    "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M5BZW1N3ZJC7FVNRKDTPQ45Q",
+    "source": "建通新聞",
+    "published_at": "2026-10-20 18:34",
+    "summary": "・【日の出町】多摩木材センター協同組合は原木市場を拡張し、新たに４０００平方㍍超の平場を設ける。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "地所レジ、開発中の物件に国産材を使用した共用部",
+    "url": "https://www.re-port.net/article/news/0000083159/",
+    "source": "最新不動産ニュースサイト「R.E.port」",
+    "published_at": "2026-10-20 18:17",
+    "summary": "・三菱地所レジデンス（株）は19日、開発中の賃貸マンション「ザ・パークハビオ 蒲田レジデンス」（東京都大田区、総戸数117戸）の共用部において、神奈川県相模原市の林業関係者から指定調達した木材を採用すると発表した。\n・物件はJR京浜東北線「蒲田」駅徒歩5分に立地。\n・共用部のエントランスホールやラウンジの天井、壁面ルーバーに津久井産材を使用し、CLT材で製造した造作家具の採用も予定している。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "【フランス林業最前線③】ロレーヌの森が育む人づくりの知――AgroParisTechナンシーキャンパスの森林工学――",
+    "url": "https://forest-journal.jp/forestry-workers/49137/",
+    "source": "FOREST JOURNAL",
+    "published_at": "2026-10-20 17:00",
+    "summary": "・フランス林業を日本で初めて紹介した著書『広葉樹の国フランス』などを執筆する門脇仁氏による連載。\n・今回訪ねたのは、約200年にわたり森林技術者を育ててきたナンシーキャンパス。\n・そして2007年、旧ENGREFはいまの「国立生命環境科学技術大学校（AgroParisTech）」に統合され、グランゼコール（※1）の一部として森林科学や林業経営のカリキュラムを担うキャンパスになった。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "京都「南丹・京丹波林業振興展」出品された原木の優秀材決まる 入賞者は【一覧あり】",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1811202",
+    "source": "京都新聞デジタル",
+    "published_at": "2026-10-20 16:20",
+    "summary": "・地元産木材の魅力を伝える「南丹・京丹波林業振興展」に出品された原木の優秀材が決まった。\n・「代表者が破門される」京都の元宗教法人職員の女ら、計922万円だまし取った疑いで再逮捕。\n・大阪市や京都市、あす21日は「季節外れの暑さ」　観測史上最も遅い「真夏日」の可能性。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
     "title": "奈良県フォレスターアカデミーがグッドデザイン賞",
     "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/10/post-475912.html",
     "source": "田中淳夫 取材メモ",
@@ -8,9 +93,9 @@
     "summary": "・奈良県フォレスターアカデミーが受賞した、と聞いて何の賞かと思えば、グッドデザイン賞だった！　10月15日に発表されている。\n・グッドデザイン賞のＨＰからたどろうとすると苦戦した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -21,9 +106,16 @@
     "summary": "・濱 潤）が設計・施工を手掛けた大規模木造建築「無印良品 那珂川」（福岡県那珂川市）および「無印良品 精華台」（京都府相楽郡精華町）が、このたび木材利用推進中央協議会が主催する「令和8年度 木材利用推進コンクール」（優良施設部門）において、「優秀賞」を受賞いたしましたのでお知らせいたします。\n・当社の設計・施工による大規模木造建築が同コンクールで受賞するのは、令和6年度の「無印良品。\n・今回の受賞におきましては、「無印良品 那珂川」および「無印良品 精華台」の両店舗において、最高ランクの『ZEB（ネット・ゼロ・エネルギー・ビルディング）』認証を取得した高い環境性能に加え、構造躯体や内装材への積極的な地域材活用、開放的な一室空間を実現する「SE構法」の導入など、環境負荷低減と地域の持続可能性を両立させた建築デザインが高く評価されました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 12,
-    "is_featured": false
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "エヌ・シー・エヌの「SE構法」を採用した大規模木造店舗「無印良品 那珂川」「無印良品 精華台」が令和８年度 木材利用推進コンクールにて「優秀賞」を受賞",
+        "url": "https://www.agara.co.jp/article/701539?rct=pr_times",
+        "source": "AGARA 紀伊民報",
+        "published_at": "2026-10-20 15:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-20",
@@ -34,9 +126,9 @@
     "summary": "・鹿屋市田淵町の黒松製材建設（黒松正大社長）は１０月中にも、プレカット資材を台湾に輸出する。\n・製材品が県産材の輸出額に占める割合は小さく、同社は「林業活性化につなげたい」と意気込んでいる。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -47,9 +139,9 @@
     "summary": "・ライフデザイン・カバヤ株式会社（代表取締役社長：窪田健太郎/本社：岡山県岡山市）が運営する、CLTフランチャイズネットワーク本部『日本CLT技術研究所』は、加盟企業である株式会社フォレストヴィラホーム（代表取締役：中安章/本社：福岡県福岡市）が現在CLTパネル工法にて建築中の、本社新社屋において、2026年11月19日（木）、20日（金）の2日間、両社共同にて構造見学会を開催いたします。\n・株式会社フォレストヴィラホームは福岡県内において、日本初*であるCLTパネル工法による純木造5階建てビルディングの建築を進めています。\n・また、2026年11月18日（水）、26日（木）の2日間は株式会社フォレストヴィラホームと福岡県林業振興課の共同にて構造見学会を開催いたします。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -60,9 +152,9 @@
     "summary": "・株式会社四国の右下木の会社（本社：徳島県海部郡美波町、代表取締役：吉田基晴、以下「当社」）は、樵木備長炭粉末「深墨」を、Amazonにて販売開始いたしました。\n・当社はこれまで、徳島県南部の広葉樹資源を、プロの料理人向けの樵木備長炭や樵木薪へと仕立て、熱源として届けてきました。\n・株式会社四国の右下木の会社のプレスリリース（2026年10月20日 11時00分）「食べる、樵木（こりき）。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -73,9 +165,9 @@
     "summary": "・株式会社マプリィ（本社：兵庫県丹波市、代表取締役：山口圭司）は、林業や農業現場における「草刈り・下刈り作業」の労働環境改善と省力化等を目的とした自律型電動クローラー「mapry M3」について、2026年10月20日（火）より数量限定で試用販売の受付を開始いたします。\n・慢性的な人手不足や、危険を伴う斜面での重労働（下刈り・除草作業など）といった現場の課題を解決するため開発されたのが、小型電動クローラー「mapry M3」です。\n・株式会社マプリィのプレスリリース（2026年10月20日 10時10分）【数量限定】林業の下刈り・農業の除草を大幅に省力化。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -86,9 +178,9 @@
     "summary": "・住友林業(東京都千代田区、光吉敏郎社長)は9月29日、来年3月から横浜市瀬谷区内で開催される2027年国際園芸博覧会(GREEN×EXPO2027)の会場内に建設した木造ユニット建築「(仮称)KIBLO(キブロ)」を報道関係者に公開した。\n・同建物は、工場で製造した約10平方メートルの木造ユニットを4トントラックで建設現場まで搬送し、クレーンなどで吊り上げて設置・接合するモジュラー建築。\n・基礎工事完了後、3日間でユニット設置が完了し、その後の3日で木工事を実施した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -112,9 +204,9 @@
     "summary": "・静岡県は、県内外の14の企業との間で都市（まち）の木造化推進法に基づく「しずおか県産材利用促進協定」を10月８日に結んだ。\n・木内建設（株）（静岡県静岡市）…社有施設の改修などで県産材の活用を推進。\n・（株）静岡中央銀行（静岡県沼津市）…本社ビル２棟の建て替えにあたり外装に県産材を活用。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -125,9 +217,9 @@
     "summary": "・（前編からつづく）岐阜県下呂市で約50年前に自然発生的に結成された「森林造成組合」は、今なお支部を含めて93もの数を誇る。\n・遠藤日雄・元鹿児島大学教授は、熊﨑組合長との「対論」を通じて、これからの森林づくりの担い手をどうやって確保・育成していくかという本質論に接近していく。\n・岐阜県の下呂市は、森林造成組合による森林整備活動などを支援する事業を来年度（2022年度）から始める。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -216,19 +308,6 @@
     "summary": "・企業を対象にした環境規制が国際的に強まっていることに対応するため、政府は産官学によるコンソーシアム（共同事業体）を来年１月にも設立する。\n・製品の原材料調達先が森林や海などを破壊していないか把握し、自然環境に配慮したサプライチェーン（供給網）の構築などを目指す。\n・アルメニアで１９日に開幕する国連生物多様性条約第１７回締約国会議（ＣＯＰ１７）で、政府代表団が構想を発表する。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-20",
-    "title": "東邦ガス、ドローンとAIで森林のCO2吸収量解析　新興と自治体に提案",
-    "url": "https://www.nikkei.com/article/DGXZQOFD1960Y0Z11C26A0000000/",
-    "source": "日本経済新聞",
-    "published_at": "2026-10-20 00:30",
-    "summary": "・東邦ガスは19日、ドローンと人工知能（AI）を使って森林の樹種や密度を解析するサービスを始めたと発表した。\n・森の二酸化炭素（CO2）吸収量や土砂災害リスク、生物多様性の確保状況を分析する。\n・自治体や森林組合が森を管理する負担を減らす。",
-    "summary_type": "auto",
-    "category": "林政・施策",
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
@@ -451,9 +530,9 @@
     "summary": "・住友林業ホームテック（東京都千代田区）は2026年12月期の中間決算を発表し、リフォーム事業は増収減益だった。\n・リフォームの受注金額は412億9100万円で、前年同期比12.1％増となった。\n・この記事の関連キーワード :　中間決算　住友林業ホームテック　受注高　売上高。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-19",
@@ -2126,78 +2205,6 @@
     "summary_type": "auto",
     "category": "業界・一般",
     "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "東京の林業関係への就業|10月",
-    "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101509",
-    "source": "都庁総合ホームページ",
-    "published_at": "2026-10-15 17:17",
-    "summary": "・東京の林業関係への就業|10月。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "エヌ・シー・エヌ、『関西・非住宅木造建築フェア』特別講演に登壇｜Infoseekニュース",
-    "url": "https://news.infoseek.co.jp/article/prtimes_000000270_000004739/",
-    "source": "Infoseek",
-    "published_at": "2026-10-15 16:45",
-    "summary": "・木造5階建ても安価に実現する「SE構法」による、中大規模木造建築の課題解決法を解説木造耐震設計事業を展開する株式会。\n・木造耐震設計事業を展開する株式会社エヌ・シー・エヌ（本社：東京都千代田区、代表取締役社長：田鎖郁男、以下エヌ・シー・エヌ）の取締役常務執行役員である福田浩史が、10月29日（木）に、インテックス大阪にて開催される「関西・非住宅木造建築フェア」の特別講演に登壇することをお知らせいたします。\n・近年、カーボンニュートラルへの関心の高まりなどから、非住宅木造建築に取り組む事業者が増加しています。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 24,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "エヌ・シー・エヌ、『関西・非住宅木造建築フェア』特別講演に登壇",
-        "url": "https://prtimes.jp/main/html/rd/p/000000270.000004739.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-15 15:00"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "個人市民税の減免及び森林環境税の免除について",
-    "url": "https://www.city.numazu.shizuoka.jp/kurashi/zei_hoken/shizei/naiyo/genmen_menjo.htm",
-    "source": "沼津市ホームページ",
-    "published_at": "2026-10-15 16:41",
-    "summary": "・生活保護を受給されている方、災害その他やむを得ない事情に該当し、かつ市税等の納付が極めて困難な事情があると認められる方は、「沼津市税賦課徴収条例」及び「森林環境税及び森林環境譲与税に関する法律」等の規定により個人市民税・県民税が減免される場合があります。\n・なお、減免等を受ける場合は、資産状況・預貯金の調査や、生計を一にする親族の所得状況を考慮して審査するため、申請によって必ず適用されるものではありませんのでご留意ください。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "日米加の政府と関係団体が木造建築の基準や研究で意見交換",
-    "url": "https://www.jutaku-s.com/news/id/106217",
-    "source": "住宅新報",
-    "published_at": "2026-10-15 16:00",
-    "summary": "・日本とアメリカ合衆国、カナダの政府や関係団体等が9月、2026年度「日米加建築専門家会合(BEC)」及び「日米加JAS技術委員会(JTC)」を東京都内で開催し、木造建築に関する建築基準の動向、木材利用の促進施策、技術開発・研究などについて意見を交わした。\n・日本からは国交省のほか、農林水産省、建築研究所、日本CLT協会、日本ツーバイフォー建築協会、森林総合研究所が参加。\n・会合では、住宅・建築物における木材利用の取り組みや、工場などで部材を製造する「木造オフサイトコンストラクション」の促進策、建築物のライフサイクルカーボン評価に関する政策を説明。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "木造建築【森文旭館】内子町・大正時代の映画館を守る屋根修理改修緊急プロジェクト",
-    "url": "https://camp-fire.jp/projects/966958/view",
-    "source": "CAMPFIRE (キャンプファイヤー)",
-    "published_at": "2026-10-15 16:00",
-    "summary": "・今回、地域の宝である弊社所有、国の登録有形文化財建造物にも指定されている大正時代の歴史的建造物、愛媛県内子町の木造建築【森文旭館】の保存という大きな挑戦に皆様のお力をお借りしたく、この緊急プロジェクトを立ち上げました。\n・木造建築【森文旭館】は大正時代に建築された元活動写真館で、現在は国の登録有形文化財建造物に指定されています。\n・木造建築【森文旭館】はおかげさまで2026年10月で築100周年を迎えますが、老朽化がかなり進んでおります。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 9,
     "is_featured": false,
     "related_articles": []
   }
