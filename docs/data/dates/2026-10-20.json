@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-20",
+    "title": "ベトナムの木材産業が「暗闇の中で絹の衣をまとっている」（違法に、適切な許可なしに操業している状態を比喩的に表したもの）という状況から脱却できるよう支援するため。",
+    "url": "https://www.vietnam.vn/ja/de-nganh-go-viet-thoat-canh-ao-gam-di-dem",
+    "source": "Vietnam.vn",
+    "published_at": "2026-10-20 23:29",
+    "summary": "・ベトナムの木材産業は、家具輸出において中国に次いで世界第2位にランクされています。\n・ベトナム木材・林産物協会の副会長兼事務局長であるゴ・シー・ホアイ氏によると、木材産業は依然として、比較的低い労働コストと国内産の森林原料という2つの利点に大きく依存している。\n・これは木材産業の逆説的な状況、つまり「暗闇の中で絹を身にまとう」ようなものだ。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-20",
     "title": "【連載・肥後の水とみどりの愛護賞・教育機関の部】水俣高建築科「Wood Connect Project」（水俣市） 地元林業と連携、木工品製作",
     "url": "https://kumanichi.com/articles/2048732",
     "source": "熊本日日新聞社",
@@ -8,9 +21,9 @@
     "summary": "・地下水保全や緑化推進に取り組む団体・個人を顕彰する「肥後の水とみどりの愛護賞」の2026年度受賞団体が決まった。\n・前身の「肥後の水資源愛護賞」から数えて40回目を迎える今回は、一般の部3団体、教育機関の部1団体、継続賞の部3団体を選定。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -21,6 +34,8 @@
     "summary": "・東邦ガス株式会社は、ドローン計測とAI解析を活用した「森林環境価値の見える化サービス」を2026年10月19日に提供開始しました。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "東邦ガス、ドローンとAIで森林のCO2吸収量解析　新興と自治体に提案",
@@ -28,9 +43,7 @@
         "source": "日本経済新聞",
         "published_at": "2026-10-20 00:30"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-20",
@@ -41,9 +54,9 @@
     "summary": "・【日の出町】多摩木材センター協同組合は原木市場を拡張し、新たに４０００平方㍍超の平場を設ける。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -54,9 +67,9 @@
     "summary": "・三菱地所レジデンス（株）は19日、開発中の賃貸マンション「ザ・パークハビオ 蒲田レジデンス」（東京都大田区、総戸数117戸）の共用部において、神奈川県相模原市の林業関係者から指定調達した木材を採用すると発表した。\n・物件はJR京浜東北線「蒲田」駅徒歩5分に立地。\n・共用部のエントランスホールやラウンジの天井、壁面ルーバーに津久井産材を使用し、CLT材で製造した造作家具の採用も予定している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -67,8 +80,21 @@
     "summary": "・フランス林業を日本で初めて紹介した著書『広葉樹の国フランス』などを執筆する門脇仁氏による連載。\n・今回訪ねたのは、約200年にわたり森林技術者を育ててきたナンシーキャンパス。\n・そして2007年、旧ENGREFはいまの「国立生命環境科学技術大学校（AgroParisTech）」に統合され、グランゼコール（※1）の一部として森林科学や林業経営のカリキュラムを担うキャンパスになった。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 15,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-20",
+    "title": "森林火災で32社処分 林業省、対象の焼失面積１万2926ヘクタール",
+    "url": "https://www.jakartashimbun.com/free/detail/73880.html",
+    "source": "じゃかるた新聞",
+    "published_at": "2026-10-20 17:00",
+    "summary": "・林業省は、行政処分や刑事手続きなど複数の手段を通じて、森林火災に対する法執行を強化している＝林業省広報部提供。\n・林業省は19日、森林・土地火災への対応を巡り、事業許可区域内で火災が発生した企業32社に行政処分を科したと発表した。\n・対象区域の焼失面積は計１万２９２６・74ヘクタールに達する。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -80,9 +106,9 @@
     "summary": "・地元産木材の魅力を伝える「南丹・京丹波林業振興展」に出品された原木の優秀材が決まった。\n・「代表者が破門される」京都の元宗教法人職員の女ら、計922万円だまし取った疑いで再逮捕。\n・大阪市や京都市、あす21日は「季節外れの暑さ」　観測史上最も遅い「真夏日」の可能性。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
