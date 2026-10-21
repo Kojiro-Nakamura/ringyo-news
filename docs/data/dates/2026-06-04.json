@@ -21,9 +21,16 @@
     "summary": "・現代の日本林政の目標は、木材増産一辺倒だ。\n・こうした理屈の真偽は怪しいのだが、ともあれ皆伐が全国で進む中で問題となっているのが、再造林率の低さである。\n・なぜ再造林が進まないのか理由を解明するとともに、新たな動きを紹介しよう。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "日本列島に広がる“はげ山”…伐ったらおしまい、再造林が進まない理由とは？",
+        "url": "https://wedge.ismedia.jp/articles/-/40687?layout=b",
+        "source": "Wedge ONLINE",
+        "published_at": "2026-06-04 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-06-04",

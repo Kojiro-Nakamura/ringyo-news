@@ -8,9 +8,9 @@
     "summary": "・ベトナムの木材産業は、家具輸出において中国に次いで世界第2位にランクされています。\n・ベトナム木材・林産物協会の副会長兼事務局長であるゴ・シー・ホアイ氏によると、木材産業は依然として、比較的低い労働コストと国内産の森林原料という2つの利点に大きく依存している。\n・これは木材産業の逆説的な状況、つまり「暗闇の中で絹を身にまとう」ようなものだ。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -93,9 +93,9 @@
     "summary": "・林業省は、行政処分や刑事手続きなど複数の手段を通じて、森林火災に対する法執行を強化している＝林業省広報部提供。\n・林業省は19日、森林・土地火災への対応を巡り、事業許可区域内で火災が発生した企業32社に行政処分を科したと発表した。\n・対象区域の焼失面積は計１万２９２６・74ヘクタールに達する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-20",
@@ -191,9 +191,16 @@
     "summary": "・株式会社マプリィ（本社：兵庫県丹波市、代表取締役：山口圭司）は、林業や農業現場における「草刈り・下刈り作業」の労働環境改善と省力化等を目的とした自律型電動クローラー「mapry M3」について、2026年10月20日（火）より数量限定で試用販売の受付を開始いたします。\n・慢性的な人手不足や、危険を伴う斜面での重労働（下刈り・除草作業など）といった現場の課題を解決するため開発されたのが、小型電動クローラー「mapry M3」です。\n・株式会社マプリィのプレスリリース（2026年10月20日 10時10分）【数量限定】林業の下刈り・農業の除草を大幅に省力化。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "【数量限定】林業の下刈り・農業の除草を大幅に省力化。小型クローラー「mapry M3」の試用販売を受付開始",
+        "url": "https://www.kobe-np.co.jp/info/prtimes/202610/c81901_r109.shtml",
+        "source": "神戸新聞",
+        "published_at": "2026-10-20 10:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-20",
@@ -361,7 +368,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
