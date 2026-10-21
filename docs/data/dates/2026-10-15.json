@@ -14,16 +14,29 @@
   },
   {
     "article_date": "2026-10-15",
-    "title": "暴露試験体の強度試験 広島大学／Strength test of CLT exposure test specimens at Hiroshima University",
-    "url": "https://home.hiroshima-u.ac.jp/moritaku/posts/activity357.html",
+    "title": "CLT暴露試験体計測 愛媛県西条市／Measurement of exposure test specimens in Saijo city",
+    "url": "https://home.hiroshima-u.ac.jp/moritaku/posts/activity754.html",
     "source": "広島大学",
-    "published_at": "2026-10-15 20:55",
-    "summary": "・北海道旭川市で4年間暴露したCLTと集成材の強度試験をしています。\n・試験体数が多く大変ですが、引き続き試験・データ整理を頑張っていきます。\n・We are conducting strength tests on CLT (Cross Laminated Timber) and GLT。",
+    "published_at": "2026-10-15 20:59",
+    "summary": "・CLT暴露試験体計測 愛媛県西条市／Measurement of exposure test specimens in Saijo city。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "暴露試験体の強度試験 広島大学／Strength test of CLT exposure test specimens at Hiroshima University",
+        "url": "https://home.hiroshima-u.ac.jp/moritaku/posts/activity357.html",
+        "source": "広島大学",
+        "published_at": "2026-10-15 20:55"
+      },
+      {
+        "title": "CLTパネル含水率データ回収 大阪府大阪市／Collection of moisture content data for CLT panels in Osaka",
+        "url": "https://home.hiroshima-u.ac.jp/moritaku/posts/activity653.html",
+        "source": "広島大学",
+        "published_at": "2026-10-15 20:20"
+      }
+    ],
+    "importance_score": 33,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-15",
@@ -110,19 +123,6 @@
         "published_at": "2026-10-15 19:57"
       }
     ]
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "CLTパネル含水率データ回収 大阪府大阪市／Collection of moisture content data for CLT panels in Osaka",
-    "url": "https://home.hiroshima-u.ac.jp/moritaku/posts/activity653.html",
-    "source": "広島大学",
-    "published_at": "2026-10-15 20:20",
-    "summary": "・大阪・関西万博のRITE未来の森ガイダンスホールに使われていたCLTパネルの含水率のデータ回収を行いました。\n・移築前のCLTパネルを間近で見ることができ、貴重な体験となりました。\n・We collected moisture content data for the CLT panels used in the \"RITE。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
   },
   {
     "article_date": "2026-10-15",
@@ -304,7 +304,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 33,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ（伊勢新聞）",

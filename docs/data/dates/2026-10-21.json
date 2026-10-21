@@ -8,9 +8,9 @@
     "summary": "・適切な投資、管理、そして活用によって、これらの植林地は人々の収入増加、雇用創出、そして地域経済の発展に貢献している。\n・起伏に富んだ森林地帯という利点と、地元住民の豊富な生産経験が、この地域が林業経済を発展させ、付加価値を高めるための好条件を生み出しています。\n・バオアイ村党委員会書記のグエン・レ・ズン氏によると、同村党委員会は、丘陵地と森林経済の発展を2025年から2030年までの重点プログラムの一つとして位置付けている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -21,9 +21,9 @@
     "summary": "・【大樹】十勝管内大樹町の南十勝森林組合が、取引業者と共謀して約5900万円を着服したとして、50代の男性職員を懲戒解雇したことが21日、分かった。\n・全額弁済される見通しが立っておらず、同組合は元職員と業者の刑事告訴や損害賠償請求訴訟を検討している。\n・宇宙の夢40年　帯広でサミット　大樹町長ら道のり語る。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -34,9 +34,9 @@
     "summary": "・北海道では、道産木材を活用した最新の中規模公共建築事例を紹介するとともに、建築に携わった関係者から一般流通材の活用方法や発注手法、コスト管理などについて解説いただく「木造公共建築物導入手法研修会」を開催します。\n・公共建築物の木造化・木質化を検討する際に役立つ情報を得られる機会ですので、ぜひご参加ください。\n・道内市町村職員（企画、建築、林業、環境関連等）、公共建築物の整備に関心をお持ちの企業・団体等の設計・施工者等。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -60,7 +60,7 @@
     "summary": "・「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う　岩手IBC岩手放送10/21 14:2510/21(水) 14:25 配信IBC岩手放送続きを読む（外部サイト）出典元: IBC岩手放送。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 45,
+    "importance_score": 60,
     "is_featured": true,
     "related_articles": [
       {
@@ -80,6 +80,12 @@
         "url": "https://news.yahoo.co.jp/articles/b3db89cd6fd5739e33a93d12de2c2b84c66768e5",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-21 14:17"
+      },
+      {
+        "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3027693",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-21 14:16"
       }
     ]
   },
@@ -377,9 +383,9 @@
     "summary": "・株式会社マプリィ（兵庫県丹波市）は10月20日、林業や農業現場における「草刈り・下刈り作業」の労働環境改善と省力化等を目的とした自律型電動クローラー「mapryM3」の試用販売の受付を数量限定で開始した。\n・小型電動クローラー「mapryM3」は、慢性的な人手不足や、危険を伴う斜面での重労働である下刈り・除草作業など現場の課題を解決するため開発された。\n・台数および期間を限定し、同プログラム専用の試用販売価格で提供。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
