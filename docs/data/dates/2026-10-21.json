@@ -1,6 +1,45 @@
 [
   {
     "article_date": "2026-10-21",
+    "title": "タックバ湖地域における林業経済の発展。",
+    "url": "https://www.vietnam.vn/ja/phat-trien-kinh-te-lam-nghiep-vung-ho-thac-ba",
+    "source": "Vietnam.vn",
+    "published_at": "2026-10-21 21:36",
+    "summary": "・適切な投資、管理、そして活用によって、これらの植林地は人々の収入増加、雇用創出、そして地域経済の発展に貢献している。\n・起伏に富んだ森林地帯という利点と、地元住民の豊富な生産経験が、この地域が林業経済を発展させ、付加価値を高めるための好条件を生み出しています。\n・バオアイ村党委員会書記のグエン・レ・ズン氏によると、同村党委員会は、丘陵地と森林経済の発展を2025年から2030年までの重点プログラムの一つとして位置付けている。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "大樹・南十勝森林組合の50代男性職員、5900万円着服で懲戒解雇 業者と共謀",
+    "url": "https://www.hokkaido-np.co.jp/article/1393947/",
+    "source": "北海道新聞デジタル",
+    "published_at": "2026-10-21 19:07",
+    "summary": "・【大樹】十勝管内大樹町の南十勝森林組合が、取引業者と共謀して約5900万円を着服したとして、50代の男性職員を懲戒解雇したことが21日、分かった。\n・全額弁済される見通しが立っておらず、同組合は元職員と業者の刑事告訴や損害賠償請求訴訟を検討している。\n・宇宙の夢40年　帯広でサミット　大樹町長ら道のり語る。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "令和８年度 木造公共建築導入手法研修会＜札幌会場＞の開催について",
+    "url": "https://www.pref.hokkaido.lg.jp/sr/rrm/02_riyousuisin/272295.html",
+    "source": "北海道のホームページ",
+    "published_at": "2026-10-21 17:07",
+    "summary": "・北海道では、道産木材を活用した最新の中規模公共建築事例を紹介するとともに、建築に携わった関係者から一般流通材の活用方法や発注手法、コスト管理などについて解説いただく「木造公共建築物導入手法研修会」を開催します。\n・公共建築物の木造化・木質化を検討する際に役立つ情報を得られる機会ですので、ぜひご参加ください。\n・道内市町村職員（企画、建築、林業、環境関連等）、公共建築物の整備に関心をお持ちの企業・団体等の設計・施工者等。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-21",
     "title": "ライフデザイン・カバヤ、セミオーダー住宅販売=間取りは「創る」、仕様は「選ぶ」に",
     "url": "https://www.housenews.jp/house/38357",
     "source": "住宅産業新聞",
@@ -8,9 +47,9 @@
     "summary": "・ライフデザイン・カバヤ(岡山市北区、窪田健太郎社長)は1日、CLTパネルを耐力壁として組み込んだCLTハイブリット構法を採用した戸建住宅商品「SELECTA(セレクタ)」の販売を開始した。\n・住宅業界では、コストを抑えやすい「セミオーダー住宅」は一定の支持がある一方、決められた間取りのパターンから選ぶものが主流のため、細かい要望に応えることが難しく、間取りに対する妥協が生じやすいという課題があった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -21,6 +60,8 @@
     "summary": "・「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う　岩手IBC岩手放送10/21 14:2510/21(水) 14:25 配信IBC岩手放送続きを読む（外部サイト）出典元: IBC岩手放送。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 45,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う　岩手",
@@ -33,10 +74,14 @@
         "url": "https://newsdig.tbs.co.jp/articles/-/3027693?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-21 14:16"
+      },
+      {
+        "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
+        "url": "https://news.yahoo.co.jp/articles/b3db89cd6fd5739e33a93d12de2c2b84c66768e5",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 14:17"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -47,9 +92,9 @@
     "summary": "・伐採現場の重機を遠隔操作と自律機能で動かすKodama、700万ドルを調達。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -60,9 +105,9 @@
     "summary": "・木造建築工事のエアムーブ住宅（群馬県前橋市）が前橋地裁から破産開始決定を受けたことが21日、分かった。\n・帝国データバンク群馬支店によると、負債は約3億5000万円。\n・独自工法の注文住宅「エアムーブ住宅」を軸に公共工事なども手がけ、大口工事があった2016年6月期には売上高約18億8800万円を計上した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -73,9 +118,9 @@
     "summary": "・行事等のお知らせ(No.00057980)。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -86,9 +131,9 @@
     "summary": "・林業への就業を希望している人、または検討している人を対象に14日間の林業就業支援講習を開催。\n・講習では、林業の基礎的知識、刈払機、チェーンソー、小型車両系建設機械の資格講習、現場での実地研修のほか、過去の受講者とのワークショップなどを行う。\n・吉野林業地の奈良で林業就業支援講習開催。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -99,9 +144,9 @@
     "summary": "・千葉県内の森林組合等で働く2名を講師に迎え、林業の仕事内容や働き方、林業の魅力などを紹介する講習と、林業への就業についての相談を行う。\n・林業就業に関する相談ブースも用意しているので併せて訪ねよう。\n・林業就業支援講習で“林業”を知ろう！",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -112,6 +157,8 @@
     "summary": "・令和７年度森林・林業白書をもとに、林業がいかに儲からないかを述べてきた。\n・筆者は、人工造林一辺倒でコスパの悪い森林施業を改め、日本の自然の豊かさ、自然力の強さを存分に発揮させる天然更新に舵を切ることだと考える。\n・森林施業ではなく単なる放置だと言って忌み嫌うが、皆伐地の放置や植栽後の手入れ不足による広葉樹林化、針広混交林化は実はかつての林野庁の得意種目だったのだ。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 87,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "コスパの悪い森林施業を改めよう！天然更新が自然にも林業経営にも良い理由（Wedge（ウェッジ））",
@@ -124,10 +171,26 @@
         "url": "https://news.yahoo.co.jp/articles/71c17ffd57c7aeec32ed068bf3a90e2122c8ae95",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-21 09:51"
+      },
+      {
+        "title": "コスパの悪い森林施業を改めよう！天然更新が自然にも林業経営にも良い理由",
+        "url": "https://wedge.ismedia.jp/articles/-/41203?page=3",
+        "source": "Wedge ONLINE",
+        "published_at": "2026-10-21 09:51"
+      },
+      {
+        "title": "コスパの悪い森林施業を改めよう！天然更新が自然にも林業経営にも良い理由（Wedge（ウェッジ））",
+        "url": "https://news.yahoo.co.jp/articles/71c17ffd57c7aeec32ed068bf3a90e2122c8ae95?page=3",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-21 09:51"
+      },
+      {
+        "title": "コスパの悪い森林施業を改めよう！天然更新が自然にも林業経営にも良い理由",
+        "url": "https://wedge.ismedia.jp/articles/-/41203?layout=b",
+        "source": "Wedge ONLINE",
+        "published_at": "2026-10-21 09:51"
       }
-    ],
-    "importance_score": 42,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-21",
@@ -151,9 +214,9 @@
     "summary": "・1979年に千葉県立松戸東高等学校を卒業して林野庁に入り、林政部経営課経営対策官、林政部林政課課長補佐・会計経理第１班担当などを歴任した。\n・栃木県で生まれ育ち、1976年に岩手大学を卒業して林野庁に入庁。\n・北海道大学経済学部を卒業して1976年に三菱商事（株）に入社し、1982年に昭和木材に移って、常務取締役や専務取締役を歴任した後、2017年。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -164,9 +227,9 @@
     "summary": "・日本独自の森林認証制度である「SGEC」が国際森林認証制度「PEFC」の承認*1を受けてから10周年を迎えていることを記念する国際フォーラムが10月20日に東京都内で開催された。\n・SGEC/PEFCジャパン（緑の循環認証会議、前田直登会長）が主催し、関係者ら約120人が参加した。\n・冒頭に挨拶した前田会長は、「SGECは2003年に発足し、2016年にPEFCの承認を受けた。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -255,9 +318,9 @@
     "summary": "・長谷川雅樹林政部長（中央）から表彰状などを受け取った受賞者＝県庁。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -268,9 +331,9 @@
     "summary": "・五橋を見物に自転車で出発（井 美和子、73、歯科衛生士、熊本市）。\n・朝から投稿と“にらめっこ”（恒松繁政、72、元会社員、熊本市）【新聞と私】。\n・拾った吸い殻50万本以上に（矢邉義興、85、非常勤講師、熊本市）。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -304,6 +367,19 @@
         "published_at": "2026-10-21 00:30"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-21",
+    "title": "林業の下刈り・農業の除草を省力化 小型クローラーの試用販売 受付開始 マプリィ",
+    "url": "https://www.jacom.or.jp/articles/Bj1tidgVK5znn-XmOLlmw",
+    "source": "JAcom",
+    "published_at": "2026-10-21 01:00",
+    "summary": "・株式会社マプリィ（兵庫県丹波市）は10月20日、林業や農業現場における「草刈り・下刈り作業」の労働環境改善と省力化等を目的とした自律型電動クローラー「mapryM3」の試用販売の受付を数量限定で開始した。\n・小型電動クローラー「mapryM3」は、慢性的な人手不足や、危険を伴う斜面での重労働である下刈り・除草作業など現場の課題を解決するため開発された。\n・台数および期間を限定し、同プログラム専用の試用販売価格で提供。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-21",

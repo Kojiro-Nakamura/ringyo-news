@@ -21,6 +21,8 @@
     "summary": "・令和7年度森林・林業白書を読んでいただいた方を対象にアンケートを実施しています。\n・令和7年度森林・林業白書では、様々な事例を紹介しています。\n・本動画では、令和7年度森林・林業白書を「特集」「トピックス」「通常章」に分けて、ポイントを分かりやすく説明しておりますので、是非ご覧ください。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "令和7年度 森林・林業白書を本日公表",
@@ -28,9 +30,7 @@
         "source": "林野庁 報道発表",
         "published_at": "2026-06-02 09:00"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-06-02",
