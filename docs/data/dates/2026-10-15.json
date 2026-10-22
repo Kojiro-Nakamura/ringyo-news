@@ -21,6 +21,8 @@
     "summary": "・CLT暴露試験体計測 愛媛県西条市／Measurement of exposure test specimens in Saijo city。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 33,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "暴露試験体の強度試験 広島大学／Strength test of CLT exposure test specimens at Hiroshima University",
@@ -34,9 +36,7 @@
         "source": "広島大学",
         "published_at": "2026-10-15 20:20"
       }
-    ],
-    "importance_score": 33,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-15",
