@@ -35,7 +35,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -63,6 +63,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-06",
+    "title": "「鉄」と「木」を使い分ける敷板へ。岡山発「ハイパーCLT敷板」、鋼板リースが取り扱い開始し全国へ販路拡大",
+    "url": "https://digital-construction.jp/tool/4060",
+    "source": "デジコン",
+    "published_at": "2026-10-06 16:00",
+    "summary": "・建設現場向けの木製軽量敷板「ハイパーCLT敷板」を展開するカイタク（岡山市）は、同製品の取り扱いを、仮設資材を手がける鋼板リースが開始したと発表した。\n・大阪・名古屋・福岡に拠点を持つ鋼板リースのネットワークを通じて、西日本をはじめ全国の建設現場への供給網・販路を拡大する。\n・あわせて、九州エリアでもハイパーCLT敷板が初めて採用されることとなり、岡山から全国へと活用の場が広がっている。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-06",
