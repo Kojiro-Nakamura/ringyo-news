@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-10-23",
+    "title": "三菱地所レジデンス 賃貸マンション共用部に国産材",
+    "url": "https://www.jutaku-s.com/news/id/106363",
+    "source": "住宅新報",
+    "published_at": "2026-10-23 17:30",
+    "summary": "・三菱地所レジデンスは10月19日、東京都大田区西蒲田で開発中の賃貸マンション「ザ・パークハビオ 蒲田レジデンス」で、神奈川県相模原市の林業関係者の木材を指定調達し、共用部に採用すると発表した。\n・木や緑の潤いを通じてやすらぎを感じる住環境の実現を目指し、エントランスホール、ラウンジに、同社が国産材活用で連携している地域の一つである神奈川県相模原市の「さがみはら津久井産材」を導入する。\n・また、三菱地所グループのMEC Industryが製造するCLT材を活用した造作家具の採用も予定している。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "「体格に合った道具の配置にこだわっています」ベテランツリーワーカーの装備大公開！【矢澤貴司さん】",
+    "url": "https://forest-journal.jp/tools/49318/",
+    "source": "FOREST JOURNAL",
+    "published_at": "2026-10-23 17:00",
+    "summary": "・今回は、日本ツリークライミング®チャンピオンシップ2022年・24年では優勝経験もある矢守産業の矢澤貴司さんの腰回り装備を教えてもらった。\n・ハスクバーナのクライミングハーネスは、基本設計はツリーモーションと同じで、樹上での装着感が良く、使い手に応じて腰回りの道具配置などをカスタマイズしやすい点が気に入っています」。\n・「手足が長いので自分の体格に合った道具の配置にこだわっています」。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-23",
     "title": "木曽・旧上田小校舎、長野県産材の合板工場に 年3万枚生産、27年本格稼働：ニュース",
     "url": "https://biz.chunichi.co.jp/news/article/10/132114/",
     "source": "中日BIZナビ",
@@ -8,9 +34,9 @@
     "summary": "・長野県木曽町新開の旧上田小学校の校舎を活用した合板製造会社「ツミカサネ」の本社・木曽工場の竣工（しゅんこう）式が22日、現地であった。\n・同社は「NOITA（ノイタ）」のブランド名で、県産材を使った合板を年間約3万枚（計千立方メートル）生産する計画で、工場は来年から本格稼働する。\n・オリンパス、長野・辰野に新工場「B棟」建設　27年1月以降に生産開始。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -21,6 +47,8 @@
     "summary": "・「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
@@ -28,9 +56,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-23 09:13"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -41,9 +67,9 @@
     "summary": "・株式会社ASOLAB.(長野県松本市、代表取締役：原 数幸)は、2026年10月20日、飯田市山田体育館にてドローンのデモンストレーションを実施しました。\n・飯田市 産業経済部 林務課と飯伊森林組合の皆さまを対象に、赤外線カメラ搭載ドローンによる獣害対策デモと、物資輸送ドローンによる運搬デモを行い、林業分野でのドローン活用の可能性を実際の飛行で紹介しました。\n・内容：ドローンの解説、赤外線カメラ搭載ドローンによる獣害対策デモ、物資輸送ドローンによる運搬デモ、質疑応答。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -54,6 +80,8 @@
     "summary": "・【茂木】桧山のモビリティリゾートもてぎ（MRM）が林野庁の「森業アワード2026」の準グランプリ（林野庁長官賞）を受賞した。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "モビリティリゾートもてぎが準グランプリ 林野庁の「森業アワード」 森林保全など評価",
@@ -61,30 +89,28 @@
         "source": "下野新聞社",
         "published_at": "2026-10-23 11:30"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-23",
-    "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で",
-    "url": "https://kabutan.jp/news/marketnews/?b=n202610230484",
-    "source": "株探",
-    "published_at": "2026-10-23 10:58",
-    "summary": "・住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で",
+    "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で 執筆 - Investing.com",
+    "url": "https://jp.investing.com/news/stock-market-news/article-1722764",
+    "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "published_at": "2026-10-23 11:00",
+    "summary": "・住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で 執筆 - Investing.com。",
     "summary_type": "auto",
     "category": "建築・木材利用",
     "related_articles": [
       {
-        "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で(フィスコ)",
-        "url": "https://finance.yahoo.co.jp/news/detail/c41ca972a7cec34fd9238eb2f59ba4221dacc9b8",
-        "source": "Yahoo!ファイナンス",
+        "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で",
+        "url": "https://kabutan.jp/news/marketnews/?b=n202610230484",
+        "source": "株探",
         "published_at": "2026-10-23 10:58"
       },
       {
-        "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で 執筆 - Investing.com",
-        "url": "https://jp.investing.com/news/stock-market-news/article-1722764",
-        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で(フィスコ)",
+        "url": "https://finance.yahoo.co.jp/news/detail/c41ca972a7cec34fd9238eb2f59ba4221dacc9b8",
+        "source": "Yahoo!ファイナンス",
         "published_at": "2026-10-23 10:58"
       }
     ],
@@ -100,9 +126,16 @@
     "summary": "・東京、大阪、名古屋を拠点に、高品質な商業印刷と環境配慮型プリントを展開する株式会社光陽社（本社：東京都文京区、代表：犬養 岬太、 住友林業）とNTTドコモビジネス株式会社（旧 NTTコミュニケーションズ株式会社、以下 NTTドコモビジネス）が提供する森林価値創造プラットフォーム「森かち」を通じ、北海道紋別市が創出した森林由来J-クレジット「流氷の森クレジット」について、毎年300t-CO2、計4年間（2027年4月1日～2031年3月31日）にわたる長期購入契約を新たに締結いたしました。\n・北海道紋別市は、オホーツク海の美しい四季折々の自然環境を有していますが、近年は地球温暖化の影響により流氷が年々減少傾向にあり、海洋環境や生態系への深刻な影響が危惧されています。\n・今回、当社が単年度の購入から「毎年300t、4年間の長期契約」へと移行した背景には、森林保全活動には中長期的な視点による安定した資金循環が不可欠であるという強い認識があります。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "【株式会社光陽社】住友林業の「森かち」を通じ、北海道紋別市と「流氷の森クレジット」毎年300tの4年間長期購入契約を締結",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000061_000088984/",
+        "source": "Infoseek",
+        "published_at": "2026-10-23 10:15"
+      }
+    ]
   },
   {
     "article_date": "2026-10-23",
@@ -126,9 +159,9 @@
     "summary": "・（トップ画像＝QRコードを焼印したかまぼこ板）。\n・設計監理者を全国から募り、公開プレゼンテーションによって審査・選定し、日田。\n・「2026林業･環境機械展示会 in 日田」が５月 29 日（金）・30 日（土）に大分県日田市大山町のリタプラスサービスセンターで開催される（主催＝実行委員会、事務局＝（株）リタプラス）。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -139,9 +172,9 @@
     "summary": "・長崎県森林組合連合会（長崎県諫早市、松瀨清会長）は、「主伐再造林ガイドライン・CRL認証研究会シンポジウム」を９月24日に諫早市のホテルで開催した。\n・同連合会は、2023年10月に林業経済研究所（東京都文京区、永田信理事長）との間で包括連携協定を締結し*1、新たな取り組みの一環として、2024年８月に「長崎県主伐・再造林ガイドライン・CRL認証研究会」を設置。\n・来年（2027年）10月には「第９回伐採搬出・再造林ガイドライン全国サミット」を長崎市で開催し、長崎県の実情に合ったガイドラインやCRL認証制度を実行段階に移すことを目指している。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",

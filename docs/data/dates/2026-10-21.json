@@ -1,6 +1,26 @@
 [
   {
     "article_date": "2026-10-21",
+    "title": "【2026/10/25】森で林業体験と秋の味覚を楽しむ「2026秋の林業＆木育＆美味しいワークショップ@せいぶ山」",
+    "url": "https://hakodate-event.com/2026/10/archives/49695",
+    "source": "函館イベント情報局",
+    "published_at": "2026-10-21 23:08",
+    "summary": "・【2026/10/25】森で林業体験と秋の味覚を楽しむ「2026秋の林業＆木育＆美味しいワークショップ@せいぶ山」。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [
+      {
+        "title": "25日、林業＆木育＆美味しいワークショップ@せいぶ山",
+        "url": "https://www.hokkaido-np.co.jp/article/1393302/",
+        "source": "北海道新聞デジタル",
+        "published_at": "2026-10-21 04:00"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-21",
     "title": "タックバ湖地域における林業経済の発展。",
     "url": "https://www.vietnam.vn/ja/phat-trien-kinh-te-lam-nghiep-vung-ho-thac-ba",
     "source": "Vietnam.vn",
@@ -60,9 +80,9 @@
     "summary": "・10月21日 武部農林水産大臣は、東京都中央区で開催された「令和8年度Jforest全国森林組合代表者大会」に出席し、祝辞を述べました。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-21",
@@ -363,19 +383,6 @@
     "summary_type": "auto",
     "category": "スマート林業・技術",
     "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-21",
-    "title": "25日、林業＆木育＆美味しいワークショップ@せいぶ山",
-    "url": "https://www.hokkaido-np.co.jp/article/1393302/",
-    "source": "北海道新聞デジタル",
-    "published_at": "2026-10-21 04:00",
-    "summary": "・25日、林業＆木育＆美味しいワークショップ@せいぶ山。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 0,
     "is_featured": false,
     "related_articles": []
   },
