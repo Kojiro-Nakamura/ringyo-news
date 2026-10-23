@@ -8,6 +8,8 @@
     "summary": "・【2026/10/25】森で林業体験と秋の味覚を楽しむ「2026秋の林業＆木育＆美味しいワークショップ@せいぶ山」。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "25日、林業＆木育＆美味しいワークショップ@せいぶ山",
@@ -15,9 +17,7 @@
         "source": "北海道新聞デジタル",
         "published_at": "2026-10-21 04:00"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-21",

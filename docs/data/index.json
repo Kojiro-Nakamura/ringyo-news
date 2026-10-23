@@ -1,12 +1,16 @@
 {
   "dates": [
     {
+      "article_date": "2026-10-24",
+      "count": 22
+    },
+    {
       "article_date": "2026-10-23",
       "count": 29
     },
     {
       "article_date": "2026-10-22",
-      "count": 42
+      "count": 43
     },
     {
       "article_date": "2026-10-21",
@@ -14,7 +18,7 @@
     },
     {
       "article_date": "2026-10-20",
-      "count": 39
+      "count": 40
     },
     {
       "article_date": "2026-10-19",
@@ -262,7 +266,7 @@
     },
     {
       "article_date": "2026-06-23",
-      "count": 1
+      "count": 2
     },
     {
       "article_date": "2026-06-22",
@@ -361,6 +365,10 @@
       "count": 1
     },
     {
+      "article_date": "2026-01-28",
+      "count": 1
+    },
+    {
       "article_date": "2026-01-16",
       "count": 1
     },
@@ -402,6 +410,10 @@
     },
     {
       "article_date": "2025-07-14",
+      "count": 1
+    },
+    {
+      "article_date": "2025-06-23",
       "count": 1
     },
     {
@@ -454,6 +466,10 @@
     },
     {
       "article_date": "2024-04-10",
+      "count": 1
+    },
+    {
+      "article_date": "2023-11-22",
       "count": 1
     },
     {
@@ -514,8 +530,8 @@
     }
   ],
   "stats": {
-    "total_articles": 752,
-    "total_days": 128,
-    "last_updated": "2026-10-23T22:53:30.921639+09:00"
+    "total_articles": 784,
+    "total_days": 132,
+    "last_updated": "2026-10-24T08:37:19.675529+09:00"
   }
 }

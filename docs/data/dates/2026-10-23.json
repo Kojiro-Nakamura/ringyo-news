@@ -8,9 +8,9 @@
     "summary": "・三菱地所レジデンスは10月19日、東京都大田区西蒲田で開発中の賃貸マンション「ザ・パークハビオ 蒲田レジデンス」で、神奈川県相模原市の林業関係者の木材を指定調達し、共用部に採用すると発表した。\n・木や緑の潤いを通じてやすらぎを感じる住環境の実現を目指し、エントランスホール、ラウンジに、同社が国産材活用で連携している地域の一つである神奈川県相模原市の「さがみはら津久井産材」を導入する。\n・また、三菱地所グループのMEC Industryが製造するCLT材を活用した造作家具の採用も予定している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -21,9 +21,9 @@
     "summary": "・今回は、日本ツリークライミング®チャンピオンシップ2022年・24年では優勝経験もある矢守産業の矢澤貴司さんの腰回り装備を教えてもらった。\n・ハスクバーナのクライミングハーネスは、基本設計はツリーモーションと同じで、樹上での装着感が良く、使い手に応じて腰回りの道具配置などをカスタマイズしやすい点が気に入っています」。\n・「手足が長いので自分の体格に合った道具の配置にこだわっています」。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -100,6 +100,8 @@
     "summary": "・住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で 執筆 - Investing.com。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "住友林業---大幅続伸、長期金利低下を背景とした米住宅関連の株価上昇で",
@@ -113,9 +115,7 @@
         "source": "Yahoo!ファイナンス",
         "published_at": "2026-10-23 10:58"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-23",

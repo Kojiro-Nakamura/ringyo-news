@@ -21,8 +21,15 @@
     "summary": "・市場規模、原産地規則の仕組み、地域内のサプライチェーンを結びつける能力といった利点を持つ地域包括的経済連携（RCEP）は、木材産業を含むベトナムの輸出産業にとって広大な市場空間を切り開いている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 15,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "RCEP協定：木材産業にとって市場の多様化と地位強化の機会を切り開く。",
+        "url": "https://www.vietnam.vn/ja/hiep-dinh-rcep-mo-co-hoi-de-nganh-go-da-dang-thi-truong-nang-vi-the",
+        "source": "Vietnam.vn",
+        "published_at": "2026-10-04 16:00"
+      }
+    ]
   }
 ]
