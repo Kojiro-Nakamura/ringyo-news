@@ -26,7 +26,7 @@
     },
     {
       "article_date": "2026-10-18",
-      "count": 16
+      "count": 17
     },
     {
       "article_date": "2026-10-17",
@@ -530,8 +530,8 @@
     }
   ],
   "stats": {
-    "total_articles": 789,
+    "total_articles": 790,
     "total_days": 132,
-    "last_updated": "2026-10-24T16:40:42.770905+09:00"
+    "last_updated": "2026-10-24T21:59:01.824436+09:00"
   }
 }
