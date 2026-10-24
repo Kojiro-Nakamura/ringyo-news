@@ -22,7 +22,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 33,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "暴露試験体の強度試験 広島大学／Strength test of CLT exposure test specimens at Hiroshima University",
@@ -257,6 +257,45 @@
   },
   {
     "article_date": "2026-10-15",
+    "title": "【終了しました】「テーダマツが変える 次世代林業創出現地検討会」を開催します",
+    "url": "https://www.pref.shizuoka.jp/sangyoshigoto/ringyo/shinrinseibi/1085771.html",
+    "source": "静岡県公式ホームページ",
+    "published_at": "2026-10-15 16:00",
+    "summary": "・静岡県では、主伐・再造林の推進を目的として、全国で初の試みとなる早生樹「テーダマツ」の導入と、先端技術を活用した新たな林業経営モデルの実証に取り組んでいます。\n・このたび、参加者が期待される効果や課題を共有し、議論を交わす機会として、現地検討会を開催します。\n・また、当日は大学教授や国研究機関、森林技術者等で構成された「第2回静岡県次世代林業経営モデル評価委員会」を併催し、本取組に対する検討・評価を行います。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-15",
+    "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ（伊勢新聞）",
+    "url": "https://news.yahoo.co.jp/articles/8f265ce87ae78c945d8305256d657fd5c3f1f26f",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-15 16:00",
+    "summary": "・【尾鷲】三重県尾鷲市は14日、中部電力尾鷲三田火力発電所の跡地（同市国市松泉町）を活用した大型製材工場の建設計画を巡り、条件付きで進出の意向を表明していた事業者グループから、計画の検討停止の申し入れを受けたと明らかにした。\n・製材工場は、同市と中電、尾鷲商工会議所が取り組む跡地活用案「おわせSEAモデル」の一環。\n・グループは、製材会社「銘建工業」（岡山県）、準大手ゼネコン「前田建設工業」を傘下に持つ「インフロニア・ホールディングス」（東京都）など4社で構成し、令和4年11月、跡地活用の「優先事業者」に認定されていた。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ",
+        "url": "https://www.47news.jp/15083537.html",
+        "source": "47NEWS",
+        "published_at": "2026-10-15 11:00"
+      },
+      {
+        "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ (伊勢新聞)",
+        "url": "https://news.yahoo.co.jp/articles/8f265ce87ae78c945d8305256d657fd5c3f1f26f/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-15 08:02"
+      }
+    ],
+    "importance_score": 39,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-15",
     "title": "ラムドン省は、約4,750ヘクタールの面積に及ぶ、農業、林業、水産業の原材料集中地域を開発している。",
     "url": "https://www.vietnam.vn/ja/lam-dong-phat-trien-vung-nguyen-lieu-nong-lam-thuy-san-tap-trung-gan-4-750ha",
     "source": "Vietnam.vn",
@@ -291,32 +330,6 @@
         "url": "https://news.yahoo.co.jp/articles/baf0cc1e9d9f891dbca978f2c5798c2f6a246ede/images/000",
         "source": "Yahoo!ニュース",
         "published_at": "2026-10-15 13:10"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-10-15",
-    "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ",
-    "url": "https://www.47news.jp/15083537.html",
-    "source": "47NEWS",
-    "published_at": "2026-10-15 11:00",
-    "summary": "・大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 33,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ（伊勢新聞）",
-        "url": "https://news.yahoo.co.jp/articles/8f265ce87ae78c945d8305256d657fd5c3f1f26f",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-15 08:02"
-      },
-      {
-        "title": "大型製材工場の計画、検討停止 中電尾鷲三田火力発電所跡地、事業者が申し入れ (伊勢新聞)",
-        "url": "https://news.yahoo.co.jp/articles/8f265ce87ae78c945d8305256d657fd5c3f1f26f/images/000",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-15 08:02"
       }
     ]
   },
