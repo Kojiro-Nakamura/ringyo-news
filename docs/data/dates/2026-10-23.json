@@ -34,9 +34,9 @@
     "summary": "・AI値動き解説では、値動きの背景や情報を全14種類のカテゴリーに分けて表示しています。\n・※AI値動き解説の正確性や品質については保証されていません。\n・住友林業(株)【1911】のAI値動き解説をご覧いただけます。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -149,6 +149,19 @@
         "published_at": "2026-10-23 10:15"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "住友林業－大幅に4日続伸 米長期金利低下を好感 ＤＲホートンなど急騰(トレーダーズ・ウェブ)",
+    "url": "https://finance.yahoo.co.jp/news/detail/2f043ad646b0a95786d513a1b2d67f72a5983bee",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-10-23 09:19",
+    "summary": "・住友林業<1911>が変わらず挟み大幅に4日続伸。\n・米国の長期金利低下が材料視されている。\n・22日の米国市場では、米国の固定金利型住宅ローンの指標となる米10年債利回りが4.9％台に低下した。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
