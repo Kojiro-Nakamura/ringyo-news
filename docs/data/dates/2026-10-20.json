@@ -158,9 +158,16 @@
     "summary": "・元林野庁の職員で「森林業漫画家」として活動する平田美紗子さん＝札幌市。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
-    "importance_score": 3,
-    "is_featured": false
+    "importance_score": 18,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "イラストで伝える魅力、森と人つなぐ 林野庁出身の森林業漫画家「恩恵意識して」",
+        "url": "https://www.sanyonews.jp/article/1885930",
+        "source": "山陽新聞",
+        "published_at": "2026-10-20 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-20",
