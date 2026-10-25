@@ -2,21 +2,21 @@
   {
     "article_date": "2026-10-25",
     "title": "県林業コンの知事賞 鈴木さんらたたえる 郡山で表彰式",
-    "url": "https://www.47news.jp/15134592.html",
-    "source": "47NEWS",
-    "published_at": "2026-10-25 11:00",
-    "summary": "・２０２６（令和８）年度の県林業コンクール等表彰式は２４日、郡山市の県林業研究センターで行われ、林業振興に功績のあった受賞者をたたえた。",
+    "url": "https://www.minpo.jp/articles/-/258891",
+    "source": "福島民報デジタル",
+    "published_at": "2026-10-25 16:55",
+    "summary": "・２０２６（令和８）年度の県林業コンクール等表彰式は２４日、郡山市の県林業研究センターで行われ、林業振興に功績のあった受賞者をたたえた。\n・小貫薫県農林水産部長が「今後とも森林整備や林業振興に一層の尽力。",
     "summary_type": "auto",
     "category": "林政・施策",
     "related_articles": [
       {
         "title": "県林業コンの知事賞 鈴木さんらたたえる 郡山で表彰式",
-        "url": "https://www.minpo.jp/articles/-/258891",
-        "source": "福島民報デジタル",
+        "url": "https://www.47news.jp/15134592.html",
+        "source": "47NEWS",
         "published_at": "2026-10-25 11:00"
       }
     ],
-    "importance_score": 18,
+    "importance_score": 21,
     "is_featured": true
   },
   {
@@ -28,9 +28,9 @@
     "summary": "・県林業祭は２４日、郡山市の県林業研究センターで開かれ、林業や県産材の魅力を発信した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-25",
@@ -217,9 +217,9 @@
     "summary": "・【2026/10/25】森で林業体験と秋の味覚を楽しむ「2026秋の林業＆木育＆美味しいワークショップ@せいぶ山」。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",
@@ -493,6 +493,19 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説",
+    "url": "https://finance.yahoo.co.jp/quote/1911.T/ai-topics",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-10-23 16:00",
+    "summary": "・AI値動き解説では、値動きの背景や情報を全14種類のカテゴリーに分けて表示しています。\n・※AI値動き解説の正確性や品質については保証されていません。\n・住友林業(株)【1911】のAI値動き解説をご覧いただけます。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
@@ -940,9 +953,9 @@
     "summary": "・未整備森林を解消するために，小規模な森林を森林所有者自ら管理・経営する自伐型林業は，有効な手段のひとつであると考えていることから，函館市では，令和４年度から体験型の基礎研修である『自伐型林業研修』を開催しています。\n・令和８年度は亀田中野町の通称『せいぶ山』で『自伐型林業研修』を開催しますので，森林や林業に興味がある方は，是非ご参加してください。\n・２０２６年度函館市自伐型林業研修　パンフレット[PDF：4.76MB]。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-22",
@@ -2079,25 +2092,5 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-20",
-    "title": "東海エリアの森林管理を効率化！東邦ガスが自治体・森林組合向けに新サービスをスタート",
-    "url": "https://dxmagazine.jp/news/2659ko48/",
-    "source": "DXマガジン",
-    "published_at": "2026-10-20 20:25",
-    "summary": "・東邦ガス株式会社は、ドローン計測とAI解析を活用した「森林環境価値の見える化サービス」を2026年10月19日に提供開始しました。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "東邦ガス、ドローンとAIで森林のCO2吸収量解析　新興と自治体に提案",
-        "url": "https://www.nikkei.com/article/DGXZQOFD1960Y0Z11C26A0000000/",
-        "source": "日本経済新聞",
-        "published_at": "2026-10-20 00:30"
-      }
-    ]
   }
 ]
