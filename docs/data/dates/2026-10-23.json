@@ -40,6 +40,32 @@
   },
   {
     "article_date": "2026-10-23",
+    "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
+    "url": "https://www.agrinews.co.jp/news/prtimes/414389",
+    "source": "日本農業新聞",
+    "published_at": "2026-10-23 16:00",
+    "summary": "・オカダアイヨン株式会社( 本社： 大阪府大阪市、代表取締役社長： 岡田祐司、以下オカダアイヨン) は、11月8日(日)～9日(月)の2日間、和歌山県白浜町の旧南紀白浜空港跡地で行われる「2 0 2 6 わかやま森林・林業・環境機械展示実演会」( 以下、林業展) に出展いたします。\n・伐採や集積で活躍する新製品の電磁弁旋回式簡易伐倒機・集積機「ツリーフェラーズ」や大径材でもスムーズに切断できるストレート形状刃を搭載の新型機「ハイブリッドバケット」など最新の林業機械をメインとした展示・実演を予定しております。\n・みやぎ2025森林・林業・環境機械展示実演会の様子。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [
+      {
+        "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
+        "url": "https://wakayama.keizai.biz/release/670178/",
+        "source": "和歌山経済新聞",
+        "published_at": "2026-10-23 13:00"
+      },
+      {
+        "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
+        "url": "https://prtimes.jp/main/html/rd/p/000000016.000159091.html",
+        "source": "PR TIMES",
+        "published_at": "2026-10-23 09:13"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-23",
     "title": "木曽・旧上田小校舎、長野県産材の合板工場に 年3万枚生産、27年本格稼働：ニュース",
     "url": "https://biz.chunichi.co.jp/news/article/10/132114/",
     "source": "中日BIZナビ",
@@ -50,26 +76,6 @@
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
-    "url": "https://wakayama.keizai.biz/release/670178/",
-    "source": "和歌山経済新聞",
-    "published_at": "2026-10-23 13:00",
-    "summary": "・「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
-        "url": "https://prtimes.jp/main/html/rd/p/000000016.000159091.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-23 09:13"
-      }
-    ]
   },
   {
     "article_date": "2026-10-23",
@@ -94,7 +100,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "モビリティリゾートもてぎが準グランプリ 林野庁の「森業アワード」 森林保全など評価",
@@ -159,9 +165,9 @@
     "summary": "・住友林業<1911>が変わらず挟み大幅に4日続伸。\n・米国の長期金利低下が材料視されている。\n・22日の米国市場では、米国の固定金利型住宅ローンの指標となる米10年債利回りが4.9％台に低下した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-23",
@@ -201,6 +207,19 @@
     "importance_score": 15,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-10-23",
+    "title": "Socotec、Jクレジット2026年度最終受付を強化 締切は森林12/14・その他12/21、森林・農業・削減に対応",
+    "url": "https://news.nicovideo.jp/watch/nw19918813?news_ref=20_20",
+    "source": "ニコニコニュース",
+    "published_at": "2026-10-23 09:00",
+    "summary": "・Socotec、Jクレジット2026年度最終受付を強化 締切は森林12/14・その他12/21、森林・農業・削減に対応。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-23",
