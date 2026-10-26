@@ -1,6 +1,65 @@
 [
   {
     "article_date": "2026-10-26",
+    "title": "廿日市産の木材、東京・港区へ 国産材利用促進で協定 「木のまち」PRも",
+    "url": "https://www.47news.jp/15141875.html",
+    "source": "47NEWS",
+    "published_at": "2026-10-26 19:45",
+    "summary": "・広島県廿日市市は、東京都港区と間伐材などの国産材の利用を促進する協定を結んだ。\n・訪問看護経験やブランク不問 【求人の特徴】未経...詳しく見る「接客・販売の経験が活きる」未経験OKのインサイドセールス/リモート商談アジアンウエイ株式会社正社員東京都月給27万円～55万円【仕事内容】あなたの「ヒアリング力」が、年収1,000万円へのカギになる。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [
+      {
+        "title": "廿日市産の木材、東京・港区へ 国産材利用促進で協定 「木のまち」PRも",
+        "url": "https://www.chugoku-np.co.jp/articles/-/915155",
+        "source": "中国新聞デジタル",
+        "published_at": "2026-10-26 19:45"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "サンケイビルの「KiGi AKIHABARA」が 令和8年度「木材利用推進コンクール」で林野庁長官賞を受賞",
+    "url": "https://news.nicovideo.jp/watch/nw19919975?news_ref=watch_20_nw19715660",
+    "source": "ニコニコニュース",
+    "published_at": "2026-10-26 19:15",
+    "summary": "・サンケイビルの「KiGi AKIHABARA」が 令和8年度「木材利用推進コンクール」で林野庁長官賞を受賞。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "住友林業「過熱圏に突入し、深追い禁物」＝ＲＳＩで読む(ウエルスアドバイザー)",
+    "url": "https://finance.yahoo.co.jp/news/detail/371728c58ab90f0e24875438c107fdb4793be197",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-10-26 17:30",
+    "summary": "・10/26 17:30 配信ＲＳＩで読む...最終更新:10/26(月) 17:30ウエルスアドバイザー日経平均株価について世界の指数FX・為替情報。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "高校生考案の多機能ベンチ製品化 丸大製材所、岡山県産ヒノキ使用",
+    "url": "https://www.sanyonews.jp/article/1944461",
+    "source": "山陽新聞",
+    "published_at": "2026-10-26 17:06",
+    "summary": "・製材・建築の丸大製材所（美作市朽木）は、岡山工業高（岡山市北区伊福町）の生徒が考案した多機能木製ベンチを改良し、製品化した。\n・地域の将来語り合う 高校生・大学生と経営者　「ＦＲ対話ｉｎ岡山」山陽新聞社で初開催。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
     "title": "【動画】1分でわかる！木造建築工事業の倒産動向",
     "url": "https://www.tdb.co.jp/report/industry/20261026-movie-builder2026-1-7/",
     "source": "帝国データバンク",
@@ -8,9 +67,9 @@
     "summary": "・住宅業界の異変　木造建築工事業の倒産急増　過去10年で最多ペース。\n・TDB Business View：『木造建築工事業の倒産動向（2026年1-7月）』。\n・～木造建築工事業の倒産　7月までに159件、過去10年で最多ペース　価格高騰や人手不足など影響、今年下半期も増加が続く見通し～。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -21,9 +80,9 @@
     "summary": "・東急と住友林業は26日、横浜市の新綱島駅前に整備した木造商業施設を報道陣に公開した。\n・築約170年の古民家を改修し、周辺に木造2階建ての商業棟2棟を新設した。\n・古民家や木造商業施設を生かし、駅前と住宅地をつなぐ歩行者の回遊性を高める。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -34,9 +93,16 @@
     "summary": "・地域の木を、都市へ。そして世界へ。田口木工、国産材と木工技術を生かした海外展開を視野に。秩父産ヒノキを使った港区向け木製品の納品と「みなとエコ宣言」認証取得を機に、製品開発・協業先の開拓を推進。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "地域の木を、都市へ。そして世界へ。田口木工、国産材と木工技術を生かした海外展開を視野に。秩父産ヒノキを使った港区向け木製品の納品と「みなとエコ宣言」認証取得を機に、製品開発・協業先の開拓を推進",
+        "url": "https://news.nicovideo.jp/watch/nw19917421",
+        "source": "ニコニコニュース",
+        "published_at": "2026-10-26 09:45"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -48,7 +114,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -60,9 +126,9 @@
     "summary": "・三菱地所、高島、MEC Industryの3社は、国産CLT材を活用した柱保護根巻「KiNEMAKI」を共同開発した。\n・物流施設などの鉄骨柱を保護し、現場組み立ての乾式工法で、工期短縮とメンテナンス軽減、環境負荷の低減が実現する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -73,9 +139,9 @@
     "summary": "・全国林業研究グループ連絡協議会（全林研、東京都千代田区、黒田仁志会長）と日本森林技術協会（日林協、同、小島孝文理事長）は、７月22日に締結した連携協定（第778号参照）に基づく初めての合同研修会を９月30日に日林協会館で開催し、オンラインを含めて約140人が参加した。\n・「森林計測の新技術を現場でどう使い分けるか」をテーマに掲げ、日林協の金森匡彦・技術指導役が、新たに開発した全天球カメラによる簡易的な森林調査システムの概要や計測方法について解説。\n・続いて、全林研の齋藤州生・高見林業社長が、自社で保有するLiDARと全天球カメラ等の簡易な地上調査の組み合わせによる効率的な資源把握の可能性について述べた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 21,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
@@ -86,9 +152,9 @@
     "summary": "・この先駆的な取り組みを他の地域にも広げることはできないか――思案を続けた遠藤日雄・元鹿児島大学教授は、助成金の“出し手”である商社の考えを聞くことにした。\n・「対論」を申し込んだのは、阪和興業（株）（本社＝大阪府大阪市・東京都中央区、中川洋一・代表取締役社長）。\n・2006年３月から隔週刊『林政ニュース』（日本林業調査会（J-FIC）発行）で「遠藤日雄のルポ＆対論」を一度も休まず連載中。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
