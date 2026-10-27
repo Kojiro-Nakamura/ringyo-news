@@ -8,6 +8,8 @@
     "summary": "・大学の研究者や企業などが県内の木材加工の現場を視察し、森林を活用した脱炭素やカーボンニュートラル実現に向けた連携について考えました。\n・この研究所には、森林を活用した脱炭素社会の実現を目指し国内企業３６社が参加していて、森林資源や森林ビジネスについて研究を重ねています。\n・参加者は秋田杉で作られる合板が完成するまでの工程を見学したほか、伐採後の森に植えるスギの苗の栽培現場などを視察しました。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "森林活用の脱炭素社会を目指し 企業関係者ら県産材合板の生産現場を視察 ／秋田",
@@ -15,9 +17,7 @@
         "source": "AAB秋田朝日放送",
         "published_at": "2026-10-24 18:19"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-24",
@@ -74,9 +74,9 @@
     "summary": "・長野県阿智村の「天心」が大江戸温泉物語プレミアムに　客室拡充、大浴場のガラス窓外し眺望向上。\n・木曽町新開の旧上田小学校の校舎を活用した合板製造会社「ツミカサネ」の本社・木曽工場の竣工（しゅんこう）式が22日、現地であった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-24",

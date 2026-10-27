@@ -41,9 +41,16 @@
     "summary": "・サンケイビルの「KiGi AKIHABARA」が 令和8年度「木材利用推進コンクール」で林野庁長官賞を受賞。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "サンケイビルの「KiGi AKIHABARA」が 令和8年度「木材利用推進コンクール」で林野庁長官賞を受賞",
+        "url": "https://www.rbbtoday.com/release/prtimes2-today/20261026/1387438.html",
+        "source": "RBB TODAY",
+        "published_at": "2026-10-26 13:46"
+      }
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -179,7 +186,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
