@@ -60,9 +60,16 @@
     "summary": "・2026年10月17日(土)に札幌市（北海道自治労会館）で「森林の仕事ガイダンス2026」が開催されます！全道から20社が出展し、林業の仕事や就業について直接相談可能。\n・入場無料・予約不要！北森カレッジの相談ブースもあり高校生や保護者の方も大歓迎です。\n・「北海道の豊かな自然の中で働いてみたい」「林業の仕事に少し興味がある」「将来の選択肢として話を聞いてみたい」という方にぴったりのイベント「森林（もり）の仕事ガイダンス2026」が、10月17日（土）に札幌市で開催されます！",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "10/17(土)『ながの森林･林業フェア2026』で「木育」と「森あそび」を体験。木工クラフトやツリークライミングなど多彩なプログラムが楽しめます！郷土料理の体験コーナやイベントステージも充実＠長野県長野市 - Web-Komachi",
+        "url": "https://www.web-komachi.com/?p=306902",
+        "source": "Web-Komachi",
+        "published_at": "2026-10-08 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-08",
@@ -152,7 +159,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-26",
+    "title": "【イベント振り返り動画】林業を身近に感じる一日。市街地近くの森で遊んできた（2026年10月25日）",
+    "url": "https://hakodate-event.com/2026/10/archives/49922",
+    "source": "函館イベント情報局",
+    "published_at": "2026-10-26 21:38",
+    "summary": "・市街地近くの森で遊んできた（2026年10月25日） | 函館イベント情報局。\n・2026年10月25日（日）、函館・四季の杜公園から少しだけ上った森の中で開催されたイベント「2026秋の林業＆木育＆美味しいワークショップ@せいぶ山」に行ってきました。\n・能書きを書く前に、まずは短い動画でどうぞ▼結論、良いイベントでした。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-26",
     "title": "廿日市産の木材、東京・港区へ 国産材利用促進で協定 「木のまち」PRも",
     "url": "https://www.47news.jp/15141875.html",
     "source": "47NEWS",
@@ -8,6 +21,8 @@
     "summary": "・広島県廿日市市は、東京都港区と間伐材などの国産材の利用を促進する協定を結んだ。\n・訪問看護経験やブランク不問 【求人の特徴】未経...詳しく見る「接客・販売の経験が活きる」未経験OKのインサイドセールス/リモート商談アジアンウエイ株式会社正社員東京都月給27万円～55万円【仕事内容】あなたの「ヒアリング力」が、年収1,000万円へのカギになる。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "廿日市産の木材、東京・港区へ 国産材利用促進で協定 「木のまち」PRも",
@@ -15,9 +30,7 @@
         "source": "中国新聞デジタル",
         "published_at": "2026-10-26 19:45"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-26",
@@ -28,6 +41,19 @@
     "summary": "・サンケイビルの「KiGi AKIHABARA」が 令和8年度「木材利用推進コンクール」で林野庁長官賞を受賞。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "中国・山東省の木材産業と日本産木材の輸出可能性 | 地域・分析レポート - 海外ビジネス情報",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/664c3a6dcbf46070.html",
+    "source": "ジェトロ（日本貿易振興機構）",
+    "published_at": "2026-10-26 17:36",
+    "summary": "・2026木材・木製品大会が9月3～5日、山東省日照市で開催された（2026年9月29日付ビジネス短信参照）。\n・本稿では、日本の木材輸出の中心である丸太の現状と山東省の木材産業の構造を確認した上で、日本産木材製品の販路開拓の可能性を、付加価値を高めにくい丸太の供給ではなく、技術集約型の川下製品に見いだす。\n・山東省の木材産業は、日照市（特に嵐山区）と臨沂市という2つの都市による分業体制で成り立っている（図1参照）。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
     "related_articles": [],
     "importance_score": 6,
     "is_featured": false
@@ -41,8 +67,21 @@
     "summary": "・10/26 17:30 配信ＲＳＩで読む...最終更新:10/26(月) 17:30ウエルスアドバイザー日経平均株価について世界の指数FX・為替情報。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-26",
+    "title": "日印林業協力から植民地林業を思い出す。",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/10/post-9ff7c8.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-10-26 17:30",
+    "summary": "・ここに日本とインドの森林林業協力の話題が載っていた。\n・このあたりから日本とインドの林業協力が始まったのだろう。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -54,9 +93,9 @@
     "summary": "・製材・建築の丸大製材所（美作市朽木）は、岡山工業高（岡山市北区伊福町）の生徒が考案した多機能木製ベンチを改良し、製品化した。\n・地域の将来語り合う 高校生・大学生と経営者　「ＦＲ対話ｉｎ岡山」山陽新聞社で初開催。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-26",
