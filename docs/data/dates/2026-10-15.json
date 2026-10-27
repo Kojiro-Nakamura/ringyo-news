@@ -303,9 +303,9 @@
     "summary": "・「モクレポ～林産物に関するマンスリーレポート～」とは、木材需給、木材価格、木材産業の動向などに関するデータを集約・整理し、毎月定期的に公表しようとするものです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-15",
