@@ -145,13 +145,19 @@
     "summary": "・南十勝森林組合の職員が約5900万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": true,
     "related_articles": [
       {
         "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
         "url": "https://www.htb.co.jp/news/archives_40095.html",
         "source": "HTB北海道テレビ",
+        "published_at": "2026-10-22 12:51"
+      },
+      {
+        "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
+        "url": "https://news.yahoo.co.jp/articles/f3ef014c45baee61ee816440034a17072b458ffe",
+        "source": "Yahoo!ニュース",
         "published_at": "2026-10-22 12:51"
       }
     ]
