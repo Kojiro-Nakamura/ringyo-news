@@ -1,22 +1,28 @@
 [
   {
     "article_date": "2025-09-12",
-    "title": "第1部 第3章 第3節 木材産業の動向（4）",
-    "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap3_3_4.html",
+    "title": "第1部 第3章 第1節 木材需給の動向（3）",
+    "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap3_1_3.html",
     "source": "林野庁ホームページ",
-    "published_at": "2025-09-12 00:59",
-    "summary": "・（＊95）「令和5年分貿易統計」による製材品の輸入量333万m3から「令和5年木材需給報告書」による半製品入荷量を控除した数量。\n・集成材は、一定の寸法に加工されたひき板（ラミナ）を複数、繊維方向が平行になるよう集成接着した木材製品である。",
+    "published_at": "2025-09-12 03:26",
+    "summary": "・令和3（2021）年は、国内の住宅需要が回復する中で、米国における住宅着工の増加による木材需要の高まりや海上輸送の混乱等により、我が国において輸入木材の不足・価格高騰（＊11）が発生した。\n・（＊11）令和3（2021）年における輸入木材の不足・価格高騰については、「令和3年度森林及び林業の動向」特集1第1節10-14ページを参照。\n・（＊12）農林水産省「令和6年木材需給報告書」。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 27,
-    "is_featured": true,
     "related_articles": [
+      {
+        "title": "第1部 第3章 第3節 木材産業の動向（4）",
+        "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap3_3_4.html",
+        "source": "林野庁ホームページ",
+        "published_at": "2025-09-12 00:59"
+      },
       {
         "title": "第1部 第3章 第3節 木材産業の動向（2）",
         "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap3_3_2.html",
         "source": "林野庁ホームページ",
         "published_at": "2025-09-12 00:59"
       }
-    ]
+    ],
+    "importance_score": 42,
+    "is_featured": true
   }
 ]
