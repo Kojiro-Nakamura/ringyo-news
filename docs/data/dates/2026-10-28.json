@@ -8,9 +8,9 @@
     "summary": "・大仙市議会森林・林業・林産業活性化推進議員連盟」主催の植樹体験。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -21,9 +21,9 @@
     "summary": "・10月28日、バクダン村人民委員会は、ホアアン地方森林管理ユニットと連携し、クオイリー、ナニエン、ビンズオン、ボーミーの各集落の森林所有者に対し、森林経済発展の方向性や林業作物の構造転換に関する情報を普及させるための会議を開催した。\n・会議では、ホアアン県森林管理ユニットと経済社会局が、2026年から2030年までの同県の林業開発方針を紹介し、人々の自然条件や生産能力に適した経済的価値のある林業植物や薬用植物の種類に関する情報を提供しました。\n・これにより、森林経済の発展という目標が徐々に実現され、人々の収入増加と生活水準の向上につながり、コミューンにおける2026年から2030年までの森林経済発展重点プログラムの効果的な実施に貢献します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -34,8 +34,21 @@
     "summary": "・阿蘇市の阿蘇中央高の生徒らが28日、同市一の宮町の伐採現場で林業体験をした。\n・同市のNPO法人九州バイオマスフォーラムによる森林環境教育の一環。\n・職業体験で地域づくり学ぶ　小中学生らが〝従業員〟　益城町でNPO法人がイベント。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "【10/26投稿】愛知県森林組合連合会の皆さまから来年度の要望書をいただきました。",
+    "url": "https://go2senkyo.com/seijika/142094/posts/1557431",
+    "source": "選挙ドットコム",
+    "published_at": "2026-10-28 19:57",
+    "summary": "・【10/26投稿】愛知県森林組合連合会の皆さまから来年度の要望書をいただきました。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -47,9 +60,9 @@
     "summary": "・鹿児島県林業会議（柴立鉄彦会長）は２８日、県の２０２７年度予算編成に向けた要望書を寺田雅一副知事に手渡した。\n・再造林支援や担い手の確保といった森林整備のほか、県産材の利用促進を求めた。\n・林業会議は県林材協会連合会や県森林組合連合会など関連１６団体で構成する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -60,6 +73,8 @@
     "summary": "・全国JRN加盟32局ネットでお届けしているTBSラジオの『ONE-J』（毎週日曜8:00～10:00）にて、11月限定の特別コーナー『全国森林組合連合会 presents 林業にアタック！』（全5回）がスタートいたします。\n・本コーナーは、全国森林組合連合会（全森連）が展開する「緑の雇用」事業の協力のもと、「林業とは？」「林業での働き方は？」をテーマに、最新事情や現場で活躍する人々の声を多角的に発信。\n・そこで本コーナーでは、林業のキャリアアップを支援する「緑の雇用」事業を展開する全国森林組合連合会（全森連）と連携。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents 林業にアタック！』がスタート！全5回にわたり全国の現場から“林業の今と働く魅力”をお届け。 | 株式会社ＴＢＳラジオのプレスリリース",
@@ -73,9 +88,7 @@
         "source": "TBSラジオ",
         "published_at": "2026-10-28 17:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-28",

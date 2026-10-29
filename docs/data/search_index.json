@@ -1,6 +1,71 @@
 [
   {
     "article_date": "2026-10-29",
+    "title": "静銀経営コンサル、林野庁長官賞を受賞、十山と森林価値創出で",
+    "url": "https://www.nikkinonline.com/article/435451",
+    "source": "ニッキンONLINE",
+    "published_at": "2026-10-29 16:44",
+    "summary": "・静銀経営コンサル、林野庁長官賞を受賞、十山と森林価値創出で",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "「木が倒れた瞬間、山が揺れた！」福井市「師匠に入門！ちびっと就林」第2回開催！3日間で体感した林業の迫力と奥深さ",
+    "url": "https://www.agrinews.co.jp/news/prtimes/415636",
+    "source": "日本農業新聞",
+    "published_at": "2026-10-29 12:00",
+    "summary": "・福井市チェンソーでの伐倒から高性能林業機械の操作まで！県外・市内から3名が参加。\n・林業の楽しさも厳しさも、師匠とともに本気で学ぶ3日間。\n・福井市は、林業の担い手確保に向けた林業就業体験プログラム「師匠に入門！ちびっと就林」の第2回を、令和8年10月8日（木）から10月10日（土）までの2泊3日で開催しました。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "「きらない林業会社」がつくった謎解き森歩き「森林迷宮」、10月31日開幕。60年前の手紙を手がかりに、森の魔物を封印せよ",
+    "url": "https://www.sanyonews.jp/article/2012502",
+    "source": "山陽新聞",
+    "published_at": "2026-10-29 11:31",
+    "summary": "・株式会社武田林業えひめ森林公園（伊予市）で11月27日（金）まで・参加無料。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "本仮屋ユイカ出演『ONE-J』で林業の仕事に迫る新コーナー 11月限定で全5回放送",
+    "url": "https://news.nicovideo.jp/watch/nw19931797?news_ref=search_search",
+    "source": "ニコニコニュース",
+    "published_at": "2026-10-29 10:21",
+    "summary": "・本仮屋ユイカ出演『ONE-J』で林業の仕事に迫る新コーナー 11月限定で全5回放送。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [
+      {
+        "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents",
+        "url": "https://news.nicovideo.jp/watch/nw19931113?news_ref=20_20",
+        "source": "ニコニコニュース",
+        "published_at": "2026-10-29 05:51"
+      },
+      {
+        "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents 林業にアタック！』がスタート！全5回にわたり全国の現場から“林業の今と働く魅力”をお届け。",
+        "url": "https://mantan-web.jp/prtimes/article/20261028prt00m200001182a.html",
+        "source": "mantan-web.jp",
+        "published_at": "2026-10-29 00:30"
+      }
+    ],
+    "importance_score": 30,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-29",
     "title": "久島直樹さんを合祀、2026度林野庁殉職者慰霊式を執り行う",
     "url": "https://rinseinews.com/news/27961",
     "source": "林政ニュース",
@@ -8,9 +73,9 @@
     "summary": "・林野庁は、10月22日に東京都八王子市の高尾山国有林で、今年度（2026年度）の殉職者慰霊式を執り行い、業務中に亡くなった関東森林管理局会津森林管理署の久島直樹さん（当時31歳）を合祀した。\n・同慰霊式は、1947（昭和22）年度から毎年度行われており、今回の合祀により総殉職者数は1,794名となった。\n・慰霊の辞を述べた長﨑屋圭太長官は、職場の安全確保に万全を期すことを誓い、殉職者の冥福を祈った。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -21,9 +86,9 @@
     "summary": "・Ｅ－ＭＴＢで森林サイクリング 掛川 林業の現場視察。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -34,9 +99,9 @@
     "summary": "・山本ビニター（大阪市）は、八尾工場の全面リニューアルにおける第１期工事が竣工した。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -47,9 +112,9 @@
     "summary": "・銘建工業（岡山県真庭市）は、CLTを用いた外壁及び間仕切り壁1.5時間耐火構造の国土交通大臣認定５件を取得したと発表した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -60,9 +125,9 @@
     "summary": "・矢島（長野県茅野市）とシステムズヤジマ（東京都小金井市）が提案する新たなキッチンコンセプト「Y－STYLEーconcept」（ワイスタイル）が桧などの国産材を生かした新しいキッチンとして注目を集めている。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -73,29 +138,22 @@
     "summary": "・XENCE(ゼンス、名古屋市)は、木材製品の素材・製造・環境情報を製品１点ごとに記録する「product Passport(PP)」の運用を始めた。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
-    "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents",
-    "url": "https://news.nicovideo.jp/watch/nw19931113?news_ref=20_20",
-    "source": "ニコニコニュース",
-    "published_at": "2026-10-29 05:51",
-    "summary": "・TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents。",
+    "title": "林業 もっとデジタル化！ 武田林業のプロジェクト、県が採択 内子 ／愛媛",
+    "url": "https://mainichi.jp/articles/20261029/ddl/k38/020/104000c",
+    "source": "毎日新聞",
+    "published_at": "2026-10-29 05:03",
+    "summary": "・「林業のDX（デジタルトランスフォーメーション）を愛媛・内子から広めたい」。\n・デジタル技術を活用して業務やビジネスを変革する愛媛県のDX実装加速化プロジェクト「トライアングルエヒメ2．0」にこの夏、同県内子町にある武田林業の事業「林業現場の事務時間削減DX推進プロジェクト」が選ばれた。\n・2026年度の一般枠採択17件（最大3000万円を各件に支援）のうち、農林水産業関連では唯一となる。",
     "summary_type": "auto",
-    "category": "森林管理・地域",
-    "related_articles": [
-      {
-        "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents 林業にアタック！』がスタート！全5回にわたり全国の現場から“林業の今と働く魅力”をお届け。",
-        "url": "https://mantan-web.jp/prtimes/article/20261028prt00m200001182a.html",
-        "source": "mantan-web.jp",
-        "published_at": "2026-10-29 00:30"
-      }
-    ],
-    "importance_score": 15,
-    "is_featured": true
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-29",
@@ -106,6 +164,8 @@
     "summary": "・８月の記録的な大雨で工場が浸水した氷見市万尾（もお）の岸田木材を応援しようと、夫婦のものづくりユニット「佳雨（かう）」が、同社で製材するブランド木材「ひみ里山杉」のスツールやベンチのキットを商品化した。\n・水害を免れた木材を活用し、売り上げから材料費、手数料などを差し引いた額の半分を寄付して復興を後押しする。\n・夫婦は「日常生活に氷見産を取り入れてほしい」と、ブランド木材や製材産業のＰＲ役も担う。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "大雨被災 岸田木材が製材のひみ里山杉使って応援 ものづくりユニット「佳雨」、家具や箸販売へ",
@@ -113,9 +173,20 @@
         "source": "北日本新聞webunプラス",
         "published_at": "2026-10-29 05:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "【LC-core構法】群馬県高崎市にてCLTパネル工法の事務所が完成",
+    "url": "https://www.sanyonews.jp/article/1936385?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%8B",
+    "source": "山陽新聞",
+    "published_at": "2026-10-29 01:23",
+    "summary": "・ライフデザイン・カバヤ株式会社（代表取締役社長：窪田健太郎/本社：岡山県岡山市）が運営する、CLTフランチャイズネットワーク本部『日本CLT技術研究所』の加盟企業である瑞穂建設株式会社（代表取締役：篠原玄洋/本社：群馬県渋川市）がCLTパネル工法にて建築した、株式会社コーワパートナーズ（代表取締役：杉木基泰/本社：群馬県渋川市）の新事務所が2026年5月21日（木）に完成いたしました。\n・■構造見学会の様子2026年1月21日（水）、22日（木）に実施した構造見学会ではCLTに関心を持つ大手ゼネコン、設計事務所、工務店のほか、金融機関や行政、研究機関、メディア関係者など約60名が参加しました。\n・■事務所新築の経緯今回施工を担当する瑞穂建設株式会社は2025年6月にLC-core構法を採用した本社新社屋を竣工しました。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-10-29",
@@ -126,9 +197,16 @@
     "summary": "・第49回 全国育樹祭2026わかやま「森林・林業・環境機械展示実演会」にアクティオブースを出展【アクティオブース番号：3】。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
+    "importance_score": 15,
+    "is_featured": false,
+    "related_articles": [
+      {
+        "title": "第49回 全国育樹祭2026わかやま「森林・林業・環境機械展示実演会」にアクティオブースを出展【アクティオブース番号：3】",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000374_000057111/",
+        "source": "Infoseek",
+        "published_at": "2026-10-29 01:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -139,9 +217,9 @@
     "summary": "・10/28(水)地籍調査に伴う現地確認のため、大竹地区本郷へ大洲市森林組合の職員さんに案内いた...",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -152,9 +230,9 @@
     "summary": "・このたび、同サービスのオプションとして、森林の自然資本を科学的に定量評価する「ネイチャーポジティブ*1推進支援サービス」の提供を開始します。\n・本サービスは、日立システムズが持つ森林解析技術および森林関連のドメインナレッジと、サンリット・シードリングス株式会社（以下、サンリット・シードリングス）が持つ生物多様性分析技術（環境DNA*2分析、GIS*3分析、野外調査）を組み合わせ、企業や自治体、森林組合などが取り組むネイチャーポジティブ施策を、水源涵養（かんよう）機能*4、炭素蓄積量、生物多様性の観点から評価し、その成果を可視化・将来変化をシミュレーションするものです。\n・また、評価・可視化・将来変化のシミュレーションだけに留まらず、森林でのネイチャーポジティブ活動の実行を支援するサービスの検討も進めています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -165,9 +243,9 @@
     "summary": "・和歌山 みなべ町 クビアカツヤカミキリ対策で放棄地の伐採支援。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -178,9 +256,9 @@
     "summary": "・奈良県と日本生命グループの公益財団法人「ニッセイ緑の財団」は、県立矢田自然公園内の「矢田山遊びの森」（大和郡山市矢田町）の森林環境保全に関する協定を締結した。\n・遊びの森の一部を「ニッセイ矢田山の森」として保全活動を行う。\n・協定締結後、同財団の馳平恵三理事長は「県民の方が本当に楽しんでいただけるようなことに矢田山の森を使っていただければありがたい」と述べ、県環境森林部の中川智巨部長は「全国植樹祭に向けた機運を高めるという意味でも大変意義深い」と答えた。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -191,9 +269,9 @@
     "summary": "・サンマを通して交流を深めている宮城県気仙沼市と東京都目黒区が、今度は「森林」で協定を結びました。\n・目黒区が気仙沼市の森林整備を支援するということです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -204,9 +282,9 @@
     "summary": "・山間部の道路を走っていると、荷台いっぱいに丸太を積み上げた大型トラックを見かけることがある。\n・見た目だけなら、平らな荷台に丸太を積んだだけにも見えるが、転がりやすく、形も太さもそろっていない原木を安全に運ぶため、通常の荷物とは異なる積載方法と車体構造が使われている。\n・荷台いっぱいの丸太を積んで走る原木車は、その最初の物流を支える、林業ならではのトラックなのである。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -217,9 +295,9 @@
     "summary": "・島根県が主催する県産木材のセリ市が、10月28日に出雲市で開かれました。\n・県外からバイヤーを招いて、県産木材に新たな付加価値をつけるねらいです。\n・このセリ市は島根県産の木材の販路拡大をめざして、県が県外から約50人のバイヤーを招いて開きました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -230,9 +308,9 @@
     "summary": "・家づくりや林業に携わる兵庫県丹波市の有志らが、木のジャングルジム「くむんだー」を通して日本の伝統的な木造建築を身近に感じてもらう活動をスタートした。\n・木づちを使った組み立て、遊び、解体までを体験してもらう親子ワークショップを、10月31日と11月1日に丹波年輪の里（同市柏原町田路）で開かれる「アート・クラフトフェスティバルinたんば」で開く。\n・高橋さんは2023年、「くむんだー郡上」代表の兼定裕嗣さん（岐阜県）が、母校の市島町・三輪小で体験会を開いた時に手伝った縁で同ジャングルジムと出合った。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -243,9 +321,9 @@
     "summary": "・美しい海岸線と雄大な松林が織りなす景色が、古くから親しまれてきた景勝地です。\n・松は本来、1年を通して鮮やかな緑の葉を保つ「常緑樹」。\n・国東市 農林水産課・川井翼さん:奥に見えるところが茶色になり枯れてしまっている松。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -256,9 +334,9 @@
     "summary": "・壁には県産の木材が使われています」生産や販売を手掛ける佐賀県の「伊万里木材市場」が国産木材の新たな活用として広めていこうと導入した、トレーラーハウス。\n・導入の背景にあるのは、国産木材の利用が年々減少していることです。\n・「国産木材の活用を増やす」「万一の災害に備える」トレーラーハウスの導入が各地で広がっていくかもしれません。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -269,9 +347,9 @@
     "summary": "・鹿児島県林業会議（柴立鉄彦会長）は２８日、県の２０２７年度予算編成に向けた要望書を寺田雅一副知事に手渡した。\n・再造林支援や担い手の確保といった森林整備のほか、県産材の利用促進を求めた。\n・林業会議は県林材協会連合会や県森林組合連合会など関連１６団体で構成する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -282,9 +360,9 @@
     "summary": "・県産木材の利用拡大を図ろうと西安建設（西条市）と県は２８日、建築物木材利用促進協定を結んだ。\n・愛媛新聞ONLINEの記事をいつでも自由に読むには、ご購入の手続きをお願いします。\n・同社が取り組んでいる県産材を使用した木造倉庫の商品化を通じ、木材の魅力をＰＲする。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -295,9 +373,9 @@
     "summary": "・阿蘇市の阿蘇中央高の生徒らが28日、同市一の宮町の伐採現場で林業体験をした。\n・同市のNPO法人九州バイオマスフォーラムによる森林環境教育の一環。\n・職業体験で地域づくり学ぶ　小中学生らが〝従業員〟　益城町でNPO法人がイベント。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -308,8 +386,21 @@
     "summary": "・中央大学経済学部（多摩キャンパス）の学生たちが、多摩産材ヒノキの精油を使用した泡ハンドソープ「ＫＩＮＯ ＳＯＡＰ．（キノソープドット）」をこの10月から販売し始めた。\n・ゼミ活動の一環として、商品開発から製造委託、販売までを手がけている。\n・木材由来のハンドソープ製造を目指し、ノウハウに詳しいアットアロマ株式会社（世田谷区）や有限会社中央理化学研究所（中野区）などに協力を仰ぎ、約１年６カ月間にわたり商品開発を進めた。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-29",
+    "title": "１日にわたらせ森と木のまつり キノコや林業、木工の祭典 新川公園で",
+    "url": "https://kiryutimes.jp/article/7aM-IZ0F/",
+    "source": "桐生タイムス",
+    "published_at": "2026-10-29 00:00",
+    "summary": "・１日にわたらせ森と木のまつり キノコや林業、木工の祭典 新川公園で",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -321,9 +412,9 @@
     "summary": "・大仙市議会森林・林業・林産業活性化推進議員連盟」主催の植樹体験。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -334,9 +425,9 @@
     "summary": "・10月28日、バクダン村人民委員会は、ホアアン地方森林管理ユニットと連携し、クオイリー、ナニエン、ビンズオン、ボーミーの各集落の森林所有者に対し、森林経済発展の方向性や林業作物の構造転換に関する情報を普及させるための会議を開催した。\n・会議では、ホアアン県森林管理ユニットと経済社会局が、2026年から2030年までの同県の林業開発方針を紹介し、人々の自然条件や生産能力に適した経済的価値のある林業植物や薬用植物の種類に関する情報を提供しました。\n・これにより、森林経済の発展という目標が徐々に実現され、人々の収入増加と生活水準の向上につながり、コミューンにおける2026年から2030年までの森林経済発展重点プログラムの効果的な実施に貢献します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -347,8 +438,21 @@
     "summary": "・阿蘇市の阿蘇中央高の生徒らが28日、同市一の宮町の伐採現場で林業体験をした。\n・同市のNPO法人九州バイオマスフォーラムによる森林環境教育の一環。\n・職業体験で地域づくり学ぶ　小中学生らが〝従業員〟　益城町でNPO法人がイベント。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "【10/26投稿】愛知県森林組合連合会の皆さまから来年度の要望書をいただきました。",
+    "url": "https://go2senkyo.com/seijika/142094/posts/1557431",
+    "source": "選挙ドットコム",
+    "published_at": "2026-10-28 19:57",
+    "summary": "・【10/26投稿】愛知県森林組合連合会の皆さまから来年度の要望書をいただきました。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -360,9 +464,9 @@
     "summary": "・鹿児島県林業会議（柴立鉄彦会長）は２８日、県の２０２７年度予算編成に向けた要望書を寺田雅一副知事に手渡した。\n・再造林支援や担い手の確保といった森林整備のほか、県産材の利用促進を求めた。\n・林業会議は県林材協会連合会や県森林組合連合会など関連１６団体で構成する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -373,6 +477,8 @@
     "summary": "・全国JRN加盟32局ネットでお届けしているTBSラジオの『ONE-J』（毎週日曜8:00～10:00）にて、11月限定の特別コーナー『全国森林組合連合会 presents 林業にアタック！』（全5回）がスタートいたします。\n・本コーナーは、全国森林組合連合会（全森連）が展開する「緑の雇用」事業の協力のもと、「林業とは？」「林業での働き方は？」をテーマに、最新事情や現場で活躍する人々の声を多角的に発信。\n・そこで本コーナーでは、林業のキャリアアップを支援する「緑の雇用」事業を展開する全国森林組合連合会（全森連）と連携。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "TBSラジオ『ONE-J』にて、11月限定の新コーナー『全国森林組合連合会 presents 林業にアタック！』がスタート！全5回にわたり全国の現場から“林業の今と働く魅力”をお届け。 | 株式会社ＴＢＳラジオのプレスリリース",
@@ -386,9 +492,7 @@
         "source": "TBSラジオ",
         "published_at": "2026-10-28 17:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -1959,109 +2063,5 @@
     "importance_score": 18,
     "is_featured": true,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-24",
-    "title": "大分　九重町で木工クラフトデザイナー・故時松辰夫さんの作品展　日本クラフト展最高賞「えびす弁当」など250点展示",
-    "url": "https://news.yahoo.co.jp/articles/e566cecb8449c94827529385812a3d3e88ff6a55",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-24 00:30",
-    "summary": "・木工クラフトデザイナーとして、地元産木材を生かした食器作りを全国で指導した故時松辰夫さん＝九重町出身、享年83＝の作品展が、九重町後野上の町歴史資料館で開かれている。\n・日本クラフト展で最高賞を受けた弁当箱などを展示している。\n・日本クラフト展最高賞の弁当箱「えびす弁当」や、さまざまな木で作った56種のおわんも並ぶ。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-24",
-    "title": "熊本県内で日本紅斑熱の報告　森林や草原などでマダニに注意",
-    "url": "https://news.yahoo.co.jp/articles/4d87c46aea5c2f780b56d98210a2f8e860100d59",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-10-24 00:30",
-    "summary": "・マダニに咬まれて感染する日本紅斑熱の患者が、熊本県内で2人報告され、県が注意を呼びかけています。\n・日本紅斑熱は病原体を保有するマダニに咬まれて感染し、発熱や発疹などの症状が出ます。\n・10月18日までの1週間に、熊本県内の50代の男性と70代の女性の2人の感染報告がありました。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-24",
-    "title": "【株式会社光陽社】住友林業の「森かち」を通じ、北海道紋別市と「流氷の森クレジット」毎年300tの4年間長期購入契約を締結",
-    "url": "https://www.asahi.com/and/pressrelease/16987866",
-    "source": "朝日新聞",
-    "published_at": "2026-10-24 00:30",
-    "summary": "・【株式会社光陽社】住友林業の「森かち」を通じ、北海道紋別市と「流氷の森クレジット」毎年300tの4年間長期購入契約を締結。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "三菱地所レジデンス 賃貸マンション共用部に国産材",
-    "url": "https://www.jutaku-s.com/news/id/106363",
-    "source": "住宅新報",
-    "published_at": "2026-10-23 17:30",
-    "summary": "・三菱地所レジデンスは10月19日、東京都大田区西蒲田で開発中の賃貸マンション「ザ・パークハビオ 蒲田レジデンス」で、神奈川県相模原市の林業関係者の木材を指定調達し、共用部に採用すると発表した。\n・木や緑の潤いを通じてやすらぎを感じる住環境の実現を目指し、エントランスホール、ラウンジに、同社が国産材活用で連携している地域の一つである神奈川県相模原市の「さがみはら津久井産材」を導入する。\n・また、三菱地所グループのMEC Industryが製造するCLT材を活用した造作家具の採用も予定している。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 18,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "「体格に合った道具の配置にこだわっています」ベテランツリーワーカーの装備大公開！【矢澤貴司さん】",
-    "url": "https://forest-journal.jp/tools/49318/",
-    "source": "FOREST JOURNAL",
-    "published_at": "2026-10-23 17:00",
-    "summary": "・今回は、日本ツリークライミング®チャンピオンシップ2022年・24年では優勝経験もある矢守産業の矢澤貴司さんの腰回り装備を教えてもらった。\n・ハスクバーナのクライミングハーネスは、基本設計はツリーモーションと同じで、樹上での装着感が良く、使い手に応じて腰回りの道具配置などをカスタマイズしやすい点が気に入っています」。\n・「手足が長いので自分の体格に合った道具の配置にこだわっています」。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説",
-    "url": "https://finance.yahoo.co.jp/quote/1911.T/ai-topics",
-    "source": "Yahoo!ファイナンス",
-    "published_at": "2026-10-23 16:00",
-    "summary": "・AI値動き解説では、値動きの背景や情報を全14種類のカテゴリーに分けて表示しています。\n・※AI値動き解説の正確性や品質については保証されていません。\n・住友林業(株)【1911】のAI値動き解説をご覧いただけます。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-23",
-    "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
-    "url": "https://www.agrinews.co.jp/news/prtimes/414389",
-    "source": "日本農業新聞",
-    "published_at": "2026-10-23 16:00",
-    "summary": "・オカダアイヨン株式会社( 本社： 大阪府大阪市、代表取締役社長： 岡田祐司、以下オカダアイヨン) は、11月8日(日)～9日(月)の2日間、和歌山県白浜町の旧南紀白浜空港跡地で行われる「2 0 2 6 わかやま森林・林業・環境機械展示実演会」( 以下、林業展) に出展いたします。\n・伐採や集積で活躍する新製品の電磁弁旋回式簡易伐倒機・集積機「ツリーフェラーズ」や大径材でもスムーズに切断できるストレート形状刃を搭載の新型機「ハイブリッドバケット」など最新の林業機械をメインとした展示・実演を予定しております。\n・みやぎ2025森林・林業・環境機械展示実演会の様子。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 36,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
-        "url": "https://wakayama.keizai.biz/release/670178/",
-        "source": "和歌山経済新聞",
-        "published_at": "2026-10-23 13:00"
-      },
-      {
-        "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど20 26林業展にて最新林業機械を展示・実演",
-        "url": "https://prtimes.jp/main/html/rd/p/000000016.000159091.html",
-        "source": "PR TIMES",
-        "published_at": "2026-10-23 09:13"
-      }
-    ]
   }
 ]
