@@ -60,9 +60,16 @@
     "summary": "・鹿児島県林業会議（柴立鉄彦会長）は２８日、県の２０２７年度予算編成に向けた要望書を寺田雅一副知事に手渡した。\n・再造林支援や担い手の確保といった森林整備のほか、県産材の利用促進を求めた。\n・林業会議は県林材協会連合会や県森林組合連合会など関連１６団体で構成する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「担い手不足で森が荒れる」――再造林支援の拡充訴え 林業会議が鹿児島県に要望書",
+        "url": "https://373news.com/news/local/detail/241820",
+        "source": "南日本新聞",
+        "published_at": "2026-10-28 18:34"
+      }
+    ]
   },
   {
     "article_date": "2026-10-28",
@@ -99,9 +106,9 @@
     "summary": "・奈良県の橿原に「木下大サーカス」が来て公演している。\n・最初は一人で行くのはなあ……と思っていたが、ちょうど吉野に行く用事もあり、ルート的には重なるので観覧してきた。\n・本格的なサーカスを観覧するのは始めてではなかろうか。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -191,7 +198,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

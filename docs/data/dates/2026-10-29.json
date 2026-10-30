@@ -8,6 +8,8 @@
     "summary": "・29日午後8時半ごろ、大分県日田市で、「製材所が燃えている」と近くの住民から消防に通報がありました。\n・火は、広範囲に燃え広がっていることから、警察は、近くの住民に避難を呼び掛けています。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 51,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【速報】現在も延焼中…大分・製材工場で火事 近隣住民に避難呼びかけ（テレビ朝日系（ANN））",
@@ -27,9 +29,7 @@
         "source": "QAB 琉球朝日放送",
         "published_at": "2026-10-29 23:30"
       }
-    ],
-    "importance_score": 51,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -40,9 +40,9 @@
     "summary": "・29日20時31分頃、大分県日田市庄手で「製材所が燃えている」と消防に通報があった。\n・消防によると、現場は製材所で、20時50分現在、消火活動を行っているという。\n・日田市大字庄手で建物火災中🔥爆発するかもと消防隊が言っていたので、お気をつけ下さい🙇‍♂️💦#火事 #日田市 pic.twitter.com/BCnY5Qiu4g。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -53,9 +53,9 @@
     "summary": "・納め忘れがないよう期限内納付をお願いします。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -66,6 +66,8 @@
     "summary": "・<　中央大学経済学部（多摩キャンパス）の学生たちが、多摩産材ヒノキの精油を使用した泡ハンドソープ「ＫＩＮＯ ＳＯＡＰ．（キノソープドット）」をこの10月から販売し始めた。\n・こうして誕生したのが、多摩産材のヒノキ精油を配合したアロマハンドソープ「キノソープドット」だ。\n・10月31日（土）から11月２日（月）には、同大学の白門祭（中央大学多摩キャンパス３号館３２０９）で販売を予定している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "中央大学学生団体 「林業の現状 知る契機に」 多摩産材ヒノキの商品販売",
@@ -73,9 +75,7 @@
         "source": "タウンニュース",
         "published_at": "2026-10-29 00:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -86,9 +86,9 @@
     "summary": "・高精度の地上レーザー型3次元森林計測装置として、全国の森林調査で活躍してきた「OWL」。\n・サービス開始10年を迎えた今年、OWL事業に特化した新会社が新たに発足した。\n・今回の新会社発足により、ICTソフトウェア開発などを手掛ける株式会社アドイン研究所から新会社の株式会社OWLに全事業が譲渡された。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",
@@ -132,6 +132,8 @@
     "summary": "・株式会社武田林業（愛媛県喜多郡内子町、代表取締役：武田惇奨）は、愛媛県が主催する謎解き森歩き「えひめ森林迷宮 ～60年前の手紙と森の叫び～」を企画・制作し、2026年10月31日（土）から11月27日（金）まで、えひめ森林公園（愛媛県伊予市上三谷）で開催します。\n・謎解き森歩き「えひめ森林迷宮 ～60年前の手紙と森の叫び～」。\n・参加者は、60年前の手紙と不思議な形の木片を手に森を歩き、魔物の弱点を謎から読み解いて「封印の言葉」をさがします。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「きらない林業会社」がつくった謎解き森歩き「森林迷宮」、10月31日開幕。60年前の手紙を手がかりに、森の魔物を封印せよ",
@@ -139,9 +141,7 @@
         "source": "山陽新聞",
         "published_at": "2026-10-29 11:31"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-29",
@@ -191,9 +191,9 @@
     "summary": "・神奈川県横浜市港北区にある東急新横浜線・新綱島駅の真ん前、徒歩１分の好立地に、歴史的遺産と木を活用した商業施設「新綱島MICCA（ミッカ）」が10月28日にオープンした。\n・幕末の1857（安政５）年に建てられ、来年（2027（令和９）年）で築170年となる古民家を改修すると同時に、２階建ての木造建築物を２棟新設し、駅前に新たな賑わいと交流を生み出すことにしている。\n・「新綱島MICCA」の事業主は、古民家の所有者である池谷道義氏。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-29",

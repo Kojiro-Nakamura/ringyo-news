@@ -99,6 +99,8 @@
     "summary": "・バイウィル、東城町森林組合・備福通信・中国銀行との「地域GX座談会」記事を公開。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【プレスリリース】バイウィル、東城町森林組合・備福通信・中国銀行との「地域GX座談会」記事を公開",
@@ -112,9 +114,7 @@
         "source": "PR TIMES",
         "published_at": "2026-10-09 11:00"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-09",
