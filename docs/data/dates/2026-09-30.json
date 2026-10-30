@@ -55,8 +55,21 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 15,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-09-30",
+    "title": "松くい虫被害",
+    "url": "https://www.rinya.maff.go.jp/j/hogo/higai/matukui.html",
+    "source": "林野庁ホームページ",
+    "published_at": "2026-09-30 16:00",
+    "summary": "・全国の被害量は長期的に減少傾向でしたが、令和5（2023）年度に12年ぶりに増加し、令和7 （2025）年度は前年度比163％の約63万m3でした。\n・全国の松くい虫被害量（被害材積）の推移（昭和52～令和7年度）(PDF : 122KB)都道府県別松くい虫被害量（被害材積）の推移（総数）（令和3～令和7年度）(PDF : 45KB)民有林における都道府県別松くい虫被害量（被害材積）の推移（令和3～令和7年度）(PDF : 44KB)国有林における都道府県別松くい虫被害量（被害材積）の推移（令和3～令和7年度）(PDF : 52KB)なお、各種EXCELファイルについては「政府統計の総合窓口（e-stat）」の「森林病害虫被害量」に掲載しています。\n・（令和7年度被害量データは令和8年10月更新予定）。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-30",

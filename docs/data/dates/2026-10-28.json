@@ -47,9 +47,9 @@
     "summary": "・【10/26投稿】愛知県森林組合連合会の皆さまから来年度の要望書をいただきました。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-28",
@@ -61,7 +61,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -89,6 +89,19 @@
         "published_at": "2026-10-28 17:00"
       }
     ]
+  },
+  {
+    "article_date": "2026-10-28",
+    "title": "「象を見に」サーカス観覧記",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/10/post-ea5112.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-10-28 16:48",
+    "summary": "・奈良県の橿原に「木下大サーカス」が来て公演している。\n・最初は一人で行くのはなあ……と思っていたが、ちょうど吉野に行く用事もあり、ルート的には重なるので観覧してきた。\n・本格的なサーカスを観覧するのは始めてではなかろうか。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-28",
