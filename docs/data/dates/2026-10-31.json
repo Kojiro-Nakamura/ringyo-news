@@ -1,15 +1,74 @@
 [
   {
     "article_date": "2026-10-31",
-    "title": "［大分県］製材工場と空き家全焼 日田",
-    "url": "https://www.nishinippon.co.jp/item/1555364/",
-    "source": "西日本新聞me",
-    "published_at": "2026-10-31 06:00",
-    "summary": "・大分社会激しく炎が上がる日田市庄手の製材所の火災▶ 福岡・大牟田市で民家火災　平屋と倉庫を焼く。",
+    "title": "さが気候変動時代 第4章・脱炭素＞高性能林業機械普及、スマート林業化も | 行政・社会 | 佐賀県のニュース",
+    "url": "https://www.saga-s.co.jp/articles/-/1821091",
+    "source": "佐賀新聞",
+    "published_at": "2026-10-31 15:00",
+    "summary": "・伐採や運搬といった作業の効率化や安全性の向上を図る高性能林業機械が開発されている。\n・高性能林業機械の操作を学ぶ「さが林業アカデミー」の受講生＝嬉野市の県有林（2月9日、昨年度のアカデミーから）。\n・さが林業アカデミーでは高性能林業機械の操作を学ぶ機会が設けられている。",
     "summary_type": "auto",
-    "category": "流通・市場",
+    "category": "林政・施策",
     "related_articles": [],
-    "importance_score": 3,
+    "importance_score": 12,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "＜さが気候変動時代 第4章・脱炭素＞林業振興 森川海を次世代に、担い手育成 アカデミー受講生、環境守る仕事にやりがい",
+    "url": "https://www.saga-s.co.jp/articles/-/1820987",
+    "source": "佐賀新聞",
+    "published_at": "2026-10-31 14:00",
+    "summary": "・「さが林業アカデミー」の座学の様子＝佐賀市大和町の県林業試験場（1月8日、昨年度のアカデミーから）。\n・森林整備に携わる仕事に魅力を感じ、林業アカデミーの門をたたいた。\n・気候変動に伴って豪雨が各地で相次ぐ中、森林の災害防止機能への期待は高まっている。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "飛騨の木材８種類使ったアイスクリーム？ 高山市の企業が商品化したおもちゃ、林野庁長官賞受賞",
+    "url": "https://www.gifu-np.co.jp/articles/-/792938",
+    "source": "岐阜新聞デジタル",
+    "published_at": "2026-10-31 10:20",
+    "summary": "・アイスに見立てた木の球を積み上げて遊ぶ飛騨由来（高山市新宮町）の玩具「森のアイスクリーム」が、優良なおもちゃに贈られる「グッド・トイ２０２６」の林野庁長官賞を受賞した。\n・グッド・トイ林野庁長官賞を受賞した「森のアイスクリーム」＝高山市役所。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "大分・日田市で製材工場と空き家全焼（西日本新聞me）",
+    "url": "https://news.yahoo.co.jp/articles/6886fa3d6291e6566bee603a71360d187bcf155f",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-10-31 10:03",
+    "summary": "・29日午後8時半ごろ、大分県日田市の製材工場から出火、隣接する空き家にも延焼して工場と空き家が全焼した。\n・日田署によると、製材所には当時、人はいなかったという。\n・■熊本・山鹿市で民家1棟全焼　現場は市中心部を流れる庄手川近くの住宅街で、多くの消防車両が出動し、大勢の市民が集まり一時騒然となった。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [
+      {
+        "title": "［大分県］製材工場と空き家全焼 日田",
+        "url": "https://www.nishinippon.co.jp/item/1555364/",
+        "source": "西日本新聞me",
+        "published_at": "2026-10-31 06:00"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "【九州初の取扱店】鋼板リース、木製軽量敷板「ハイパーCLT敷板」（1枚約230kg）の取扱いを開始",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000001_000192145/",
+    "source": "Infoseek",
+    "published_at": "2026-10-31 01:40",
+    "summary": "・【九州初の取扱店】鋼板リース、木製軽量敷板「ハイパーCLT敷板」（1枚約230kg）の取扱いを開始。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -21,9 +80,9 @@
     "summary": "・株式会社マプリィ（本社：兵庫県丹波市、代表取締役：山口圭司、以下マプリィ）は、これまで分野別に提供していたiOS向け測量・点検アプリケーション（林業、測量、橋梁、擁壁、建築）を一つに統合し、利用者の用途に合わせて最適な機能を呼び出せる新アプリ「mapry Pro」を、2026年10月23日（金）よりApp Storeにて提供開始いたしました。\n・5分野の機能を統合： 「林業」「測量」「橋梁」「擁壁」「建築」の機能を1つのアプリに集約しました。\n・「mapry Pro」のリリースに伴い、旧iOS版アプリ（mapry林業、mapry測量、mapry橋梁、mapry建築、mapry擁壁）は、2026年11月30日（月）をもってアプリストアからの提供を終了いたします。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -34,9 +93,9 @@
     "summary": "・静岡県は、令和８年10月８日（木）に、県内外の企業14者との間で「都市(まち)の木造化推進法」に基づく「しずおか県産材利用促進協定」を締結しました。\n・今回、県産材利用の趣旨に賛同し協定を締結した14者は、自らが定めた県産材利用の構想の実現に向け、所有施設等での県産材を活用した木造・木質化の推進や県産材の普及啓発、木材事業者に係るデータベース構築、住宅ローン金利の引下げなど、様々な取組を実施します。\n・静岡県は、2050年ネット・ゼロや持続可能な社会の実現に向け、企業と連携しながら、民間建築物における県産材利用を一層促進していきます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -47,9 +106,9 @@
     "summary": "・インドネシアで続く森林・泥炭地火災の煙によって、8～9月の2カ月間で計5200人以上が死亡したとの推計を、フィンランドに拠点を置く研究機関「エネルギー・クリーンエア研究センター（CREA）」が29日公表した。\n・【写真で見る】森林火災の被害に遭い、応急処置を受けるオランウータン　CREAによると、火災の煙による推計死者数は8月の約1700人から、9月は約3560人に倍増した。\n・インドネシアでは今年、乾燥の影響で森林火災が過去10年余りで最も深刻な状況となっている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -60,9 +119,9 @@
     "summary": "・住宅向け木材や産業資材を加工販売する名古屋木材（本社名古屋市）は、漆塗り加工を施した木材の日用品を提案する。\n・独自の木材圧縮加工技術を活用し、システム手帳や写真立てを試作。\n・11月11日に開催する異業種交流展示会「メッセナゴヤ２０２６」に出展し、試作品を紹介する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -73,9 +132,9 @@
     "summary": "・秋田県北秋田市で昨年12月に秋田内陸縦貫鉄道の列車が脱線・転覆した事故で、国の運輸安全委員会は29日、事故調査報告書を公表した。\n・倒木への衝突が事故原因との見解を示し、「倒木への適切な対応をしていなかった」と指摘した。\n・秋田内陸縦貫鉄道によると、現在は予防保全も取り入れながら運行しているという。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -86,9 +145,9 @@
     "summary": "・埼玉県立秩父農工科学高校（秩父市大野原）森林科学科の3年生が、札所10番「大慈寺」（横瀬町横瀬）と11番「常楽寺」（秩父市熊木町）の剪定（せんてい）葉を使ったお香「札所の香り」シリーズを開発し、11月3日に両札所で販売を始める。\n・協力先となった大慈寺では、剪定した葉を普段は産業廃棄物として処分している。\n・「中庭の香り」は11月14日・15日に一般公開する同校の「秩農工祭」で、当たり（幸運香）入りのカプセルトイ形式で販売する。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -99,9 +158,9 @@
     "summary": "・木材などを利用するバイオマス発電の増加に伴い、産業廃棄物として処理される焼却灰の量も増えている。\n・再生可能エネルギーの一つであるバイオマス発電は二酸化炭素（CO2）を吸収した植物などを燃料に発電する。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -112,9 +171,9 @@
     "summary": "・樹齢100年を超えるクスノキが広がる林を散策し、地域の自然と林業の歴史を学ぶ公開講座「クスノキの魅力を訪ねて」が10月22日、東京大学樹芸研究所青野研究林（南伊豆町青野）で開かれた。\n・（伊豆下田経済新聞）【写真】公開講座で参加者に配布されたオリジナルガイド冊子（関連画像9枚）　同研究所（事務所＝南伊豆町加納）は、全国に7カ所ある東京大学地方演習林の一つ。\n・2024年には南伊豆町と農林業の発展や教育・研究推進に向けた連携協定を締結し、地域住民向けの公開講座も開いている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -125,9 +184,9 @@
     "summary": "・高知県四万十町の児童らが雑木の伐採や植樹などを通して豊かな森を未来へ繋ぐ活動の大切さを学びました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -138,9 +197,9 @@
     "summary": "・伊那市の保育園では29日、園児たちが地域の材料で工作をしました。\n・伊那市にある伊那北保育園で行われた工作体験には、年長園児8人と保護者が参加しました。\n・林業の振興に力を入れる伊那市が子どもたちに木に親しんでもらおうと今年度、市内の4つの保育園で木工体験を行っています。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -151,9 +210,9 @@
     "summary": "・1本の丸太からチェーンソーを駆使して彫刻作品を削り出すチェーンソーアートの実演会が24日、熊本県山鹿市鹿央町の複合施設「YAMAGA　BASE」であった。\n・熊本県のくまもと林業大学校を卒業し、4月から山鹿市内の木材会社で働く。\n・うなるチェーンソーで木くずを飛ばし、1時間ほどでイチョウの葉とクリを完成させた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -164,9 +223,9 @@
     "summary": "・上越市杉野袋の二貫寺の森で１１月２１日午前９時から正午まで、ワークショップイベント「市民の森づくりＤＡＹ」が開かれる。\n・１１月４日正午から１１日まで、上越市電子申請システムで申し込む。\n・コンサート前に演奏披露　上越市・小菅淳一市長を表敬訪問　フォルクローレバンド「インカニャン」。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -177,8 +236,8 @@
     "summary": "・大桑村の大桑中学校３年生２１人が、村をＰＲしようと４種類の企画や製品などを手掛けた。\n・総合的な学習の時間・三智の時間を使った活動で、スタンプラリーやパンフレット、パネル、木製品を作り村内に設置や販売をしている。\n・野尻の道の駅大桑に設置してあり、栗山陽菜さんは「写真を撮ってもらうことで認知が高まれば」と期待する。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
