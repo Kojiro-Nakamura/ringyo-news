@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-10-31",
+    "title": "【移転】新築の大手町ゲートビルディングへ、全国森林組合連合会",
+    "url": "https://nfm.nikkeibp.co.jp/atcl/news/21/00001/08532/",
+    "source": "日経不動産マーケット情報",
+    "published_at": "2026-10-31 16:19",
+    "summary": "・全国森林組合連合会は、千代田区内神田1丁目の大手町ゲートビルディングに事務所を移転する。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-31",
     "title": "さが気候変動時代 第4章・脱炭素＞高性能林業機械普及、スマート林業化も | 行政・社会 | 佐賀県のニュース",
     "url": "https://www.saga-s.co.jp/articles/-/1821091",
     "source": "佐賀新聞",
@@ -8,9 +21,9 @@
     "summary": "・伐採や運搬といった作業の効率化や安全性の向上を図る高性能林業機械が開発されている。\n・高性能林業機械の操作を学ぶ「さが林業アカデミー」の受講生＝嬉野市の県有林（2月9日、昨年度のアカデミーから）。\n・さが林業アカデミーでは高性能林業機械の操作を学ぶ機会が設けられている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -21,9 +34,9 @@
     "summary": "・「さが林業アカデミー」の座学の様子＝佐賀市大和町の県林業試験場（1月8日、昨年度のアカデミーから）。\n・森林整備に携わる仕事に魅力を感じ、林業アカデミーの門をたたいた。\n・気候変動に伴って豪雨が各地で相次ぐ中、森林の災害防止機能への期待は高まっている。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -34,9 +47,9 @@
     "summary": "・アイスに見立てた木の球を積み上げて遊ぶ飛騨由来（高山市新宮町）の玩具「森のアイスクリーム」が、優良なおもちゃに贈られる「グッド・トイ２０２６」の林野庁長官賞を受賞した。\n・グッド・トイ林野庁長官賞を受賞した「森のアイスクリーム」＝高山市役所。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -47,15 +60,34 @@
     "summary": "・29日午後8時半ごろ、大分県日田市の製材工場から出火、隣接する空き家にも延焼して工場と空き家が全焼した。\n・日田署によると、製材所には当時、人はいなかったという。\n・■熊本・山鹿市で民家1棟全焼　現場は市中心部を流れる庄手川近くの住宅街で、多くの消防車両が出動し、大勢の市民が集まり一時騒然となった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "［大分県］製材工場と空き家全焼 日田",
         "url": "https://www.nishinippon.co.jp/item/1555364/",
         "source": "西日本新聞me",
         "published_at": "2026-10-31 06:00"
+      },
+      {
+        "title": "大分・日田市で製材工場と空き家全焼 (西日本新聞me)",
+        "url": "https://news.yahoo.co.jp/articles/6886fa3d6291e6566bee603a71360d187bcf155f/images/000",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-31 10:03"
       }
-    ],
-    "importance_score": 24,
+    ]
+  },
+  {
+    "article_date": "2026-10-31",
+    "title": "令和8年度 木材利用推進コンクール 国産材利用推進部門「農林水産大臣賞」を受賞",
+    "url": "https://www.jiji.com/jc/article?k=000000024.000071339&g=prt",
+    "source": "時事ドットコム",
+    "published_at": "2026-10-31 05:10",
+    "summary": "・株式会社シェルター（本社　山形県山形市/代表取締役社長　木村仁大）は、木材利用推進中央協議会が主催する「令和8年度 木材利用推進コンクール」において、「国産材利用推進部門」の最高賞である「農林水産大臣賞」を受賞し、10月23日（金）に表彰式が執り行われました。\n・「木材利用推進コンクール」は木材利用の一層の促進を目的とし、特色ある木造施設等を対象とする「優良施設部門」と、国産材利用に積極的に取り組む企業を対象とする「国産材利用推進部門」の2部門で構成されています。\n・本年度は、「優良施設部門」から受賞作品として特賞12点および優秀賞29点、「国産材利用推進部門」から受賞企業として特賞6点が決定されました。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 18,
     "is_featured": true
   },
   {
@@ -67,9 +99,9 @@
     "summary": "・【九州初の取扱店】鋼板リース、木製軽量敷板「ハイパーCLT敷板」（1枚約230kg）の取扱いを開始。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -1766,6 +1798,19 @@
   },
   {
     "article_date": "2026-10-27",
+    "title": "イラストで伝える魅力、森と人つなぐ 林野庁出身の森林業漫画家「恩恵意識して」",
+    "url": "https://www.sanyonews.jp/article/1885930",
+    "source": "山陽新聞",
+    "published_at": "2026-10-27 16:00",
+    "summary": "・元林野庁の職員で「森林業漫画家」として活動する平田美紗子さん＝札幌市。\n・森林にまつわる魅力を伝える漫画家が札幌市にいる。\n・林野庁で働く傍ら多数の作品を手がけ、２月に早期退職。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-27",
     "title": "世界マスティンバー建築市場、2035年に131億6,000万米ドルへ拡大予測――脱炭素建築とCLT技術が年平均14.2％の成長を牽引",
     "url": "http://www.excite.co.jp/news/article/Dreamnews_0000366640/",
     "source": "Excite エキサイト",
@@ -2126,45 +2171,6 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "【動画】1分でわかる！木造建築工事業の倒産動向",
-    "url": "https://www.tdb.co.jp/report/industry/20261026-movie-builder2026-1-7/",
-    "source": "帝国データバンク",
-    "published_at": "2026-10-26 17:04",
-    "summary": "・住宅業界の異変　木造建築工事業の倒産急増　過去10年で最多ペース。\n・TDB Business View：『木造建築工事業の倒産動向（2026年1-7月）』。\n・～木造建築工事業の倒産　7月までに159件、過去10年で最多ペース　価格高騰や人手不足など影響、今年下半期も増加が続く見通し～。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "東急と住友林業、横浜・新綱島で木造商業施設を開業へ 古民家を活用",
-    "url": "https://www.nikkei.com/article/DGXZQOUC264XF0W6A021C2000000/",
-    "source": "日本経済新聞",
-    "published_at": "2026-10-26 16:08",
-    "summary": "・東急と住友林業は26日、横浜市の新綱島駅前に整備した木造商業施設を報道陣に公開した。\n・築約170年の古民家を改修し、周辺に木造2階建ての商業棟2棟を新設した。\n・古民家や木造商業施設を生かし、駅前と住宅地をつなぐ歩行者の回遊性を高める。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-10-26",
-    "title": "「新製品」ツリーフェラーズや「新型」ハイブリッドバケットなど2026林業展にて最新林業機械を展示・実演",
-    "url": "https://www.agrinews.co.jp/news/prtimes/414389",
-    "source": "日本農業新聞",
-    "published_at": "2026-10-26 11:59",
-    "summary": "・オカダアイヨン株式会社( 本社： 大阪府大阪市、代表取締役社長： 岡田祐司、以下オカダアイヨン) は、11月8日(日)～9日(月)の2日間、和歌山県白浜町の旧南紀白浜空港跡地で行われる「2 0 2 6 わかやま森林・林業・環境機械展示実演会」( 以下、林業展) に出展いたします。\n・伐採や集積で活躍する新製品の電磁弁旋回式簡易伐倒機・集積機「ツリーフェラーズ」や大径材でもスムーズに切断できるストレート形状刃を搭載の新型機「ハイブリッドバケット」など最新の林業機械をメインとした展示・実演を予定しております。\n・みやぎ2025森林・林業・環境機械展示実演会の様子。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   }

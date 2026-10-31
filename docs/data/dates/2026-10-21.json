@@ -100,15 +100,19 @@
   {
     "article_date": "2026-10-21",
     "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
-    "url": "https://article.auone.jp/2b4ce892-b2e0-4894-b3da-7e7647a0875b",
-    "source": "au Webポータル",
-    "published_at": "2026-10-21 14:25",
-    "summary": "・「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う　岩手IBC岩手放送10/21 14:2510/21(水) 14:25 配信IBC岩手放送続きを読む（外部サイト）出典元: IBC岩手放送。",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3027693",
+    "source": "TBS NEWS DIG",
+    "published_at": "2026-10-21 16:00",
+    "summary": "・2026年、大規模な山林火災が発生した岩手県大船渡市の山では、高校生が機械を操作して木を切るなどの体験を通して林業への理解を深めました。\n・この体験会は気仙地方林業振興協議会が2019年から行っているものです。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 90,
-    "is_featured": true,
     "related_articles": [
+      {
+        "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
+        "url": "https://article.auone.jp/2b4ce892-b2e0-4894-b3da-7e7647a0875b",
+        "source": "au Webポータル",
+        "published_at": "2026-10-21 14:25"
+      },
       {
         "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う　岩手",
         "url": "https://topics.smt.docomo.ne.jp/article/ibc/region/ibc-3027693",
@@ -129,12 +133,6 @@
       },
       {
         "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
-        "url": "https://newsdig.tbs.co.jp/articles/-/3027693",
-        "source": "TBS NEWS DIG",
-        "published_at": "2026-10-21 14:16"
-      },
-      {
-        "title": "「思った以上に林業の機械が進んでいることを知ってびっくり」住田高校生が大船渡市の山林を訪れ、林業の職場体験行う 岩手",
         "url": "https://newsdig.tbs.co.jp/articles/-/3027693?page=3",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-21 14:16"
@@ -145,7 +143,9 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-21 14:16"
       }
-    ]
+    ],
+    "importance_score": 93,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-21",
