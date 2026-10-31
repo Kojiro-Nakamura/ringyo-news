@@ -60,9 +60,42 @@
     "summary": "・未整備森林を解消するために，小規模な森林を森林所有者自ら管理・経営する自伐型林業は，有効な手段のひとつであると考えていることから，函館市では，令和４年度から体験型の基礎研修である『自伐型林業研修』を開催しています。\n・令和８年度は亀田中野町の通称『せいぶ山』で『自伐型林業研修』を開催しますので，森林や林業に興味がある方は，是非ご参加してください。\n・２０２６年度函館市自伐型林業研修　パンフレット[PDF：4.76MB]。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "函館市が推進する「自伐型林業」について",
+        "url": "https://www.city.hakodate.hokkaido.jp/docs/2022110700067/",
+        "source": "函館市",
+        "published_at": "2026-10-22 16:00"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-10-22",
+    "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
+    "url": "https://www.htb.co.jp/news/archives_40095.html",
+    "source": "HTB 北海道テレビ",
+    "published_at": "2026-10-22 16:00",
+    "summary": "・十勝の大樹町にある南十勝森林組合で、職員が業者と共謀のうえ、５９００万円あまりを着服したとして、組合はこの職員を懲戒解雇しました。\n・この職員は組合で販売事業を担当していた２０１９年１２月から今年８月ごろ、家や家具などを作るのに使われる丸太を実際に生産した量よりも少なく組合に報告し、報告しなかった分の丸太を自身の名義で業者に売却したということです。\n・組合によりますと、元職員からはおよそ１２００万円が弁済されていて、今後、元職員と業者に対する刑事告訴や損害賠償請求も検討しているということです。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "南十勝森林組合の職員が約5900万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
+        "url": "https://portal.uqmobile.jp/detail/1/2/5/10200_5_r_20261022_1792641982421767",
+        "source": "UQライフ",
+        "published_at": "2026-10-22 13:03"
+      },
+      {
+        "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
+        "url": "https://news.yahoo.co.jp/articles/f3ef014c45baee61ee816440034a17072b458ffe",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-10-22 12:51"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": true
   },
   {
     "article_date": "2026-10-22",
@@ -135,32 +168,6 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-10-22",
-    "title": "南十勝森林組合の職員が約5900万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
-    "url": "https://portal.uqmobile.jp/detail/1/2/5/10200_5_r_20261022_1792641982421767",
-    "source": "UQライフ",
-    "published_at": "2026-10-22 13:03",
-    "summary": "・南十勝森林組合の職員が約5900万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "importance_score": 30,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
-        "url": "https://www.htb.co.jp/news/archives_40095.html",
-        "source": "HTB北海道テレビ",
-        "published_at": "2026-10-22 12:51"
-      },
-      {
-        "title": "南十勝森林組合の職員が約５９００万円を着服 業者と共謀し丸太売却や仕入れ偽装 懲戒解雇",
-        "url": "https://news.yahoo.co.jp/articles/f3ef014c45baee61ee816440034a17072b458ffe",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-10-22 12:51"
-      }
-    ]
   },
   {
     "article_date": "2026-10-22",
@@ -315,7 +322,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
