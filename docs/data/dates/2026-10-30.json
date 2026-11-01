@@ -66,6 +66,19 @@
   },
   {
     "article_date": "2026-10-30",
+    "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説",
+    "url": "https://finance.yahoo.co.jp/quote/1911.T/ai-topics",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-10-30 16:00",
+    "summary": "・AI値動き解説では、値動きの背景や情報を全14種類のカテゴリーに分けて表示しています。\n・※AI値動き解説の正確性や品質については保証されていません。\n・住友林業(株)【1911】のAI値動き解説をご覧いただけます。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-10-30",
     "title": "林業・測量・インフラ点検を一つのアプリに統合した「mapry Pro」を提供開始",
     "url": "https://www.agrinews.co.jp/news/prtimes/415876",
     "source": "日本農業新聞",
@@ -170,9 +183,16 @@
     "summary": "・大分県日田市の製材工場で29日夜、火事があり、工場を含む建物4棟が全焼したとみられるほか、住宅の一部を焼きました。\n・火はおよそ2時間後に消し止められ、けが人はいませんでした。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 6,
+    "importance_score": 21,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "「ものすごい勢いで火が…」製材工場で火災、建物4棟全焼か 約2時間後に鎮火 けが人なし 大分",
+        "url": "https://newsdig.tbs.co.jp/articles/obs/3049854?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-30 12:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-30",
@@ -183,7 +203,7 @@
     "summary": "・昨年度、宮崎県内で人工林を伐採したあとに苗木を植えた割合を示す「再造林率」は、前の年度より上昇し、87％でした。\n・県によりますと、昨年度の県内の再造林率は、前の年度に比べ、8ポイント増え、87％でした。\n・県は、市町村と連携し、再造林にかかる費用への補助率を68％から90％に引き上げたことなどが再造林率の上昇につながったと分析しています。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "importance_score": 54,
+    "importance_score": 69,
     "is_featured": true,
     "related_articles": [
       {
@@ -201,6 +221,12 @@
       {
         "title": "宮崎県の「再造林率」87%に 前年度比8ポイント上昇",
         "url": "https://newsdig.tbs.co.jp/articles/-/3049830?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-10-30 12:07"
+      },
+      {
+        "title": "宮崎県の「再造林率」87%に 前年度比8ポイント上昇",
+        "url": "https://newsdig.tbs.co.jp/articles/mrt/3049830?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-30 12:07"
       }

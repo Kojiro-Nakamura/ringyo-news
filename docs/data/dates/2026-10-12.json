@@ -99,6 +99,8 @@
     "summary": "・基礎研究などを通じ木材産業の発展を図ってきた秋田県立大木材高度加工研究所（木高研、能代市）が近年、成果が実社会で広く活用されることを目指す研究にも力を入れている。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "設立３０年・秋田県立大木高研 加工技術で木材産業転換 脱・資源依存へ研究に力",
@@ -106,9 +108,7 @@
         "source": "秋田魁新報電子版",
         "published_at": "2026-10-12 15:00"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-10-12",

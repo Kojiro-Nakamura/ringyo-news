@@ -316,6 +316,8 @@
     "summary": "・断熱等級6・天井高2.6m…大和ハウス、国産材使用の木造戸建て新商品 (ニュースイッチ)。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "断熱等級6・天井高2.6m…大和ハウス、国産材使用の木造戸建て新商品（ニュースイッチ）",
@@ -329,9 +331,7 @@
         "source": "日刊木材新聞",
         "published_at": "2026-10-15 06:00"
       }
-    ],
-    "importance_score": 36,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-15",
