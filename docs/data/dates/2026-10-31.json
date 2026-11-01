@@ -8,9 +8,9 @@
     "summary": "・院庄林業久米工場にある製材ライン。\n・設備を刷新し、製造能力を高める。\n・製材メーカーの院庄林業（津山市二宮）は、丸太を角材や板材に加工している久米工場（同市くめ）の生産ラインを刷新する。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
@@ -106,9 +106,16 @@
     "summary": "・株式会社シェルター（本社　山形県山形市/代表取締役社長　木村仁大）は、木材利用推進中央協議会が主催する「令和8年度 木材利用推進コンクール」において、「国産材利用推進部門」の最高賞である「農林水産大臣賞」を受賞し、10月23日（金）に表彰式が執り行われました。\n・「木材利用推進コンクール」は木材利用の一層の促進を目的とし、特色ある木造施設等を対象とする「優良施設部門」と、国産材利用に積極的に取り組む企業を対象とする「国産材利用推進部門」の2部門で構成されています。\n・本年度は、「優良施設部門」から受賞作品として特賞12点および優秀賞29点、「国産材利用推進部門」から受賞企業として特賞6点が決定されました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": true,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "令和8年度 木材利用推進コンクール 国産材利用推進部門「農林水産大臣賞」を受賞",
+        "url": "https://news.infoseek.co.jp/article/prtimes_000000024_000071339/",
+        "source": "Infoseek",
+        "published_at": "2026-10-31 05:10"
+      }
+    ]
   },
   {
     "article_date": "2026-10-31",
@@ -119,9 +126,9 @@
     "summary": "・障がい福祉交流会 CARE LOUNGE Vol.5　11月13日開催。\n・株式会社武田林業えひめ森林公園（伊予市）で11月27日（金）まで・参加無料。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-31",
