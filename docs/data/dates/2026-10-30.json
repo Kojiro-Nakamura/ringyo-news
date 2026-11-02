@@ -8,7 +8,7 @@
     "summary": "・株式会社シェルター（本社　山形県山形市/代表取締役社長　木村仁大）は、木材利用推進中央協議会が主催する「令和8年度 木材利用推進コンクール」において、「国産材利用推進部門」の最高賞である「農林水産大臣賞」を受賞し、10月23日（金）に表彰式が執り行われました。\n・「木材利用推進コンクール」は木材利用の一層の促進を目的とし、特色ある木造施設等を対象とする「優良施設部門」と、国産材利用に積極的に取り組む企業を対象とする「国産材利用推進部門」の2部門で構成されています。\n・本年度は、「優良施設部門」から受賞作品として特賞12点および優秀賞29点、「国産材利用推進部門」から受賞企業として特賞6点が決定されました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 48,
+    "importance_score": 63,
     "is_featured": true,
     "related_articles": [
       {
@@ -21,6 +21,12 @@
         "title": "令和8年度 木材利用推進コンクール 国産材利用推進部門「農林水産大臣賞」を受賞",
         "url": "https://www.sankei.com/pressrelease/prtimes/HPUH7FSHOFKJXOWYODQJPQMKDU/",
         "source": "産経ニュース",
+        "published_at": "2026-10-30 11:00"
+      },
+      {
+        "title": "令和8年度 木材利用推進コンクール 国産材利用推進部門「農林水産大臣賞」を受賞",
+        "url": "https://prtimes.jp/main/html/rd/p/000000024.000071339.html",
+        "source": "PR TIMES",
         "published_at": "2026-10-30 11:00"
       }
     ]
@@ -73,9 +79,9 @@
     "summary": "・AI値動き解説では、値動きの背景や情報を全14種類のカテゴリーに分けて表示しています。\n・※AI値動き解説の正確性や品質については保証されていません。\n・住友林業(株)【1911】のAI値動き解説をご覧いただけます。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-10-30",
@@ -119,7 +125,7 @@
     "summary": "・大分 日田市で火事 製材所などが燃える。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 78,
+    "importance_score": 93,
     "is_featured": true,
     "related_articles": [
       {
@@ -151,6 +157,12 @@
         "url": "https://www.qab.co.jp/quebee/video/000543945/",
         "source": "QAB 琉球朝日放送",
         "published_at": "2026-10-30 02:02"
+      },
+      {
+        "title": "建物が激しく燃え…製材工場で火事 周辺住民に一時避難呼びかけ 大分・日田市",
+        "url": "https://www.khb-tv.co.jp/news/17009398",
+        "source": "khb東日本放送",
+        "published_at": "2026-10-30 02:13"
       }
     ]
   },

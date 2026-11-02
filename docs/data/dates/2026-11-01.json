@@ -8,8 +8,21 @@
     "summary": "・豊田市の矢作緑地千石公園で開催された「あいち伐木競技会2026」に参加🌲林業の現場を支える皆さ...",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "ホームセンターと林産会社「J-クレジット売買契約」売却益を森林整備に活用（島根・益田市）",
+    "url": "https://topics.smt.docomo.ne.jp/article/tsk_tv/region/tsk_tv-2026110100000002",
+    "source": "ｄメニューニュース",
+    "published_at": "2026-11-01 11:30",
+    "summary": "・益田市に本社を置くホームセンターチェーン「ジュンテンドー」が「Ｊークレジット」、温室効果ガスの排出削減量を購入する契約を益田市の林産会社と結びました。\n・契約の調印式が益田市のジュンテンドー本社で行われ、尾原常務と益田市で山林の売買や木材加工などを手がける林産会社・安野産業の安野社長が契約書に署名しました。\n・「Ｊークレジット」は、カーボンニュートラル、温室効果ガスの排出実質ゼロを目指して2013年にスタートした国の認証制度で、安野産業は2023年に認証を取得、事業を通じて得られた二酸化炭素など温室効果ガスの吸収量を数値化して販売し、売却益を森林の整備などに活用します。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -21,7 +34,7 @@
     "summary": "・林業従事者の技術向上などを目的にチェーンソーを使った丸太の早切り大会が1日、住田町で行われています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 30,
+    "importance_score": 45,
     "is_featured": true,
     "related_articles": [
       {
@@ -33,6 +46,12 @@
       {
         "title": "会場に響く甲高いエンジン音 チェーンソー丸太早切り大会に全国から林業従事者40人あまり参加 岩手・住田町",
         "url": "https://newsdig.tbs.co.jp/articles/-/3053695",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-01 10:50"
+      },
+      {
+        "title": "会場に響く甲高いエンジン音 チェーンソー丸太早切り大会に全国から林業従事者40人あまり参加 岩手・住田町",
+        "url": "https://newsdig.tbs.co.jp/articles/ibc/3053695?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-01 10:50"
       }
@@ -107,6 +126,19 @@
         "published_at": "2026-11-01 05:00"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-01",
+    "title": "ほんのり香る「未」 11月4日から天竜森林組合が販売、「FSC認証」天竜ヒノキ製",
+    "url": "https://www.chunichi.co.jp/article/1333766",
+    "source": "中日新聞Web",
+    "published_at": "2026-11-01 05:05",
+    "summary": "・天竜森林組合（浜松市天竜区船明）は4日から、来年の干支「未（ひつじ）」にちなみヒツジをかたどった置物の販売を始める。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-01",
