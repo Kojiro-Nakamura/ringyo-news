@@ -8,9 +8,9 @@
     "summary": "・厳しい経済環境下において、ソンヒエウ林業農業有限公司は、柔軟な解決策を積極的に実施してきました。\n・今年7月、チャウビン村において、ソンヒエウ林業農業有限会社は、チャウビン村人民委員会と連携し、プロジェクトの移住地域への生産用地の引き渡し式典を開催した。\n・ソンヒエウ林業農業有限公司は、経営手法の革新、土地資源利用の最大化、労働生産性の向上、そして柔軟な顧客市場の拡大といった様々な解決策を通じて、積極的に対応してきました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -21,6 +21,8 @@
     "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・秋田県林業研究研修センター（秋田市）は４日、２０２７年のブナの豊凶について、全県的に「凶作」との見通しを発表した。\n・実際に凶作となれば、２５年以来２年ぶり。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "来年のブナ「凶作」予報 秋田県林業研究研修センター発表、クマの出没増懸念",
@@ -28,9 +30,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-04 19:35"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-04",
@@ -67,9 +67,9 @@
     "summary": "・レンタルのニッケンは 第49回全国育樹祭2026わかやま森林・林業・環境機械展示実演会に出展します。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -119,9 +119,16 @@
     "summary": "・殴る蹴る、タバコの火を押し付けるなどの暴行　10代少年に全治約3週間のけがを負わせた疑い　高校生を含む10代の男女3人を逮捕　長野。\n・長野県内の林業の担い手は1547人で6年連続で増加したことが分かりました。\n・県では、担い手確保の取り組みが増加につながっていると分析しています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "林業の担い手は1547人 6年連続で増加 「担い手確保の取り組みが増加につながっている」と県は分析 長野",
+        "url": "https://newsdig.tbs.co.jp/articles/sbc/3059570?display=1",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-04 11:54"
+      }
+    ]
   },
   {
     "article_date": "2026-11-04",
@@ -132,9 +139,9 @@
     "summary": "・全国初適用、国の新仕様規定に基づく「CLTパネル工法」建築プロジェクトが本格始動 投稿日時： 2026/11/04 10:00[適時開示]。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -146,7 +153,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

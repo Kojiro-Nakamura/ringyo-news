@@ -8,9 +8,16 @@
     "summary": "・３日秋田県大館市にある国の有形文化財で市内外から集まった絵画などの作品が並ぶ展覧会が開かれました。\n・大館市役所のそばにある桜櫓館（おうろかん）は、昭和初期に建てられた木造建築の建物で国の有形文化財に登録されています。\n・文化の日の３日は大館市にゆかりのある２０代から８０代までの作家などが作った絵画や写真などの作品２８点が集まり展覧会が開かれました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "国の有形文化財となっている木造建築の建物「桜櫓館」で絵画などの展覧会 秋田・大館市",
+        "url": "https://www.aab-tv.co.jp/news/aabnews-26110316250027/",
+        "source": "AAB秋田朝日放送",
+        "published_at": "2026-11-03 19:19"
+      }
+    ]
   },
   {
     "article_date": "2026-11-03",
@@ -230,7 +237,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -284,5 +291,18 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-03",
+    "title": "秋田・羽後町 バイオマス燃料保管場所から出火　けが人はなし　約8時間経過も鎮火せず　2日",
+    "url": "https://news.yahoo.co.jp/articles/45c0ad33dd1e13744831eb07f954dc8b9196035e",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-03 00:30",
+    "summary": "・2日朝、羽後町新町の産業廃棄物処理業者のバイオマス燃料の保管場所から出火しました。\n・湯沢警察署の調べによりますと2日午前6時ごろ、羽後町新町の産業廃棄物処理業者が管理するバイオマス燃料の保管場所から白煙が出ているのを、会社の従業員が発見し、連絡を受けたほかの従業員が消防に通報しました。\n・現場では、出火から約8時間が過ぎた午後2時現在も消火活動が続いています。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   }
 ]
