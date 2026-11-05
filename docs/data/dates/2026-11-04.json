@@ -1,6 +1,39 @@
 [
   {
     "article_date": "2026-11-04",
+    "title": "ソンヒエウ林業農業会社：生産および事業運営の効率を積極的に適応・改善する。",
+    "url": "https://www.vietnam.vn/ja/cong-ty-lam-nong-nghiep-song-hieu-chu-dong-thich-ung-nang-cao-hieu-qua-hoat-dong-san-xuat-kinh-doanh",
+    "source": "Vietnam.vn",
+    "published_at": "2026-11-04 20:17",
+    "summary": "・厳しい経済環境下において、ソンヒエウ林業農業有限公司は、柔軟な解決策を積極的に実施してきました。\n・今年7月、チャウビン村において、ソンヒエウ林業農業有限会社は、チャウビン村人民委員会と連携し、プロジェクトの移住地域への生産用地の引き渡し式典を開催した。\n・ソンヒエウ林業農業有限公司は、経営手法の革新、土地資源利用の最大化、労働生産性の向上、そして柔軟な顧客市場の拡大といった様々な解決策を通じて、積極的に対応してきました。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-04",
+    "title": "来年のブナ「凶作」予報 秋田県林業研究研修センター発表、クマの出没増懸念",
+    "url": "https://www.sakigake.jp/news/article/20261104AK0028/",
+    "source": "秋田魁新報電子版",
+    "published_at": "2026-11-04 19:35",
+    "summary": "・秋田に関わるあなたの仕事や暮らしに役立つ情報満載です。\n・秋田県林業研究研修センター（秋田市）は４日、２０２７年のブナの豊凶について、全県的に「凶作」との見通しを発表した。\n・実際に凶作となれば、２５年以来２年ぶり。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [
+      {
+        "title": "来年のブナ「凶作」予報 秋田県林業研究研修センター発表、クマの出没増懸念",
+        "url": "https://www.47news.jp/15183799.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-04 19:35"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-04",
     "title": "「山しごと体感フェスティバル」を開催します|11月",
     "url": "https://www.metro.tokyo.lg.jp/information/press/2026/11/2026110407",
     "source": "都庁総合ホームページ",
@@ -8,9 +41,9 @@
     "summary": "・東京都は、森林・林業の役割や重要性への理解促進と、森林を守り育てる林業技術者の認知度向上を目的として、「山しごと体感フェスティバル」を開催します。\n・東京の森林・林業や森のめぐみを五感で体感できる貴重な機会です。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -21,8 +54,21 @@
     "summary": "・林業の現場で働く人々の相棒ともいえる道具の一つ“チェンソー”。\n・今回も各メーカーに、最新のおすすめ「林業向け」機種を聞いた。\n・【エンジン式】ハスクバーナ エンジン式チェンソー 564 XP®。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 12,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-04",
+    "title": "レンタルのニッケンは 第49回全国育樹祭2026わかやま森林・林業・環境機械展示実演会に出展します",
+    "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-04-77197-175/",
+    "source": "Excite エキサイト",
+    "published_at": "2026-11-04 15:15",
+    "summary": "・レンタルのニッケンは 第49回全国育樹祭2026わかやま森林・林業・環境機械展示実演会に出展します。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 0,
     "is_featured": false
   },
   {
@@ -34,9 +80,9 @@
     "summary": "・首相の決定第2018/QD-TTg号の実施に関する公式書簡第9376/UBND-KTN号（2050年までの展望を視野に入れ、2021年から2030年までの林業計画の調整を承認）に従い、莱洲省人民委員会は、各部局、機関、地方自治体に対し、森林の管理、保護、持続可能な開発のための解決策を同期させ、2030年までに土地の割り当てと森林の割り当て、および森林土地使用権証明書の発行と連携して森林の割り当てを完了するよう要請する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -47,9 +93,9 @@
     "summary": "・久万広域森林組合、父野川事業所の原木仕入れ11月末停止へ 2027年３月末閉所。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -60,9 +106,9 @@
     "summary": "・株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「リチウム電池輸送用ボックスの世界市場（2026年～2032年）、英文タイトル：Global Lithium Battery Transport Box Market 2026-2032」調査資料を発表しました。\n・本資料には、リチウム電池輸送用ボックスの世界市場規模、市場動向、セグメント別予測（ファイバーボード、合板、その他）、関連企業の情報などが盛り込まれています。\n・第4章には、リチウム電池輸送用ボックスの世界市場の地理的地域別および国/地域別（アメリカ、APAC、ヨーロッパ、中東およびアフリカ）の過去のレビューが網羅されています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -73,6 +119,19 @@
     "summary": "・殴る蹴る、タバコの火を押し付けるなどの暴行　10代少年に全治約3週間のけがを負わせた疑い　高校生を含む10代の男女3人を逮捕　長野。\n・長野県内の林業の担い手は1547人で6年連続で増加したことが分かりました。\n・県では、担い手確保の取り組みが増加につながっていると分析しています。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-04",
+    "title": "全国初適用、国の新仕様規定に基づく「CLTパネル工法」建築プロジェクトが本格始動 投稿日時： 2026/11/04 10:00[適時開示]",
+    "url": "https://minkabu.jp/news/4649410",
+    "source": "みんかぶ",
+    "published_at": "2026-11-04 10:00",
+    "summary": "・全国初適用、国の新仕様規定に基づく「CLTパネル工法」建築プロジェクトが本格始動 投稿日時： 2026/11/04 10:00[適時開示]。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
     "related_articles": [],
     "importance_score": 6,
     "is_featured": false
@@ -99,9 +158,9 @@
     "summary": "・全国木材協同組合連合会の創立65周年を記念した「第60回全国木材産業振興大会東京大会」が10月29日に東京都台東区の浅草ビューホテルで開催され、全国から約550名が参加した。\n・全国木材組合連合会と全木協連が主催し、東京都木材団体連合会が協力して実施した。\n・来年（2027年）の第61回大会は、10月28日（木）に長野市芸術館で開催する予定。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -112,9 +171,9 @@
     "summary": "・埼玉県秩父市の中津川県有林にある「県森林科学館」が来年度（2027年度）末で廃止されることになった。\n・同館については、開設してから30年以上が経過して老朽化が進んでおり、年間利用者もコロナ前の7.8万人から昨年度（2025年度）は2.4万人に減少していることから現状のまま維持することは難しいと判断された。\n・埼玉県の秩父地域森林林業活性化協議会（秩父市熊木町、事務局＝秩父市農林部森づくり課）は、地場産の間伐材を使った「名刺台紙」（秩父の森ペーパー）を１月23日に発売した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-04",
@@ -289,7 +348,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
