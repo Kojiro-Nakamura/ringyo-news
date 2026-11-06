@@ -67,9 +67,16 @@
     "summary": "・南会津の製材所発、 国産広葉樹の木粉からうまれたお香「薬木香（やくぼくこう）」11月3日より予約販売開始。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "南会津の製材所発、 国産広葉樹の木粉からうまれたお香「薬木香（やくぼくこう）」11月3日より予約販売開始",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000193961.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-03 11:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-03",
@@ -99,16 +106,23 @@
   },
   {
     "article_date": "2026-11-03",
-    "title": "花粉症対策切り札に 全く花粉出さない「無花粉スギ」人工交配で新品種を開発 林業振興へ",
-    "url": "https://www.sankei.com/article/20261103-OQ26DLFOXVOCZD2BTXFGGO56CA/?outputType=asynd",
-    "source": "産経ニュース",
-    "published_at": "2026-11-03 08:00",
+    "title": "花粉症対策切り札に 全く花粉出さない「無花粉スギ」人工交配で新品種を開発 林業振興へ（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/3a489969622d8a398955d4bde41d3b1b154bf4bb",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-03 08:17",
     "summary": "・和歌山県林業試験場（同県上富田町）と、国立研究開発法人森林研究・整備機構森林総合研究所林木育種センター関西育種場などは、無花粉スギの品種を開発したと発表した。\n・県産の優れたスギと富山県で発見された無花粉スギの人工交配を続け、花粉症の原因となるスギ花粉を全くつくらない特性を生み出したという。\n・平成4年に富山県で全国で初めて無花粉スギが発見され、県林業試験場と、同林木育種センター関西育種場が12年から、真っすぐで強度の高い和歌山県産スギの優良品種と、富山県の無花粉スギの人工交配を続けていた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 18,
-    "is_featured": true,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "花粉症対策切り札に 全く花粉出さない「無花粉スギ」人工交配で新品種を開発 林業振興へ",
+        "url": "https://www.sankei.com/article/20261103-OQ26DLFOXVOCZD2BTXFGGO56CA/?outputType=asynd",
+        "source": "産経ニュース",
+        "published_at": "2026-11-03 08:00"
+      }
+    ],
+    "importance_score": 33,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-03",
