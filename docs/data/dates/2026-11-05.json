@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-11-05",
+    "title": "決算:住友林業の経常益下振れ 26年12月期47%減、高金利で米住宅低迷",
+    "url": "https://www.nikkei.com/article/DGXZQOUB044I30U6A101C2000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-11-05 20:56",
+    "summary": "・同日発表した26年1〜9月期の連結決算は純利益が前年同期比44%減の396億円だった。\n・5月に米住宅大手トライ・ポイント・ホームズを買収した効果で増収となったが、米国住宅の需要減やのれん償却費などが利益を押し下げた。\n・住友林業は5日、2026年12月期の連結経常利益が前期比47%減の925億円になりそうだと発表した。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-05",
+    "title": "マプリィ、林業／測量／インフラ点検など5分野を統合したiOSアプリ「mapry Pro」提供開始：i-Construction 2.0",
+    "url": "https://built.itmedia.co.jp/bt/articles/2611/05/news091.html",
+    "source": "ITmedia",
+    "published_at": "2026-11-05 20:00",
+    "summary": "・マプリィは、林業／測量／橋梁／擁壁／建築の5分野に対応するiOS向け測量／点検アプリ「mapry Pro」の提供を開始した。\n・従来の分野別アプリを統合し、業務用途に応じて必要な機能を選択できるようにした。\n・第8回 国際 建設・測量展（CSPI2026）。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-05",
     "title": "林業の担い手は1547人 6年連続で増加 「担い手確保の取り組みが増加につながっている」と県は分析 長野（ＳＢＣ信越放送）",
     "url": "https://news.yahoo.co.jp/articles/edef37f1e2035e5e5ba60ad89948af52734ae40a",
     "source": "Yahoo!ニュース",
@@ -8,9 +34,9 @@
     "summary": "・長野県内の林業の担い手は1547人で6年連続で増加したことが分かりました。\n・県では、担い手確保の取り組みが増加につながっていると分析しています。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -21,9 +47,9 @@
     "summary": "・令和8年10月30日に入開札を行いました、指名競争入札「令和9年度市民税・県民税・森林環境税特別徴収のしおりに係る印刷製本業務」の結果を公表 開札録のとおり公表いたします。\n・公表開札録 (PDFファイル: 95.0KB)。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -34,9 +60,9 @@
     "summary": "・民間の信用調査会社「帝国データバンク」によりますと、木造建築工事やプレハブ建築を行う事業者が自己破産申請の準備に入ったことが分かりました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -47,9 +73,9 @@
     "summary": "・オランダ・ブフトに位置する〈モーグリ・チャイルドケア・センター〉は、オランダの建築事務所 Natrufied architectureが設計した保育施設です。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -60,9 +86,9 @@
     "summary": "・（現場へ！）森とともに：３ 山を育てる林業、絵に残す。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -73,6 +99,8 @@
     "summary": "・林業・木材製造業労働災害防止協会北海道支部北見分会は、樹木の保護を前提に木に登って木の伐採や剪定（せんてい）をする「アーボリスト（樹護士）」の養成に力を入れている。\n・危険な樹上作業での事故をなくし、重機が入れない場所でも作業できる〝林業のスペシャリスト〟を育てる狙いだ。\n・北見職安管内　9月の有効求人倍率1.24倍　前年同月上回るのは3カ月連続。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "重機が入れぬ現場でも 「アーボリスト」養成に力 林業・木材製造業労働災害防止協会北見分会",
@@ -80,9 +108,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-05 15:39"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-05",
@@ -93,9 +119,9 @@
     "summary": "・住友林業 <1911> [東証Ｐ] が11月5日大引け後(15:30)に決算を発表。\n・併せて、通期の同利益を従来予想の1150億円→925億円(前期は1749億円)に19.6％下方修正し、減益率が34.2％減→47.1％減に拡大する見通しとなった。\n・会社側が発表した下方修正後の通期計画に基づいて、当社が試算した7-12月期(下期)の連結経常利益も従来予想の652億円→427億円(前年同期は866億円)に34.5％減額し、減益率が24.7％減→50.7％減に拡大する計算になる。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -106,8 +132,21 @@
     "summary": "・2026年11月5日 住友林業[1911]の開示資料「2026年12月期第３四半期決算短信〔日本基準〕(連結)」 が閲覧できます。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-05",
+    "title": "住民税非課税世帯なら、森林環境税の年1000円も課されませんか？→判定は本人ごとで基準額は級地で異なる",
+    "url": "https://limo.media/articles/-/144935",
+    "source": "LIMO | くらしとお金の経済メディア",
+    "published_at": "2026-11-05 13:06",
+    "summary": "・森林環境税は、令和6年度から国内に住所のある個人に課される国税で、年額は1000円。\n・住所のある市町村が、個人住民税の均等割と併せて徴収する。\n・森林環境税の仕組みと、生活扶助を受けている人などが課されない基準を、法律と市区町村の案内で整理しました。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -119,6 +158,8 @@
     "summary": "・丸太などの木材を電動のこぎりで彫刻するチェーンソーアートを、大分県警日田署大山駐在所の佐藤将友警部補（61）が手がけている。\n・作品として命を吹き込み、豪雨時に流されて家屋に被害が出ないように利活用している。\n・（山根崇）【動画】イベントで披露した30分の“早業”　9月下旬に福岡都市圏の市民を日田市大山町の公園に招いたイベントでは、30分の“早業”を披露した。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【動画】林業の廃材が豪雨で凶器に…丸太をアートに変える大分・日田の警察官",
@@ -126,9 +167,7 @@
         "source": "西日本新聞me",
         "published_at": "2026-11-05 06:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-05",
@@ -139,9 +178,9 @@
     "summary": "・ダナン市人民委員会は、ダナン市内の農業・林業会社による土地の管理・利用を指導・組織するための運営委員会の設置に関する決定第5038/QD-UBND号を発布した。\n・運営委員会は、土地法第181条および2024年7月30日付政令第102/2024/ ND-CP号第67条に従って、農業および林業会社の境界、面積、起源、および現在の土地利用状況の見直しを指示することについて、市人民委員会に助言する任務を負っている。\n・運営委員会は、意図された目的以外で使用されている土地、未使用の土地、割り当てまたはリースされている土地、賃貸されている土地、借り入れている土地、合弁事業またはパートナーシップで使用されている土地、侵害されている土地、または紛争の対象となっている土地を明確に分類すること、地方自治体に引き渡される部分を決定すること、農業および林業会社に文書の提供を指示すること、必要に応じて測量および境界画定を調整すること、規制に従って土地利用計画を作成すること、関係機関および地方自治体に対し、管轄区域内の困難を解決するためのフィードバックおよび勧告を提供するよう促すことを任務としています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -152,9 +191,9 @@
     "summary": "・公益社団法人　福島県森林・林業・緑化協会　 林業労働力確保支援センター。\n・この講習では、チェーンソーによる伐倒や高性能林業機械を使った林業の現場見学、実際に林業の現場で働く人との意見交換や、林業就業支援アドバイザーによる林業就業相談を行う。\n・林業への就職を考えている人はもちろん、「ちょっと興味がある」「まずは見てみたい」人も大歓迎！　森林（もり）で働く仕事を、少し身近に感じてみては？定員10名、事前申込制。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -178,9 +217,9 @@
     "summary": "・次世代型林業のモデルとなる「森林産業クラスター」の構築事業が秋田県でスタートする。\n・同県が国（内閣官房）に申請していた「地域未来戦略」が10月30日付けで採択され、エネルギー領域、資源・リサイクル領域とともに、森林産業領域が認定された。\n・同県が策定した森林産業領域のクラスター計画は、「あきたSky-Forestry戦略」とネーミングしており、ドローンやフィジカルAI、ロボティクスなどの最新デジタル技術を活用して、世界の森林産業関係者が集結する拠点づくりを目指す。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
@@ -191,9 +230,9 @@
     "summary": "・今年度（2026年度）の全国治山林道協会長会議（会長＝山口俊一・衆議院議員）が10月22日に福井県福井市のホテルで開かれ、全国から約100人の関係者が参加した。\n・地元を代表して、福井県治山林道協会の会長をつとめる滝波宏文・参議院議員は、「今こそ、治山・林道事業による緑の国土強靭化をしっかりと進める必要がある」と訴えた。\n・全国治山林道協会長会議（山口俊一会長）などは、11月20日に東京都内で「2024 治山・林道のつどい」を開催した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-05",
