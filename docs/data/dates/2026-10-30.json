@@ -98,6 +98,8 @@
     "summary": "・大分県日田市の製材工場で29日夜火事があり隣接する空き家も燃えました。\n・火事があったのは杉山太一郎さんが所有する日田市庄手の製材工場です。\n・火はおよそ2時間後に消し止められましたが製材工場と隣接する空き家が焼けました。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 129,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "建物が激しく燃え…製材工場で火事 周辺住民に一時避難呼びかけ 大分・日田市（テレビ朝日系（ANN））",
@@ -147,9 +149,7 @@
         "source": "KAB 熊本朝日放送",
         "published_at": "2026-10-30 00:03"
       }
-    ],
-    "importance_score": 129,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-30",
