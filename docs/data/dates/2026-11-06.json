@@ -53,6 +53,26 @@
   },
   {
     "article_date": "2026-11-06",
+    "title": "住友林業(株)【1911】：株価・株式情報（夜間PTS含む）",
+    "url": "https://finance.yahoo.co.jp/quote/1911.T",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-11-06 17:00",
+    "summary": "・あわせて今期経常予想を20%下方修正しており、発表直後から業績見通しの見直しが株価変動と重なった。\n・住友林業(株)【1911】の株価、チャート、最新の関連ニュース、掲示板、みんなの評価などをご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [
+      {
+        "title": "住友林業(株)【1911】：掲示板",
+        "url": "https://finance.yahoo.co.jp/quote/1911.T/forum",
+        "source": "Yahoo!ファイナンス",
+        "published_at": "2026-11-06 17:00"
+      }
+    ],
+    "importance_score": 24,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-06",
     "title": "住友林業が急反落、米住宅不振で26年12月期営業益を180億円下方修正",
     "url": "https://finance.biggo.jp/news/36d44281-96a4-4b22-ba77-e7823e7b572d",
     "source": "BigGo ファイナンス",
@@ -76,6 +96,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-06",
+    "title": "住友林業、最終減益",
+    "url": "https://www.nikkei.com/article/DGXZQOUB058AG0V01C26A1000000/",
+    "source": "日本経済新聞",
+    "published_at": "2026-11-06 14:32",
+    "summary": "・【最終減益】26年12月期は米住宅大手トライ・ポイント・ホームズ（TPH）の買収効果で増収。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-06",
@@ -374,7 +407,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

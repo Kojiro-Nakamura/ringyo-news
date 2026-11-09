@@ -8,9 +8,9 @@
     "summary": "・林業盛んな塙町で地元産のスギを使った丸太切り大会 福島。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
@@ -21,9 +21,16 @@
     "summary": "・林業で生計を立てるかたわら、山口県宇部市北部に位置する荒滝山（標高４５９メートル）の登山道や林道などをコースにしたトレイルラン大会「荒滝ＳＡＭＵＲＡＩトレイル」を企画し、来年２月２７日に開催する。\n・大学卒業後は、母親の実家がある宇部市で社会人生活を始めたが「海外に行ける仕事がしてみたい」と考え、１年後に海上自衛隊に入隊。\n・３４歳の時に海上自衛隊を辞め、同県東広島市の林業の会社に転職。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「きれいな海を守るためには山をきれいに」海上自衛隊から林業へ転職…トレイルラン大会で田舎の魅力アピール",
+        "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261108-GYS1T00088/",
+        "source": "読売新聞",
+        "published_at": "2026-11-08 14:32"
+      }
+    ]
   },
   {
     "article_date": "2026-11-08",
@@ -34,9 +41,9 @@
     "summary": "・小さな製材所を足がかりに、鉄道で結ばれた巨大な工業帝国を築き上げる。\n・そんな工場自動化ゲーム『Timberworks』が、10月29日にSteamでリリースされました。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-08",
