@@ -40,6 +40,19 @@
   },
   {
     "article_date": "2026-11-06",
+    "title": "里山の生物多様性を壊すもの",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-a0893d.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-11-06 17:02",
+    "summary": "・人間が姿を消したとき、生物多様性は驚くべき方向に進む数十年にわたり、多くの人々が保全のリスクを懸念してきた。\n・東京都市大学の内田圭氏らが、全国158カ所の里地里山で鳥やチョウ、ホタル、カエル、植物のデータを解析したところ、中山間地の人口が減少すると、里山の生物多様性を劣化させる…という結果が出たのだ。\n・思えば環境省が生物多様性条約締結国会議で提唱した「ＳＡＴＯＹＡＭＡイニシアティブ」って、こういう理論を元に、里山を保全して（人が利用して）生物多様性を守ろうと言い出したのだから、以前から感覚的に理解していたのだろう。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-06",
     "title": "長崎の歴史に触れながらグルメを満喫「スチイルギャラリーカフェ」木造建築の旧校舎がカフェに《長崎》",
     "url": "https://news.ntv.co.jp/n/nib/category/society/ni7db7e61ceec841d79ff0098b0ad9378c",
     "source": "日テレNEWS NNN",
@@ -60,6 +73,8 @@
     "summary": "・あわせて今期経常予想を20%下方修正しており、発表直後から業績見通しの見直しが株価変動と重なった。\n・住友林業(株)【1911】の株価、チャート、最新の関連ニュース、掲示板、みんなの評価などをご覧いただけます。\n・Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "住友林業(株)【1911】：掲示板",
@@ -67,9 +82,7 @@
         "source": "Yahoo!ファイナンス",
         "published_at": "2026-11-06 17:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-06",
@@ -106,9 +119,9 @@
     "summary": "・【最終減益】26年12月期は米住宅大手トライ・ポイント・ホームズ（TPH）の買収効果で増収。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-06",
