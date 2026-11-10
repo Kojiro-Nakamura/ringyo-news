@@ -21,6 +21,8 @@
     "summary": "・民間の信用調査会社「帝国データバンク」によりますと、木造建築工事を行う業者が裁判所から破産手続き開始決定を受けたことが分かりました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 111,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【倒産】木造建築会社が破産手続き開始決定 負債1億700万円【帝国データバンク】",
@@ -64,9 +66,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-01 06:00"
       }
-    ],
-    "importance_score": 111,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-01",
