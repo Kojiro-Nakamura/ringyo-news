@@ -8,9 +8,9 @@
     "summary": "・突然…林業の世界へ そのとき見えた現実。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-09",
@@ -21,9 +21,9 @@
     "summary": "・林政ニュースを見ていたら、国産材の価格が暴落していた。\n・それによると、山元立木価格は、スギが3993円（対前年比0.8％減）、ヒノキが8553円（同9.9％減）、マツが2,447円（同0.2％減）。\n・このところ国産材価格が下落しているのは感じていたのだが、こうして示されるとね。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-09",
