@@ -8,6 +8,8 @@
     "summary": "・原木の仕入れや販売などを手がける住友林業フォレストサービス（東京都）は富岡町の富岡産業団地に、原木の集積・卸売を担う「原木中間土場（どば）」を新設する。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "富岡に原木中間土場新設 住友林業フォレストサービス 林業再生を後押し",
@@ -15,9 +17,7 @@
         "source": "福島民報デジタル",
         "published_at": "2026-11-10 20:00"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-10",
@@ -28,6 +28,8 @@
     "summary": "・木材産業や県産木材への関心を高めてもらおうと、都城地区木材青壮年会（宮内康行会長、３１人）は、都城市の都城林産物流通センターで市場体験を行った。\n・三股町の櫻美学園高普通科夢サポートコース２年の生徒１８人が参加し、実際の入札で売り子を体験するなどして、原木市場や製材所の仕事、役割について理解を深めた。\n・スギ原木の入札で、売り子を体験する櫻美学園高の生徒。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 27,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "木材産業関心高めて 櫻美学園高生が市場体験",
@@ -35,9 +37,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-10 18:36"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-10",
@@ -48,9 +48,9 @@
     "summary": "・ユズと林業の物語 全国に発信へ 高知県中芸地域で来秋「日本遺産フェス」 旧魚梁瀬森林鉄道の遺構体験も",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
@@ -61,9 +61,9 @@
     "summary": "・新しい建築モデル「SHELL（シェル）」は壁や床、屋根など全体の約9割を工場で生産してから現地で組み立てる。\n・今後年間300棟の生産体制を目指す。\n・現地での建設にかかる時間を約2週間に短縮する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
@@ -74,9 +74,9 @@
     "summary": "・地元の高校生に林業を身近に感じてもらう林業体験学習が１０日、伊方町三崎の三崎高校などであった。\n・２年生３７人が参加し、製材工場の見学や林業用機械の操作などを通じて森林に携わる仕事への理解を深めた。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
@@ -87,9 +87,9 @@
     "summary": "・住友林業（1911）10月度受注速報を更新しました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
@@ -100,8 +100,21 @@
     "summary": "・Mordor Intelligenceによると、2026年の林業機械市場規模は125億4,000万米ドルと推定されており、2025年の120億米ドルから拡大し、2031年には156億6,000万米ドルに達すると予測されています。\n・アジア太平洋地域はCAGR7.05％と最も高い成長率を示しており、中国の商業用伐採の機械化率は60％を超えています。\n・コマツは、木材需要、労働力不足、および安全要件の強化を背景に、市場の拡大が続くと予測しています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-10",
+    "title": "「森林の仕事パーク」大阪・なんば広場にて11月28日(土)・29日(日)に開催決定！",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000169950.html",
+    "source": "PR TIMES",
+    "published_at": "2026-11-10 14:00",
+    "summary": "・全国森林組合連合会（代表理事会長：中崎和久、東京都千代田区、以下「全森連」）は、大阪・なんば広場にて11月28日(土)・29日(日)の２日間、「木のある暮らし」をテーマに、「森林（もり）の仕事パーク」を開催します。\n・開催日時：　11月28日(土)・29日(日)　各日11:00～17:00。\n・全国森林組合連合会のプレスリリース（2026年11月10日 14時00分）「森林の仕事パーク」大阪・なんば広場にて11月28日(土)・29日(日)に開催決定！",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 9,
     "is_featured": false
   },
   {
@@ -113,9 +126,9 @@
     "summary": "・「GXをやりたくなる世界」を目指し、環境価値を活用した経済循環を推進する株式会社バイウィル（本社：東京都中央区、代表取締役社長：下村 雄一郎、以下「バイウィル」）は、南ひだ森林組合（所在地：岐阜県下呂市、代表理事組合長：細江 広仲）と連携して進めてきた森林クレジット創出プロジェクトにおいて、第70回J-クレジット制度認証委員会にて、正式に登録完了したことをお知らせします。\n・今回のプロジェクト登録により、南ひだ森林組合が管理する森林は、J-クレジット創出に向けた対象森林として正式に登録されました。\n・【プロジェクトの概要】  今回、J-クレジット創出の対象として登録されたのは、南ひだ森林組合が管理する森林において、適切な森林管理によるCO2吸収量の増加を活用するプロジェクトです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
@@ -159,9 +172,9 @@
     "summary": "・国立研究開発法人森林研究・整備機構森林総合研究所と国立研究開発法人農業・食品産業技術総合研究機構畜産研究部門は、一般公開シンポジウム「茨城県に迫る！特定外来生物キョン —定着を阻止するために何が必要か？—」を12月5日（土曜日）に、つくば国際会議場（茨城県つくば市）にて開催します。\n・千葉県に生息する特定外来生物キョンの分布が拡大し、一部の個体が利根川を越えて茨城県内に侵入してきています。\n・森林総合研究所らの研究グループは、12月5日土曜日に「茨城県に迫る！特定外来生物キョン－定着を阻止するために何が必要か？―」と題した一般公開シンポジウムを、つくば国際会議場にて開催します。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-10",
