@@ -1,6 +1,32 @@
 [
   {
     "article_date": "2026-11-11",
+    "title": "各地域の強みを活かし、農業と林業に新たな価値を創造する。",
+    "url": "https://www.vietnam.vn/ja/phat-huy-loi-the-tung-vung-tao-gia-tri-moi-cho-nong-lam-nghiep",
+    "source": "Vietnam.vn",
+    "published_at": "2026-11-11 21:35",
+    "summary": "・VHO - Quang Ngaiは、農業および林業開発に関する考え方を革新し、技術の応用と生産連携を促進することで、農産物の価値を高め、人々の所得を向上させています。\n・近年、少数民族地域および山岳地帯における持続可能な貧困削減と社会経済開発に関する国家目標プログラムを通じて、多くの世帯が苗木の形で支援を受け、植栽面積の拡大と生産の発展のための条件が整ってきた。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-11",
+    "title": "工場で90％生産、現地施工は2週間！SANUが新木造建築「SHELL」を発表",
+    "url": "https://www.chiba-tv.com/plus/detail/2026112214293",
+    "source": "千葉テレビ放送株式会社",
+    "published_at": "2026-11-11 20:14",
+    "summary": "・木造建築なのに、製造工程の90％以上を工場で完結。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-11",
     "title": "【アナリスト評価】住友林業、レーティング強気を継続、目標株価1,490円に引下げ（日系大手証券）(アイフィス株予報)",
     "url": "https://finance.yahoo.co.jp/news/detail/08fbae9a15fb69ad147bad76a759bf0db0035bff",
     "source": "Yahoo!ファイナンス",
@@ -8,9 +34,9 @@
     "summary": "・日系大手証券が11月11日、住友林業<1911>のレーティングを強気（買い）に据え置いた。\n・一方、目標株価は1,750円から1,490円に引き下げた。\n・因みに前日（11月10日）時点のレーティングコンセンサスは4（アナリスト数7人）で「やや強気」の水準、目標株価コンセンサスは1,547円（アナリスト数7人）となっている。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -21,9 +47,9 @@
     "summary": "・ハーネスに付ける装備の使いやすさは、作業効率や安全性を高め、身体負担の軽減にもつながる。\n・ツリーワークを専門に行うアーバンフォレストリーの吉見さんに、おすすめの腰回り装備を教えてもらった。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -34,9 +60,9 @@
     "summary": "・企業情報【特別清算開始】平田の木造建築工事業。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -47,9 +73,9 @@
     "summary": "・愛媛県の内子町農林振興課は2026年10月、山や森を身近に感じるきっかけをつくるフリーペーパー「ヘイヘイ報」創刊号を発行しました。\n・内子町は町の面積の約77パーセントを森林が占めています。\n・愛媛県内子町と武田林業がタブロイド判フリーペーパー『ヘイヘイ報』を創刊。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -60,9 +86,9 @@
     "summary": "・長野県飯田市の木造建築工事の「マルス建築舎」が10月28日に長野地裁飯田支部から破産手続き開始決定を受けました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -73,9 +99,9 @@
     "summary": "・森林・林業・林産業活性化推進議員連盟の視察があり、札幌市立義務教育学校定山渓学園へ行ってまいり...",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -86,9 +112,9 @@
     "summary": "・県は１０日、県内企業が次世代型太陽電池の施工方法などを確認する実証事業に、入山屋根工事店（新潟市西区）と、坂詰製材所（阿賀野市）の２件の事業を採択したと発表した。\n・２社とも２０２６年度内に設備を設置し、２９年３月まで実証する。\n・２社とも軽量で薄く柔軟性のある「カルコパイライト太陽電池」を設置する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -99,9 +125,9 @@
     "summary": "・株式会社SANU（本社：東京都新宿区、Co-CEO：福島弦・本間貴裕）は、新建築モデル「SHELL（シェル）」の構造開発において、エンジニアリング・コンサルティング企業のオーヴ・アラップ・アンド・パートナーズ・ジャパン・リミテッド（以下、Arup社）と協業いたしました。\n・木造建築において応力が集中し弱点となりやすい柱と梁の接合部（パネルゾーン）そのものを、CLT（直交集成板）を用いてパネル化・剛接合する新しい構造工法を共同で開発しました（*1）。\n・この工法により、SANUの新建築モデル「SHELL」は積雪1mを想定した地域において、屋根全体で約30トンもの雪荷重を受け止めながら、室内に柱を落とさない約9mの大空間と、耐震等級3水準（最高ランク）の耐震性能の両立を目指します。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -145,9 +171,9 @@
     "summary": "・群馬県の沼田市（星野稔市長）は、森林由来J-クレジットなどを取引する独自のプラットフォーム「G-terrace（ジーテラス）」の運用を12月に始める。\n・11月２日には、同市の「森林文化都市プロジェクト」で認証した936t-CO2のクレジットを「G-terrace」の第１号案件として登録することを発表した。\n・第１号案件のベースとなっている「森林文化都市プロジェクト」は、2024年12月に同市と群馬県森林組合連合会、利根沼田森林組合及び国内最大規模のエネルギー開発企業である（株）INPEX（東京都港区、上田隆之社長）の４者が連携契約を結んでスタートし、約285haの市有林を整備して二酸化炭素（CO2）吸収能力を高めることにしている。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 21,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-11",
@@ -328,6 +354,8 @@
     "summary": "・全国森林組合連合会（全森連）は11月28日・29日の2日間、「木のある暮らし」をテーマに、「森林（もり）の仕事パーク」を大阪・なんば広場で開催。\n・さまざまなプログラムを通じて、森林を守り育てる林業の仕事の魅力と木と共に暮らすライフスタイルについて体感できる。\n・また、暮らしに身近な木製品と林業の役割を紹介するブースに加え、京都府・大阪府・奈良県・和歌山県・滋賀県・兵庫県、各地域ならではの木材や林業の取り組み、森林の魅力を紹介する。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "大阪「森林の仕事パーク」なんば広場にて11月28日(土)・29日(日)に開催決定！",
@@ -335,9 +363,7 @@
         "source": "PR TIMES",
         "published_at": "2026-11-11 00:30"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-11",
