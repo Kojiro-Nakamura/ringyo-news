@@ -86,9 +86,16 @@
     "summary": "・長野県飯田市の木造建築工事の「マルス建築舎」が10月28日に長野地裁飯田支部から破産手続き開始決定を受けました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "【倒産】年間売上高は1億4200万円を一時期計上　負債は約2400万円　木造建築会社が破産手続き開始決定　マンパワー不足で新築工事の受注困難に　長野・飯田市",
+        "url": "https://topics.smt.docomo.ne.jp/article/sbc21/region/sbc21-3077991",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-11 14:58"
+      }
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -198,7 +205,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "［大分県］日田杉茶道具 小学校に 日田市の林業団体寄贈「温かさ感じて」",
