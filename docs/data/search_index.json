@@ -1,6 +1,58 @@
 [
   {
     "article_date": "2026-11-14",
+    "title": "吉野の山に龍を探す",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-e33f72.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-11-14 17:10",
+    "summary": "・吉野の山に龍を探す。",
+    "summary_type": "auto",
+    "category": "森林管理・地域",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
+    "title": "森林の経済的価値を高める",
+    "url": "https://www.vietnam.vn/ja/nang-cao-gia-tri-kinh-te-tu-rung",
+    "source": "Vietnam.vn",
+    "published_at": "2026-11-14 15:34",
+    "summary": "・林業は徐々に重要な経済分野となりつつあり、人々の生計向上、所得増加、地域経済発展に貢献している。\n・フート省は、植林面積の拡大、森林管理・保護の改善に加え、近代的で付加価値の高い林業加工産業の発展に注力している。\n・同省の森林被覆率は43.37%に達し、森林資源の合理的利用と並行した森林管理、保護、開発への取り組みが実を結んでいます。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
+    "title": "省人民委員会による農業および林業に関する決議の実施状況を評価する。",
+    "url": "https://www.vietnam.vn/ja/danh-gia-viec-thuc-hien-cac-nghi-quyet-cua-hdnd-tinh-ve-linh-vuc-nong-lam-nghiep",
+    "source": "Vietnam.vn",
+    "published_at": "2026-11-14 13:42",
+    "summary": "・11月13日、 農業環境局（DARD）は、省人民委員会の農業・林業分野における仕組みと政策に関する決議の実施状況を検討・評価するための会議を開催した。\n・会議の報告によると、省人民委員会の決議が発布さ​​れた直後、農業環境局は関係部署や機関と積極的に連携し、実施のための指導文書体系を省人民委員会に発布するよう助言した。\n・成果はあったものの、省人民委員会の農業と環境に関する決議の実施には、依然としていくつかの困難と制約が存在する。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
+    "title": "「銘木市」ならぬ「迷木市」 大正製材所で初開催",
+    "url": "https://kachimai.jp/article/index.php?no=2026111400282",
+    "source": "十勝毎日新聞",
+    "published_at": "2026-11-14 12:02",
+    "summary": "・ねじれたり虫に食われたりした広葉樹の丸太を販売する「十勝迷木（めいぼく）市」が１４日、大坂林業（幕別町、松村幹了社長）が経営する大正製材所（帯広市大正町東１線）で初開催された。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
     "title": "浜松市天竜区・水窪川沿いにかつて敷設…「森林鉄道」の歴史を写真や資料で紹介 水窪民俗資料館で12月27日まで",
     "url": "https://news.at-s.com/article/2098031",
     "source": "静岡新聞DIGITAL",
@@ -8,9 +60,9 @@
     "summary": "・浜松市天竜区・水窪川沿いにかつて敷設…「森林鉄道」の歴史を写真や資料で紹介 水窪民俗資料館で12月27日まで",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -21,9 +73,9 @@
     "summary": "・和歌山県紀美野町に、まるで山小屋のような石窯ピザ店「きこりのピザ屋 SOMAUD」があります。\n・平日は林業、週末にはピザ職人という二刀流の生活を送っています。\n・こうして林業とピザ職人の二刀流で奮闘する上中さんには、地元で共に店を営む仲間がいます。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -34,9 +86,9 @@
     "summary": "・パナソニック プロダクションエンジニアリングは2026年11月9日、パナソニック ホールディングス（パナソニックHD）のマニュファクチャリングイノベーション（MI）本部で開発した、植物由来のセルロースファイバーを高濃度に樹脂と複合した成形材料「kinari」について、新たに「kinari55 HINOKI」「kinari55 SUGI」「kinari55-S」の3グレードを量産販売開始すると発表した。\n・植物由来の繊維であるセルロースファイバーは、環境負荷が少ない資源として注目されている。\n・この取り組みで開発された成形材料「kinari55（CeF55-PP）」については、量産販売を2023年1月に開始しており、さまざまな製品で採用されている。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -47,9 +99,9 @@
     "summary": "・インドネシアでは2026年1月以降、各地で森林火災が相次いでいます。\n・監視サイトの衛星画像の分析によると、これまでに約2万9000平方km、東京都の約13倍の面積の森林が焼失していることが分かりました。\n・長期化する森林火災は人々の生活にも大きな影響を与えています。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -60,9 +112,9 @@
     "summary": "・天龍村の中学校で１２日、生徒たちが地元の林業について学ぶため間伐作業を体験しました。\n・学校から歩いて5分ほどの山林に集まった天龍中学校の全校生徒15人。\n・天龍中学校では「森林レボリューション」と銘打ち、かつて村の基幹産業だった林業について学ぼうと、毎年、間伐や製材などの体験学習を行っています。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -73,9 +125,9 @@
     "summary": "・身近な森の現状や、石川県産材の活用などについて考えるシリーズ「美しき森へ」。\n・10月31日にオープンした「金沢もりづくりベース東浅川」。\n・7年前に閉校した旧東浅川小学校の校舎を改修し、人々が木々と触れあう「木育」の拠点として金沢市が整備しました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -86,9 +138,9 @@
     "summary": "・森林業のローカルフォレストリー（長野市）と大町北安曇地域の林業関係者が、北安曇郡白馬村産のミズナラ材を使ったウイスキーのたるを作った。\n・大北地域の標高の高い所にはミズナラが多いが、伐採した大半はまきとして燃やしていることから、付加価値の向上を図る。\n・8子ども4200人、Bプレミア信州の試合を観戦　大声援で選手を後押し9長野県内の中学受験　屋代・諏訪清陵・市立長野の志願倍率を発表10長野県縦断駅伝2026、デジタルコースマップ　中継点への到着予定時刻も確認できます長野県の新着ニュース注目記事交際1カ月、息子の彼女はとてもいい子で…　数日後に驚きの事実判明長野県主要くらし・話題ウェブオリジナル朝日新聞コラボ「いつも、どこかで」11/13 17:00北アルプス雲ノ平の登山道整備、2025～26年の活動報告　雲ノ平トレイルクラブ〈山と人と信州と〉長野県社会信州の山ウェブオリジナル山と人と信州と北アルプス11/13 06:04教室の「自由」は守られているか　戦前の長野県で起きた教員弾圧の事件から考える長野県くらし・話題ウェブオリジナル「戦後」を次代へコラム「硬面軟面」茅野市11/12 06:05【4コマ】かりん？マルメロ？諏訪の謎【ここがわからんばい！信州】長野県主要くらし・話題ウェブオリジナル諏訪湖ここがわからんばい！信州諏訪市11/10 11:30やってみた北アルプスの登山道の整備　泥だらけ、でも気付いた汗の価値【動画付き】長野県社会信州の山ウェブオリジナル北アルプスタカシが行く11/09 15:50登るたびに違う風景、異なる雰囲気　「これほどのめり込むとは」　諏訪市在住のイギリス人、アラスタ・ボーンさん〈山と人と信州と〉長野県社会信州の山ウェブオリジナル山と人と信州と南アルプス11/07 06:04「幸せにする自信はない、でも幸せになる自信はある」がくれた気づき長野県主要くらし・話題ウェブオリジナル朝日新聞コラボ「いつも、どこかで」11/06 17:00高止まりの山岳遭難、未然に防ぎたい　「幹」となるプロ情報　西穂山荘の粟沢さんが発信〈山と人と信州と〉長野県社会信州の山ウェブオリジナル山と人と信州と北アルプス11/06 06:04。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -99,9 +151,9 @@
     "summary": "・五島市の椿園で緑と親しむイベントが開かれ、多くの子供たちでにぎわいました。\n・【記事を読む】駅周辺の落とし物事情　警察署の倉庫はほぼ満杯　1年間で約22万点と増加！　ダンベルやカメも？切り口をやすりで磨き、1から12までの数字を書くと、フィンランド発祥のスポーツ「モルック」の道具が完成です。\n・10月31日、五島市椿園で「森林のつどい」が開かれ、市内の子供たち約20人が参加しました。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -112,9 +164,9 @@
     "summary": "・朝日村小野沢の山中にあり、昨年１１月に廃止されたアサヒマレットゴルフ場跡地で、スギの伐採・搬出作業が行われている。\n・本年度の伐採は敷地下部の約２ヘクタール区域で１０月から年末にかけて行われ、伐採されたスギ材約８００立方メートルの丸太が積み重なって搬出を待っている。\n・村産業振興課によると、残る区域の伐採は来年度に計画されており、今後５年ほどかけてカラマツの苗木が随時植林される見通しだ。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -125,6 +177,8 @@
     "summary": "・住友林業<1911>の経常利益予想コンセンサスは、前週値の110,120百万円から9.7%下落し、99,416百万円となった。\n・対前年実績で見た場合37%の減益予想から43.1%減益予想に下方修正された。\n・会社予想値92,500百万円と比較すると、現在のコンセンサス予想は強気の見方となっている。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "【アナリスト評価】住友林業、レーティング中立を据置き、目標株価1,350円に引下げ（日系大手証券）(アイフィス株予報)",
@@ -132,9 +186,7 @@
         "source": "Yahoo!ファイナンス",
         "published_at": "2026-11-13 20:05"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -2000,65 +2052,6 @@
     "category": "建築・木材利用",
     "importance_score": 15,
     "is_featured": true,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-09",
-    "title": "【倒産】木造建築工事・プレハブ建築の事業者が自己破産申請へ...金利上昇による住宅需要の停滞 負債額は推定5億円【帝国データバンク】",
-    "url": "https://newsdig.tbs.co.jp/articles/gallery/3064547",
-    "source": "TBS NEWS DIG",
-    "published_at": "2026-11-09 17:07",
-    "summary": "・【倒産】木造建築工事・プレハブ建築の事業者が自己破産申請へ...金利上昇による住宅需要の停滞 負債額は推定5億円【帝国データバンク】。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-09",
-    "title": "「アームレスリング世界大会」女子シニア、３９歳・宮岡智美さんが７８キロ級初出場で優勝…林業の傍ら練習（読売新聞オンライン）",
-    "url": "https://news.yahoo.co.jp/articles/3275192761fdc99164efd8743d98dd0e12163ea0",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-09 16:32",
-    "summary": "・９月に茨城県で開催された「第７回ＩＦＡ世界アームレスリング選手権大会」で世界一に輝いた大分県佐伯市宇目の林業、宮岡智美さん（３９）が今月２日、市役所を訪れ、冨高国子市長に優勝を報告した。\n・宮岡さんは、国内選考会を兼ねて６月に秋田県で開かれた「全日本アームレスリング選手権大会」の女子ライトハンド・無差別級で２位に入り、世界大会への出場権を得た。\n・これまでも全日本大会に自費で出場し、準優勝や優勝を重ねてきたが、世界大会は海外で開かれることが多く、資金面の理由で出場を断念してきたという。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-09",
-    "title": "森林の大切さ伝える 全国育樹祭で従事者や児童が思い発表、和歌山（紀伊民報）",
-    "url": "https://news.yahoo.co.jp/articles/1f2787f17e6044e92cd13795d28ace333f2403df",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-09 16:25",
-    "summary": "・和歌山県田辺市と白浜町で７、８日に開催された全国育樹祭に合わせ、森林の大切さを次代へ伝える併催・記念行事も開かれた。\n・【秋篠宮ご夫妻 紀南到着　全国育樹祭、田辺でお手入れ行事、和歌山の記事】　上富田町にある南紀の台ホールでは７日、県と公益社団法人国土緑化推進機構（東京都）による「育林交流集会」があった。\n・■最新の林業機械ずらり／白浜空港跡地で展示実演　白浜町の旧南紀白浜空港跡地で８、９日、全国育樹祭の併催行事「森林・林業・環境機械展示実演会」が開かれた。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 24,
-    "is_featured": true,
-    "related_articles": [
-      {
-        "title": "中辺路町森林組合が受賞 全国育樹祭で国土緑化推進機構会長賞、和歌山（紀伊民報）",
-        "url": "https://news.yahoo.co.jp/articles/9d38cd83e32fc4a5c1e37490a27cec04ddbc2be9",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-09 16:25"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-09",
-    "title": "東京林業土木協中部地区 国有林内で清掃奉仕活動",
-    "url": "https://digital.kentsu.co.jp/articles/artcl_rglr/01M6QSV55M6EFT7XW0AFJA8MVR",
-    "source": "建通新聞",
-    "published_at": "2026-11-09 16:02",
-    "summary": "・東京林業土木協中部地区　国有林内で清掃奉仕活動　静岡16:02スクラップブックへ保存印刷草刈りなど奉仕作\u0000\u0000業を実施　東京林業土木協会技術・安全対策委員会静岡中部地区（幹事・白鳥誠、白鳥建設社長）は、９月から10月にかけて「令和８年度国有林内清掃ボランティア活動」を実施した。\n・10月９日に白鳥建設（静岡市葵区）が静岡市葵区の梅ヶ島国有林内、９月25日に木村組（静岡市駿河区）、10月７日に小野建設（三島市）が駿東郡小山町の国有林内、10月12日に佐野藤建設（富士宮市）が富士山国有林内で、林道や治山運搬路など清掃ボランティア活動を実施した＝写真。\n・白鳥幹事は「今後も継続して林業土木の災害防止に向けて取り組んでいく」と話した。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
     "related_articles": []
   }
 ]
