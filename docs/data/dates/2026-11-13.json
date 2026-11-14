@@ -1,6 +1,26 @@
 [
   {
     "article_date": "2026-11-13",
+    "title": "【アナリスト予想】住友林業、26年12月期経常予想。対前週9.7%下降。(アイフィス株予報)",
+    "url": "https://finance.yahoo.co.jp/news/detail/497c5ba94016e5f5cba509ac9691263102842b98",
+    "source": "Yahoo!ファイナンス",
+    "published_at": "2026-11-13 22:46",
+    "summary": "・住友林業<1911>の経常利益予想コンセンサスは、前週値の110,120百万円から9.7%下落し、99,416百万円となった。\n・対前年実績で見た場合37%の減益予想から43.1%減益予想に下方修正された。\n・会社予想値92,500百万円と比較すると、現在のコンセンサス予想は強気の見方となっている。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [
+      {
+        "title": "【アナリスト評価】住友林業、レーティング中立を据置き、目標株価1,350円に引下げ（日系大手証券）(アイフィス株予報)",
+        "url": "https://finance.yahoo.co.jp/news/detail/4cea7da7e8fcc211b875bc01ef358b1b596e0bf4",
+        "source": "Yahoo!ファイナンス",
+        "published_at": "2026-11-13 20:05"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-13",
     "title": "住友林業、新築時から建物内外の緑を総合提案 | 業界関連ニュース | 東京都宅建協会 全宅保証協会東京本部",
     "url": "https://www.tokyo-takken.or.jp/re-port/83347",
     "source": "東京都宅建協会",
@@ -8,9 +28,9 @@
     "summary": "・住友林業（株）は13日、「PRIME GREEN」のブランドで住まいと緑のトータル提案をスタートすると発表した。\n・住まいづくりの初期段階から、建物内外に緑を取り入れるよう総合的に計画していくサービス。\n・東京都宅建協会の不動産業・宅建業の開業者を対象にした支援サイトです。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -21,9 +41,9 @@
     "summary": "・加美町では、森林の未来を守るため、植林から育林、伐採、木材利用まで様々な森林整備に取り組んでいます。\n・加美町森林・林業PRポスター (PDFファイル: 2.9MB)。\n・加美町では、森林管理作業員による森林整備を行っております。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -34,9 +54,9 @@
     "summary": "・Mordor Intelligenceによると、製材市場の規模は2025年に5,400億米ドルと評価され、2026年の5,800億米ドルから2031年までに8,200億米ドルに達すると予測されており、2026年から2031年までの期間におけるCAGRは7.2％となる見込みです。\n・アフリカは最も成長の速い地域であり、2026年から2031年にかけてCAGR9.4％で拡大すると見込まれています。\n・北米と欧州は成熟した市場ではありますが、革新的な取り組みが進んでおり、2026年から2031年にかけて著しいCAGRで成長しています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -47,9 +67,9 @@
     "summary": "・その技術を活かして、川上村の磨崖碑「土倉翁造林頌徳記念」の掃除を２度している。\n・写真の中には、大明氏もいるはず。\n・思えば、この磨崖碑清掃が大明氏と知り合うきっかけであった。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -60,9 +80,9 @@
     "summary": "・東急(東京都渋谷区、堀江正博社長)、住友林業(東京都千代田区、光吉敏郎社長)、再生建築研究所(東京都渋谷区、神本豊秋社長)の3社は10月26日、横浜市港北区の東急新横浜線「新綱島」駅徒歩1分に立地する築170年の古民家とその周辺エリアを活用した商業施設「新綱島MICCA」の報道関係者向け内覧会を開催した。\n・住友林業は、木造軸組工法2階建ての商業施設2棟の設計・施工を担当。\n・住友林業は、新綱島駅からの人の流れを受け止め、回遊を促すように配置した2棟の細長い商業施設を担当した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -73,6 +93,8 @@
     "summary": "・住友林業は、住まいと緑のトータル提案を「PRIME GREEN」と名付け、その一環として植栽の定期交換やメンテナンスを行うサブスクリプションサービスを開始する。\n・グループ会社の住友林業緑化とのシナジーを活かし、オリジナル樹種を含め豊富なラインアップから顧客の暮らしに最適な樹種を提案する。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 18,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "住まいと緑のトータル提案「PRIME GREEN (プライムグリーン)」を開始 ～インテリアグリーンのサブスクサービスを導入し、四季の移ろいを愉しむ住環境の提案を推進～",
@@ -80,9 +102,7 @@
         "source": "Infoseek",
         "published_at": "2026-11-13 10:00"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-13",
@@ -93,9 +113,9 @@
     "summary": "・住友林業グループでリフォーム事業を手がける住友林業ホームテックは2025年12月22日、朝日新聞朝刊に新聞広告を掲載した。\n・今回の広告出稿の背景やクリエイティブに込めた思い、新聞に期待した役割、そして今後のコミュニケーションについて、住友林業ホームテック営業推進部課長の竹内氏と同・課長代理の早乙女氏に聞いた。\n・そのためにも、まずは「住友林業のリフォーム」の認知を高める必要があり、2025年10月頃から一部エリアではテレビCMを再開しました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
@@ -120,7 +140,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -158,9 +178,9 @@
     "summary": "・東京木材問屋協同組合（東京都江東区、庄司良雄理事長）は、11月６日に東京都千代田区の東京會舘で「創立120周年記念祝賀会」を開催し、関係者ら約300人が出席した。\n・その上で、「20年前の100周年記念事業で建設した木材会館は、木のまち・新木場のランドマークとして、都市における木材利用の可能性を世に発信し続けている。\n・東京木材問屋協同組合は、７月14日に東京都江東区の木材会館で４年ぶりに記者懇談会を開催し、５月30日付けで同組合の理事長に就任した庄司良雄氏が当面の課題などについて語った。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-13",
