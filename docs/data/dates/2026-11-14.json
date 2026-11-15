@@ -1,6 +1,39 @@
 [
   {
     "article_date": "2026-11-14",
+    "title": "太良町産木材の価値向上へ 町と町森林組合、神埼市のミマツ工芸が連携協定",
+    "url": "https://www.47news.jp/15231322.html",
+    "source": "47NEWS",
+    "published_at": "2026-11-14 22:16",
+    "summary": "・太良町と町森林組合（村井樹昭組合長）、神埼市のミマツ工芸（實松英樹社長）は6日、町産木材の付加価値向上に関する連携協定を結んだ。\n・多良岳産材の利用を促進し、森林への理解、地域活性化につなげる。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [
+      {
+        "title": "太良町産木材の価値向上へ 町と町森林組合、神埼市のミマツ工芸が連携協定 | まちの話題 | 佐賀県のニュース",
+        "url": "https://www.saga-s.co.jp/articles/-/1829935",
+        "source": "佐賀新聞",
+        "published_at": "2026-11-14 20:30"
+      }
+    ],
+    "importance_score": 18,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-14",
+    "title": "木材産業におけるボトルネックを解消し、競争力を強化する。",
+    "url": "https://www.vietnam.vn/ja/go-diem-nghen-nang-suc-canh-tranh-cho-nganh-go",
+    "source": "Vietnam.vn",
+    "published_at": "2026-11-14 18:43",
+    "summary": "・（GLO）- ザライ省の木材産業は、2026年第4四半期に3億5160万米ドルの輸出収入を達成し、年間輸出総額を約13億3000万米ドルに引き上げることを目標としており、これは計画を約9％上回るものです。\n・企業は、2027年に向けて目標を達成し、勢いをつけるために、積極的にボトルネックを解消すると同時に、競争力を高めるためのソリューションを導入している。\n・2026年の最初の9か月間において、 ザライ省の木材産業の輸出額は9億7811万米ドルに達し、2025年の同時期と比較して22.1%増加し、年間計画の80%を達成するとともに、同省の輸出総額の33.3%を占めた。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-14",
     "title": "吉野の山に龍を探す",
     "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-e33f72.html",
     "source": "田中淳夫 取材メモ",
@@ -8,9 +41,9 @@
     "summary": "・吉野の山に龍を探す。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -21,9 +54,9 @@
     "summary": "・林業は徐々に重要な経済分野となりつつあり、人々の生計向上、所得増加、地域経済発展に貢献している。\n・フート省は、植林面積の拡大、森林管理・保護の改善に加え、近代的で付加価値の高い林業加工産業の発展に注力している。\n・同省の森林被覆率は43.37%に達し、森林資源の合理的利用と並行した森林管理、保護、開発への取り組みが実を結んでいます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -34,9 +67,9 @@
     "summary": "・11月13日、 農業環境局（DARD）は、省人民委員会の農業・林業分野における仕組みと政策に関する決議の実施状況を検討・評価するための会議を開催した。\n・会議の報告によると、省人民委員会の決議が発布さ​​れた直後、農業環境局は関係部署や機関と積極的に連携し、実施のための指導文書体系を省人民委員会に発布するよう助言した。\n・成果はあったものの、省人民委員会の農業と環境に関する決議の実施には、依然としていくつかの困難と制約が存在する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
@@ -47,9 +80,9 @@
     "summary": "・ねじれたり虫に食われたりした広葉樹の丸太を販売する「十勝迷木（めいぼく）市」が１４日、大坂林業（幕別町、松村幹了社長）が経営する大正製材所（帯広市大正町東１線）で初開催された。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-14",
