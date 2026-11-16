@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-11-15",
+    "title": "週末限定の人気石窯ピザ店「きこりのピザ屋 SOMAUD」。林業とピザ職人の二刀流の生活を送る原動力とは？",
+    "url": "https://abc-magazine.asahi.co.jp/post-92984/",
+    "source": "ABCマガジン",
+    "published_at": "2026-11-15 23:01",
+    "summary": "・和歌山県紀美野町の山の中に、週末限定の営業で、開店前には行列ができるほどの人気石窯ピザ店「きこりのピザ屋 SOMAUD」がある。\n・平日は木を伐り、週末はピザを焼く「二刀流」の生活を送る。\n・林業とピザ職人の二刀流の生活を送る原動力とは？ | 夢を追い、情熱を傾ける人たちに密着する人間ドキュメント番組『LIFE~夢のカタチ~』。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-15",
     "title": "大東建託が国産木材使用倍増へ 住友林業系から調達、円安で日本産回帰",
     "url": "https://www.nikkei.com/article/DGXZQOUC052OX0V01C26A1000000/",
     "source": "日本経済新聞",
@@ -8,8 +21,21 @@
     "summary": "・大東建託は国産木材の使用量を2027年度までに現在の2倍に増やす。\n・国産の調達を増やすことで世界的な木材不足で価格が急騰した21年ごろの「ウッドショック」のような地政学リスクを軽減する。\n・住友林業子会社で製材を手掛ける木環の杜（こわのもり、福島県いわき市）から調達する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "倒木も、銘木になる",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-72e237.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-11-15 16:29",
+    "summary": "・倒木も、銘木になる。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -21,12 +47,18 @@
     "summary": "・新潟県村上市高根の「天蓋高原 高根交流広場」。\n・2025年10月、地元の木に触れ、遊びや食を楽しみながら森林や林業について知るイベント「モクリンフェス2025」が開かれました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 18,
+    "importance_score": 33,
     "is_featured": true,
     "related_articles": [
       {
         "title": "「様々なアプローチで林業を知ってもらおうと…」木を切って、遊んで、味わう 天蓋高原で広がる森との触れ合い 新潟・村上市【森を守ること・第20話】",
         "url": "https://newsdig.tbs.co.jp/articles/bsn/2907644",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-15 05:00"
+      },
+      {
+        "title": "「様々なアプローチで林業を知ってもらおうと…」木を切って、遊んで、味わう 天蓋高原で広がる森との触れ合い 新潟・村上市【森を守ること・第20話】 | 新潟のニュース・天気｜BSN NEWS｜BSN新潟放送 (1ページ)",
+        "url": "https://newsdig.tbs.co.jp/articles/bsn/2907644?display=1",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-15 05:00"
       }
@@ -44,6 +76,19 @@
     "importance_score": 0,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-15",
+    "title": "木造建築の魅力を体感 米子「すまいくフェア」",
+    "url": "https://www.nnn.co.jp/articles/-/830074",
+    "source": "www.nnn.co.jp",
+    "published_at": "2026-11-15 05:00",
+    "summary": "・子どもらに木造住宅や建築業の魅力を知ってもらおうと米子産業体育館（米子市東福原８丁目）で１４日、「すまいくフェア」（鳥取県木造住宅推進協議会主催）が開かれた。\n・住民にぎやか交流　公民館まつり盛況　米子・大篠津。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-15",
