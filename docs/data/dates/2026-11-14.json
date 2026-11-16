@@ -73,6 +73,26 @@
   },
   {
     "article_date": "2026-11-14",
+    "title": "行列のできる人気ピザ店と林業の二刀流。和歌山・紀美野町で奮闘する職人に密着",
+    "url": "https://tver.jp/episodes/epeq6boobk",
+    "source": "TVer",
+    "published_at": "2026-11-14 13:42",
+    "summary": "・行列のできる人気ピザ店と林業の二刀流。和歌山・紀美野町で奮闘する職人に密着。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [
+      {
+        "title": "「ここで食べたら他に行けない」和歌山の山奥で林業との“二刀流”シェフ！ 自ら割った薪で焼く、モチふわ絶品石窯ピザ",
+        "url": "https://abc-magazine.asahi.co.jp/post-92896/",
+        "source": "ABCマガジン",
+        "published_at": "2026-11-14 05:03"
+      }
+    ],
+    "importance_score": 15,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-14",
     "title": "「銘木市」ならぬ「迷木市」 大正製材所で初開催",
     "url": "https://kachimai.jp/article/index.php?no=2026111400282",
     "source": "十勝毎日新聞",
@@ -94,19 +114,6 @@
     "summary_type": "auto",
     "category": "業界・一般",
     "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-14",
-    "title": "「ここで食べたら他に行けない」和歌山の山奥で林業との“二刀流”シェフ！ 自ら割った薪で焼く、モチふわ絶品石窯ピザ",
-    "url": "https://abc-magazine.asahi.co.jp/post-92896/",
-    "source": "ABCマガジン",
-    "published_at": "2026-11-14 05:03",
-    "summary": "・和歌山県紀美野町に、まるで山小屋のような石窯ピザ店「きこりのピザ屋 SOMAUD」があります。\n・平日は林業、週末にはピザ職人という二刀流の生活を送っています。\n・こうして林業とピザ職人の二刀流で奮闘する上中さんには、地元で共に店を営む仲間がいます。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   },
