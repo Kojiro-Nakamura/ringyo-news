@@ -80,9 +80,16 @@
     "summary": "・～乾式工法で施工期間を短縮し、木材活用で環境にも貢献～。\n・三菱地所株式会社、高島株式会社、MEC Industry株式会社は、国産木材から製造するCLT※1パネルを活用した新商品の柱保護根巻「KiNEMAKI(キネマキ)（以下、本製品）」を3社の共同で開発し、「木材利用促進の日」の2026年10月8日より販売開始します。\n・本製品は、三菱地所の物流施設「ロジクロス」シリーズとして2026年8月31日に竣工した大規模マルチテナント型物流施設「ロジクロス三郷」にて先行して採用されました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "国産CLT材を活用した柱保護根巻「KiNEMAKI(キネマキ)」を共同開発、販売開始",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dFNfT0JrMlZLdVhhTkV2bE5WRUVCd1RUb0VXRjBjaUFwdFc5TEkwZWJPZFcwVUlPbG5ORnpnUGpYUlZxZURmQU9rNVY2cVlyVzVwa1pvdU1SVzdlVzJIVFZSSHJqcDBJQjBVYjU2U0M?oc=5",
+        "source": "三菱地所",
+        "published_at": "2026-10-08 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-08",
@@ -140,7 +147,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

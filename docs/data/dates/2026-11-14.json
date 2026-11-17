@@ -9,7 +9,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "太良町産木材の価値向上へ 町と町森林組合、神埼市のミマツ工芸が連携協定 | まちの話題 | 佐賀県のニュース",
@@ -28,9 +28,16 @@
     "summary": "・（GLO）- ザライ省の木材産業は、2026年第4四半期に3億5160万米ドルの輸出収入を達成し、年間輸出総額を約13億3000万米ドルに引き上げることを目標としており、これは計画を約9％上回るものです。\n・企業は、2027年に向けて目標を達成し、勢いをつけるために、積極的にボトルネックを解消すると同時に、競争力を高めるためのソリューションを導入している。\n・2026年の最初の9か月間において、 ザライ省の木材産業の輸出額は9億7811万米ドルに達し、2025年の同時期と比較して22.1%増加し、年間計画の80%を達成するとともに、同省の輸出総額の33.3%を占めた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "木材産業におけるボトルネックを解消し、競争力を強化する。",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TeHVRcGQ2ZFpuN1hHZ21zOHlUVnAyWU1rQVpzRkt1MWMxUTlSekNRNjhMNVNnZENkVk4tclk4VlVhX1pxa1kwOFRTWlAtOWZ0bnZHR1J6d2dndlJucUN1ZWgxeUxaWFFMV2tYenpsT0pwNzZGbnA3NXhrZlI?oc=5",
+        "source": "Vietnam.vn",
+        "published_at": "2026-11-14 18:43"
+      }
+    ]
   },
   {
     "article_date": "2026-11-14",
@@ -80,16 +87,22 @@
     "summary": "・行列のできる人気ピザ店と林業の二刀流。和歌山・紀美野町で奮闘する職人に密着。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "「ここで食べたら他に行けない」和歌山の山奥で林業との“二刀流”シェフ！ 自ら割った薪で焼く、モチふわ絶品石窯ピザ",
         "url": "https://abc-magazine.asahi.co.jp/post-92896/",
         "source": "ABCマガジン",
         "published_at": "2026-11-14 05:03"
+      },
+      {
+        "title": "「ここで食べたら他に行けない」和歌山の山奥で林業との“二刀流”シェフ！ 自ら割った薪で焼く、モチふわ絶品石窯ピザ",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaemoyeFZ5N1BLVUZVeHN5OFBFeVVNNFVaMjNuVEtGRXhxWTMzb2phUlVhSnoyMWpVTlZaeHgyLWp0ZHJoRVdTLXNxc3dpWUg0N3ZjZU9QOA?oc=5",
+        "source": "ABCマガジン",
+        "published_at": "2026-11-14 05:03"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-14",
@@ -100,9 +113,16 @@
     "summary": "・ねじれたり虫に食われたりした広葉樹の丸太を販売する「十勝迷木（めいぼく）市」が１４日、大坂林業（幕別町、松村幹了社長）が経営する大正製材所（帯広市大正町東１線）で初開催された。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「銘木市」ならぬ「迷木市」 大正製材所で初開催",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zZWZVZ3EzeHJiWVhqaHNOYmx1ZzY1R1ExQ0RmejFnQk5ZMzQtMVFHWFA1ZW5DelZJZFdrdkxyaGZlU1J5T0RRQVBiUmdMS1BGaWphb2h1TG1LZlV0RjkzcHRpS0k?oc=5",
+        "source": "十勝毎日新聞",
+        "published_at": "2026-11-14 12:02"
+      }
+    ]
   },
   {
     "article_date": "2026-11-14",
@@ -127,7 +147,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

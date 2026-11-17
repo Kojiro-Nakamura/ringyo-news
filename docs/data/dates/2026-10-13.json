@@ -9,7 +9,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "放置残材で燃料チップ 鹿児島森林管理署が「稼ぐ林業」へ実証事業 霧島市で説明会",
@@ -28,9 +28,16 @@
     "summary": "・令和６年度から、森林の整備およびその促進に関する施策の財源として、森林環境税（国税）が課税されます。\n・森林環境税は個人市県民税均等割と合わせて徴収することとされており、その税収の全額が森林環境譲与税として都道府県・市町村へ譲与されます。\n・我が国の温室効果ガス排出削減目標の達成や、災害防止を図るための森林整備などに必要な地方財源を安定的に確保する観点から創設されました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "令和６年度から森林環境税（国税）の課税が始まります",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yVGRIN0hFaGVpVVg3bW11UGNIcndQUmVieE02UW9fVG9LbmhsZzI4LU9RdVh6VzJZdE1Kd2VBYlh0QXRMRnVQZFQtdFp1SEQwMUp2bHF5SE41anZQTzJSSzJ3YzRLSFozT2Y4TTA3Q1VmMEx1MTUw?oc=5",
+        "source": "新見市ホームページ",
+        "published_at": "2026-10-13 22:32"
+      }
+    ]
   },
   {
     "article_date": "2026-10-13",

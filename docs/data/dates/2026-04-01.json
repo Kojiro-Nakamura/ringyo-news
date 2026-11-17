@@ -8,12 +8,18 @@
     "summary": "・【お知らせ】令和8年4月1日以降、届出書の様式が改正され、記載事項が追加されます。\n・森林の土地の所有者となった方は、所有者となった日から90日以内に市町村長への届出が必要です。\n・また、令和8年4月から、届出書の様式が改正され、所有者となった方の国籍等を新たに記載していただくことになりました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 27,
+    "importance_score": 42,
     "is_featured": true,
     "related_articles": [
       {
         "title": "森林の土地の所有者届出制度",
         "url": "https://www.rinya.maff.go.jp/j/keikaku/todokede/index.html",
+        "source": "林野庁ホームページ",
+        "published_at": "2026-04-01 16:00"
+      },
+      {
+        "title": "森林の土地の所有者届出制度",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rQU5MemJkdXpIRTM4RUlYcDhsRlhSVlBIR3RYUC1MLUNPSHA4YVpfMWVLVUFIWUM4U1dxWDZTLVRjRmNGUExEVVJQYzFkWXlHLUdmcXROaVVNcWRFbmY5QXk4WHZNblkzTmc?oc=5",
         "source": "林野庁ホームページ",
         "published_at": "2026-04-01 16:00"
       }
@@ -41,8 +47,15 @@
     "summary": "・佐野市では、作業の効率化と労働力の軽減を図り、林業生産活動を向上させるため、性能が著しく高い林業機械のリース等にかかる経費の一部を、市の予算の範囲内で補助金として交付します。\n・ハーベスタ、集材機、プロセッサ、グラップル付きトラック、スキッダ、グラップルソー(アタッチメントのみ)、フォワーダ、グラップル(アタッチメントのみ)、グラップルローダ、ハーベスタ(アタッチメントのみ)、スイングヤーダ、プロセッサ(アタッチメントのみ)、タワーヤーダ、スイングヤーダ(アタッチメントのみ)、フェラーバンチャ、ザウルスロボ(アタッチメントのみ)、グラップル(ベースマシンを含むもの)、フェラーバンチャ(アタッチメントのみ)、自走式搬器、資材運搬用ドローン、その他の高性能林業機械。\n・施業実施年度に使用する高性能林業機械のそれぞれのリース又はレンタルに要する費用の額を、そのリース又はレンタルをした日数で除した額（その額に1円未満の端数があるときは、これを切り捨てる。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 12,
+    "importance_score": 27,
     "is_featured": true,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "（林業者育成支援事業）高性能林業機械リース等に係る経費を助成します",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHFtQ2NEaEZiWnllNVhnV1NVZW1xUVdwa2duN3pFUXRmcWY2dC1xbXEzYW9aUTVKaUl5QVBRTkkzMHdBQnB6SF9UNUhyT0REU1FxVVNPcmtlVmo3cUJqaHZNY2xKTHZSTHBqUTVjU0g2eGtIdFljTGtLM19GLUk3MzhTZ2pWXzE0UmFiemxNZw?oc=5",
+        "source": "佐野市",
+        "published_at": "2026-04-01 14:19"
+      }
+    ]
   }
 ]

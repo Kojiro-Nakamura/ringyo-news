@@ -67,9 +67,16 @@
     "summary": "・森林経営管理制度は、手入れの行き届いていない森林について、市町村が森林所有者から経営管理の委託（経営管理権の設定）を受け、林業経営に適した森林は地域の林業経営体（※）に再委託するとともに、林業経営に適さない森林は市町村が公的に管理（市町村森林経営管理事業）をする制度です。\n・※「意欲と能力のある林業経営者」（知事が森林経営管理法第36条第2項で定める要件に適合すると判断し、公表した民間事業者）及び「適合事業者」（知事が法第44条第2項で定める要件に適合すると判断し、公表した民間事業者）。\n・応募にあたっては、『鹿児島県「意欲と能力のある林業経営者」及び「適合事業者」の公募・公表要領』第4条の規定に基づき、応募申請書及び誓約書に必要事項を記載し、添付書類とともに申請者の主たる事務所が所在する地域を所管する地域振興局等に提出してください。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「意欲と能力のある林業経営者」及び「適合事業者」の公募・公表について",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrR2plcU01U1ZBZnBHODVsemRNNGRaV2drQ1J1UW8xM1Z0YmJ6enE0UHBWc3k0ZTBuS2txNGI3bFBkRWRkeFpvTzUzV0Y5Zm05eVNUNFFiN1lNMnpGUUZXZXIzb2R1RFA5TnBUdlBoekVlS2d0ZEE?oc=5",
+        "source": "鹿児島県公式ホームページ",
+        "published_at": "2026-11-04 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-04",
@@ -81,7 +88,7 @@
     "summary_type": "auto",
     "category": "業界・一般",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "林業の担い手は1547人 6年連続で増加 「担い手確保の取り組みが増加につながっている」と県は分析 長野（ＳＢＣ信越放送）",

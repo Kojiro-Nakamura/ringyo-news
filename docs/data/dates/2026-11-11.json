@@ -86,13 +86,19 @@
     "summary": "・長野県飯田市の木造建築工事の「マルス建築舎」が10月28日に長野地裁飯田支部から破産手続き開始決定を受けました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 21,
+    "importance_score": 36,
     "is_featured": true,
     "related_articles": [
       {
         "title": "【倒産】年間売上高は1億4200万円を一時期計上　負債は約2400万円　木造建築会社が破産手続き開始決定　マンパワー不足で新築工事の受注困難に　長野・飯田市",
         "url": "https://topics.smt.docomo.ne.jp/article/sbc21/region/sbc21-3077991",
         "source": "ｄメニューニュース",
+        "published_at": "2026-11-11 14:58"
+      },
+      {
+        "title": "【倒産】年間売上高は1億4200万円を一時期計上 負債は約2400万円 木造建築会社が破産手続き開始決定 マンパワー不足で新築工事の受注困難に 長野・飯田市 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+        "url": "https://newsdig.tbs.co.jp/articles/sbc/3077991?display=1",
+        "source": "TBS NEWS DIG",
         "published_at": "2026-11-11 14:58"
       }
     ]
@@ -132,9 +138,16 @@
     "summary": "・株式会社SANU（本社：東京都新宿区、Co-CEO：福島弦・本間貴裕）は、新建築モデル「SHELL（シェル）」の構造開発において、エンジニアリング・コンサルティング企業のオーヴ・アラップ・アンド・パートナーズ・ジャパン・リミテッド（以下、Arup社）と協業いたしました。\n・木造建築において応力が集中し弱点となりやすい柱と梁の接合部（パネルゾーン）そのものを、CLT（直交集成板）を用いてパネル化・剛接合する新しい構造工法を共同で開発しました（*1）。\n・この工法により、SANUの新建築モデル「SHELL」は積雪1mを想定した地域において、屋根全体で約30トンもの雪荷重を受け止めながら、室内に柱を落とさない約9mの大空間と、耐震等級3水準（最高ランク）の耐震性能の両立を目指します。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 15,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 30,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "日本の木造技術を、世界へ。SANU、Arupとの協業で挑む「木造建築の構造革新」",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81XzRTQTJzQWozVm92MkFCWDdITXBNd0pkN3gtUXcwbGh6QmNHSE9WZnQ4MUk3a2lmMUpLcGdBUDRIajBDUDFfckU0Q05lVlpIUFBKU2M5bWVURUEyOUd1SWQ4RmJWaFZma1E?oc=5",
+        "source": "PR TIMES",
+        "published_at": "2026-11-11 11:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -179,7 +192,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -302,9 +315,16 @@
     "summary": "・青森県林業協会（成田剛会長）と県林業会議（吉田豊会長）は１０日、県に対し、再造林の推進や松くい虫などの病害虫対策などを求めた。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "importance_score": 3,
+    "importance_score": 18,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "再造林推進や病害虫対策を 青森県林業協会と県林業会議、県に要望",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6dkxfT0RQTGRYUVdGMFdPVjE0VDdCa0prUl9LSV9FVXVFWVljS2VvbU9TX3JfZE1YNEJZU2xfV09seUprSkNmT1M1R3JCT0J3c3Q5a0NGR1dzdVM1Zy05TW1HLWx2MHM?oc=5",
+        "source": "デーリー東北",
+        "published_at": "2026-11-11 05:02"
+      }
+    ]
   },
   {
     "article_date": "2026-11-11",

@@ -107,7 +107,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "住まいと緑のトータル提案「PRIME GREEN (プライムグリーン)」を開始 ～インテリアグリーンのサブスクサービスを導入し、四季の移ろいを愉しむ住環境の提案を推進～",
@@ -126,9 +126,16 @@
     "summary": "・住友林業グループでリフォーム事業を手がける住友林業ホームテックは2025年12月22日、朝日新聞朝刊に新聞広告を掲載した。\n・今回の広告出稿の背景やクリエイティブに込めた思い、新聞に期待した役割、そして今後のコミュニケーションについて、住友林業ホームテック営業推進部課長の竹内氏と同・課長代理の早乙女氏に聞いた。\n・そのためにも、まずは「住友林業のリフォーム」の認知を高める必要があり、2025年10月頃から一部エリアではテレビCMを再開しました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "住まいの歴史を受け継ぐ「住友林業のリフォーム」 新聞広告で伝える豊かな暮らし",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNQkgzUnhOcEctd2RYSzdsZUFYUjZmaXplVkhYQjJQOGtmWWRYOHZqR1I2VHBzVW4wcFlVbGVBdEk3WDR1RXIwdHQ0Y3QzMktBeGpYcGp4ZF9nNkpBUzFMQWp5VFBsUQ?oc=5",
+        "source": "朝日新聞 Business Hub",
+        "published_at": "2026-11-13 11:02"
+      }
+    ]
   },
   {
     "article_date": "2026-11-13",

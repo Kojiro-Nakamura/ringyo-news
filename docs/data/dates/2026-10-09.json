@@ -60,9 +60,16 @@
     "summary": "・Choose your language option。\n・①　外国語ポータル （Multilingual Portal）。\n・このページでは、外国人向けの情報を次の言語で紹介しています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "森林環境税及び森林環境譲与税について",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0ZUSFhMOU54bktrVWt0aGhlUnhSTGFJYkpFbDktRUJfMXVjQ0hRTEdjYXl0TmsyMzNKTkxvYS1CU2Y0OEZfU2d0eUJTTHR4NmNrSDRrQldCNFk2ZldKT3o5Q2RCc1d1amJTdzI1b1ZrTG1ubnZCM2NhQ0pXMDdOeVY4TEJsLTEyWms1dmQyTQ?oc=5",
+        "source": "福岡市",
+        "published_at": "2026-10-09 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-09",
@@ -191,7 +198,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

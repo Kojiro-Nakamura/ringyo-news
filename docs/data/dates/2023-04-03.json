@@ -8,8 +8,15 @@
     "summary": "・主伐・再造林による循環型林業を推進します。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 18,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "主伐・再造林の推進について",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53bHdycUdLTXFhMnl2YWVHOEdaQ1hJM0txT1dfejg1dzBXaDBTRDBLMWtaVDlfM0xNdmpEeXdjMGl4ck1lNTZkQ083dV9Hemdwd2x2RUJxdmpVMHVuZ2tQdEsybTQ?oc=5",
+        "source": "新潟県",
+        "published_at": "2023-04-03 16:00"
+      }
+    ]
   }
 ]

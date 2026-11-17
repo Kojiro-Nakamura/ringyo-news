@@ -21,9 +21,16 @@
     "summary": "・大東建託は国産木材の使用量を2027年度までに現在の2倍に増やす。\n・国産の調達を増やすことで世界的な木材不足で価格が急騰した21年ごろの「ウッドショック」のような地政学リスクを軽減する。\n・住友林業子会社で製材を手掛ける木環の杜（こわのもり、福島県いわき市）から調達する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "大東建託が国産木材使用倍増へ 住友林業系から調達、円安で日本産回帰",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWG9SMl9wcmtEeVA1amtEQTA1Z3NnV2RVd0RSVEhDaXBjVFpJd3A3U3I0WHN5UHRfV3QzQ2Y1RHVLZ0V6YU02X1BONHdLcUtGSF9kXzFvbC1ZcnV2amU0RHNLZTQxc2VJS2VZWQ?oc=5",
+        "source": "日本経済新聞",
+        "published_at": "2026-11-15 17:30"
+      }
+    ]
   },
   {
     "article_date": "2026-11-15",

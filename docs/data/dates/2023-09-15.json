@@ -8,8 +8,15 @@
     "summary": "・担当者：普及教育班ダイヤルイン：03-6744-2311。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "スマート林業教育推進サミット",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HWmI0SWNJMFQ4ZEdQUlpYQ2N3WGRXMWtLOFE2eXQ3d05VbF9pZFZsT29vTzZ2TVZSRUk3RVdiZEhZanFLUUh4OUVWSnhucldEZ09vNm8wUGE3YXZWOGRSdWRVZGtHbmxJRHZJ?oc=5",
+        "source": "林野庁ホームページ",
+        "published_at": "2023-09-15 20:54"
+      }
+    ]
   }
 ]
