@@ -21,9 +21,16 @@
     "summary": "・木造建築なのに、製造工程の90％以上を工場で完結。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "工場で90％生産、現地施工は2週間！SANUが新木造建築「SHELL」を発表（マガジンサミット）",
+        "url": "https://topics.smt.docomo.ne.jp/article/magazinesummit/trend/magazinesummit-https_editor.magazinesummit.jp_p_157872",
+        "source": "ｄメニューニュース",
+        "published_at": "2026-11-11 20:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-11",
@@ -159,7 +166,7 @@
     "summary_type": "auto",
     "category": "業界・一般",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "高知　ユズと林業の物語　全国に発信へ　高知県中芸地域で来秋「日本遺産フェス」　旧魚梁瀬森林鉄道の遺構体験も",

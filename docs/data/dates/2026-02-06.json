@@ -8,6 +8,8 @@
     "summary": "・大分県再造林・保育コンクール。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 18,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "大分県再造林・保育コンクール",
@@ -15,9 +17,7 @@
         "source": "大分県ホームページ トップページ",
         "published_at": "2026-02-06 17:00"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-02-06",

@@ -8,13 +8,19 @@
     "summary": "・太良町と町森林組合（村井樹昭組合長）、神埼市のミマツ工芸（實松英樹社長）は6日、町産木材の付加価値向上に関する連携協定を結んだ。\n・多良岳産材の利用を促進し、森林への理解、地域活性化につなげる。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 18,
-    "is_featured": false,
+    "importance_score": 33,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "太良町産木材の価値向上へ 町と町森林組合、神埼市のミマツ工芸が連携協定 | まちの話題 | 佐賀県のニュース",
         "url": "https://www.saga-s.co.jp/articles/-/1829935",
         "source": "佐賀新聞",
+        "published_at": "2026-11-14 20:30"
+      },
+      {
+        "title": "太良町産木材の価値向上へ 町と町森林組合、神埼市のミマツ工芸が連携協定（Saga Shimbun）",
+        "url": "https://topics.smt.docomo.ne.jp/article/saga_s/region/saga_s-1829935",
+        "source": "ｄメニューニュース",
         "published_at": "2026-11-14 20:30"
       }
     ]
@@ -114,7 +120,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "「銘木市」ならぬ「迷木市」 大正製材所で初開催",
