@@ -61,7 +61,7 @@
     "summary_type": "auto",
     "category": "スマート林業・技術",
     "importance_score": 21,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "林道を整え、MTBで走る…ヤマハ発動機が234haの山林を舞台に「MTBツアー」開催 11月20日から",
@@ -132,9 +132,9 @@
     "summary": "・先日の東京では、1時間2時間のヒマな時間があった。\n・勝手に生えるから野良シュロと呼ばれる(⌒ー⌒)。\n・我が家でも勝手には言える野良植物が増えているから、気になるところである。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-17",
@@ -145,9 +145,16 @@
     "summary": "・県では2024年度から取り組んでいる「日本一挑戦プロジェクト」で今年度までに再造林率90％を目標に掲げています。\n・プロジェクトが本格的に始まった2024年度の再造林率は79％で昨年度は87％に上昇しました。\n・日本一挑戦プロジェクトのグリーン成長プロジェクトは今年度までですが、県は「90％という目標達成に手ごたえを感じている」「総仕上げの年度として市町村や森林組合と取り組みたい」と話しています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "人工林伐採後の再造林率が87％に上昇 県が目標90％を掲げる日本一挑戦プロジェクト｜ニュース",
+        "url": "https://www.umk.co.jp/news/?date=20261117&id=35395",
+        "source": "UMKテレビ宮崎",
+        "published_at": "2026-11-17 12:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -158,9 +165,16 @@
     "summary": "・環境保全や癒やしといった森林の価値を生かした各種活動を顕彰するため林野庁が本年度初めて企画した「森業（もりぎょう）アワード」で、長野県根羽村が準グランプリ（林野庁長官賞）を獲得した。\n・協力して活動する愛知県安城市や村森林組合、一般社団法人「ねばのもり」（根羽村）との共同応募。\n・上下流域を「運命共同体」と捉え、中長期にわたり連携している点などが評価された。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 27,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "根羽村が準グランプリ 林野庁「森業アワード」に愛知県安城市などと共同応募",
+        "url": "https://www.47news.jp/15248059.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-17 05:05"
+      }
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -231,7 +245,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 18,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
