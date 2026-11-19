@@ -8,9 +8,9 @@
     "summary": "・北海道林業・木材産業関連団体、全道林活議連連絡会との朝食懇談会、続いて森林整備・治山事業促進議...",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -21,9 +21,9 @@
     "summary": "・西都市・三財小（高松泰校長、９８人）と台湾台中市の小学校によるオンライン交流は、両校の教室をウェブ会議ソフトでつないで行われた。\n・児童たちは地域の自然環境や食文化、学校での活動などを紹介し合った。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -34,9 +34,9 @@
     "summary": "・18日各地で鉄道イベントが行われました。\n・出雲市では園児が運転を体験、米子市で始まったのは鉄道のまちサミット。\n・鳥取県若桜町では線路に国産木材を使った枕木が設置されました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -47,6 +47,8 @@
     "summary": "・木造建築工事業のマルチネット工販（新潟市北区）が、１１月１０日に新潟地裁より破産開始決定を受けたことが１８日、分かった。\n・あなたが知りたい新潟のニュースがつまっています。\n・新潟日報の確かな情報を手軽にご利用いただけます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "［倒産情報］木造建築工事業の「マルチネット工販」（新潟市北区）が破産開始決定",
@@ -54,9 +56,7 @@
         "source": "新潟日報",
         "published_at": "2026-11-18 18:30"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -67,6 +67,8 @@
     "summary": "・株式会社ウッドワン（本社：広島県廿日市市、社長：中本祐昌）は、一般社団法人日本ウッドデザイン協会が主催する『ウッドデザイン賞2026』において、システムキッチンの扉に国産材の桧を使用した「su:iji（スイージー）」がプロダクツ分野のライフスタイルデザイン部門で優秀賞（林野庁長官賞）を受賞いたしました。\n・国産材の桧を活用したシステムキッチン「su:iji」が「ウッドデザイン賞2026」優秀賞を受賞。\n・【プロダクツ分野/その他の生活領域/ライフスタイルデザイン部門】　優秀賞（林野庁長官賞）。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 45,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "ウッドワンの「su:iji（スイージー）」が「ウッドデザイン賞2026」 優秀賞（林野庁長官賞）を受賞",
@@ -80,9 +82,7 @@
         "source": "広島県公式ホームページ",
         "published_at": "2026-11-18 14:58"
       }
-    ],
-    "importance_score": 45,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -93,9 +93,9 @@
     "summary": "・国際農林水産業研究センター（国際農研）の安部久 領域長（林業領域）は、日本大学の倉田洋平専任講師とともに近赤外研究会の奨励賞「NIR Advance Award 2026」を受賞し、11月13日に那覇市で授賞式が行われました。\n・近赤外分光法は農業分野で実用化の研究開発が始められた分析技術で、現在は農産物の非破壊検査だけでなく、医療、医薬品、食品、リモートセンシング等の幅広い分野で実用化されています。\n・安部領域長らは、近赤外分光法を木材分野に応用し、木質材料の樹種同定技術を開発したことが高く評価されました。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -106,9 +106,9 @@
     "summary": "・鳥取県の若桜町と八頭町を結ぶ若桜鉄道で、レールを支える枕木に国産木材を活用する実証試験が始まりました。\n・鉄道用の枕木は、これまで東南アジア産などの輸入材が主流でしたが、近年は輸入手続きの厳格化などにより安定調達が難しくなっています。\n・こうした状況を受け、林野庁は国産材を使った枕木の開発を進めていて、鳥取県林業試験場も事業に参画。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -119,6 +119,8 @@
     "summary": "・東京都は、森林・林業の役割や重要性の普及啓発を促進するとともに、森林を守り育てる林業技術者の認知度向上を図るため、森林・林業や森のめぐみを五感で感じることのできる体験型イベント「山しごと体感フェスティバル」を12月19日(土)、20日(日)の2日間、国営昭和記念公園にて開催します。\n・今年度も、東京の豊かな森のめぐみを、見て、触れて、五感で存分に感じられるコンテンツを多数準備中です。\n・イベントをさらに熱く盛り上げる豪華アンバサダー陣や、ステージ企画、各種プログラムの詳細につきましては、後日改めて発表いたしますので、続報にぜひご期待ください！",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "森林・林業の仕事に興味がある方必見！スギ丸太生産量35年連続日本一の宮崎県で「森林の仕事就業相談会」を12月2日（水）に開催します！ - 写真・画像(1/1)",
@@ -132,9 +134,7 @@
         "source": "毎日新聞",
         "published_at": "2026-11-18 10:23"
       }
-    ],
-    "importance_score": 39,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -145,6 +145,8 @@
     "summary": "・Wedge ONLINEに『1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと』という記事を書きました。\n・この森林ファンド計画についてはもちろん知っていたが、正直に言えば「え～、これ取り上げたら文句ばかり並べてしまいますよ」と返答した。\n・いや、林業が盛んになったら荒れる森林も出るでしょ、と私は考えてしまうのだ。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと（Wedge（ウェッジ））",
@@ -152,9 +154,7 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-18 05:05"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -165,6 +165,8 @@
     "summary": "・林業を取り巻く現状や課題について情報共有された懇談会。\n・【紋別】森林組合や林業関係者による西紋地区林業・林産業に関する懇談会が、紋別市内で開かれた。\n・担い手確保や森林機能に関する研究などについて情報交換が行われ、林業を取り巻く課題の解決を探った。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "紋別の林業、担い手確保へ懇談会 外国人材活用や若手育成を議論",
@@ -172,9 +174,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-18 14:48"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-18",
@@ -185,9 +185,9 @@
     "summary": "・極薄長財布「TIDY3.0 MANO」12月中旬発売。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -198,9 +198,9 @@
     "summary": "・「GXをやりたくなる世界」を目指し、環境価値を活用した経済循環を推進する株式会社バイウィル（本社：東京都中央区、代表取締役社長：下村 雄一郎、以下「バイウィル」）は、福島県南会津町（所在地：福島県南会津郡南会津町、町長：渡部 正義、以下「南会津町」）と連携して進めてきた森林クレジット創出プロジェクトにおいて、第70回J-クレジット制度認証委員会にて、正式に登録完了したことをお知らせします。\n・J-クレジットの創出には、まず森林管理計画などをもとにプロジェクト登録を行い、その後、一定期間の森林管理によるCO2吸収量をモニタリング・算定し、国による審査・認証を経て、クレジットが発行されます。\n・今回のプロジェクト登録により、南会津町が管理する森林は、J-クレジット創出に向けた対象森林として正式に登録されました。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -211,9 +211,9 @@
     "summary": "・2026年12月6日（日）、［京都府立林業大学校］で『第11回林大祭（学園祭）』が開催される。\n・触れて、見て、林業や木の魅力を再発見しよう。\n・■■第11回林大祭（学校祭）■■。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -247,15 +247,6 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "title": "「森林の仕事就業相談会」を開催します",
-    "url": "https://www.pref.miyazaki.lg.jp/sanson-mokuzai/press/2026/11/20261028105527.html",
-    "source": "宮崎県",
-    "published_at": "2026-11-18 08:02",
-    "related_articles": [],
-    "importance_score": 0,
-    "is_featured": false
   },
   {
     "article_date": "2026-11-18",
@@ -332,9 +323,19 @@
     "summary": "・愛媛県西条市に本社を置く西安建設（株）（安藤祐介社長）は、愛媛県（中村時広知事）との間で都市（まち）の木造化推進法に基づく建築物木材利用促進協定を10月28日に結んだ。\n・同社は、愛媛県産材を使った木造倉庫の普及を進めて脱炭素化に貢献する方針を打ち出している。\n・愛媛県は、昭和アステック（株）（東京都港区）及び（株）トヨタレンタリース西四国（松山市）との間で、都市（まち）の木造化推進法に基づく建築物木材利用促進協定を３月16日に締結した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "title": "「森林の仕事就業相談会」を開催します",
+    "url": "https://www.pref.miyazaki.lg.jp/sanson-mokuzai/press/2026/11/20261028105527.html",
+    "source": "宮崎県",
+    "published_at": "2026-11-18 08:02",
+    "importance_score": 0,
+    "is_featured": false,
+    "summary": "・「森林の仕事就業相談会」を開催します",
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -426,9 +427,10 @@
     "url": "https://wedge.ismedia.jp/articles/-/41293",
     "source": "Wedge ONLINE(ウェッジ・オンライン)",
     "published_at": "2026-11-18 05:00",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "summary": "・1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
