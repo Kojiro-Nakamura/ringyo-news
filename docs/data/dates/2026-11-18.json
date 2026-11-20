@@ -460,10 +460,17 @@
     "url": "https://wedge.ismedia.jp/articles/-/41293",
     "source": "Wedge ONLINE(ウェッジ・オンライン)",
     "published_at": "2026-11-18 05:00",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
     "summary": "・1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+        "url": "https://wedge.ismedia.jp/articles/-/41293?layout=b",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-18 05:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-18",

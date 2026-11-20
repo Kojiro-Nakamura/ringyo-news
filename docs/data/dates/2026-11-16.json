@@ -123,9 +123,9 @@
     "summary": "・「モクレポ～林産物に関するマンスリーレポート～」とは、木材需給、木材価格、木材産業の動向などに関するデータを集約・整理し、毎月定期的に公表しようとするものです。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-16",
@@ -136,6 +136,8 @@
     "summary": "・「ウッドデザイン賞2026」上位賞受賞作品が発表されました！(2026年11月10日) 「ウッドデザイン賞2026」受賞作品が発表されました！（2026年10月9日）。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 27,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ウッドデザイン賞上位賞32作品決定　新設の文部科学大臣賞は武庫川女子大",
@@ -143,9 +145,7 @@
         "source": "日刊木材新聞",
         "published_at": "2026-11-16 06:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-16",

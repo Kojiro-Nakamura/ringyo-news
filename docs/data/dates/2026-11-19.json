@@ -8,9 +8,9 @@
     "summary": "・10月に東京で吉野林業のシンポジウムが開かれることは知っていたが、わざわざ足を運ぶ元気もなく……と思っていたら、その概要を紹介していサイトがあった。\n・第1部で芳賀和樹法政大学准教授が吉野林業の歴史を紹介しているのだが、そこに『吉野林業全書』も登場する。\n・何に驚いたかといえば、1万部出版しているという数字だ。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-19",
@@ -47,7 +47,7 @@
     "summary": "・もちろんシラカンバもコメツガも天然更新であるから、造林費用は一切かかっていない。\n・このカラマツが北海道の風土にマッチしたと見えて、各所で天然更新が見られる。\n・日高山系の東側のカラマツ造林地では、皆伐後に再造林をしなくても天然更新でカラマツ林になるような場所も見られる。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 69,
+    "importance_score": 99,
     "is_featured": true,
     "related_articles": [
       {
@@ -73,6 +73,18 @@
         "url": "https://wedge.ismedia.jp/articles/-/41304?page=2",
         "source": "Wedge ONLINE(ウェッジ・オンライン)",
         "published_at": "2026-11-19 11:31"
+      },
+      {
+        "title": "森林が〝復活〟する天然更新のさまざまな姿…硬直的な林業への新風、新たな商材の発掘にも（Wedge（ウェッジ））",
+        "url": "https://news.yahoo.co.jp/articles/b5b070711a328e12d539a1cfbd567c0cb061371c?page=3",
+        "source": "Yahoo!ニュース",
+        "published_at": "2026-11-19 11:33"
+      },
+      {
+        "title": "森林が〝復活〟する天然更新のさまざまな姿…硬直的な林業への新風、新たな商材の発掘にも",
+        "url": "https://wedge.ismedia.jp/articles/-/41304?page=4&layout=b",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-19 11:31"
       }
     ]
   },
@@ -85,13 +97,19 @@
     "summary": "・岡山県は、12月12日に開催する「林業就業ガイダンス」の参加者を募集しています。\n・林業の担い手を確保するために実施するもので、県内での就業を検討している人が対象です。\n・会場は岡山県森林組合連合会（岡山市北区楢津）です。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "importance_score": 21,
-    "is_featured": false,
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "林業の担い手を確保　岡山県が「林業就業ガイダンス」の参加者募集",
         "url": "https://news.infoseek.co.jp/article/ksb_17063162/",
         "source": "Infoseek",
+        "published_at": "2026-11-19 11:11"
+      },
+      {
+        "title": "林業の担い手を確保 岡山県が「林業就業ガイダンス」の参加者募集",
+        "url": "https://news.ksb.co.jp/article/17063162",
+        "source": "KSBニュース",
         "published_at": "2026-11-19 11:11"
       }
     ]
@@ -105,6 +123,8 @@
     "summary": "・伊勢新聞社の政経懇話会11月例会は18日、三重県津市新町のプラザ洞津であり、森林ジャーナリストの田中淳夫氏が「『林業振興』の虚と実」と題して講演した。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 30,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "林業復活「建設業との分断解消が必要」 森林ジャーナリスト田中氏が講演 本紙政経懇話会",
@@ -118,9 +138,40 @@
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-19 08:01"
       }
+    ]
+  },
+  {
+    "article_date": "2026-11-19",
+    "title": "再造林等のスマート化に取り組む林業事業者の募集（第2回）を開始します",
+    "url": "http://www.pref.kagoshima.jp/ad12/saizourinsmart_koubo2.html",
+    "source": "鹿児島県公式ホームページ",
+    "published_at": "2026-11-19 10:54",
+    "summary": "・再造林等の作業において、通常使用していない新たな機械や器具等を活用し、低コスト化、省力化又は軽労化に資する取組。\n・対象となる取組、補助対象経費、申請者の応募要件、補助金額、応募方法、事業実施の流れ等については、以下の応募要領によりご確認ください。\n・令和8年度再造林のスマート化加速事業応募要領（PDF：348KB）。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-19",
+    "title": "森林・林業の仕事に興味がある方必見！スギ丸太生産量35年連続日本一の宮崎県で「森林の仕事就業相談会」を12月2日（水）に開催します！",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000250_000115850/",
+    "source": "Infoseek",
+    "published_at": "2026-11-19 09:10",
+    "summary": "・未経験からのチャレンジを応援！気軽に立ち寄れる相談会です。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [
+      {
+        "title": "未経験からのチャレンジ応援「森林の仕事就業相談会」開催 宮崎県",
+        "url": "https://www.jacom.or.jp/articles/n8jMWiMD9O0kEzfBuPj9j",
+        "source": "JAcom 農業協同組合新聞",
+        "published_at": "2026-11-19 00:00"
+      }
     ],
-    "importance_score": 30,
-    "is_featured": true
+    "importance_score": 15,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-19",
@@ -132,7 +183,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 27,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "全木連・全木協連の副会長に小坂善太郎・前林野庁長官が就任【人事・消息】",
@@ -333,19 +384,6 @@
     "summary": "・この過程で生じる未利用の間伐材などで積み木を作り、18日、吉川市内の幼稚園に贈りました。\n・18日は、吉川市美南の「吉川ムサシノ幼稚園」に県トラック協会環境対策委員会の池永和義委員長らが訪れ、園児たちに県産のヒノキで作った積み木5セットを手渡しました。\n・さらに子どもたちに木のぬくもりを通して自然を大切にする気持ちを培ってもらおうと2021年から森林整備の過程で生じた未利用の間伐材を積み木に加工し、保育園と幼稚園に贈っています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-19",
-    "title": "未経験からのチャレンジ応援「森林の仕事就業相談会」開催 宮崎県",
-    "url": "https://www.jacom.or.jp/articles/n8jMWiMD9O0kEzfBuPj9j",
-    "source": "JAcom 農業協同組合新聞",
-    "published_at": "2026-11-19 00:00",
-    "summary": "・宮崎県は12月2日、森林・林業の仕事に興味がある人に向けて「森林の仕事就業相談会」を開催。\n・スギ丸太生産量35年連続日本一の宮崎県で林業未経験からのチャレンジを応援する。\n・相談会では、「自然の中で体を動かす仕事に興味があるけれど、未経験からでも大丈夫かな？」 「林業って、実際にどんなことをするんだろう？」 そんな疑問や、一歩を踏み出したいという気持ちを応援する。",
-    "summary_type": "auto",
-    "category": "流通・市場",
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
