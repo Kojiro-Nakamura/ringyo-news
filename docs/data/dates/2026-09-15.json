@@ -22,7 +22,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": []
   },
   {
@@ -37,6 +37,19 @@
     "importance_score": 21,
     "is_featured": true,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-09-15",
+    "title": "太良町と鹿島市、多良岳の森林保護へ CO2吸収量販売事業スタート 排出量減検討の企業にPR",
+    "url": "https://www.saga-s.co.jp/articles/-/1791367",
+    "source": "佐賀新聞",
+    "published_at": "2026-09-15 16:00",
+    "summary": "・太良町と鹿島市は、多良岳の森林を守る活動を企業が支える仕組みを構築した。\n・太良町と鹿島市は、二酸化炭素吸収量の販売事業に乗り出した＝太良町（町提供）。\n・鹿島市は、佐賀銀行の協力を得て、クレジットを購入してCO2排出量を減らすことを考えている企業をリサーチし、太良町に紹介していく。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-09-15",

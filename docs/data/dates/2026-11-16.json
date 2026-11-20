@@ -40,7 +40,7 @@
     "summary": "・「デジタル林業」八ヶ岳南麓を拠点に 山梨・長野のコンソーシアムがICT技術の活用検討。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 60,
+    "importance_score": 75,
     "is_featured": true,
     "related_articles": [
       {
@@ -64,6 +64,12 @@
       {
         "title": "「デジタル林業」八ヶ岳南麓を拠点に 山梨・長野のコンソーシアムがICT技術の活用検討",
         "url": "https://news.ntv.co.jp/n/ybs/category/economy/ys1c66d5a1c9e04fb69943228c3c3ea147",
+        "source": "日テレNEWS NNN",
+        "published_at": "2026-11-16 19:01"
+      },
+      {
+        "title": "「デジタル林業」八ヶ岳南麓を拠点に 山梨・長野のコンソーシアムがICT技術の活用検討",
+        "url": "https://news.ntv.co.jp/category/economy/ys1c66d5a1c9e04fb69943228c3c3ea147",
         "source": "日テレNEWS NNN",
         "published_at": "2026-11-16 19:01"
       }
@@ -107,6 +113,39 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-16",
+    "title": "モクレポ～林産物に関するマンスリーレポート～",
+    "url": "https://www.rinya.maff.go.jp/j/kikaku/toukei/monthlyreport.html",
+    "source": "林野庁ホームページ",
+    "published_at": "2026-11-16 17:00",
+    "summary": "・「モクレポ～林産物に関するマンスリーレポート～」とは、木材需給、木材価格、木材産業の動向などに関するデータを集約・整理し、毎月定期的に公表しようとするものです。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-16",
+    "title": "ウッドデザイン賞",
+    "url": "https://www.rinya.maff.go.jp/j/riyou/kidukai/con_6.html",
+    "source": "林野庁ホームページ",
+    "published_at": "2026-11-16 17:00",
+    "summary": "・「ウッドデザイン賞2026」上位賞受賞作品が発表されました！(2026年11月10日) 「ウッドデザイン賞2026」受賞作品が発表されました！（2026年10月9日）。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "ウッドデザイン賞上位賞32作品決定　新設の文部科学大臣賞は武庫川女子大",
+        "url": "https://jfpj.jp/mokuzai_news/45669",
+        "source": "日刊木材新聞",
+        "published_at": "2026-11-16 06:00"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-16",
@@ -294,19 +333,6 @@
     "summary": "・リージョナルパワー（広島県呉市）は10日、中国木材能代工場（秋田県能代市）内に建設した「リージョナルパワーバイオマス発電所（能代１号）」の火入れ式を行った。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-16",
-    "title": "ウッドデザイン賞上位賞32作品決定　新設の文部科学大臣賞は武庫川女子大",
-    "url": "https://jfpj.jp/mokuzai_news/45669",
-    "source": "日刊木材新聞",
-    "published_at": "2026-11-16 06:00",
-    "summary": "・日本ウッドデザイン協会は10日、「ウッドデザイン賞2026」の最優秀賞５作品をはじめとする上位32作品を決定し公表した。",
-    "summary_type": "auto",
-    "category": "業界・一般",
     "importance_score": 9,
     "is_featured": false,
     "related_articles": []

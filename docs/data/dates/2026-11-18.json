@@ -8,9 +8,9 @@
     "summary": "・三重県内の森林組合の現場職員（きこり）たちが技を競う第12回みえチェーンソー技術競技大会（同大会実行委員会主催）が、14日午前10時から多気郡多気町ヴィソンのVISON木と森の体験施設kiond（キオンド）芝生広場で開催された。\n・3種目の総合得点で競い合うもので、県内の6森林組合から12人が出場し、松阪飯南森林組合（松阪市飯南町粥見）の松山伊吹さん（33）＝同市川井町＝が総合2位で準優勝した。\n・翌年からは三重県森林組合連合会内に事務局を置く実行委員会が主催して毎年実施し、今回で12回目となった。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-18",
@@ -67,12 +67,18 @@
     "summary": "・木造建築工事業のマルチネット工販（新潟市北区）が、１１月１０日に新潟地裁より破産開始決定を受けたことが１８日、分かった。\n・あなたが知りたい新潟のニュースがつまっています。\n・新潟日報の確かな情報を手軽にご利用いただけます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 27,
-    "is_featured": false,
+    "importance_score": 42,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "［倒産情報］木造建築工事業の「マルチネット工販」（新潟市北区）が破産開始決定",
         "url": "https://www.niigata-nippo.co.jp/articles/-/945130",
+        "source": "新潟日報",
+        "published_at": "2026-11-18 18:30"
+      },
+      {
+        "title": "［倒産情報］木造建築工事業の「マルチネット工販」（新潟市北区）が破産開始決定",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lVDRxaGZtTDVPTnl1VWsxUUNKM3pWZGlFSWFncFVibzB6Z2c2cTZxQ0NOLTBCY1RFSjdfUmRQUld3bGZXeDE2UloyYVdfeWhWTURXNE50UkZyRldIZ2c?oc=5",
         "source": "新潟日報",
         "published_at": "2026-11-18 18:30"
       }
@@ -113,6 +119,8 @@
     "summary": "・鳥取県の若桜町と八頭町を結ぶ若桜鉄道で、レールを支える枕木に国産木材を活用する実証試験が始まりました。\n・こうした状況を受け、林野庁は国産材を使った枕木の開発を進めていて、鳥取県林業試験場も事業に参画。\n・実証試験は今後、約5年かけて行われる予定で枕木の損傷や腐食の状況、金具の緩みなどを検証し、実用化の可能性を判断することにしています。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 30,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "若桜鉄道の「枕木」に国産材活用へ　ヒノキ積層材で実証実験　東南アジア産安定調達の困難さ背景（鳥取）",
@@ -120,9 +128,7 @@
         "source": "ｄメニューニュース",
         "published_at": "2026-11-18 17:15"
       }
-    ],
-    "importance_score": 30,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-18",
