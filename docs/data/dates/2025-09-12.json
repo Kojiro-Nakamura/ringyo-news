@@ -8,7 +8,7 @@
     "summary": "・令和3（2021）年は、国内の住宅需要が回復する中で、米国における住宅着工の増加による木材需要の高まりや海上輸送の混乱等により、我が国において輸入木材の不足・価格高騰（＊11）が発生した。\n・（＊11）令和3（2021）年における輸入木材の不足・価格高騰については、「令和3年度森林及び林業の動向」特集1第1節10-14ページを参照。\n・（＊12）農林水産省「令和6年木材需給報告書」。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 42,
+    "importance_score": 57,
     "is_featured": true,
     "related_articles": [
       {
@@ -22,6 +22,12 @@
         "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap3_3_2.html",
         "source": "林野庁ホームページ",
         "published_at": "2025-09-12 00:59"
+      },
+      {
+        "title": "第1部 第1章 第2節 森林整備の動向（6）",
+        "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r6hakusyo_h/all/chap1_2_6.html",
+        "source": "林野庁ホームページ",
+        "published_at": "2025-09-12 01:30"
       }
     ]
   }

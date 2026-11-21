@@ -34,9 +34,16 @@
     "summary": "・小田急不動産、箱根・湯河原の森林由来J-クレジット100t-CO2を購入 民間企業として初、森林保全を支援。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "森林由来Ｊ‐クレジット活用で箱根・湯河原の森林保全を支援",
+        "url": "https://prtimes.jp/main/html/rd/p/000000150.000054964.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-09 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-09",
@@ -120,7 +127,7 @@
     "summary_type": "auto",
     "category": "業界・一般",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "2027年オリジナルカレンダー「住友林業の森」 抽選で400名様にプレゼント",

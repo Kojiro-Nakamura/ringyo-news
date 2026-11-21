@@ -149,9 +149,9 @@
     "summary": "・再造林等の作業において、通常使用していない新たな機械や器具等を活用し、低コスト化、省力化又は軽労化に資する取組。\n・対象となる取組、補助対象経費、申請者の応募要件、補助金額、応募方法、事業実施の流れ等については、以下の応募要領によりご確認ください。\n・令和8年度再造林のスマート化加速事業応募要領（PDF：348KB）。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-19",
@@ -162,6 +162,8 @@
     "summary": "・未経験からのチャレンジを応援！気軽に立ち寄れる相談会です。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 15,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "未経験からのチャレンジ応援「森林の仕事就業相談会」開催 宮崎県",
@@ -169,9 +171,7 @@
         "source": "JAcom 農業協同組合新聞",
         "published_at": "2026-11-19 00:00"
       }
-    ],
-    "importance_score": 15,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-19",
