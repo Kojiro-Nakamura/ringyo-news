@@ -132,6 +132,8 @@
     "summary": "・人工林伐採後の再造林率が87％に上昇 県が目標90％を掲げる日本一挑戦プロジェクト。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 48,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "人工林伐採後の再造林率が87％に上昇 県が目標90％を掲げる日本一挑戦プロジェクト",
@@ -151,9 +153,7 @@
         "source": "UMKテレビ宮崎",
         "published_at": "2026-11-17 12:00"
       }
-    ],
-    "importance_score": 48,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-17",
@@ -187,6 +187,19 @@
         "published_at": "2026-11-17 05:05"
       }
     ]
+  },
+  {
+    "article_date": "2026-11-17",
+    "title": "山の木を猫の暮らしへ。製材から始めるキャットウォーク家具づくり",
+    "url": "https://camp-fire.jp/projects/969121/view?list=prefecture_hyogo_projects_popular",
+    "source": "CAMPFIRE (キャンプファイヤー)",
+    "published_at": "2026-11-17 10:25",
+    "summary": "・風林舎を一緒に立ち上げたのは、長年家具づくりをしてきた迎山直樹さんと、山で伐採の仕事をしている持木良太さんです。\n・そして今、私たちは佐用町の山から木を伐り、自分たちで製材し、その木の形をできるだけ残した家具をつくろうとしています。\n・簡易製材機を導入し、伐採から製材、家具づくりまでを自分たちの手でつなぎ、山の木が暮らしへ届く小さな循環を育てます。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-17",

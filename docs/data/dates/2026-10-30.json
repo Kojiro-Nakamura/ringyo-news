@@ -166,6 +166,8 @@
     "summary": "・昨年度、宮崎県内で人工林を伐採したあとに苗木を植えた割合を示す「再造林率」は、前の年度より上昇し、87%でした。\n・「再造林率」は、スギなどの人工林を伐採した跡地に、苗木を植えた割合を示したものです。",
     "summary_type": "auto",
     "category": "森林管理・地域",
+    "importance_score": 66,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "宮崎県の「再造林率」87％に 前年度比8ポイント上昇（MRT宮崎放送）",
@@ -191,9 +193,7 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-10-30 12:07"
       }
-    ],
-    "importance_score": 66,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-10-30",
