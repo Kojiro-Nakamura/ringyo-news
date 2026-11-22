@@ -47,13 +47,19 @@
     "summary": "・18日各地で鉄道イベントが行われました。\n・出雲市では園児が運転を体験、米子市で始まったのは鉄道のまちサミット。\n・鳥取県若桜町では線路に国産木材を使った枕木が設置されました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 24,
-    "is_featured": false,
+    "importance_score": 39,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "各地で鉄道イベント「園児が列車運転体験」「鉄道のまちサミット」「国産材の枕木設置」体験運転は製造から100年近く「デハニ50形」",
         "url": "https://newsdig.tbs.co.jp/articles/-/3095921",
         "source": "TBS NEWS DIG",
+        "published_at": "2026-11-18 18:25"
+      },
+      {
+        "title": "各地で鉄道イベント「園児が列車運転体験」「鉄道のまちサミット」「国産材の枕木設置」体験運転は製造から100年近く「デハニ50形」",
+        "url": "https://topics.smt.docomo.ne.jp/article/bss/region/bss-3095921",
+        "source": "ｄメニューニュース",
         "published_at": "2026-11-18 18:25"
       }
     ]
@@ -159,7 +165,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 39,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "森林・林業の仕事に興味がある方必見！スギ丸太生産量35年連続日本一の宮崎県で「森林の仕事就業相談会」を12月2日（水）に開催します！ - 写真・画像(1/1)",
@@ -466,13 +472,19 @@
     "url": "https://wedge.ismedia.jp/articles/-/41293",
     "source": "Wedge ONLINE(ウェッジ・オンライン)",
     "published_at": "2026-11-18 05:00",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": false,
     "summary": "・1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
     "related_articles": [
       {
         "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
         "url": "https://wedge.ismedia.jp/articles/-/41293?layout=b",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-18 05:00"
+      },
+      {
+        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+        "url": "https://wedge.ismedia.jp/articles/-/41293?page=3&layout=b",
         "source": "Wedge ONLINE(ウェッジ・オンライン)",
         "published_at": "2026-11-18 05:00"
       }
