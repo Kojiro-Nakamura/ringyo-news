@@ -21,9 +21,9 @@
     "summary": "・木造建築や林業を学ぶ研修会が２０日、鹿児島市であった。\n・県内の製材業者や施工業者、大学院生ら約３０人が製材の加工、流通といった工程を確認し、製材業の課題を探った。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-20",
@@ -60,9 +60,16 @@
     "summary": "・11/13〜11/20の5営業日で株価は1,271円から1,092.5円へ14.0％下落。\n・11/13〜11/16に日系・大手証券が目標株価を1,490円、1,350円へ相次ぎ引き下げ。\n・住友林業(株)【1911】の株価、チャート、最新の関連ニュース、掲示板、みんなの評価などをご覧いただけます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 6,
-    "is_featured": false
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "住友林業(株)【1911】：掲示板",
+        "url": "https://finance.yahoo.co.jp/quote/1911.T/forum",
+        "source": "Yahoo!ファイナンス",
+        "published_at": "2026-11-20 17:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-20",
@@ -86,9 +93,9 @@
     "summary": "・行政・団体宮崎県は19日、原油由来の梱包資材の価格高騰によって経営負担が増している県内の製材事業者を対象に、「製材品梱包資材高騰対策緊急支援事業」の募集を発表した。\n・補助対象は、県内で製造・加工され、県内外に出荷される製材品に使用する原油由来の梱包資材。\n・価格高騰による経費上昇分の2分の1相当を支援する趣旨で、補助額は製材品の出荷量1立方メートル当たり20円の定額とする。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-20",
@@ -138,13 +145,19 @@
     "summary": "・フェノール合板は、複数枚の天然木単板をフェノール樹脂接着剤で積層し、加熱・加圧して一体化したエンジニアードウッドパネルです。\n・LP Information調査チームの「世界フェノール合板市場の成長予測2026～2032」によれば、世界のフェノール合板市場規模は2025年に14,697.50百万米ドル、2026年に15,402.98百万米ドルとなる見込みです。\n・製品タイプは、無塗装フェノール接着合板、平滑フェノールフィルム合板、テクスチャー付きフェノールフィルム合板に区分されます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 24,
+    "importance_score": 39,
     "is_featured": true,
     "related_articles": [
       {
         "title": "フェノール合板市場規模マップ＋シェア＋フレームワーク",
         "url": "https://newscast.jp/smart/news/8170566",
         "source": "Newscast.jp",
+        "published_at": "2026-11-20 09:57"
+      },
+      {
+        "title": "フェノール合板市場規模マップ＋シェア＋フレームワーク",
+        "url": "https://www.atpress.ne.jp/news/8170566",
+        "source": "アットプレス",
         "published_at": "2026-11-20 09:57"
       }
     ]
@@ -159,7 +172,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

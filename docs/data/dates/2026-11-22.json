@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-11-22",
+    "title": "長野・根羽村、林野庁「森業アワード」準グランプリに 上下流域の連携評価：ニュース",
+    "url": "https://biz.chunichi.co.jp/news/article/10/133615/",
+    "source": "中日BIZナビ",
+    "published_at": "2026-11-22 23:29",
+    "summary": "・環境保全や癒やしといった森林の価値を生かした各種活動を顕彰するため林野庁が本年度初めて企画した「森業（もりぎょう）アワード」で、長野県根羽村が準グランプリ（林野庁長官賞）を獲得した。\n・協力して活動する愛知県安城市や村森林組合、一般社団法人「ねばのもり」（根羽村）との共同応募。\n・上下流域を「運命共同体」と捉え、中長期にわたり連携している点などが評価された。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-22",
     "title": "無免許で酒酔い運転か 自称・林業の男を逮捕 福岡県内で飲酒運転相次ぐ（FBS福岡放送）",
     "url": "https://news.yahoo.co.jp/articles/946c06cf0934531f3becc78fcdbfac5d5a032724",
     "source": "Yahoo!ニュース",
@@ -8,16 +21,22 @@
     "summary": "・22日、福岡県内で飲酒運転が相次ぎ、20代と30代の男3人が逮捕されました。\n・警察によりますと、22日午前0時すぎ、福岡県太宰府市五条で、「飲酒運転と思われる広島ナンバーの車が福岡方面に走っていた」と、目撃した男性から通報がありました。\n・福岡県内ではこのほか、酒酔い運転の疑いで、北九州市八幡西区の自称・解体業、石津嶺容疑者（25）が、酒気帯び運転の疑いで、久留米市の自称・美容師、佐野力飛容疑者（25）が22日に現行犯逮捕されています。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "無免許で酒酔い運転の疑い 自称・林業の男を逮捕「ビールとハイボールを飲んだ」（RKB毎日放送）",
         "url": "https://news.yahoo.co.jp/articles/56ecc2e555b4bd9c71dbe06999b03a5ae6c5d2ab",
         "source": "Yahoo!ニュース",
         "published_at": "2026-11-22 12:32"
+      },
+      {
+        "title": "無免許で酒酔い運転の疑い 自称・林業の男を逮捕「ビールとハイボールを飲んだ」",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3103934",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-22 12:24"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-22",
