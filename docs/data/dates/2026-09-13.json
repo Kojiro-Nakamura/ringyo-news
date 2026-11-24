@@ -14,6 +14,19 @@
   },
   {
     "article_date": "2026-09-13",
+    "title": "第1部 トピックス",
+    "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r7hakusyo_h/all/topics.html",
+    "source": "林野庁ホームページ",
+    "published_at": "2026-09-13 01:42",
+    "summary": "・第1部 トピックス。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-09-13",
     "title": "第1部 第3章 第1節 木材需給の動向（3）",
     "url": "https://www.rinya.maff.go.jp/j/kikaku/hakusyo/r7hakusyo_h/all/chap3_1_3.html",
     "source": "林野庁ホームページ",
@@ -22,7 +35,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": false,
+    "is_featured": true,
     "related_articles": []
   }
 ]

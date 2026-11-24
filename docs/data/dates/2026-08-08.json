@@ -8,8 +8,15 @@
     "summary": "・日本の森林のCO2吸収量は想定の2倍、排出量の17%相当 スギ貢献。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 15,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "日本の森林のCO2吸収量は想定の2倍、排出量の17%相当 スギ貢献",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4N2w0LWczYVFFaXBwVnc1U0RkelRyT0JNUl9vTUxFZHZpMkMzOGtYZ21FWXFTM0FBUDNuUXJ0WUNDTU9BazlrejkzVlVpOXJPalZPVVFyS0REOVdURjlLNTBCTExUaUlQUjRpUQ?oc=5",
+        "source": "日本経済新聞",
+        "published_at": "2026-08-08 16:00"
+      }
+    ]
   }
 ]

@@ -60,7 +60,7 @@
     "summary": "・11/13〜11/20の5営業日で株価は1,271円から1,092.5円へ14.0％下落。\n・11/13〜11/16に日系・大手証券が目標株価を1,490円、1,350円へ相次ぎ引き下げ。\n・住友林業(株)【1911】の株価、チャート、最新の関連ニュース、掲示板、みんなの評価などをご覧いただけます。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 21,
+    "importance_score": 51,
     "is_featured": true,
     "related_articles": [
       {
@@ -68,6 +68,18 @@
         "url": "https://finance.yahoo.co.jp/quote/1911.T/forum",
         "source": "Yahoo!ファイナンス",
         "published_at": "2026-11-20 17:00"
+      },
+      {
+        "title": "住友林業(株)【1911】：決算情報",
+        "url": "https://finance.yahoo.co.jp/quote/1911.T/financials",
+        "source": "Yahoo!ファイナンス",
+        "published_at": "2026-11-20 17:00"
+      },
+      {
+        "title": "住友林業(株)【1911】：今の株価の理由は？値動きの背景をAIが解説",
+        "url": "https://finance.yahoo.co.jp/quote/1911.T/ai-topics",
+        "source": "Yahoo!ファイナンス",
+        "published_at": "2026-11-20 15:58"
       }
     ]
   },
@@ -106,9 +118,16 @@
     "summary": "・公益社団法人大日本山林会「第65回農林水産祭参加全国林業経営推奨行事賞状伝達贈呈式」及び祝賀パーティーご臨席（イイノカンファレンスセンター／東京都千代田区）。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "公益社団法人大日本山林会「第65回農林水産祭参加全国林業経営推奨行事賞状伝達贈呈式」及び祝賀パーティーご臨席（イイノカンファレンスセンター／東京都千代田区）",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXRHS1Q4emhjc1ZQLTROTnhIbkFLN2xqeEpwTEQyUi1VQnpTQXRESm5JNXZZYjB0bWlUTWRVMF9CbEpiaUtvRXpkRlYtLWdwM1ZiVTMzcTZKY0ZKYklBRE1zZlUyblZabnlBbm9UclIzZmJDM29sUlJlTW5QSzRMWHZWUQ?oc=5",
+        "source": "宮内庁",
+        "published_at": "2026-11-20 14:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-20",

@@ -60,9 +60,16 @@
     "summary": "・静岡県公式ホームページ。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 15,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "令和8年度森林・林業先端技術セミナー『Innovation PowerWeek』を開催中です。",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckZCUnJJME5KQXk3ekdmNE8ybGV3Z0QxdmlaQmJyTUZjbFNyd2xTM0FaSWZXLTZDT1R6OE90aXI1WlNoQkVNM0lZdU92ZktVRVJhRmRfR2JuNnNXVTFyd0I2VVZSYmsxcXNRVnJ6aGstcU1IMkZqUWFZTTRHQVUwY21ZRm9YVFVJSzZENXJJTHgtcW1DWGxMdQ?oc=5",
+        "source": "静岡県公式ホームページ",
+        "published_at": "2026-10-06 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-10-06",
@@ -74,7 +81,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {

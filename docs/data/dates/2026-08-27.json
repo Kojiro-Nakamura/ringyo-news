@@ -8,9 +8,16 @@
     "summary": "・合理化計画等の計画を作成し、認定を受けた場合に利用ができます。\n・資金は当資金を取り扱う金融機関を通じて借り受けます。\n・※北海道では短期貸付（償還期限1年以内）のみの取扱いとなっております。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "木材産業等高度化推進資金",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jeF9DQWZmOGhLRjNWbFRQR3pVaGNQSklsMHZ6b1pEQjVpd3NQeVFCQ2RtLWo1RGNGb2hCdzUtTHhYT3p1RDJiaTNFY19wNFZsS2oyMVdwMVBKWEZfZFhnOUNOWVhnb3BHX3c?oc=5",
+        "source": "北海道のホームページ",
+        "published_at": "2026-08-27 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-08-27",
@@ -22,7 +29,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   }
 ]

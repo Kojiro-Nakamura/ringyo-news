@@ -8,9 +8,16 @@
     "summary": "・PDF形式のファイルをご覧いただく場合には、Adobe社が提供するAdobe Readerが必要です。\n・Adobe Readerをお持ちでない方は、バナーのリンク先からダウンロードしてください。\n・Copyright © 2018 Hiroshima Prefecture. All rights reserved.。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 21,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "広島県の林業職の採用について",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02c0VvMzJvaGdKR1c5eGhUU1JVbXN2cEVBY25TV25KTjdvRHVsUVVBLWVfak93d0hEZl9Sa2NUUmo1aWNWeGswWDVEUm1sUzA0N01WOTBYazRyMGVZUW00NWh5SGQwNy10bTJKQzhabw?oc=5",
+        "source": "広島県公式ホームページ",
+        "published_at": "2026-09-25 16:00"
+      }
+    ]
   },
   {
     "article_date": "2026-09-25",
@@ -74,7 +81,7 @@
     "summary_type": "auto",
     "category": "流通・市場",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   }
 ]
