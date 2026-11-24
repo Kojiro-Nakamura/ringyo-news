@@ -1,6 +1,85 @@
 [
   {
     "article_date": "2026-11-24",
+    "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）（テレビユー山形）",
+    "url": "https://news.yahoo.co.jp/articles/94df955edcd024c8129f2ccb6cbc87469e376fb6",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-24 18:43",
+    "summary": "・山形県内の農林水産業の振興と発展に功績があった人をたたえる、県農業賞・林業賞・水産業賞の表彰式が、きょう（24日）山形市で行われました。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [
+      {
+        "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）",
+        "url": "https://newsdig.tbs.co.jp/articles/tuy/3107899",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-24 18:42"
+      }
+    ],
+    "importance_score": 18,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円",
+    "url": "https://portal.uqmobile.jp/detail/1/2/5/10207_5_r_20261124_1795510426979860",
+    "source": "UQライフ",
+    "published_at": "2026-11-24 17:40",
+    "summary": "・木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [
+      {
+        "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円｜経済｜富山のニュース｜富山新聞",
+        "url": "https://www.hokkoku.co.jp/articles/-/2299946",
+        "source": "北國新聞",
+        "published_at": "2026-11-24 17:40"
+      },
+      {
+        "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円",
+        "url": "https://www.47news.jp/15279154.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-24 17:40"
+      }
+    ],
+    "importance_score": 33,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "解体・再利用可能な木造建築群がつむぐ新たな都市。BIGとアウグスト＋マルグリート・クンツェルが手がけるスイスの〈ジーゲンターラーグート都市地区〉",
+    "url": "https://mag.tecture.jp/culture/20261124-siegenthalergut-urban-district/",
+    "source": "TECTURE MAG",
+    "published_at": "2026-11-24 11:14",
+    "summary": "・BIGがスペイン・マドリードに手がけた、世界的アーティストの12の公演を彩る185,000m²の仮設都市〈マコンド・パーク〉。\n・スイス・トゥーンに、ビャルケ・インゲルス率いる建築家集団BIGとアウグスト＋マルグリート・クンツェルが手がける新たな開発エリア〈ジーゲンターラーグート都市地区〉の主要区画が発表されました。\n・2棟のホテル、住宅棟、商業施設を内包する4棟の木造建築群からなる、新たな都市のゲートウェイとして設計されています。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 15,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "フォレストヴィラホームが「CLT純木造5階建て本社の構造見学会」",
+    "url": "https://souken.craft-bank.com/trend/forest-v/",
+    "source": "クラフトバンク総研",
+    "published_at": "2026-11-24 09:48",
+    "summary": "・フォレストヴィラホーム（福岡市南区）は、11月19日・20日に日本CLT技術研究所と共同で「CLT純木造5階建て本社の構造見学会」を開催した。\n・見学会は、現在建設中である同社の新社屋にて、CLTパネル工法を活用した構造躯体や設計・施工などを紹介するイベント。\n・当日は50人近くの来場者が足を運び、新築工事の構造見学を行った。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "フォレストヴィラホーム　日本初のCLT工法純木造５階建て新社屋",
+        "url": "https://jfpj.jp/mokuzai_news/45726",
+        "source": "日刊木材新聞",
+        "published_at": "2026-11-24 06:00"
+      }
+    ],
+    "importance_score": 27,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-24",
     "title": "東急／住友林業／再生建築研究所 築170年の古民家中心とした複合施設「新綱島MICCA」開業",
     "url": "https://htonline.sohjusha.co.jp/735-052/",
     "source": "Housing Tribune Online",
@@ -8,9 +87,9 @@
     "summary": "・東急／住友林業／再生建築研究所 築170年の古民家中心とした複合施設「新綱島MICCA」開業。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -21,9 +100,9 @@
     "summary": "・農林中央金庫（農林中金、東京都千代田区）は、新たに「J-クレジット預金」の取り扱いを始めた（11月19日に発表）。\n・預金者がJ-クレジット保有口座を開設する必要はなく、農林中金が所要の手続きを行う。\n・同預金では、「FC BACE」の実績も活かしながら、今年度（2026年度）は数百ｔ、将来的には年間１万ｔのJ－クレジット創出とオフセット利用を目指すことにしている。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -34,8 +113,21 @@
     "summary": "・滋賀県の高島市は、12月３日（木）午後２時から京都府京都市のTKPガーデンシティ京都タワーホテルで「森林セラピー×官民連携フォーラム」を開催する。\n・（株）官民連携研究所代表取締役の鷲見英氏と一般社団法人more trees事務局長の水谷伸吉氏が講演し、トークセッションを行う。\n・離島を除いて全国で最も人口が少ない奈良県の野迫川村（吉井善嗣村長）は、10月２日にモア・トゥリーズ（more trees、東京都渋谷区、隈研吾代表）との間で「森林保全および地域活性化に関する連携協定。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "和歌山県林業試験場が無花粉スギ品種を開発、関西地区で初めて",
+    "url": "https://rinseinews.com/news/28145",
+    "source": "林政ニュース",
+    "published_at": "2026-11-24 09:00",
+    "summary": "・和歌山県林業試験場（和歌山県上富田町）は、富山県森林研究所（富山県立山町）及び林木育種センター関西育種場（岡山県勝央町）と共同で、同県の精英樹に由来する無花粉スギ品種を開発した（10月30日に発表）。\n・その結果、９月 16 日に開催された今年度（2026年度）の第１回林木育種センター優良品種・技術評価委員会で、開発された和富西不稔スギ１号から７号の計７系統が無花粉スギの系統であると認められた。\n・森林研究・整備機構の森林総合研究所森林バイオ研究センター（茨城県日立市）において、世界で初めて開発したスギのゲノム編集技術を用いて無花粉スギを育種する研究施設の見学会が11月16日に開催された。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 24,
     "is_featured": true
   },
   {
@@ -47,22 +139,9 @@
     "summary": "・住友林業(東京都千代田区、光吉敏郎社長)が5日に発表した2026年12月期第3四半期の連結業績は、売上高1兆9785億円(前年同期比21・1%増)、営業利益996億円(同19・3%減)、経常利益772億円(同39・7%減)、最終利益397億円(同43・6%減)の増収減益だった。\n・セグメント別の業績は、全セグメントで増収減益だった。\n・国内住宅事業は、売上高4084億円(同5・3%増)、経常利益228億円(同10・7%減)、経常利益率5・6%(同1・0ポイント下落)。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-24",
-    "title": "フォレストヴィラホーム　日本初のCLT工法純木造５階建て新社屋",
-    "url": "https://jfpj.jp/mokuzai_news/45726",
-    "source": "日刊木材新聞",
-    "published_at": "2026-11-24 06:00",
-    "summary": "・フォレストヴィラホーム（福岡市）は、同社新社屋として日本初のCLTパネル工法による純木造5階建てビルを建設している。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 15,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -73,9 +152,9 @@
     "summary": "・本紙が全国のプレカット工場25社を対象に実施した稼働状況調査によると、11月の受注量から見た平均稼働率は96.2％となった。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -86,9 +165,9 @@
     "summary": "・石甚（富山県射水市）は、10月からロシア産アカ松タルキの新ブランド「I²（アイスクエア）」の販売を開始した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -99,9 +178,9 @@
     "summary": "・ハウスジーメン（東京都）は12日、新築住宅瑕疵保険の新たな特約「新築住宅20年のかし保険」の受け付けを開始した。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -112,9 +191,9 @@
     "summary": "・チヨダウーテ（三重県三重郡）は、７月１日出荷分から石膏ボード製品及び加工品、特殊運賃を値上げする。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -125,9 +204,9 @@
     "summary": "・ナイスコンピュータシステム（横浜市）は、クラウド型の経営管理システム「木太郎６」にオートBIの新機能を追加した。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -138,9 +217,9 @@
     "summary": "・愛媛県森林組合連合会（松山市）は原木の未利用部分を新たな木材商品として活用する。\n・農林中央金庫と連携し、韓国やベトナムへの輸出も視野に入れる。\n・これまで県森林組合連合会では、住宅向け需要の中心となる長さ3メートル材と4メートル材を主力商品として扱ってきた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -151,9 +230,9 @@
     "summary": "・20年前まで宅地だった場所が、いまでは竹やぶに覆われ、竹は道路にまではみ出した。\n・近所に住む70代の男性が、遠方に住む持ち主に手入れを頼むと、業者に伐採と処分を頼めば「200万円以上かかる」と二の足を踏まれた。\n・寝顔を撮られ「変態」と2000人にSNS拡散…兵庫の中2男子がいじめ自死、遺族は市と700万円和解も「怒り残る」　加害生徒3人との裁判続く。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -164,9 +243,9 @@
     "summary": "・「秩父市木育ボランティア・リーダー研修」が11月28日、秩父地場産センター（秩父市宮側町）で開かれる。\n・（秩父経済新聞）【写真】「秩父市木育ボランティア・リーダー研修」のチラシ　市は「生涯木育」を合言葉に、赤ちゃんから高齢者まで、さまざまな世代が木と触れ合う取り組みを進めている。\n・開催時間は、11月28日＝10時～16時、12月19日＝9時～16時（木育おもちゃひろばは10時～15時）。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -177,9 +256,9 @@
     "summary": "・木製クラフト品を作る岩手県内の事業者が欧州への売り込みを強めている。\n・ものづくりの背景にある「物語性」を重視する現地の価値観に着目し、脈々と続く森林県の営みや自然の豊かさを消費者やバイヤーに発信。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -190,9 +269,9 @@
     "summary": "・【写真28枚】週末木こりの仕事、チェーンソー以外に何をしている？■熱海の森を支える「副業木こり」　熱海市主催の「自伐型林業研修」の第1期生だった研修生の有志14人で、2017年に発足した「熱海キコリーズ」。\n・しかし、2020年4月15日に「NPO法人熱海キコリーズ」(以下キコリーズ)として法人化。\n・所属しているメンバーにとってあくまでキコリーズは副業で、広告・マーケティング、SE、造園、建築、保健師、車販売などそれぞれ本業を持っているからこそ、できる選択だった。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -203,9 +282,9 @@
     "summary": "・田辺市は19日、梅や桃などの果樹に大きな被害を与える特定外来生物「クビアカツヤカミキリ」対策の拡充策を発表した。\n・25日に開会する市議会12月定例会に提出する一般会計補正予算案に関連経費2760万円を盛り込む。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -216,9 +295,9 @@
     "summary": "・スギやヒノキなど木材の魅力に触れられるイベントが22日、三重県松阪市で開かれました。\n・松阪地域は、良質なヒノキやスギなどの生産から流通、加工が盛んなことから、松阪の木を知ってもらおうと、木材業界に携わる若手の団体が7年ぶりに開いたものです。\n・主催した松阪地区青和会の沖中祐介会長は、「たくさんの市民の方に『松阪にはすごい所がある』『松阪の木は素晴らしい』ということを見て、触れて、体験できる1日になればうれしい。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -229,9 +308,9 @@
     "summary": "・熊本市動植物園に県産の木材を使った新しい施設『新産住拓もくいくハウス』が２１日オープンしました県産の木材が使われた館内はこどもたちが木に親しみながら森や自然の大切さについて学べる空間となっています。\n・【独自】熊本・八代工場300人超配置転換案　日本製紙　労組に提示。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 3,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -242,8 +321,8 @@
     "summary": "・株式会社なかよしライブラリー（本社：高知県香美市、代表取締役：濱田創）は、香川県三豊市の旧財田上小学校を活用した「学校再生プロジェクト」の資金調達として実施した自社クラウドファンディングを、2026年6月30日に終了しました。\n・本プロジェクトでは、旧財田上小学校を木工製品の製造拠点として活用するとともに、食堂・キッズルーム・貸し工房・木工体験スペースを備えた地域交流施設として整備し、子どもたちや地域住民、観光客が集う新たな交流拠点を目指します。\n・文部科学省によると、平成16年度から令和5年度までに廃校となった学校は8,850校に達し、そのうち約2,000校はいまも活用されていません。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]
