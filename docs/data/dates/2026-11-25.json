@@ -1,6 +1,45 @@
 [
   {
     "article_date": "2026-11-25",
+    "title": "中大規模木造建築事業に新規参入 なかやしき",
+    "url": "https://www.jutaku-s.com/news/id/106972",
+    "source": "住宅新報",
+    "published_at": "2026-11-25 16:00",
+    "summary": "・北九州・福岡エリアで住宅開発などを手掛けるなかやしき（北九州市小倉北区）は、中大規模木造建築事業に新規参入した。\n・ＡＱ Ｇｒｏｕｐ（さいたま市西区）が主宰する「中大規模木造建築共創〈ともつく〉ネットワーク」に加盟し、主に３階建て以上の木造建築市場を開拓する。\n・新事業では、これまで培った建築・不動産事業の経験や地域ネットワークを生かし、純木造３～５階建てマンションをはじめ、オフィスや商業施設、倉庫などの建築を推進する。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "棚に並ぶのは本ではなく木。三重・VISONのkiondが製材所の 「木の図書館」を再現し初開催 | 株式会社カーゾック",
+    "url": "https://www.atpress.ne.jp/news/652352",
+    "source": "アットプレス",
+    "published_at": "2026-11-25 14:00",
+    "summary": "・株式会社カーゾック(所在地：三重県多気町／本社：愛知県名古屋市、代表取締役社長：栗林 由幸)が運営するkiondは、2026年12月1日(火)～12月20日(日)の期間、武田製材有限会社とのコラボレーションイベント「出張 木の図書館」を開催します。\n・kiondが広葉樹を仕入れている武田製材有限会社にある「木の図書館」を、kiondで再現します。\n・三重県多気郡にある武田製材有限会社には、さまざまな樹種の板が一枚一枚並ぶ「木の図書館」があります。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "日本時代建設の木造宿舎、修復工事始まる 林業の歴史伝える「木育」の場に／台湾（中央社フォーカス台湾）",
+    "url": "https://news.yahoo.co.jp/articles/a7aa8278c4a0f531ef02d5ce5a90d55172fca8a0",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-25 13:27",
+    "summary": "・（台北中央社）中部・南投県草屯鎮に残る日本統治時代建設の木造宿舎「草鞋墩雅舎」の修復工事が24日から始まった。\n・2028年6月の完成が予定され、林業に関する展示や木に親しみ、木に学ぶ「木育」、レクリエーションなどを楽しめる新たな拠点になることが期待されている。\n・草鞋墩雅舎は台中山林事務所草屯支所の職員宿舎として建設され、22年に県の歴史建築に登録された。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-25",
     "title": "十勝の農林業の声を国政へ｜果樹・畑作キャラバンとJA・林業団体との意見交換",
     "url": "https://go2senkyo.com/seijika/196986/posts/1590404",
     "source": "選挙ドットコム",
@@ -8,9 +47,9 @@
     "summary": "・十勝の農林業の声を国政へ｜果樹・畑作キャラバンとJA・林業団体との意見交換。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -21,8 +60,28 @@
     "summary": "・「GXをやりたくなる世界」を目指し、環境価値を活用した経済循環を推進する株式会社バイウィル（本社：東京都中央区、代表取締役社長：下村 雄一郎、以下「バイウィル」）は、北海道釧路町（所在地：北海道釧路郡釧路町、町長：小松 茂、以下「釧路町」）と連携して進めてきた森林クレジット創出プロジェクトにおいて、第70回J-クレジット制度認証委員会にて、正式に登録完了したことをお知らせします。\n・J-クレジットの創出には、まず森林管理計画などをもとにプロジェクト登録を行い、その後、一定期間の森林管理によるCO2吸収量をモニタリング・算定し、国による審査・認証を経て、クレジットが発行されます。\n・今回のプロジェクト登録により、釧路町が所有する森林は、J-クレジット創出に向けた対象森林として正式に登録されました。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "【プレスリリース】バイウィルが創出支援する北海道釧路町の森林管理事業、J-クレジット制度におけるプロジェクト登録が完了",
+        "url": "https://www.bywill.co.jp/news/2026-11-25-2",
+        "source": "株式会社バイウィル",
+        "published_at": "2026-11-25 12:03"
+      }
+    ]
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "【お知らせ】北海道移住‧交流フェア2026名古屋会場「北海道で林業はじめませんか？」ブース出展について",
+    "url": "https://www.pref.hokkaido.lg.jp/sr/rrm/07_ninaite/275701.html",
+    "source": "北海道のホームページ",
+    "published_at": "2026-11-25 11:04",
+    "summary": "・北海道移住などを考えていて、仕事を探している、林業について気になっている、どう始めたらいいかわからない⽅など、ご興味のある⽅は是⾮会場にお越しください！\n・林業への就職に関する専⾨家や林業専門学校の職員、道内の林業の情報に精通している職員がお待ちしております！\n・北海道の大自然で働くことができる北海道林業について対面で相談できる今年最後の機会です！",
+    "summary_type": "auto",
+    "category": "業界・一般",
     "related_articles": [],
-    "importance_score": 9,
+    "importance_score": 6,
     "is_featured": false
   },
   {
@@ -34,9 +93,9 @@
     "summary": "・群馬県では、きのこに関する知識の普及と消費拡大を図るため、毎年、群馬県きのこ料理コンクールを開催しています。\n・最優秀作品は、県の代表として、東京都で開催される全国大会に推薦します。\n・環境森林部森林局 林業振興課 きのこ振興係。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -47,9 +106,9 @@
     "summary": "・株式会社AURO JAPAN（東京都港区、以下AURO JAPAN）は、山梨県道志村に2027年オープン予定の体験施設において、ドイツの自然塗料AURO（アウロ）を使用した空間づくりに参画しました。\n・もともと建っていた木造建築を活用し、水源地ならではの体験施設にしていきたいそうです。\n・AURO JAPANは、首都圏の水源として存在する道志村の自然保護の必要性に賛同。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -60,9 +119,9 @@
     "summary": "・秋田北鷹高校の林業職場体験学習をレポート！ 2026。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -73,9 +132,9 @@
     "summary": "・国際緑化推進センター（JIFPRO）などは、12月22日（火）午前10時からオンラインで「フォレストカーボンセミナー：COP31等報告会」を行う。\n・11月９日から22日までルコのアンタルヤで開催された気候変動枠組条約第31回締約国会合（COP31）に参加した専門家が森林に関する議論のポイントなどを解説する。\n・国際緑化推進センター（JIFPRO）は、３月５日（木）午後１時30分からオンラインで「森づくり×カーボンクレジットフォーラム2026」を開催する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -86,8 +145,21 @@
     "summary": "・全国に約600ある森林組合は、2021年10月に決議した系統運動方針「JForestビジョン2030」の実現に10年計画で取り組んでいる*1。\n・それは、鹿児島県志布志市に拠点を置く曽於地区森林組合で女性の組合長が誕生したというものだ。\n・組合長に就任した伊知地和江氏は、44年前に曽於地区森林組合に入り、国産材輸出に先鞭をつけた堂園司組合長や認証材の供給力強化に取り組んだ枦山博組合長らに仕えながら、同森林組合の運営を支え続けてきた。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 15,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-25",
+    "title": "奈良県フォレスターアカデミーが「グッドデザイン賞2026」受賞",
+    "url": "https://rinseinews.com/news/28148",
+    "source": "林政ニュース",
+    "published_at": "2026-11-25 09:00",
+    "summary": "・奈良県フォレスターアカデミーが進めている「次世代フォレスター育成プラットフォーム」が今年度（2026年度）の「グッドデザイン賞2026」を受賞した（10月30日に発表）。\n・奈良県フォレスターアカデミー（奈良県吉野町）は、８月23日にオープンキャンパスを開催し、約30人の参加者を迎えて模擬授業や森づくり・機械作業体験、意見交換などを行った。\n・森林づくりを主導できる人材を県が直接雇用し、２年間の研修を経て市町村に長期派遣する──全国でも例のない仕組みをつくっている「奈良県フォレスター制度」がスタートから５年を経過し、着実な成果を出してきて。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 18,
     "is_featured": true
   },
   {
@@ -112,9 +184,9 @@
     "summary": "・県内の木材産業への理解を深めてもらおうと、県は24日、小松島市内の2工場に徳島科学技術高校(徳島市)の生徒を招き見学会を開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -223,8 +295,8 @@
     "summary": "・南都留森林組合（山梨県都留市）と生活協同組合パルシステム山梨 長野、パルシステム生活協同組合連合会など4者は12月5日）、「森林の適正な維持管理及び利用に関する協定書」調印式を都留市内の都留文科大学「つるフィールド・ミュージアム」で開催。\n・同協定は、南都留森林組合、パルシステム山梨 長野、パルシステム連合会、森林所有者の杉本裕昭氏の4人で締結。\n・協定に基づく計画では、除伐や作業道作りなどを実施しながら水源涵養などの機能を高め、地域住民や生協利用者が生物多様性を体験から学べる場を提供する。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   }
 ]

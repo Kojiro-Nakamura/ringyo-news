@@ -8,9 +8,9 @@
     "summary": "・住友林業（東京）は、森林管理から木材加工、建築やバイオマス発電への使用と木の循環を促す「ウッドサイクル」を掲げ、脱炭素社会に向けて注力する。\n・2020年から社長を務める佐賀県出身の光吉敏郎社長（64）は「サイクルを回すことで地球温暖化を防ぎ、経済や地方の活性化につながる」と語る。\n・25年12月期の売上高は2兆2676億円と過去最高を更新、米国の住宅事業が成長をけん引している。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -21,12 +21,18 @@
     "summary": "・山形県内の農林水産業の振興と発展に功績があった人をたたえる、県農業賞・林業賞・水産業賞の表彰式が、きょう（24日）山形市で行われました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 18,
-    "is_featured": false,
+    "importance_score": 33,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）",
         "url": "https://newsdig.tbs.co.jp/articles/tuy/3107899",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-24 18:42"
+      },
+      {
+        "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3107899",
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-24 18:42"
       }
@@ -41,6 +47,8 @@
     "summary": "・木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円 (北國新聞社)。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 48,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円",
@@ -60,9 +68,20 @@
         "source": "47NEWS",
         "published_at": "2026-11-24 17:40"
       }
-    ],
-    "importance_score": 48,
-    "is_featured": true
+    ]
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "純木造マンション「AQフォレスト」 都内2現場で着工",
+    "url": "https://www.agara.co.jp/article/716778",
+    "source": "AGARA 紀伊民報",
+    "published_at": "2026-11-24 17:38",
+    "summary": "・純木造マンション「AQフォレスト」 都内2現場で着工。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 3,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-24",
@@ -73,9 +92,9 @@
     "summary": "・今月号は、いろいろな最新林業機械が登場する。\n・実際の急傾斜面では、危険も増すし疲れるから機械化が有効になるだろう。\n・千差万別の山の中で万能の林業機械はあるのだろうか。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -86,6 +105,8 @@
     "summary": "・花粉つくらない“無花粉スギ”を開発 和歌山県林業試験場など",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "和歌山県林業試験場が無花粉スギ品種を開発、関西地区で初めて",
@@ -93,9 +114,7 @@
         "source": "林政ニュース",
         "published_at": "2026-11-24 09:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-24",
