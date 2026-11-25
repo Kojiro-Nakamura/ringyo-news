@@ -1,6 +1,19 @@
 [
   {
     "article_date": "2026-11-24",
+    "title": "住友林業の光吉敏郎社長、ウッドサイクルで脱炭素と経済、地方活性化へ 売上高は過去最高",
+    "url": "https://www.saga-s.co.jp/articles/-/1836582",
+    "source": "佐賀新聞",
+    "published_at": "2026-11-24 21:00",
+    "summary": "・住友林業（東京）は、森林管理から木材加工、建築やバイオマス発電への使用と木の循環を促す「ウッドサイクル」を掲げ、脱炭素社会に向けて注力する。\n・2020年から社長を務める佐賀県出身の光吉敏郎社長（64）は「サイクルを回すことで地球温暖化を防ぎ、経済や地方の活性化につながる」と語る。\n・25年12月期の売上高は2兆2676億円と過去最高を更新、米国の住宅事業が成長をけん引している。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-24",
     "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）（テレビユー山形）",
     "url": "https://news.yahoo.co.jp/articles/94df955edcd024c8129f2ccb6cbc87469e376fb6",
     "source": "Yahoo!ニュース",
@@ -8,6 +21,8 @@
     "summary": "・山形県内の農林水産業の振興と発展に功績があった人をたたえる、県農業賞・林業賞・水産業賞の表彰式が、きょう（24日）山形市で行われました。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "県農業賞・林業賞・水産業賞の表彰式 あわせて6人が受賞 農林水産業の振興と発展に功績（山形）",
@@ -15,20 +30,24 @@
         "source": "TBS NEWS DIG",
         "published_at": "2026-11-24 18:42"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-24",
-    "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円",
-    "url": "https://portal.uqmobile.jp/detail/1/2/5/10207_5_r_20261124_1795510426979860",
-    "source": "UQライフ",
-    "published_at": "2026-11-24 17:40",
-    "summary": "・木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円。",
+    "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円 (北國新聞社)",
+    "url": "https://news.yahoo.co.jp/articles/1f71924874d7c5569eefec33efb995b52c218439/images/000",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-24 17:42",
+    "summary": "・木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円 (北國新聞社)。",
     "summary_type": "auto",
     "category": "建築・木材利用",
     "related_articles": [
+      {
+        "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円",
+        "url": "https://portal.uqmobile.jp/detail/1/2/5/10207_5_r_20261124_1795510426979860",
+        "source": "UQライフ",
+        "published_at": "2026-11-24 17:40"
+      },
       {
         "title": "木造建築工事の「凌」が自己破産へ 高岡市、負債1億8282万円｜経済｜富山のニュース｜富山新聞",
         "url": "https://www.hokkoku.co.jp/articles/-/2299946",
@@ -42,7 +61,40 @@
         "published_at": "2026-11-24 17:40"
       }
     ],
-    "importance_score": 33,
+    "importance_score": 48,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "機械化林業は平坦地でする",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-e2fb53.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-11-24 17:18",
+    "summary": "・今月号は、いろいろな最新林業機械が登場する。\n・実際の急傾斜面では、危険も増すし疲れるから機械化が有効になるだろう。\n・千差万別の山の中で万能の林業機械はあるのだろうか。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 12,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-24",
+    "title": "花粉つくらない“無花粉スギ”を開発 和歌山県林業試験場など",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80401",
+    "source": "NHKニュース",
+    "published_at": "2026-11-24 13:10",
+    "summary": "・花粉つくらない“無花粉スギ”を開発 和歌山県林業試験場など",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [
+      {
+        "title": "和歌山県林業試験場が無花粉スギ品種を開発、関西地区で初めて",
+        "url": "https://rinseinews.com/news/28145",
+        "source": "林政ニュース",
+        "published_at": "2026-11-24 09:00"
+      }
+    ],
+    "importance_score": 21,
     "is_featured": true
   },
   {
@@ -54,9 +106,9 @@
     "summary": "・BIGがスペイン・マドリードに手がけた、世界的アーティストの12の公演を彩る185,000m²の仮設都市〈マコンド・パーク〉。\n・スイス・トゥーンに、ビャルケ・インゲルス率いる建築家集団BIGとアウグスト＋マルグリート・クンツェルが手がける新たな開発エリア〈ジーゲンターラーグート都市地区〉の主要区画が発表されました。\n・2棟のホテル、住宅棟、商業施設を内包する4棟の木造建築群からなる、新たな都市のゲートウェイとして設計されています。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 15,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-24",
@@ -67,6 +119,8 @@
     "summary": "・フォレストヴィラホーム（福岡市南区）は、11月19日・20日に日本CLT技術研究所と共同で「CLT純木造5階建て本社の構造見学会」を開催した。\n・見学会は、現在建設中である同社の新社屋にて、CLTパネル工法を活用した構造躯体や設計・施工などを紹介するイベント。\n・当日は50人近くの来場者が足を運び、新築工事の構造見学を行った。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 27,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "フォレストヴィラホーム　日本初のCLT工法純木造５階建て新社屋",
@@ -74,9 +128,7 @@
         "source": "日刊木材新聞",
         "published_at": "2026-11-24 06:00"
       }
-    ],
-    "importance_score": 27,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-24",
@@ -116,19 +168,6 @@
     "importance_score": 12,
     "is_featured": false,
     "related_articles": []
-  },
-  {
-    "article_date": "2026-11-24",
-    "title": "和歌山県林業試験場が無花粉スギ品種を開発、関西地区で初めて",
-    "url": "https://rinseinews.com/news/28145",
-    "source": "林政ニュース",
-    "published_at": "2026-11-24 09:00",
-    "summary": "・和歌山県林業試験場（和歌山県上富田町）は、富山県森林研究所（富山県立山町）及び林木育種センター関西育種場（岡山県勝央町）と共同で、同県の精英樹に由来する無花粉スギ品種を開発した（10月30日に発表）。\n・その結果、９月 16 日に開催された今年度（2026年度）の第１回林木育種センター優良品種・技術評価委員会で、開発された和富西不稔スギ１号から７号の計７系統が無花粉スギの系統であると認められた。\n・森林研究・整備機構の森林総合研究所森林バイオ研究センター（茨城県日立市）において、世界で初めて開発したスギのゲノム編集技術を用いて無花粉スギを育種する研究施設の見学会が11月16日に開催された。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 24,
-    "is_featured": true
   },
   {
     "article_date": "2026-11-24",

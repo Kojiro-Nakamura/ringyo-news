@@ -99,9 +99,16 @@
     "summary": "・「スマート林業・林業テック最前線」は、スマート林業・林業テックに関する情報を業界単位で整理している情報サイトです。\n・スマート林業・林業テックをめぐっては、J-クレジット、高性能林業機械、国産材などが並行して議論されています。\n・スマート林業・林業テック業界レポート。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "importance_score": 15,
+    "importance_score": 30,
     "is_featured": true,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "AIによるスマート林業・林業テック業界ビジネスレポートサイトを運用しています｜野口真一 - mbp-japan.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hd2hqSUJpNlFqN2d6MjVLZ1hjREVtM0d6RG56NU9sSDc5NlZmZk1lNEZqMndJUkZnY3hGbDVueXZTc18tVHNudlhkWmtHRjhmc1RhS2M0WUJUcFVYU21SSlNIRDRPRm43?oc=5",
+        "source": "mbp-japan.com",
+        "published_at": "2026-11-07 07:49"
+      }
+    ]
   },
   {
     "article_date": "2026-11-07",
