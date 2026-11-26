@@ -47,7 +47,7 @@
     "summary": "・18日各地で鉄道イベントが行われました。\n・出雲市では園児が運転を体験、米子市で始まったのは鉄道のまちサミット。\n・鳥取県若桜町では線路に国産木材を使った枕木が設置されました。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "importance_score": 39,
+    "importance_score": 54,
     "is_featured": true,
     "related_articles": [
       {
@@ -60,6 +60,12 @@
         "title": "各地で鉄道イベント「園児が列車運転体験」「鉄道のまちサミット」「国産材の枕木設置」体験運転は製造から100年近く「デハニ50形」",
         "url": "https://topics.smt.docomo.ne.jp/article/bss/region/bss-3095921",
         "source": "ｄメニューニュース",
+        "published_at": "2026-11-18 18:25"
+      },
+      {
+        "title": "各地で鉄道イベント「園児が列車運転体験」「鉄道のまちサミット」「国産材の枕木設置」体験運転は製造から100年近く「デハニ50形」",
+        "url": "https://newsdig.tbs.co.jp/articles/gallery/3095921",
+        "source": "TBS NEWS DIG",
         "published_at": "2026-11-18 18:25"
       }
     ]
@@ -74,7 +80,7 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 42,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "［倒産情報］木造建築工事業の「マルチネット工販」（新潟市北区）が破産開始決定",
@@ -131,13 +137,19 @@
     "summary": "・鳥取県の若桜町と八頭町を結ぶ若桜鉄道で、レールを支える枕木に国産木材を活用する実証試験が始まりました。\n・こうした状況を受け、林野庁は国産材を使った枕木の開発を進めていて、鳥取県林業試験場も事業に参画。\n・実証試験は今後、約5年かけて行われる予定で枕木の損傷や腐食の状況、金具の緩みなどを検証し、実用化の可能性を判断することにしています。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "importance_score": 30,
-    "is_featured": false,
+    "importance_score": 45,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "若桜鉄道の「枕木」に国産材活用へ　ヒノキ積層材で実証実験　東南アジア産安定調達の困難さ背景（鳥取）",
         "url": "https://topics.smt.docomo.ne.jp/article/tsk_tv/region/tsk_tv-2026111800000006?fm=latestnews",
         "source": "ｄメニューニュース",
+        "published_at": "2026-11-18 17:15"
+      },
+      {
+        "title": "国産材を「枕木」に 実用化に向け若桜鉄道で実証実験 鳥取県内のメーカーが開発「積層材」を活用",
+        "url": "https://www.fnn.jp/articles/-/1154846",
+        "source": "FNNプライムオンライン",
         "published_at": "2026-11-18 17:15"
       }
     ]
@@ -167,6 +179,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-18",
+    "title": "［なっ解く］「国産材」家具などに特典 林野庁の「木材利用ポイント」",
+    "url": "https://www.yomiuri.co.jp/yomidr/article/20130912-OYTEW58523/20130912-OYTEW35110/",
+    "source": "読売新聞",
+    "published_at": "2026-11-18 17:00",
+    "summary": "・［なっ解く］「国産材」家具などに特典 林野庁の「木材利用ポイント」。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-18",

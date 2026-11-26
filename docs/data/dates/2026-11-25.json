@@ -8,9 +8,9 @@
     "summary": "・北九州・福岡エリアで住宅開発などを手掛けるなかやしき（北九州市小倉北区）は、中大規模木造建築事業に新規参入した。\n・ＡＱ Ｇｒｏｕｐ（さいたま市西区）が主宰する「中大規模木造建築共創〈ともつく〉ネットワーク」に加盟し、主に３階建て以上の木造建築市場を開拓する。\n・新事業では、これまで培った建築・不動産事業の経験や地域ネットワークを生かし、純木造３～５階建てマンションをはじめ、オフィスや商業施設、倉庫などの建築を推進する。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -21,9 +21,9 @@
     "summary": "・株式会社カーゾック(所在地：三重県多気町／本社：愛知県名古屋市、代表取締役社長：栗林 由幸)が運営するkiondは、2026年12月1日(火)～12月20日(日)の期間、武田製材有限会社とのコラボレーションイベント「出張 木の図書館」を開催します。\n・kiondが広葉樹を仕入れている武田製材有限会社にある「木の図書館」を、kiondで再現します。\n・三重県多気郡にある武田製材有限会社には、さまざまな樹種の板が一枚一枚並ぶ「木の図書館」があります。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -34,9 +34,9 @@
     "summary": "・（台北中央社）中部・南投県草屯鎮に残る日本統治時代建設の木造宿舎「草鞋墩雅舎」の修復工事が24日から始まった。\n・2028年6月の完成が予定され、林業に関する展示や木に親しみ、木に学ぶ「木育」、レクリエーションなどを楽しめる新たな拠点になることが期待されている。\n・草鞋墩雅舎は台中山林事務所草屯支所の職員宿舎として建設され、22年に県の歴史建築に登録された。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -80,9 +80,9 @@
     "summary": "・北海道移住などを考えていて、仕事を探している、林業について気になっている、どう始めたらいいかわからない⽅など、ご興味のある⽅は是⾮会場にお越しください！\n・林業への就職に関する専⾨家や林業専門学校の職員、道内の林業の情報に精通している職員がお待ちしております！\n・北海道の大自然で働くことができる北海道林業について対面で相談できる今年最後の機会です！",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -158,9 +158,9 @@
     "summary": "・奈良県フォレスターアカデミーが進めている「次世代フォレスター育成プラットフォーム」が今年度（2026年度）の「グッドデザイン賞2026」を受賞した（10月30日に発表）。\n・奈良県フォレスターアカデミー（奈良県吉野町）は、８月23日にオープンキャンパスを開催し、約30人の参加者を迎えて模擬授業や森づくり・機械作業体験、意見交換などを行った。\n・森林づくりを主導できる人材を県が直接雇用し、２年間の研修を経て市町村に長期派遣する──全国でも例のない仕組みをつくっている「奈良県フォレスター制度」がスタートから５年を経過し、着実な成果を出してきて。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-25",
@@ -184,9 +184,16 @@
     "summary": "・県内の木材産業への理解を深めてもらおうと、県は24日、小松島市内の2工場に徳島科学技術高校(徳島市)の生徒を招き見学会を開いた。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 0,
+    "importance_score": 15,
     "is_featured": false,
-    "related_articles": []
+    "related_articles": [
+      {
+        "title": "科技高生が小松島の２工場を訪問し木材産業への理解深める",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1OFBmd1lxN2FmTU9sNlFmaUs3d0c3Z2NqdkMxZW1TaHBYSHhjelhJMHYwdXNUR0RJSHBFaUZpR3lTS0llNi1TcXF6dUljNVhGcndOYU9B?oc=5",
+        "source": "徳島新聞デジタル",
+        "published_at": "2026-11-25 05:00"
+      }
+    ]
   },
   {
     "article_date": "2026-11-25",
