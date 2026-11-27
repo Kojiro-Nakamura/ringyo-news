@@ -48,7 +48,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 15,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -180,6 +180,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-20",
+    "title": "令和8年度 木材利用推進コンクール 国産材利用推進部門「農林水産大臣賞」を受賞（株式会社シェルター プレスリリース）",
+    "url": "https://www.zaikei.co.jp/releases/3690809/",
+    "source": "財経新聞",
+    "published_at": "2026-11-20 10:10",
+    "summary": "・株式会社シェルター（本社　山形県山形市/代表取締役社長　木村仁大）は、木材利用推進中央協議会が主催する「令和8年度 木材利用推進コンクール」において、「国産材利用推進部門」の最高賞である「農林水産大臣賞」を受賞し、10月23日（金）に表彰式が執り行われました。\n・「木材利用推進コンクール」は木材利用の一層の促進を目的とし、特色ある木造施設等を対象とする「優良施設部門」と、国産材利用に積極的に取り組む企業を対象とする「国産材利用推進部門」の2部門で構成されています。\n・本年度は、「優良施設部門」から受賞作品として特賞12点および優秀賞29点、「国産材利用推進部門」から受賞企業として特賞6点が決定されました。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 18,
+    "is_featured": true
   },
   {
     "article_date": "2026-11-20",

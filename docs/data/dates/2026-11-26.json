@@ -8,6 +8,8 @@
     "summary": "・南相木村は24日、村森林祭を村内の民有林で開いた。\n・南相木小学校の4～6年生でつくる「みどりの少年団」24人らが参加。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "林業で使う重機で丸太つかむ 南相木村の子どもたちが操縦体験",
@@ -15,9 +17,7 @@
         "source": "信濃毎日新聞デジタル",
         "published_at": "2026-11-26 22:18"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -28,16 +28,22 @@
     "summary": "・VUILD、スウェーデンの製材機メーカーLogosol社と正規代理店契約を締結し、簡易製材機の国内販売を開始。",
     "summary_type": "auto",
     "category": "流通・市場",
+    "importance_score": 33,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "VUILD、スウェーデンの製材機メーカーLogosol社と正規代理店契約を締結し、簡易製材機の国内販売を開始",
         "url": "https://prtimes.jp/main/html/rd/p/000000055.000031751.html",
         "source": "PR TIMES",
         "published_at": "2026-11-26 10:00"
+      },
+      {
+        "title": "VUILD、スウェーデンの製材機メーカーLogosol社と正規代理店契約を締結し、簡易製材機の国内販売を開始",
+        "url": "https://news.nicovideo.jp/watch/nw20034388?news_ref=20_20",
+        "source": "ニコニコニュース",
+        "published_at": "2026-11-26 15:51"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -48,9 +54,9 @@
     "summary": "・日系大手証券が11月26日、住友林業<1911>のレーティングを強気（Buy）に据え置いた。\n・一方、目標株価は1,650円から1,450円に引き下げた。\n・因みに前日（11月25日）時点のレーティングコンセンサスは4（アナリスト数7人）で「やや強気」の水準、目標株価コンセンサスは1,474円（アナリスト数7人）となっている。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -61,9 +67,16 @@
     "summary": "・広島県は26日、第1回の「ひろしまの木を活（い）かす建築大賞」の最優秀賞に日興ホームグループ広島支社（広島市西区）の建物「KItoNOKO（きとのこ）」を選んだと発表した。\n・最優秀賞に決まった「ＫＩｔｏＮＯＫＯ」（撮影・足袋井竜也さん）。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
-    "importance_score": 9,
-    "is_featured": false
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "最優秀の木造建築に「KItoNOKO」 広島県の第1回建築大賞",
+        "url": "https://www.47news.jp/15293157.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-26 19:31"
+      }
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -74,16 +87,22 @@
     "summary": "・中大規模木造で活用が広がる「CLT」を基礎から実務まで学べる『CLT実務講習会2026』を配信中。",
     "summary_type": "auto",
     "category": "建築・木材利用",
+    "importance_score": 36,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "中大規模木造で活用が広がる「CLT」を基礎から実務まで学べる『CLT実務講習会2026』を配信中",
         "url": "https://www.jiji.com/jc/article?k=000000025.000117099&g=prt",
         "source": "時事ドットコム",
         "published_at": "2026-11-26 11:46"
+      },
+      {
+        "title": "中大規模木造で活用が広がる「CLT」を基礎から実務まで学べる『CLT実務講習会2026』を配信中",
+        "url": "https://prtimes.jp/main/html/rd/p/000000025.000117099.html",
+        "source": "PR TIMES",
+        "published_at": "2026-11-26 10:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -94,9 +113,9 @@
     "summary": "・「無印良品の家」を展開する株式会社MUJI HOUSE（本社：東京都文京区、代表取締役社長：横濱 潤）が設計・施工を手掛けた大規模木造建築「無印良品の木造店舗」（無印良品 唐津、日田、那珂川、精華台の4店舗）が、一般社団法人日本ウッドデザイン協会が主催する「ウッドデザイン賞2026」において、建築・空間分野のライフスタイルデザイン部門で受賞いたしましたのでお知らせいたします。\n・今回の受賞では、「無印良品の木造店舗」における地域材の積極的な活用や、延床面積2,000㎡を超える大規模建築における最高ランク『ZEB』認証の取得、「SE構法」と「燃え代設計」による木を感じる開放的な大空間づくり、そして災害時には地域の自立型防災拠点へと機能転換する設計など、環境負荷の低減と地域貢献、経済合理性を高い次元で両立させた次世代の木造建築であることが評価され、木を活かして質の高いライフ＆ワークスタイルを提案する作品を対象とする「ライフスタイルデザイン部門」での受賞となりました。\n・大規模木造建築「無印良品の木造店舗」は、「資源循環型・自然共生型・持続可能な社会」の実現に向け、店舗づくりにもESGの考え方を取り入れた次世代の木造建築です。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -120,9 +139,9 @@
     "summary": "・木質バイオマスエネルギーの利用拡大に向けては、国産木質バイオマス燃料の資源量拡大、燃料の安定供給確保、発電コストの低減、地域との共生が必要です。\n・NEDOは本事業を通じて、国産木質バイオマス燃料の資源量拡大や安定供給、コスト低減を加速させ、木質バイオマスエネルギーのさらなる利用拡大に貢献します。\n・NEDOは、「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の2026年度第2回公募において、木質バイオマスエネルギーの利用拡大に向け、新たに3件の研究開発テーマを採択しました。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -185,9 +204,9 @@
     "summary": "・農林水産省がまとめた「令和７年木質バイオマスエネルギー利用動向調査結果」によると、昨年（2025年）のエネルギー向け木材チップ利用量は約1,257万ｔ（絶乾ｔ）で前年（2024年）を約23万ｔ（対前年比＋1.9％）上回った。\n・昨年の木材チップ利用量を由来別にみると、「間伐材・林地残材等」が約19万ｔ増（＋3.5％）の約562万ｔ、「製材等残材」が約８万ｔ増（＋4.6％）の約181万ｔ、「建設資材廃棄物（解体材、廃材）」が約10万ｔ増（＋2.5％）の約400万ｔと伸びたが、「輸入チップ・輸入丸太を用いて国内で製造」は約10万ｔ減（－14.3％）の約63万ｔにダウンした。\n・農林水産省が９月19日に公表した最新の「木質バイオマスエネルギー利用動向調査結果」によると、昨年（2024年）のエネルギ。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 18,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -201,6 +220,32 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "棚に並ぶのは本ではなく木。三重・VISONのkiondが製材所の「木の図書館」を再現し初開催",
+    "url": "https://www.anemo.co.jp/topics/lifestyle/event-lifestyle/444297-20261126/",
+    "source": "anemo（アネモ）",
+    "published_at": "2026-11-26 08:16",
+    "summary": "・棚に並ぶのは本ではなく木。三重・VISONのkiondが製材所の「木の図書館」を再現し初開催。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "11月木材価格は横ばい 港満床で合板の輸入量減――JAWIC",
+    "url": "https://www.s-housing.jp/archives/436011",
+    "source": "新建ハウジング",
+    "published_at": "2026-11-26 08:15",
+    "summary": "・11月木材価格は横ばい 港満床で合板の輸入量減――JAWIC。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-26",
@@ -227,6 +272,19 @@
     "importance_score": 6,
     "is_featured": false,
     "related_articles": []
+  },
+  {
+    "article_date": "2026-11-26",
+    "title": "第１回「ひろしまの木を活かす建築大賞」について",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/86/daiikkai-hiroshimakentiku.html",
+    "source": "広島県公式ホームページ",
+    "published_at": "2026-11-26 06:54",
+    "summary": "・広島県内で新築・増改築された建築物のうち、以下のすべてに該当するものとします。\n・木質化とは、壁や床、天井、外壁など、建築物自体について木材を現しで仕上げたものをいいます。\n・なお、応募に当たっては、設計者、建築主及び施工者の同意を得た上で申し込んでください。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
   },
   {
     "article_date": "2026-11-26",
