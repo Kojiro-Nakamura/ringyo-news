@@ -138,7 +138,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 45,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "若桜鉄道の「枕木」に国産材活用へ　ヒノキ積層材で実証実験　東南アジア産安定調達の困難さ背景（鳥取）",
@@ -195,6 +195,44 @@
   },
   {
     "article_date": "2026-11-18",
+    "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと（Wedge（ウェッジ））",
+    "url": "https://news.yahoo.co.jp/articles/49837caeb4cf621ddaca3cc2b1e363e60706efc1",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-18 17:00",
+    "summary": "・今、林業界でちょっとした話題になっているのは、国内の森林を対象とする大型ファンドの設立計画である。\n・それも資金規模は、なんと1000億円だというのだ。\n・2027年春にも開始し、5〜7年で1000億円規模を投じる計画だ。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "Wedge ONLINEに「森林ファンド」を書いた裏事情",
+        "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-f69d43.html",
+        "source": "田中淳夫 取材メモ",
+        "published_at": "2026-11-18 15:20"
+      },
+      {
+        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+        "url": "https://wedge.ismedia.jp/articles/-/41293",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-18 05:00"
+      },
+      {
+        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+        "url": "https://wedge.ismedia.jp/articles/-/41293?layout=b",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-18 05:00"
+      },
+      {
+        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
+        "url": "https://wedge.ismedia.jp/articles/-/41293?page=3&layout=b",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "published_at": "2026-11-18 05:00"
+      }
+    ],
+    "importance_score": 66,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-18",
     "title": "【開催のご案内】＼ふたたび、山しごとの世界がやってくる／東京の森林・林業・森のめぐみを五感で感じる体験型イベント「山しごと体感フェスティバル」",
     "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000175124/",
     "source": "Infoseek",
@@ -216,26 +254,6 @@
         "url": "https://mainichi.jp/articles/20261118/pr2/00m/020/062000c",
         "source": "毎日新聞",
         "published_at": "2026-11-18 10:23"
-      }
-    ]
-  },
-  {
-    "article_date": "2026-11-18",
-    "title": "Wedge ONLINEに「森林ファンド」を書いた裏事情",
-    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-f69d43.html",
-    "source": "田中淳夫 取材メモ",
-    "published_at": "2026-11-18 15:20",
-    "summary": "・Wedge ONLINEに『1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと』という記事を書きました。\n・この森林ファンド計画についてはもちろん知っていたが、正直に言えば「え～、これ取り上げたら文句ばかり並べてしまいますよ」と返答した。\n・いや、林業が盛んになったら荒れる森林も出るでしょ、と私は考えてしまうのだ。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 27,
-    "is_featured": false,
-    "related_articles": [
-      {
-        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと（Wedge（ウェッジ））",
-        "url": "https://news.yahoo.co.jp/articles/49837caeb4cf621ddaca3cc2b1e363e60706efc1",
-        "source": "Yahoo!ニュース",
-        "published_at": "2026-11-18 05:05"
       }
     ]
   },
@@ -515,29 +533,6 @@
         "url": "https://smart.shimotsuke.co.jp/articles/-/1460860",
         "source": "smart.shimotsuke.co.jp",
         "published_at": "2026-11-18 00:30"
-      }
-    ]
-  },
-  {
-    "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
-    "url": "https://wedge.ismedia.jp/articles/-/41293",
-    "source": "Wedge ONLINE(ウェッジ・オンライン)",
-    "published_at": "2026-11-18 05:00",
-    "importance_score": 30,
-    "is_featured": false,
-    "summary": "・1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
-    "related_articles": [
-      {
-        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
-        "url": "https://wedge.ismedia.jp/articles/-/41293?layout=b",
-        "source": "Wedge ONLINE(ウェッジ・オンライン)",
-        "published_at": "2026-11-18 05:00"
-      },
-      {
-        "title": "1000億円規模「森林ファンド」に浮上するいくつもの疑問…苦境にあえぐ林業へ必要なこと",
-        "url": "https://wedge.ismedia.jp/articles/-/41293?page=3&layout=b",
-        "source": "Wedge ONLINE(ウェッジ・オンライン)",
-        "published_at": "2026-11-18 05:00"
       }
     ]
   },

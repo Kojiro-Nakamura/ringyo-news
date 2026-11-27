@@ -73,6 +73,8 @@
     "summary": "・国産の木材を使った鉄道用枕木を開発する林野庁の委託事業に、鳥取県林業試験場（鳥取市河原町稲常）が参画している。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 24,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "国産材枕木の開発に参画 鳥取県林業試験場 若桜駅で試験",
@@ -80,9 +82,7 @@
         "source": "日本海新聞",
         "published_at": "2026-11-02 05:00"
       }
-    ],
-    "importance_score": 24,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-02",

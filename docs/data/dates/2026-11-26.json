@@ -132,6 +132,26 @@
   },
   {
     "article_date": "2026-11-26",
+    "title": "プレスリリース：ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催（PR TIMES）",
+    "url": "https://mainichi.jp/articles/20261126/pr2/00m/020/074000c",
+    "source": "毎日新聞",
+    "published_at": "2026-11-26 10:23",
+    "summary": "・＠Press、Digital PR Platform、共同通信PRワイヤー、PR TIMESが提供するプレスリリースを掲載します。\n・対象は、愛知県岡崎市・豊田市・西尾市にある住友林業の5展示場です。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [
+      {
+        "title": "ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催",
+        "url": "https://www.iza.ne.jp/pressrelease/prtimes/NBNEAWCF2JMXRFAGLMCESITG4A/",
+        "source": "イザ！",
+        "published_at": "2026-11-26 08:10"
+      }
+    ],
+    "importance_score": 18,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-26",
     "title": "国産バイオマス燃料の資源量拡大・安定供給に向け、新たに3テーマを採択しました",
     "url": "https://www.nedo.go.jp/news/press/AA5_101982.html",
     "source": "NEDO",
@@ -230,9 +250,9 @@
     "summary": "・棚に並ぶのは本ではなく木。三重・VISONのkiondが製材所の「木の図書館」を再現し初開催。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
@@ -243,20 +263,7 @@
     "summary": "・11月木材価格は横ばい 港満床で合板の輸入量減――JAWIC。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
-  },
-  {
-    "article_date": "2026-11-26",
-    "title": "ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催",
-    "url": "https://www.iza.ne.jp/pressrelease/prtimes/NBNEAWCF2JMXRFAGLMCESITG4A/",
-    "source": "イザ！",
-    "published_at": "2026-11-26 08:10",
-    "summary": "・ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 0,
     "is_featured": false,
     "related_articles": []
   },
@@ -282,9 +289,9 @@
     "summary": "・広島県内で新築・増改築された建築物のうち、以下のすべてに該当するものとします。\n・木質化とは、壁や床、天井、外壁など、建築物自体について木材を現しで仕上げたものをいいます。\n・なお、応募に当たっては、設計者、建築主及び施工者の同意を得た上で申し込んでください。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-26",
