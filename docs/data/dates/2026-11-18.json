@@ -202,6 +202,8 @@
     "summary": "・今、林業界でちょっとした話題になっているのは、国内の森林を対象とする大型ファンドの設立計画である。\n・それも資金規模は、なんと1000億円だというのだ。\n・2027年春にも開始し、5〜7年で1000億円規模を投じる計画だ。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 66,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "Wedge ONLINEに「森林ファンド」を書いた裏事情",
@@ -227,9 +229,7 @@
         "source": "Wedge ONLINE(ウェッジ・オンライン)",
         "published_at": "2026-11-18 05:00"
       }
-    ],
-    "importance_score": 66,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-18",

@@ -1,6 +1,52 @@
 [
   {
     "article_date": "2026-11-28",
+    "title": "林業はすでに死んでる？ 石川の会社が自戒を込め、ゾンビ映画を制作 [石川県]",
+    "url": "https://www.asahi.com/articles/ASVCW0F7PVCWPJLB00FM.html",
+    "source": "朝日新聞",
+    "published_at": "2026-11-28 07:30",
+    "summary": "・林業はすでに死んでる？ 石川の会社が自戒を込め、ゾンビ映画を制作 [石川県]。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-28",
+    "title": "12月2日に「林業シンポジウム」 奈良県川上村の森と水の源流館で",
+    "url": "https://www.nara-np.co.jp/news/20261128211302.html",
+    "source": "奈良新聞",
+    "published_at": "2026-11-28 06:00",
+    "summary": "・奈良県川上村が京都大学とともに進める民俗調査の一環で、林業シンポジウム「吉野林業地域に学ぶ、山に生きる暮らしの作法―奈良県川上村での実践」(人間文化研究機構主催)が12月2日午後1時から、川上村迫の森と水の源流館で行われる。\n・第1部「吉野林業における山づくりの作法」▷第2部「吉野林業の技術を次世代に伝える、山といきる人々と暮らし」▷第3部「山の恵みを住まいや暮らしに活かす」―に同村の林業関係者や京都大学の研究者ら10人が参加。\n・問い合わせは源流館、電話0746(52)0888。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [
+      {
+        "title": "12月2日に「林業シンポジウム」 奈良県川上村の森と水の源流館で",
+        "url": "https://www.47news.jp/15298332.html",
+        "source": "47NEWS",
+        "published_at": "2026-11-28 06:00"
+      }
+    ],
+    "importance_score": 21,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-28",
+    "title": "カナダ政府、林業に65億カナダドル拠出へ 環境規制も緩和",
+    "url": "https://finance.biggo.jp/news/6fd98b02-bfe0-478c-88a1-50dc5bd27a38",
+    "source": "BigGo ファイナンス",
+    "published_at": "2026-11-28 04:55",
+    "summary": "・金曜日、ティム・ホジソン・エネルギー天然資源相はブリティッシュコロンビア州のトゥラアミン・ネーションで、6年間で65億カナダドル（約1兆370億円）を投じる林業戦略を発表し、同産業に対する連邦政府のコミットメントとして過去最大規模だと位置づけた。\n・この計画には環境規制の緩和が伴っており、反発を招く可能性がある。\n・カーニー政権は6年間で65億カナダドル（約1兆370億円）規模の林業戦略を発表した。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 9,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-28",
     "title": "ニッタ株式会社、産総研とバイオマス100％の木質成形体を共同開発",
     "url": "https://prtimes.jp/main/html/rd/p/000000030.000167096.html",
     "source": "PR TIMES",
@@ -8,9 +54,9 @@
     "summary": "・ニッタ株式会社（大阪府大阪市、代表取締役社長 北村精一、以下「ニッタ」）と国立研究開発法人産業技術総合研究所（以下「産総研」）は、地域の森林資源の循環利用を目指し、樹脂原料を使用しないバイオマス100％の木質成形体を共同開発しました。\n・会場では、試作品を通じて木質成形体の可能性を紹介するとともに、用途開発ならびに回収・再資源化の仕組みづくりをともに進める共創パートナーを募集します。\n・今回開発した「バイオマス100％木質成形体」は、樹脂との複合材料ではなく、バイオマス由来原料のみで形づくる成形体です。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -21,9 +67,9 @@
     "summary": "・（高田悠介）【図解】一目でわかる…「負動産」引き取りサービス。\n・売れない、貸せない土地・建物の有料引き取りサービスを手がける「ランドイシューズ」（東京）が昨年９月にオープンした宿泊施設「空（くう）」だ。\n・国土交通省の調べでは、有料引き取りサービスを手がける事業者は、２４年１２月の５９社から今年１月で７１社に増加している。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -34,9 +80,9 @@
     "summary": "・毎秋恒例の第41回県産優良材展示即売会（県森林組合連合会主催）の入札が26日まで青森県黒石市の津軽木材流通センターで行われ、過去最多の2084立方メートルが落札された。\n・深刻化する「ナラ枯れ」対策として予防的に伐採する動きが広がり、出材数量はナラ材が例年から倍増、全体でも過去最多の2214立方メートル（前年比1.6倍）となった。\n・昆虫が運んだ病原菌でナラ類が枯死する「ナラ枯れ」は、前季（2025年7月～26年6月）の被害木が過去最多の11万8925本を記録。",
     "summary_type": "auto",
     "category": "森林管理・地域",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -47,9 +93,9 @@
     "summary": "・新潟県では、これまで窓口などで個別に確認する必要があった県内の様々な森林情報をインターネット上の地図で閲覧できるポータルサイト「にいがた森まっぷ」を開設しました。\n・新潟県内の森林情報を8つのWebマップで閲覧することができます。\n・民有林については、土地の大字、小字からマップ上で大まかな位置を確認できるほか、地番毎のより詳細な森林情報についてもデータベースで確認できます。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -60,9 +106,9 @@
     "summary": "・現場を見る　(仮称)渋谷マルイ建替計画　高層木造商業施設で世界初　発注者＝丸井 設計者＝Ｆｏｓｔｅｒ＋Ｐａｒｔｎｅｒｓ、三菱地所設計　施工者＝戸田建設・住友林業ＪＶ東京11/27 06:00【2026/11/27 東京版に掲載】スクラップブックへ保存印刷特別にライトアップした外観　マルイ（東京都中野区）が渋谷駅近くの旧店舗跡地で進めている「（仮称）渋谷マルイ建替計画」。\n・施工を担当する戸田建設・住友林業共同企業体の戸田建設によると、高層かつ構造の５割以上が木造の商業施設として世界初になるという。\n・リードデザイナーはＦｏｓｔｅｒ＋Ｐａｒｔｎｅｒｓ、実施設計は三菱地所設計。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 12,
-    "is_featured": true
+    "is_featured": true,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -73,9 +119,9 @@
     "summary": "・数百年受け継がれてきた京都の伝統木材「北山杉」が、現代の暮らしに寄り添うプロダクトや家具に生まれ変わりました。\n・デザインしたのは京都芸術大学の学生たちです。\n・京都芸術大学（KUA、京都市左京区／学長：佐藤 卓）のプロダクトデザイン学科は、京都北山丸太生産協同組合、京北銘木生産協同組合、「無印良品 京都山科」、京都市らと連携し、2026年12月12日（土）から25日（金）まで開催される「北山杉のクリスマスウィーク」に出展します。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -86,9 +132,9 @@
     "summary": "・農業を学ぶ高校生が27日、県産の木材を使って自分たちの校舎の改装を始めました。\n・作業するのは下高井農林高校3年の生徒9人です。\n・長野県内で入手しにくい限定商品も　長野市で機動戦士ガンダムのイベント開催　限定のガンプラなど200点以上並ぶ　ガンダムファンも注目「予算の1万円を超えそう」　開催は12月20日まで【長野】。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -99,9 +145,9 @@
     "summary": "・11月定例岡山県議会が開会し一般会計補正予算案など36議案が提案されました。\n・補正予算案には桜や桃などの樹木を食い荒らす特定外来生物、「クビアカツヤカミキリ」に関する費用として総額900万円余りを計上しています。\n・農家等に対し、定期的な園地の点検を促すとともに被害が確認された場合に速やかな対策が講じられるよう防除技術の普及を進めてまいります」　11月定例岡山県議会は12月22日に閉会します。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -112,9 +158,9 @@
     "summary": "・柳津町が所有する約７００ヘクタールの森林が、国際基準認証「ＦＳＣ森林管理認証」の一種であるＦＭ認証を受けた。\n・市町村有林の認証は県内で初めて。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -125,6 +171,19 @@
     "summary": "・JR長崎駅新幹線改札内コンコースに設置された、県産木材を使用したベンチ。\n・長崎県とJR九州は、昨年開かれた東京五輪・パラリンピックの選手村整備のため提供した県産ヒノキ材を加工して作ったベンチ6台をJR長崎駅の新幹線改札内コンコースに設置した。\n・五輪・パラリンピックのレガシー（遺産）を新幹線利用者にPRする狙い。",
     "summary_type": "auto",
     "category": "業界・一般",
+    "importance_score": 6,
+    "is_featured": false,
+    "related_articles": []
+  },
+  {
+    "article_date": "2026-11-27",
+    "title": "クマの産地、いや聖地(笑)",
+    "url": "http://ikoma.cocolog-nifty.com/moritoinaka/2026/11/post-6cab7a.html",
+    "source": "田中淳夫 取材メモ",
+    "published_at": "2026-11-27 19:50",
+    "summary": "・ここにはツキノワグマの産地、もとい捕獲モデル地区があり、視察した。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
     "related_articles": [],
     "importance_score": 6,
     "is_featured": false
@@ -138,9 +197,9 @@
     "summary": "・集約化構想は、事前に林業経営体等と協議を行い市が作成した、森林整備方針のことです。\n・「御殿場市(深沢地域)集約化構想案」の縦覧・公告を経て、「御殿場市(深沢地域)集約化構想」が決定したためホームページ上でも公告するものです。\n・御殿場市(深沢地域)集約化構想【952KB】。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -151,9 +210,9 @@
     "summary": "・住友林業は投下資本利益率（ROIC）を経営管理に本格活用する。\n・日本経済新聞の取材に応じた川田辰己副社長は「ROICで事業の収益性を見極め、事業間の相乗効果なども踏まえて選択と集中を進める」と述べた。\n・ROICは企業が事業に投じた資金からどれだけ効率よく利益を生み出したかを示す。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -164,9 +223,9 @@
     "summary": "・2026年には、林業部門は4.5～5％の成長が見込まれ、輸出額は193億ドルに達し、経済発展、森林保護、グリーン成長の促進に引き続き大きく貢献していくと予測されている。\n・11月26日午後、 ハノイにおいて、林業・森林保護局はベトナム林業部門の伝統の日（11月28日）を記念する会議を開催した。\n・2026年の農業・環境分野全体の成長率は約4%と見込まれる一方、林業分野は4.5～5%の成長が見込まれ、全体の成長率を上回ると予測されている。",
     "summary_type": "auto",
     "category": "流通・市場",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -685,6 +744,8 @@
     "summary": "・＠Press、Digital PR Platform、共同通信PRワイヤー、PR TIMESが提供するプレスリリースを掲載します。\n・対象は、愛知県岡崎市・豊田市・西尾市にある住友林業の5展示場です。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催",
@@ -692,9 +753,7 @@
         "source": "イザ！",
         "published_at": "2026-11-26 08:10"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
@@ -2015,58 +2074,6 @@
     "category": "林政・施策",
     "importance_score": 6,
     "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "兵庫　神戸市管理の街路樹、1万5千本に倒木の恐れ　名谷、ポーアイに集中【AI分析マップで危険度表示】",
-    "url": "https://www.kobe-np.co.jp/news/richa/202611/0021059161.shtml",
-    "source": "神戸新聞",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・神戸市が管理する街路樹約１０万本（３月末時点）のうち約１万５千本に倒木の恐れがあり、特に須磨区の名谷地区や中央区のポートアイランドなどに集中していることが分かった。\n・街路樹がある地点を危険度別に色分けして地図に落とし込むと、名谷地区とポートアイランドで危険度３、４を示すオレンジ色や赤色が目立った。\n・ポートアイランドには約３５００本の街路樹があり、うち約５００本が危険木と判定された。",
-    "summary_type": "auto",
-    "category": "建築・木材利用",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "福島　松くい虫被害木皆伐へ　須賀川・翠ケ丘公園　残り１４７本、今年度内に　終了後　抵抗性あるアカマツ植樹",
-    "url": "https://www.minpo.jp/articles/-/280914",
-    "source": "minpo.jp",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・須賀川市は、市内翠ケ丘公園で確認されている松くい虫による被害木３３７本を今年度内に全て伐採する。",
-    "summary_type": "auto",
-    "category": "業界・一般",
-    "importance_score": 0,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "愛川町 佐藤建設が林野庁長官賞 唐沢林道の改良工事で高い評価",
-    "url": "https://www.townnews.co.jp/0404/2026/11/23/863239.html",
-    "source": "タウンニュース",
-    "published_at": "2026-11-23 00:00",
-    "summary": "・佐藤建設株式会社（愛川町半原／佐藤進一郎代表取締役）が施工した「森林環境保全整備事業 唐沢林道改良工事（公共）」（清川村）が、「令和８年度治山・林道コンクール」の第42回林道工事部門において林野庁長官賞を受賞した。\n・同20日に愛川町役場を訪れ、茅大夢町長へ受賞を報告した。\n・受賞対象となった県営林道唐沢線は、１９８８年に完成した清川村煤ヶ谷と札掛を結ぶ延長約12・５キロメートルの林道。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": true,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-22",
-    "title": "長野・根羽村、林野庁「森業アワード」準グランプリに 上下流域の連携評価：ニュース",
-    "url": "https://biz.chunichi.co.jp/news/article/10/133615/",
-    "source": "中日BIZナビ",
-    "published_at": "2026-11-22 23:29",
-    "summary": "・環境保全や癒やしといった森林の価値を生かした各種活動を顕彰するため林野庁が本年度初めて企画した「森業（もりぎょう）アワード」で、長野県根羽村が準グランプリ（林野庁長官賞）を獲得した。\n・協力して活動する愛知県安城市や村森林組合、一般社団法人「ねばのもり」（根羽村）との共同応募。\n・上下流域を「運命共同体」と捉え、中長期にわたり連携している点などが評価された。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 12,
-    "is_featured": true,
     "related_articles": []
   }
 ]

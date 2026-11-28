@@ -139,6 +139,8 @@
     "summary": "・＠Press、Digital PR Platform、共同通信PRワイヤー、PR TIMESが提供するプレスリリースを掲載します。\n・対象は、愛知県岡崎市・豊田市・西尾市にある住友林業の5展示場です。",
     "summary_type": "auto",
     "category": "林政・施策",
+    "importance_score": 18,
+    "is_featured": false,
     "related_articles": [
       {
         "title": "ハウスボカン、住友林業の「Forest Selection」を特別価格で案内するキャンペーンを開催",
@@ -146,9 +148,7 @@
         "source": "イザ！",
         "published_at": "2026-11-26 08:10"
       }
-    ],
-    "importance_score": 18,
-    "is_featured": false
+    ]
   },
   {
     "article_date": "2026-11-26",
