@@ -1,6 +1,71 @@
 [
   {
     "article_date": "2026-11-28",
+    "title": "高知で林業に携わりたい人へ...１／１４～香美市で林業就業支援講習 チェーンソーや小型車両などの資格取得",
+    "url": "https://www.kochinews.co.jp/article/detail/1070472",
+    "source": "高知新聞",
+    "published_at": "2026-11-28 19:53",
+    "summary": "・高知で林業に携わりたい人へ...１／１４～香美市で林業就業支援講習 チェーンソーや小型車両などの資格取得。",
+    "summary_type": "auto",
+    "category": "業界・一般",
+    "related_articles": [],
+    "importance_score": 0,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-28",
+    "title": "【独自】「遅刻も欠勤もなかった」ネットで接点か 女子高生誘拐容疑で男（33）逮捕 最近は林業 山中の2遺体のうち1人は“白骨化”…身元特定急ぐ（TBS NEWS DIG Powered by JNN）",
+    "url": "https://news.yahoo.co.jp/articles/028f2f836ab8b03f0f36c970af66507bf3becde6",
+    "source": "Yahoo!ニュース",
+    "published_at": "2026-11-28 19:01",
+    "summary": "・捜査関係者によると、横浜市の女子高校生を誘拐したとして警察に逮捕されました。\n・警察は、2人のうち1人が横浜市の高校1年の女子生徒である可能性もあるとみて、司法解剖をするなどして身元の特定を急ぐ方針です。\n・〈宮城山中に2遺体〉「チェンソーの手入れを小まめにしていた…」女子高生を誘拐した容疑で逮捕された33歳の男…見た目はフツーでおとなしめ「月に１〜２回、昼に2時間ほど女性が訪ねて来ていた」。",
+    "summary_type": "auto",
+    "category": "流通・市場",
+    "related_articles": [
+      {
+        "title": "「全く信じられない、本当に頼りにしている」女子高生誘拐容疑の男(33) 過去に“林業のアルバイト”か…2遺体見つかった宮城で 勤務先社長明かす",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3119452",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-28 19:00"
+      },
+      {
+        "title": "【独自】「遅刻も欠勤もなかった」ネットで接点か 女子高生誘拐容疑で男(33)逮捕 最近は林業 山中の2遺体のうち1人は“白骨化”…身元特定急ぐ",
+        "url": "https://newsdig.tbs.co.jp/articles/-/3119407",
+        "source": "TBS NEWS DIG",
+        "published_at": "2026-11-28 17:54"
+      }
+    ],
+    "importance_score": 36,
+    "is_featured": true
+  },
+  {
+    "article_date": "2026-11-28",
+    "title": "地域に根ざした林業を 熊本市で九州森林フォーラム",
+    "url": "https://kumanichi.com/articles/2062931",
+    "source": "熊本日日新聞社",
+    "published_at": "2026-11-28 17:41",
+    "summary": "・九州各地の林業・建築関係者らが集う九州森林フォーラムが28日、熊本市中央区のホテル熊本テルサであった。\n・NPO法人九州森林ネットワーク主催で30回目。\n・復興担う起業家を応援　熊本市で「KIBOW熊本」。",
+    "summary_type": "auto",
+    "category": "建築・木材利用",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-28",
+    "title": "林業の技術向上へ「伐木技術競技会」 安全管理や正確さなど100項目にわたり審査",
+    "url": "https://www.fnn.jp/articles/-/1161177",
+    "source": "FNNプライムオンライン",
+    "published_at": "2026-11-28 12:33",
+    "summary": "・林業の技術向上を目指そうと静岡県伊豆市で木を切り倒す技術を競う大会が開かれました。\n・この大会は県内で林業に従事する人などで構成する団体が毎年 開いて、2026年は各地区からの推薦と予選上位の研修生あわせて12人が参加しました。\n・審査は木を切る準備から枝をはらうまでの一連の作業で安全管理や正確さなど約100項目にわたり、出場した人たちが真剣な表情で木と向き合っていました。",
+    "summary_type": "auto",
+    "category": "スマート林業・技術",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-28",
     "title": "林業はすでに死んでる？ 石川の会社が自戒を込め、ゾンビ映画を制作 [石川県]",
     "url": "https://www.asahi.com/articles/ASVCW0F7PVCWPJLB00FM.html",
     "source": "朝日新聞",
@@ -8,9 +73,9 @@
     "summary": "・林業はすでに死んでる？ 石川の会社が自戒を込め、ゾンビ映画を制作 [石川県]。",
     "summary_type": "auto",
     "category": "業界・一般",
-    "related_articles": [],
     "importance_score": 0,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -21,6 +86,8 @@
     "summary": "・奈良県川上村が京都大学とともに進める民俗調査の一環で、林業シンポジウム「吉野林業地域に学ぶ、山に生きる暮らしの作法―奈良県川上村での実践」(人間文化研究機構主催)が12月2日午後1時から、川上村迫の森と水の源流館で行われる。\n・第1部「吉野林業における山づくりの作法」▷第2部「吉野林業の技術を次世代に伝える、山といきる人々と暮らし」▷第3部「山の恵みを住まいや暮らしに活かす」―に同村の林業関係者や京都大学の研究者ら10人が参加。\n・問い合わせは源流館、電話0746(52)0888。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
+    "importance_score": 21,
+    "is_featured": true,
     "related_articles": [
       {
         "title": "12月2日に「林業シンポジウム」 奈良県川上村の森と水の源流館で",
@@ -28,9 +95,7 @@
         "source": "47NEWS",
         "published_at": "2026-11-28 06:00"
       }
-    ],
-    "importance_score": 21,
-    "is_featured": true
+    ]
   },
   {
     "article_date": "2026-11-28",
@@ -41,9 +106,9 @@
     "summary": "・金曜日、ティム・ホジソン・エネルギー天然資源相はブリティッシュコロンビア州のトゥラアミン・ネーションで、6年間で65億カナダドル（約1兆370億円）を投じる林業戦略を発表し、同産業に対する連邦政府のコミットメントとして過去最大規模だと位置づけた。\n・この計画には環境規制の緩和が伴っており、反発を招く可能性がある。\n・カーニー政権は6年間で65億カナダドル（約1兆370億円）規模の林業戦略を発表した。",
     "summary_type": "auto",
     "category": "林政・施策",
-    "related_articles": [],
     "importance_score": 9,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-28",
@@ -107,7 +172,7 @@
     "summary_type": "auto",
     "category": "林政・施策",
     "importance_score": 12,
-    "is_featured": true,
+    "is_featured": false,
     "related_articles": []
   },
   {
@@ -184,9 +249,9 @@
     "summary": "・ここにはツキノワグマの産地、もとい捕獲モデル地区があり、視察した。",
     "summary_type": "auto",
     "category": "スマート林業・技術",
-    "related_articles": [],
     "importance_score": 6,
-    "is_featured": false
+    "is_featured": false,
+    "related_articles": []
   },
   {
     "article_date": "2026-11-27",
@@ -1160,6 +1225,19 @@
   },
   {
     "article_date": "2026-11-25",
+    "title": "野村高校における林業体験学習の開催について",
+    "url": "https://www.pref.ehime.jp/page/126696.html",
+    "source": "愛媛県庁公式ホームページ",
+    "published_at": "2026-11-25 17:00",
+    "summary": "・八幡浜支局管内は、県産材を加工・販売する木材産業が盛んな地域ですが、林業・木材産業全体として林業就業者の減少が進み、将来の担い手不足が危惧される状況にあります。\n・このため、県では、林業・木材産業が身近で魅力ある職業であることを再発見し、就職に繋げてもらうことを目的に、県立野村高校において林業体験学習を開催します。\n・3　対象：野村高校畜産科1年生16名、普通科3年生1名（男11名、女6名）。",
+    "summary_type": "auto",
+    "category": "林政・施策",
+    "related_articles": [],
+    "importance_score": 6,
+    "is_featured": false
+  },
+  {
+    "article_date": "2026-11-25",
     "title": "中大規模木造建築事業に新規参入 なかやしき",
     "url": "https://www.jutaku-s.com/news/id/106972",
     "source": "住宅新報",
@@ -2008,71 +2086,6 @@
     "summary_type": "auto",
     "category": "建築・木材利用",
     "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "「木」由来のバイオエタノール燃料、王子HD・ENEOSがスーパーフォーミュラに導入へ",
-    "url": "https://news.yahoo.co.jp/articles/61d43f26cbd55e65ef6abe76637541f866eaf6cc",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・全日本スーパーフォーミュラ選手権を運営する日本レースプロモーション（JRP）と、王子ホールディングス（王子HD）、ENEOSの3社は、王子HDが実証製造に取り組む木質由来バイオエタノールをスーパーフォーミュラの開発テスト車両用燃料の混合原料として供給・導入することで合意した。\n・【画像全2枚】木質由来バイオエタノールを配合した燃料は、12月9日から鈴鹿サーキット（三重県鈴鹿市）で開催する「合同テスト・ルーキーテスト」の現場で、カーボンニュートラル開発テスト車両向けに実証導入する予定だ。\n・王子HDが鳥取県米子市の王子製紙米子工場内の実証プラントで製造した木質由来バイオエタノールを、ENEOSが供給するENEOS EARTH ONE（E10）に配合し、JRPが統括するテスト現場で使用する。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "群馬県立利根実業高が取り組み　「たけのコロッケ」で竹林整備",
-    "url": "https://news.yahoo.co.jp/articles/ac5108bf4833bd326a67531a696d1a3e4b3a4f61",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・群馬県沼田市の県立利根実業高が、放置された竹林で採れたタケノコを使った「たけのコロッケ」を軸にする竹林整備に取り組んでいる。\n・タケノコの加工やコロッケの調理は民間事業者が担い、2025年12月から販売を始めた。\n・小野さんは「たけのコロッケの取り組みが、全国の竹林整備のモデルになれば」と期待している。",
-    "summary_type": "auto",
-    "category": "スマート林業・技術",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "熊本　農産加工品や木工品がズラリ　たらぎ農林商工祭",
-    "url": "https://news.yahoo.co.jp/articles/c674e6efe909da8a267a844744f04412aa20a2e3",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・22日、地元の産業の活性化をはかろうと熊本県多良木町では「たらぎ農林商工祭」が開かれています。\n・これは多良木町の商工会やJA、森林組合などでつくる多良木町農林商工連絡協議会が毎年この時期に行っているものです。\n・会場では飲食店や農産加工品、木工品などを展示販売するテントが並び警察、消防の車両なども展示されていて子どもたちの人気を集めていました。",
-    "summary_type": "auto",
-    "category": "流通・市場",
-    "importance_score": 6,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "宮崎県日之影町で森林セラピー認定２０年記念式典",
-    "url": "https://news.yahoo.co.jp/articles/192d592effc8e69d5bf5fba90a0b222e7182b403",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・日之影町が「森林セラピー基地」に認定されてから２０周年を迎えたことを記念して、町などは２１日、基調講演やパネルディスカッションを町役場で開いた＝写真。\n・天草灘で地震　マグニチュード4.1　鹿児島県で最大震度3【各地の詳細震度】鹿児島・熊本・長崎・宮崎。",
-    "summary_type": "auto",
-    "category": "森林管理・地域",
-    "importance_score": 3,
-    "is_featured": false,
-    "related_articles": []
-  },
-  {
-    "article_date": "2026-11-23",
-    "title": "新潟　クマが杉の皮を剥ぐ“クマ剥ぎ”被害　傷ついた木を住宅の内装材へ　新たな活用法「ベアウッド」【森を守ること・第21話】",
-    "url": "https://news.yahoo.co.jp/articles/e8d26f06cce1472d0bc987fb6735e70b42a6c2da",
-    "source": "Yahoo!ニュース",
-    "published_at": "2026-11-23 00:30",
-    "summary": "・授業中に教室から出て行こうとした児童を…特別支援学校で体罰　30代の男性教師を戒告処分に　新潟県教委。\n・公営住宅の４割が入居時に風呂なし…「健康で文化的」か　生活保護受給者「惨めな生活」で入浴は週１回、体重は７キロ減。\n・新潟県北部の関川村や村上市の杉林では、クマが木の樹皮を剥ぎ取る「クマ剥ぎ」が、林業関係者を悩ませています。",
-    "summary_type": "auto",
-    "category": "林政・施策",
-    "importance_score": 6,
     "is_featured": false,
     "related_articles": []
   }

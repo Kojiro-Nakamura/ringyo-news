@@ -21,8 +21,15 @@
     "summary": "・建築基準法を解説する技術書の多くは、単体規定や集団規定、構造耐力など法令の条文に沿った解説が行われているのが一般的ですが、「ここまでできる木造建築のすすめ」は、建てたい用途別に適用される法令を整理し、紹介しています。\n・タイトルに「ここまでできる」とあるように、木造建築物の可能性をテーマとしています。\n・外部リンク：ここまでできる『木造建築のすすめ』改訂版（令和7年3月） | 一般社団法人 木を活かす建築推進協議会。",
     "summary_type": "auto",
     "category": "建築・木材利用",
-    "importance_score": 9,
-    "is_featured": false,
-    "related_articles": []
+    "importance_score": 24,
+    "is_featured": true,
+    "related_articles": [
+      {
+        "title": "「ここまでできる木造建築のすすめ」紹介",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zV28zVTBOQkU1a3NtR1lFbnNfdTRZdHU4YlFKSWVmTmtXQV83eEdkbGhCVGJ0RXZIbml0Q0loRDFHRlRiVC1NWklIc21DS2dCdy1KaU5fZl94N0xta2RmczJsc3pIMjlxWlowMGZR?oc=5",
+        "source": "国土交通省",
+        "published_at": "2025-03-19 14:40"
+      }
+    ]
   }
 ]
